@@ -16,6 +16,7 @@ TELEGRAM_CHANNELS = [
     "https://t.me/s/WomanLifeFreedomVPN",
     "https://t.me/s/Outline_Vpn",
     # Add your channels here
+    "https://t.me/s/mtproxy_lists" ,
 ]
 
 GITHUB_REPOS = [
@@ -27,6 +28,8 @@ GITHUB_REPOS = [
     "Barry-far/V2ray-Configs",
     "coldwater-10/V2rayCollector",
     # Add your repos here
+    "Epodonios/v2ray-configs",
+    "MatinGhanbari/v2ray-configs",
 ]
 
 PUBLIC_APIS = [
