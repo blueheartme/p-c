@@ -1,0 +1,32 @@
+{
+  "updated": "2025-11-24T09:40:22.155110",
+  "count": 2,
+  "configs": [
+    {
+      "type": "vless",
+      "address": "185.251.81.253",
+      "port": "2096",
+      "id": "2456f90c-5183-476d-b069-16ae74ce120f",
+      "name": "🌐 ES #1",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#Singapore%20Cloudflare</pre></div>",
+      "ip": "185.251.81.253",
+      "country": "ES",
+      "cdn": null
+    },
+    {
+      "type": "ss",
+      "address": "185.251.81.253",
+      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
+      "method": "",
+      "password": "",
+      "name": "🌐 ES #2",
+      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#Singapore%20Cloudflare</pre></div>",
+      "ip": "185.251.81.253",
+      "country": "ES",
+      "cdn": null
+    }
+  ]
+}
