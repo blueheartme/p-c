@@ -1,29 +1,29 @@
 {
-  "updated": "2025-11-24T09:40:22.157921",
+  "updated": "2025-11-24T16:18:08.379955",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "77.37.33.39",
-      "port": "443",
-      "id": "5ec3a039-ea63-4bf9-a848-a65c9bfa66f5",
-      "name": "🌐 CY #1",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free<br/>vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t5ke2y93o.lsperfiuomlr4gn.lat:2052?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=88d5eb50f7bd1cbd#I%201168%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201169%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-021.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-021.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free</code><br/><br/><tg-emoji",
-      "ip": "77.37.33.39",
-      "country": "CY",
-      "cdn": null
-    },
     {
       "type": "ss",
       "address": "77.37.33.39",
       "port": "443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com",
       "method": "",
       "password": "",
-      "name": "🌐 CY #2",
+      "name": "🌐 CY #1",
       "original": "ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free<br/>vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t5ke2y93o.lsperfiuomlr4gn.lat:2052?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=88d5eb50f7bd1cbd#I%201168%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201169%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-021.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-021.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free</code><br/><br/><tg-emoji",
+      "ip": "77.37.33.39",
+      "country": "CY",
+      "cdn": null
+    },
+    {
+      "type": "vless",
+      "address": "77.37.33.39",
+      "port": "443",
+      "id": "5ec3a039-ea63-4bf9-a848-a65c9bfa66f5",
+      "name": "🌐 CY #2",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free<br/>vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@t5ke2y93o.lsperfiuomlr4gn.lat:2052?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=88d5eb50f7bd1cbd#I%201168%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#I%201169%20%28%40Outline_Vpn%29%20free<br/>vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-021.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-021.shenzogmbh.com#I%201167%20%28%40Outline_Vpn%29%20free</code><br/><br/><tg-emoji",
       "ip": "77.37.33.39",
       "country": "CY",
       "cdn": null

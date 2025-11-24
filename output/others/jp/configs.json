@@ -1,13 +1,25 @@
 {
-  "updated": "2025-11-24T09:40:22.157074",
-  "count": 1,
+  "updated": "2025-11-24T16:18:08.380454",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "160.16.123.124",
+      "port": "10087",
+      "method": "aes-128-gcm",
+      "password": "10086",
+      "name": "🇯🇵 JP #1",
+      "original": "ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
+      "ip": "160.16.123.124",
+      "country": "JP",
+      "cdn": null
+    },
     {
       "type": "trojan",
       "address": "160.16.196.59",
       "port": "2890",
       "password": "dd2f25b4c70689de8bc0f7fa9d6591cb",
-      "name": "🇯🇵 JP #1",
+      "name": "🇯🇵 JP #2",
       "sni": "",
       "host": "",
       "original": "trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#United%20State%20Hivelocity</pre></div>",
