@@ -1,70 +1,75 @@
 {
-  "updated": "2025-11-25T01:10:40.666590",
+  "updated": "2025-11-25T05:55:20.263941",
   "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "147.45.179.63",
+      "port": "34379?note=--Telegram--NetifyVPN--",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Xtpc8bGdAQDzELPUi2acfL",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdHBjOGJHZEFRRHpFTFBVaTJhY2ZM@147.45.179.63:34379?note=--Telegram--NetifyVPN--#ss-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-1",
+      "ip": "147.45.179.63",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdHBjOGJHZEFRRHpFTFBVaTJhY2ZM@147.45.179.63:34379?note=--Telegram--NetifyVPN--#ss-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-1"
+    },
     {
       "type": "ss",
       "address": "638950280342842933.esfahan-drc-tusaas.info",
       "port": "8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun",
       "method": "",
       "password": "",
-      "name": "🇬🇧 GB #1",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#ss-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-2",
       "ip": "95.164.37.43",
       "country": "GB",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#ss-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-2"
     },
     {
       "type": "trojan",
       "address": "51.24.18.227",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "🇬🇧 GB #2",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@51.24.18.227:22222?security=tls&amp;sni=trojan.burgerip.co.uk#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><br/><br/><i",
+      "original": "trojan://telegram-id-privatevpns@51.24.18.227:22222?security=tls&amp;sni=trojan.burgerip.co.uk#trojan-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-3",
       "ip": "51.24.18.227",
       "country": "GB",
-      "cdn": null
-    },
-    {
-      "type": "vless",
-      "address": "638950280342842933.esfahan-drc-tusaas.info",
-      "port": "8880",
-      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "name": "🇬🇧 GB #3",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
-      "ip": "95.164.37.43",
-      "country": "GB",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@51.24.18.227:22222?security=tls&amp;sni=trojan.burgerip.co.uk#trojan-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-3"
     },
     {
       "type": "trojan",
       "address": "195.22.157.104",
       "port": "37085",
       "password": "1sbtkLK7F3",
-      "name": "🇬🇧 GB #4",
+      "name": "United Kingdom QuickHost UK</pre></div>",
       "sni": "",
       "host": "",
-      "original": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#United%20Kingdom%20QuickHost%20UK</pre></div>",
+      "original": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-4",
       "ip": "195.22.157.104",
       "country": "GB",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-GB-%F0%9F%87%AC%F0%9F%87%A7-4"
     },
     {
-      "type": "ss",
-      "address": "193.32.176.9",
-      "port": "443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=vk.cc&amp;fp=chrome&amp;security=reality&amp;pbk=Gkur1ncfvxAHqkGFeTFfQLmDn_BIJR_dwGZ-VICWRRE&amp;sid=00b78017",
-      "method": "",
-      "password": "",
-      "name": "🇬🇧 GB #5",
-      "original": "ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@193.32.176.9:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=vk.cc&amp;fp=chrome&amp;security=reality&amp;pbk=Gkur1ncfvxAHqkGFeTFfQLmDn_BIJR_dwGZ-VICWRRE&amp;sid=00b78017#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
-      "ip": "193.32.176.9",
+      "type": "vless",
+      "address": "638950280342842933.esfahan-drc-tusaas.info",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#vless-GB-%F0%9F%87%AC%F0%9F%87%A7-5",
+      "ip": "95.164.37.43",
       "country": "GB",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#vless-GB-%F0%9F%87%AC%F0%9F%87%A7-5"
     }
   ]
 }

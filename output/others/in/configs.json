@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-25T01:10:40.665750",
+  "updated": "2025-11-25T05:55:20.270152",
   "count": 2,
   "configs": [
     {
@@ -7,14 +7,15 @@
       "address": "45.88.183.156",
       "port": "12794",
       "id": "08704c01-7edb-454a-98a2-328ccb9936fa",
-      "name": "🇮🇳 IN #1",
+      "name": "Cyprus Dedipath</pre></div>",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Cyprus%20Dedipath</pre></div>",
+      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-IN-%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "45.88.183.156",
       "country": "IN",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-IN-%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "ss",
@@ -22,11 +23,12 @@
       "port": "12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
       "method": "",
       "password": "",
-      "name": "🇮🇳 IN #2",
-      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Cyprus%20Dedipath</pre></div>",
+      "name": "Cyprus Dedipath</pre></div>",
+      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-tcp-IN-%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "45.88.183.156",
       "country": "IN",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-tcp-IN-%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
