@@ -1,5 +1,5 @@
 """
-Generator module for creating output files with proper config naming
+Generator module for creating output files with standard protocol-based naming
 """
 
 import os
@@ -9,7 +9,7 @@ import logging
 import re
 from typing import Dict, List
 from datetime import datetime
-from urllib.parse import quote, urlparse, parse_qs, urlencode, urlunparse
+from urllib.parse import quote, parse_qs
 from .config import *
 
 logging.basicConfig(level=logging.INFO)
@@ -65,8 +65,8 @@ class OutputGenerator:
             country_dir = os.path.join(base_dir, country.lower())
             os.makedirs(country_dir, exist_ok=True)
             
-            # Rebuild configs with new names
-            rebuilt_configs = self._rebuild_configs_with_new_names(configs, country)
+            # Rebuild configs with standard names
+            rebuilt_configs = self._rebuild_configs_with_standard_names(configs, country)
             
             self._generate_json(country_dir, prefix + "configs.json", rebuilt_configs)
             self._generate_txt(country_dir, prefix + "configs.txt", rebuilt_configs)
@@ -77,23 +77,22 @@ class OutputGenerator:
         except Exception as e:
             logger.error(f"Error generating country outputs: {e}")
     
-    def _rebuild_configs_with_new_names(self, configs: List[Dict], country: str) -> List[Dict]:
-        """Rebuild configs with completely new naming format"""
+    def _rebuild_configs_with_standard_names(self, configs: List[Dict], country: str) -> List[Dict]:
+        """Rebuild configs with standard protocol-based naming"""
         rebuilt = []
         
         for idx, config in enumerate(configs, 1):
             try:
-                # Build new name
-                new_name = self._build_new_name(config, country, idx)
+                # Build standard name based on protocol type
+                new_name = self._build_standard_name(config, country, idx)
                 
-                # Rebuild config based on type
+                # Rebuild config with new name
                 new_config = self._rebuild_config_with_name(config, new_name)
                 
                 if new_config:
                     config['rebuilt'] = new_config
                     rebuilt.append(config)
                 else:
-                    # If rebuild failed, use original
                     rebuilt.append(config)
                     
             except Exception as e:
@@ -102,24 +101,71 @@ class OutputGenerator:
         
         return rebuilt
     
-    def _build_new_name(self, config: Dict, country: str, idx: int) -> str:
-        """Build new name in format: protocol-network-tls-cdn-COUNTRY-flag"""
+    def _build_standard_name(self, config: Dict, country: str, idx: int) -> str:
+        """
+        Build standard name based on protocol specifications
+        Only includes relevant fields for each protocol
+        """
         
-        parts = []
+        protocol = config.get('type', 'unknown').lower()
         
-        # Protocol
-        protocol = config.get('type', 'unknown')
-        parts.append(protocol)
+        if protocol == 'vless':
+            return self._build_vless_name(config, country, idx)
+        elif protocol == 'vmess':
+            return self._build_vmess_name(config, country, idx)
+        elif protocol == 'trojan':
+            return self._build_trojan_name(config, country, idx)
+        elif protocol == 'ss':
+            return self._build_shadowsocks_name(config, country, idx)
+        elif protocol == 'ssr':
+            return self._build_ssr_name(config, country, idx)
+        elif protocol in ['hysteria', 'hysteria2']:
+            return self._build_hysteria_name(config, country, idx)
+        elif protocol == 'tuic':
+            return self._build_tuic_name(config, country, idx)
+        else:
+            return f"{protocol}-{country}{COUNTRY_FLAGS.get(country, '🌐')}-{idx}"
+    
+    def _build_vless_name(self, config: Dict, country: str, idx: int) -> str:
+        """
+        VLESS format: vless-[flow]-[encryption]-[network]-[headerType]-[security]-[fingerprint]-[cdn]-COUNTRY-num
+        Example: vless-xtls-rprx-vision-tcp-reality-chrome-IR🇮🇷-1
+        """
+        parts = ['vless']
         
-        # Network type
-        network = config.get('network', 'tcp')
+        # Extract from original config for more details
+        original = config.get('original', '')
+        params = self._extract_vless_params(original)
+        
+        # Flow (xtls-rprx-vision, xtls-rprx-direct)
+        flow = params.get('flow', '').lower()
+        if flow:
+            parts.append(flow)
+        
+        # Encryption (usually none for vless)
+        encryption = params.get('encryption', '')
+        if encryption and encryption != 'none':
+            parts.append(encryption)
+        
+        # Network (tcp, ws, grpc, http, quic)
+        network = params.get('type', config.get('network', 'tcp')).lower()
         if network:
             parts.append(network)
         
-        # TLS
-        sni = config.get('sni', '')
-        if sni:
-            parts.append('tls')
+        # Header Type (http, none)
+        header_type = params.get('headerType', '')
+        if header_type and header_type != 'none':
+            parts.append(header_type)
+        
+        # Security (tls, reality, none)
+        security = params.get('security', '')
+        if security and security != 'none':
+            parts.append(security)
+        
+        # Fingerprint (chrome, firefox, safari, ios, android, edge)
+        fingerprint = params.get('fp', params.get('fingerprint', ''))
+        if fingerprint:
+            parts.append(fingerprint)
         
         # CDN
         cdn = config.get('cdn', '')
@@ -127,23 +173,248 @@ class OutputGenerator:
             cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
             parts.append(cdn_name)
         
-        # Country code
-        parts.append(country)
-        
-        # Flag
+        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
-        parts.append(flag)
+        parts.append(f"{country}{flag}")
         
-        # Join with hyphen (safe for URLs)
-        name = '-'.join(parts)
+        # Number
+        parts.append(str(idx))
         
-        # Add index
-        name += f'-{idx}'
+        return '-'.join(parts)
+    
+    def _build_vmess_name(self, config: Dict, country: str, idx: int) -> str:
+        """
+        VMESS format: vmess-[encryption]-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
+        Example: vmess-auto-ws-tls-Cloudflare-IR🇮🇷-1
+        """
+        parts = ['vmess']
         
-        return name
+        # Parse original for full details
+        vmess_data = self._extract_vmess_data(config.get('original', ''))
+        
+        # Encryption/Security (auto, aes-128-gcm, chacha20-poly1305, none)
+        scy = vmess_data.get('scy', '')
+        if scy and scy != 'auto':
+            parts.append(scy)
+        elif scy == 'auto':
+            parts.append('auto')
+        
+        # Network (tcp, ws, h2, grpc, quic)
+        network = vmess_data.get('net', config.get('network', 'tcp')).lower()
+        if network and network != 'tcp':
+            parts.append(network)
+        
+        # Header Type
+        header_type = vmess_data.get('type', '')
+        if header_type and header_type not in ['none', '']:
+            parts.append(header_type)
+        
+        # TLS
+        tls = vmess_data.get('tls', '')
+        if tls and tls != 'none':
+            parts.append(tls)
+        
+        # CDN
+        cdn = config.get('cdn', '')
+        if cdn:
+            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+            parts.append(cdn_name)
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _build_trojan_name(self, config: Dict, country: str, idx: int) -> str:
+        """
+        TROJAN format: trojan-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
+        Example: trojan-tcp-tls-ArvanCloud-IR🇮🇷-1
+        """
+        parts = ['trojan']
+        
+        # Extract params
+        original = config.get('original', '')
+        params = self._extract_trojan_params(original)
+        
+        # Network
+        network = params.get('type', config.get('network', 'tcp')).lower()
+        if network and network != 'tcp':
+            parts.append(network)
+        
+        # Header Type
+        header_type = params.get('headerType', '')
+        if header_type and header_type != 'none':
+            parts.append(header_type)
+        
+        # Security (usually always tls for trojan)
+        security = params.get('security', 'tls')
+        if security:
+            parts.append(security)
+        
+        # CDN
+        cdn = config.get('cdn', '')
+        if cdn:
+            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+            parts.append(cdn_name)
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _build_shadowsocks_name(self, config: Dict, country: str, idx: int) -> str:
+        """
+        SHADOWSOCKS format: ss-[method]-[plugin]-COUNTRY-num
+        Example: ss-aes-256-gcm-obfs-IR🇮🇷-1
+        """
+        parts = ['ss']
+        
+        # Encryption method
+        method = config.get('method', '').lower()
+        if method:
+            # Simplify method name
+            method = method.replace('_', '-')
+            parts.append(method)
+        
+        # Plugin (obfs, v2ray-plugin, etc.)
+        # Usually not in our parsed data, but can be added if available
+        
+        # CDN
+        cdn = config.get('cdn', '')
+        if cdn:
+            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+            parts.append(cdn_name)
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _build_ssr_name(self, config: Dict, country: str, idx: int) -> str:
+        """SSR format: ssr-[method]-[protocol]-[obfs]-COUNTRY-num"""
+        parts = ['ssr']
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _build_hysteria_name(self, config: Dict, country: str, idx: int) -> str:
+        """Hysteria format: hysteria-[version]-[protocol]-COUNTRY-num"""
+        protocol_type = config.get('type', 'hysteria')
+        parts = [protocol_type]
+        
+        # Protocol (udp usually)
+        parts.append('udp')
+        
+        # CDN
+        cdn = config.get('cdn', '')
+        if cdn:
+            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+            parts.append(cdn_name)
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _build_tuic_name(self, config: Dict, country: str, idx: int) -> str:
+        """TUIC format: tuic-[version]-udp-COUNTRY-num"""
+        parts = ['tuic']
+        
+        # Protocol
+        parts.append('udp')
+        
+        # CDN
+        cdn = config.get('cdn', '')
+        if cdn:
+            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+            parts.append(cdn_name)
+        
+        # Country + Flag
+        flag = COUNTRY_FLAGS.get(country, '🌐')
+        parts.append(f"{country}{flag}")
+        
+        # Number
+        parts.append(str(idx))
+        
+        return '-'.join(parts)
+    
+    def _extract_vless_params(self, config_str: str) -> dict:
+        """Extract parameters from VLESS config"""
+        try:
+            if '?' not in config_str:
+                return {}
+            
+            params_part = config_str.split('?')[1].split('#')[0]
+            params = parse_qs(params_part)
+            
+            # Flatten single values
+            result = {}
+            for key, value in params.items():
+                result[key] = value[0] if len(value) == 1 else value
+            
+            return result
+        except Exception as e:
+            logger.debug(f"Error extracting VLESS params: {e}")
+            return {}
+    
+    def _extract_trojan_params(self, config_str: str) -> dict:
+        """Extract parameters from Trojan config"""
+        try:
+            if '?' not in config_str:
+                return {}
+            
+            params_part = config_str.split('?')[1].split('#')[0]
+            params = parse_qs(params_part)
+            
+            result = {}
+            for key, value in params.items():
+                result[key] = value[0] if len(value) == 1 else value
+            
+            return result
+        except Exception as e:
+            logger.debug(f"Error extracting Trojan params: {e}")
+            return {}
+    
+    def _extract_vmess_data(self, config_str: str) -> dict:
+        """Extract data from VMess config"""
+        try:
+            config_data = config_str.replace('vmess://', '')
+            padding = 4 - len(config_data) % 4
+            if padding != 4:
+                config_data += '=' * padding
+            
+            decoded = base64.b64decode(config_data).decode('utf-8')
+            data = json.loads(decoded)
+            
+            return data
+        except Exception as e:
+            logger.debug(f"Error extracting VMess data: {e}")
+            return {}
     
     def _rebuild_config_with_name(self, config: Dict, new_name: str) -> str:
-        """Rebuild config string with new name based on protocol type"""
+        """Rebuild config string with new name"""
         
         config_type = config.get('type', '')
         original = config.get('original', '')
@@ -170,9 +441,8 @@ class OutputGenerator:
             return original
     
     def _rebuild_vmess(self, original: str, new_name: str) -> str:
-        """Rebuild VMess config with new name"""
+        """Rebuild VMess config"""
         try:
-            # Decode
             config_data = original.replace('vmess://', '')
             padding = 4 - len(config_data) % 4
             if padding != 4:
@@ -181,106 +451,66 @@ class OutputGenerator:
             decoded = base64.b64decode(config_data).decode('utf-8')
             data = json.loads(decoded)
             
-            # Change name (ps = remarks)
             data['ps'] = new_name
             
-            # Re-encode
             new_json = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
             new_b64 = base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
             
             return 'vmess://' + new_b64
-            
         except Exception as e:
             logger.debug(f"Error rebuilding VMess: {e}")
             return original
     
     def _rebuild_vless(self, original: str, new_name: str) -> str:
-        """Rebuild VLESS config with new name"""
+        """Rebuild VLESS config"""
         try:
-            # Format: vless://uuid@host:port?params#name
-            if '#' in original:
-                base = original.split('#')[0]
-            else:
-                base = original
-            
-            # URL encode the name (important!)
-            encoded_name = quote(new_name, safe='')
-            
+            base = original.split('#')[0] if '#' in original else original
+            encoded_name = quote(new_name, safe='🇮🇷🇩🇪🇺🇸🇬🇧🇫🇷🇳🇱🇨🇦🇸🇬🇯🇵🇰🇷🇭🇰🇹🇼🇦🇺🇮🇳🇷🇺🇹🇷🇦🇪🇸🇪🇫🇮🇵🇱🇺🇦🇧🇷🇦🇷🇲🇽🇿🇦🇪🇬🇨🇭🇦🇹🌐-')
             return f"{base}#{encoded_name}"
-            
         except Exception as e:
             logger.debug(f"Error rebuilding VLESS: {e}")
             return original
     
     def _rebuild_trojan(self, original: str, new_name: str) -> str:
-        """Rebuild Trojan config with new name"""
+        """Rebuild Trojan config"""
         try:
-            # Format: trojan://password@host:port?params#name
-            if '#' in original:
-                base = original.split('#')[0]
-            else:
-                base = original
-            
-            encoded_name = quote(new_name, safe='')
+            base = original.split('#')[0] if '#' in original else original
+            encoded_name = quote(new_name, safe='🇮🇷🇩🇪🇺🇸🇬🇧🇫🇷🇳🇱🇨🇦🇸🇬🇯🇵🇰🇷🇭🇰🇹🇼🇦🇺🇮🇳🇷🇺🇹🇷🇦🇪🇸🇪🇫🇮🇵🇱🇺🇦🇧🇷🇦🇷🇲🇽🇿🇦🇪🇬🇨🇭🇦🇹🌐-')
             return f"{base}#{encoded_name}"
-            
         except Exception as e:
             logger.debug(f"Error rebuilding Trojan: {e}")
             return original
     
     def _rebuild_shadowsocks(self, original: str, new_name: str) -> str:
-        """Rebuild Shadowsocks config with new name"""
+        """Rebuild Shadowsocks config"""
         try:
-            # Format: ss://base64(method:password)@host:port#name
-            if '#' in original:
-                base = original.split('#')[0]
-            else:
-                base = original
-            
-            encoded_name = quote(new_name, safe='')
+            base = original.split('#')[0] if '#' in original else original
+            encoded_name = quote(new_name, safe='🇮🇷🇩🇪🇺🇸🇬🇧🇫🇷🇳🇱🇨🇦🇸🇬🇯🇵🇰🇷🇭🇰🇹🇼🇦🇺🇮🇳🇷🇺🇹🇷🇦🇪🇸🇪🇫🇮🇵🇱🇺🇦🇧🇷🇦🇷🇲🇽🇿🇦🇪🇬🇨🇭🇦🇹🌐-')
             return f"{base}#{encoded_name}"
-            
         except Exception as e:
             logger.debug(f"Error rebuilding SS: {e}")
             return original
     
     def _rebuild_ssr(self, original: str, new_name: str) -> str:
-        """Rebuild SSR config with new name"""
-        try:
-            # SSR is complex, better to keep original for now
-            # or implement full SSR encoding if needed
-            return original
-            
-        except Exception as e:
-            logger.debug(f"Error rebuilding SSR: {e}")
-            return original
+        """Rebuild SSR config"""
+        return original
     
     def _rebuild_hysteria(self, original: str, new_name: str) -> str:
-        """Rebuild Hysteria config with new name"""
+        """Rebuild Hysteria config"""
         try:
-            if '#' in original:
-                base = original.split('#')[0]
-            else:
-                base = original
-            
-            encoded_name = quote(new_name, safe='')
+            base = original.split('#')[0] if '#' in original else original
+            encoded_name = quote(new_name, safe='🇮🇷🇩🇪🇺🇸🇬🇧🇫🇷🇳🇱🇨🇦🇸🇬🇯🇵🇰🇷🇭🇰🇹🇼🇦🇺🇮🇳🇷🇺🇹🇷🇦🇪🇸🇪🇫🇮🇵🇱🇺🇦🇧🇷🇦🇷🇲🇽🇿🇦🇪🇬🇨🇭🇦🇹🌐-')
             return f"{base}#{encoded_name}"
-            
         except Exception as e:
             logger.debug(f"Error rebuilding Hysteria: {e}")
             return original
     
     def _rebuild_tuic(self, original: str, new_name: str) -> str:
-        """Rebuild TUIC config with new name"""
+        """Rebuild TUIC config"""
         try:
-            if '#' in original:
-                base = original.split('#')[0]
-            else:
-                base = original
-            
-            encoded_name = quote(new_name, safe='')
+            base = original.split('#')[0] if '#' in original else original
+            encoded_name = quote(new_name, safe='🇮🇷🇩🇪🇺🇸🇬🇧🇫🇷🇳🇱🇨🇦🇸🇬🇯🇵🇰🇷🇭🇰🇹🇼🇦🇺🇮🇳🇷🇺🇹🇷🇦🇪🇸🇪🇫🇮🇵🇱🇺🇦🇧🇷🇦🇷🇲🇽🇿🇦🇪🇬🇨🇭🇦🇹🌐-')
             return f"{base}#{encoded_name}"
-            
         except Exception as e:
             logger.debug(f"Error rebuilding TUIC: {e}")
             return original
@@ -308,13 +538,12 @@ class OutputGenerator:
             logger.error(f"Error generating JSON: {e}")
     
     def _generate_txt(self, directory: str, filename: str, configs: List[Dict]):
-        """Generate TXT output (one config per line)"""
+        """Generate TXT output"""
         try:
             filepath = os.path.join(directory, filename)
             
             with open(filepath, 'w', encoding='utf-8') as f:
                 for config in configs:
-                    # Use rebuilt config if available
                     config_str = config.get('rebuilt', config.get('original', ''))
                     f.write(config_str + '\n')
                     
@@ -322,11 +551,10 @@ class OutputGenerator:
             logger.error(f"Error generating TXT: {e}")
     
     def _generate_subscription(self, directory: str, filename: str, configs: List[Dict]):
-        """Generate subscription link (base64 encoded)"""
+        """Generate subscription link"""
         try:
             filepath = os.path.join(directory, filename)
             
-            # Join all configs (use rebuilt version)
             config_lines = []
             for config in configs:
                 config_str = config.get('rebuilt', config.get('original', ''))
@@ -334,8 +562,6 @@ class OutputGenerator:
                     config_lines.append(config_str)
             
             all_configs = '\n'.join(config_lines)
-            
-            # Encode to base64
             encoded = base64.b64encode(all_configs.encode('utf-8')).decode('utf-8')
             
             with open(filepath, 'w', encoding='utf-8') as f:
@@ -345,7 +571,7 @@ class OutputGenerator:
             logger.error(f"Error generating subscription: {e}")
     
     def _generate_readme(self, all_configs: Dict, tested_configs: Dict):
-        """Generate README.md with statistics and links"""
+        """Generate README.md"""
         try:
             readme_path = os.path.join(OUTPUT_DIR, 'README.md')
             
@@ -362,7 +588,6 @@ class OutputGenerator:
                 f.write(f"- **Tested & Working:** {total_tested}\n")
                 f.write(f"- **Countries:** {len(all_configs)}\n\n")
                 
-                # Iran section (Priority)
                 if "IR" in all_configs:
                     ir_count = len(all_configs["IR"])
                     ir_tested = len(tested_configs.get("IR", []))
@@ -377,7 +602,6 @@ class OutputGenerator:
                         f.write("- [Tested Subscription](tested/ir/tested_subscription.txt) ✅\n")
                     f.write("\n")
                 
-                # Germany section
                 if "DE" in all_configs:
                     de_count = len(all_configs["DE"])
                     de_tested = len(tested_configs.get("DE", []))
@@ -392,7 +616,6 @@ class OutputGenerator:
                         f.write("- [Tested Subscription](tested/de/tested_subscription.txt) ✅\n")
                     f.write("\n")
                 
-                # Other countries
                 other_countries = [c for c in all_configs.keys() if c not in ["IR", "DE"]]
                 if other_countries:
                     f.write("## 🌍 Other Countries\n\n")
