@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-25T05:55:20.268917",
-  "count": 2,
+  "updated": "2025-11-25T06:38:48.625429",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -10,26 +10,11 @@
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "acepo.ambercc.filegear-sg.me",
       "host": "",
-      "original": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tcp-tls-HK-%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "206.238.237.118",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tcp-tls-HK-%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vmess",
-      "address": "47.244.120.197",
-      "port": "44867",
-      "id": "845e6b08-2919-4290-ade0-5dc7dcea59ca",
-      "name": "t.me/entryNET",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy13cy1ISy3wn4et8J+HsC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "ip": "47.244.120.197",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJ2bWVzcy13cy1ISy3wn4et8J+HsC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+      "rebuilt": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     }
   ]
 }
