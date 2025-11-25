@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-25T08:22:19.601713",
-  "count": 6,
+  "updated": "2025-11-25T16:21:26.326274",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -17,21 +17,6 @@
     },
     {
       "type": "vless",
-      "address": "94.182.142.10",
-      "port": "7074",
-      "id": "1ba0161d-cb3d-4d10-b2ff-72e891687126",
-      "name": "<a",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "94.182.142.10",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
       "address": "hybrid.arvancloud.online",
       "port": "44443",
       "id": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
@@ -39,26 +24,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "193.151.135.21",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "62.60.223.6",
-      "port": "2080",
-      "id": "bea34b73-3244-475b-b914-7bb80e1cda91",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "62.60.223.6",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -67,24 +37,26 @@
       "method": "",
       "password": "",
       "name": "<a",
-      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "94.182.142.10",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
-      "type": "ss",
-      "address": "62.60.223.6",
-      "port": "2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6",
-      "ip": "62.60.223.6",
+      "type": "vless",
+      "address": "94.182.142.10",
+      "port": "7074",
+      "id": "1ba0161d-cb3d-4d10-b2ff-72e891687126",
+      "name": "<a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "ip": "94.182.142.10",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4"
     }
   ]
 }

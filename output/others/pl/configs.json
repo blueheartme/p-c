@@ -1,20 +1,20 @@
 {
-  "updated": "2025-11-24T16:18:08.374601",
+  "updated": "2025-11-25T16:21:26.327076",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "146.59.55.50",
+      "type": "trojan",
+      "address": "172.64.201.25",
       "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇵🇱 PL #1",
-      "network": "ws",
-      "host": "o.metuji.com",
-      "sni": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-      "original": "vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4e18J+HsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "ip": "146.59.55.50",
+      "password": "blue2024",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blue2024@172.64.201.25:443?security=tls&amp;sni=tb.promote.icu&amp;type=ws&amp;host=tb.promote.icu&amp;path=%2F#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "172.64.201.25",
       "country": "PL",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "trojan://blue2024@172.64.201.25:443?security=tls&amp;sni=tb.promote.icu&amp;type=ws&amp;host=tb.promote.icu&amp;path=%2F#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     }
   ]
 }

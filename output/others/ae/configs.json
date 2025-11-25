@@ -1,34 +1,47 @@
 {
-  "updated": "2025-11-25T08:22:19.596985",
-  "count": 2,
+  "updated": "2025-11-25T16:21:26.318313",
+  "count": 3,
   "configs": [
     {
+      "type": "ss",
+      "address": "217.195.200.206",
+      "port": "53654?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&amp;sid=f7&amp;spx=/",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&amp;sid=f7&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "217.195.200.206",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&amp;sid=f7&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
       "type": "vless",
-      "address": "38.180.27.182",
-      "port": "9954",
-      "id": "8b559595-d312-91c7-71a5-00b963955f29",
+      "address": "217.195.200.206",
+      "port": "53654",
+      "id": "cef4ee17-07fd-492f-921e-ddaa6294ba51",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://8b559595-d312-91c7-71a5-00b963955f29@38.180.27.182:9954?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=store.steampowered.com&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#vless-xtls-rprx-vision-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.27.182",
+      "original": "vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&amp;sid=f7&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "217.195.200.206",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://8b559595-d312-91c7-71a5-00b963955f29@38.180.27.182:9954?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=store.steampowered.com&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#vless-xtls-rprx-vision-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&amp;sid=f7&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "ss",
-      "address": "38.180.27.182",
-      "port": "9954?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=store.steampowered.com&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-      "method": "",
-      "password": "",
+      "address": "109.169.72.249",
+      "port": "809",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G!yBwPWH3Vao",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8b559595-d312-91c7-71a5-00b963955f29@38.180.27.182:9954?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=store.steampowered.com&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "38.180.27.182",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "109.169.72.249",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://8b559595-d312-91c7-71a5-00b963955f29@38.180.27.182:9954?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=store.steampowered.com&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@109.169.72.249:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }

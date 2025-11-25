@@ -1,19 +1,19 @@
 {
-  "updated": "2025-11-25T08:22:19.599717",
-  "count": 4,
+  "updated": "2025-11-25T16:21:26.319186",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "213.165.85.99",
-      "port": "443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=azure.com",
+      "address": "185.251.81.253",
+      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://c3203524-da3c-4f43-ada2-90c0e5c3dcf8@213.165.85.99:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=azure.com#ss-ES%F0%9F%8C%90-1",
-      "ip": "213.165.85.99",
+      "name": "Singapore Cloudflare</pre></div>",
+      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-1",
+      "ip": "185.251.81.253",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://c3203524-da3c-4f43-ada2-90c0e5c3dcf8@213.165.85.99:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=azure.com#ss-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -29,34 +29,6 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "185.251.81.253",
-      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
-      "method": "",
-      "password": "",
-      "name": "Singapore Cloudflare</pre></div>",
-      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-3",
-      "ip": "185.251.81.253",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "213.165.85.99",
-      "port": "443",
-      "id": "c3203524-da3c-4f43-ada2-90c0e5c3dcf8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://c3203524-da3c-4f43-ada2-90c0e5c3dcf8@213.165.85.99:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=azure.com#vless-tcp-reality-ES%F0%9F%8C%90-4",
-      "ip": "213.165.85.99",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://c3203524-da3c-4f43-ada2-90c0e5c3dcf8@213.165.85.99:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=azure.com#vless-tcp-reality-ES%F0%9F%8C%90-4"
     }
   ]
 }

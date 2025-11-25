@@ -1,20 +1,21 @@
 {
-  "updated": "2025-11-25T08:22:19.603269",
+  "updated": "2025-11-25T16:21:26.323924",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "206.238.237.118",
-      "port": "8443",
-      "password": "Aimer",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "acepo.ambercc.filegear-sg.me",
+      "type": "vmess",
+      "address": "8.218.17.136",
+      "port": "3721",
+      "id": "33755eb3-5c12-4ca7-b86e-6f1aa6e7ce27",
+      "name": "t.me/entryNET",
+      "network": "ws",
       "host": "",
-      "original": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "206.238.237.118",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI4LjIxOC4xNy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzM3NTVlYjMtNWMxMi00Y2E3LWI4NmUtNmYxYWE2ZTdjZTI3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzIxIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "ip": "8.218.17.136",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&amp;allowInsecure=1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vmess://eyJhZGQiOiI4LjIxOC4xNy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzM3NTVlYjMtNWMxMi00Y2E3LWI4NmUtNmYxYWE2ZTdjZTI3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzIxIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
     }
   ]
 }
