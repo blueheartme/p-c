@@ -34,9 +34,11 @@ class OutputGenerator:
         
         try:
             for country, configs in categorized_configs.items():
+                logger.info(f"Generating outputs for {country} with {len(configs)} configs")
                 self._generate_country_outputs(country, configs, tested=False)
             
             for country, configs in tested_configs.items():
+                logger.info(f"Generating tested outputs for {country} with {len(configs)} configs")
                 self._generate_country_outputs(country, configs, tested=True)
             
             self._generate_readme(categorized_configs, tested_configs)
@@ -44,7 +46,7 @@ class OutputGenerator:
             logger.info("Output generation complete!")
             
         except Exception as e:
-            logger.error(f"Error generating outputs: {e}")
+            logger.error(f"Error generating outputs: {e}", exc_info=True)
     
     def _generate_country_outputs(self, country: str, configs: List[Dict], tested: bool = False):
         """Generate outputs for a specific country"""
@@ -68,23 +70,33 @@ class OutputGenerator:
             # Rebuild configs with standard names
             rebuilt_configs = self._rebuild_configs_with_standard_names(configs, country)
             
+            logger.info(f"Rebuilt {len(rebuilt_configs)} configs for {country}")
+            
+            if not rebuilt_configs:
+                logger.warning(f"No configs to generate for {country}!")
+                return
+            
             self._generate_json(country_dir, prefix + "configs.json", rebuilt_configs)
             self._generate_txt(country_dir, prefix + "configs.txt", rebuilt_configs)
             self._generate_subscription(country_dir, prefix + "subscription.txt", rebuilt_configs)
             
-            logger.info(f"Generated outputs for {country} ({'tested' if tested else 'all'})")
+            logger.info(f"✅ Generated outputs for {country} ({'tested' if tested else 'all'})")
             
         except Exception as e:
-            logger.error(f"Error generating country outputs: {e}")
+            logger.error(f"Error generating country outputs for {country}: {e}", exc_info=True)
     
     def _rebuild_configs_with_standard_names(self, configs: List[Dict], country: str) -> List[Dict]:
         """Rebuild configs with standard protocol-based naming"""
         rebuilt = []
         
+        logger.info(f"Rebuilding {len(configs)} configs for {country}...")
+        
         for idx, config in enumerate(configs, 1):
             try:
                 # Build standard name based on protocol type
                 new_name = self._build_standard_name(config, country, idx)
+                
+                logger.debug(f"Config {idx}: New name = {new_name}")
                 
                 # Rebuild config with new name
                 new_config = self._rebuild_config_with_name(config, new_name)
@@ -93,12 +105,18 @@ class OutputGenerator:
                     config['rebuilt'] = new_config
                     rebuilt.append(config)
                 else:
+                    # If rebuild failed, use original
+                    logger.warning(f"Failed to rebuild config {idx}, using original")
+                    config['rebuilt'] = config.get('original', '')
                     rebuilt.append(config)
                     
             except Exception as e:
-                logger.debug(f"Error rebuilding config: {e}")
+                logger.error(f"Error rebuilding config {idx}: {e}")
+                # IMPORTANT: Still add the config with original name
+                config['rebuilt'] = config.get('original', '')
                 rebuilt.append(config)
         
+        logger.info(f"Successfully rebuilt {len(rebuilt)} configs")
         return rebuilt
     
     def _build_standard_name(self, config: Dict, country: str, idx: int) -> str:
@@ -109,253 +127,191 @@ class OutputGenerator:
         
         protocol = config.get('type', 'unknown').lower()
         
-        if protocol == 'vless':
-            return self._build_vless_name(config, country, idx)
-        elif protocol == 'vmess':
-            return self._build_vmess_name(config, country, idx)
-        elif protocol == 'trojan':
-            return self._build_trojan_name(config, country, idx)
-        elif protocol == 'ss':
-            return self._build_shadowsocks_name(config, country, idx)
-        elif protocol == 'ssr':
-            return self._build_ssr_name(config, country, idx)
-        elif protocol in ['hysteria', 'hysteria2']:
-            return self._build_hysteria_name(config, country, idx)
-        elif protocol == 'tuic':
-            return self._build_tuic_name(config, country, idx)
-        else:
-            return f"{protocol}-{country}{COUNTRY_FLAGS.get(country, '🌐')}-{idx}"
+        try:
+            if protocol == 'vless':
+                return self._build_vless_name(config, country, idx)
+            elif protocol == 'vmess':
+                return self._build_vmess_name(config, country, idx)
+            elif protocol == 'trojan':
+                return self._build_trojan_name(config, country, idx)
+            elif protocol == 'ss':
+                return self._build_shadowsocks_name(config, country, idx)
+            elif protocol == 'ssr':
+                return self._build_ssr_name(config, country, idx)
+            elif protocol in ['hysteria', 'hysteria2']:
+                return self._build_hysteria_name(config, country, idx)
+            elif protocol == 'tuic':
+                return self._build_tuic_name(config, country, idx)
+            else:
+                flag = COUNTRY_FLAGS.get(country, '🌐')
+                return f"{protocol}-{country}{flag}-{idx}"
+        except Exception as e:
+            logger.error(f"Error in _build_standard_name: {e}")
+            # Fallback to simple name
+            flag = COUNTRY_FLAGS.get(country, '🌐')
+            return f"{protocol}-{country}{flag}-{idx}"
     
     def _build_vless_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        VLESS format: vless-[flow]-[encryption]-[network]-[headerType]-[security]-[fingerprint]-[cdn]-COUNTRY-num
-        Example: vless-xtls-rprx-vision-tcp-reality-chrome-IR🇮🇷-1
-        """
+        """VLESS format: vless-[flow]-[network]-[security]-[fingerprint]-[cdn]-COUNTRY-num"""
         parts = ['vless']
         
-        # Extract from original config for more details
-        original = config.get('original', '')
-        params = self._extract_vless_params(original)
-        
-        # Flow (xtls-rprx-vision, xtls-rprx-direct)
-        flow = params.get('flow', '').lower()
-        if flow:
-            parts.append(flow)
-        
-        # Encryption (usually none for vless)
-        encryption = params.get('encryption', '')
-        if encryption and encryption != 'none':
-            parts.append(encryption)
-        
-        # Network (tcp, ws, grpc, http, quic)
-        network = params.get('type', config.get('network', 'tcp')).lower()
-        if network:
-            parts.append(network)
-        
-        # Header Type (http, none)
-        header_type = params.get('headerType', '')
-        if header_type and header_type != 'none':
-            parts.append(header_type)
-        
-        # Security (tls, reality, none)
-        security = params.get('security', '')
-        if security and security != 'none':
-            parts.append(security)
-        
-        # Fingerprint (chrome, firefox, safari, ios, android, edge)
-        fingerprint = params.get('fp', params.get('fingerprint', ''))
-        if fingerprint:
-            parts.append(fingerprint)
-        
-        # CDN
-        cdn = config.get('cdn', '')
-        if cdn:
-            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
-            parts.append(cdn_name)
+        try:
+            original = config.get('original', '')
+            params = self._extract_vless_params(original)
+            
+            # Flow
+            flow = params.get('flow', '').lower()
+            if flow:
+                parts.append(flow)
+            
+            # Network
+            network = params.get('type', config.get('network', 'tcp')).lower()
+            if network and network != 'tcp':
+                parts.append(network)
+            
+            # Security
+            security = params.get('security', '')
+            if security and security != 'none':
+                parts.append(security)
+            
+            # Fingerprint
+            fingerprint = params.get('fp', params.get('fingerprint', ''))
+            if fingerprint:
+                parts.append(fingerprint)
+            
+            # CDN
+            cdn = config.get('cdn', '')
+            if cdn:
+                cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+                parts.append(cdn_name)
+            
+        except Exception as e:
+            logger.debug(f"Error building VLESS name: {e}")
         
         # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
     
     def _build_vmess_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        VMESS format: vmess-[encryption]-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
-        Example: vmess-auto-ws-tls-Cloudflare-IR🇮🇷-1
-        """
+        """VMESS format: vmess-[network]-[security]-[cdn]-COUNTRY-num"""
         parts = ['vmess']
         
-        # Parse original for full details
-        vmess_data = self._extract_vmess_data(config.get('original', ''))
+        try:
+            vmess_data = self._extract_vmess_data(config.get('original', ''))
+            
+            # Network
+            network = vmess_data.get('net', config.get('network', 'tcp')).lower()
+            if network and network != 'tcp':
+                parts.append(network)
+            
+            # TLS
+            tls = vmess_data.get('tls', '')
+            if tls and tls != 'none':
+                parts.append(tls)
+            
+            # CDN
+            cdn = config.get('cdn', '')
+            if cdn:
+                cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+                parts.append(cdn_name)
         
-        # Encryption/Security (auto, aes-128-gcm, chacha20-poly1305, none)
-        scy = vmess_data.get('scy', '')
-        if scy and scy != 'auto':
-            parts.append(scy)
-        elif scy == 'auto':
-            parts.append('auto')
+        except Exception as e:
+            logger.debug(f"Error building VMESS name: {e}")
         
-        # Network (tcp, ws, h2, grpc, quic)
-        network = vmess_data.get('net', config.get('network', 'tcp')).lower()
-        if network and network != 'tcp':
-            parts.append(network)
-        
-        # Header Type
-        header_type = vmess_data.get('type', '')
-        if header_type and header_type not in ['none', '']:
-            parts.append(header_type)
-        
-        # TLS
-        tls = vmess_data.get('tls', '')
-        if tls and tls != 'none':
-            parts.append(tls)
-        
-        # CDN
-        cdn = config.get('cdn', '')
-        if cdn:
-            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
-            parts.append(cdn_name)
-        
-        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
     
     def _build_trojan_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        TROJAN format: trojan-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
-        Example: trojan-tcp-tls-ArvanCloud-IR🇮🇷-1
-        """
+        """TROJAN format: trojan-[network]-[security]-[cdn]-COUNTRY-num"""
         parts = ['trojan']
         
-        # Extract params
-        original = config.get('original', '')
-        params = self._extract_trojan_params(original)
+        try:
+            original = config.get('original', '')
+            params = self._extract_trojan_params(original)
+            
+            # Network
+            network = params.get('type', config.get('network', 'tcp')).lower()
+            if network and network != 'tcp':
+                parts.append(network)
+            
+            # Security
+            security = params.get('security', 'tls')
+            if security:
+                parts.append(security)
+            
+            # CDN
+            cdn = config.get('cdn', '')
+            if cdn:
+                cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
+                parts.append(cdn_name)
         
-        # Network
-        network = params.get('type', config.get('network', 'tcp')).lower()
-        if network and network != 'tcp':
-            parts.append(network)
+        except Exception as e:
+            logger.debug(f"Error building Trojan name: {e}")
         
-        # Header Type
-        header_type = params.get('headerType', '')
-        if header_type and header_type != 'none':
-            parts.append(header_type)
-        
-        # Security (usually always tls for trojan)
-        security = params.get('security', 'tls')
-        if security:
-            parts.append(security)
-        
-        # CDN
-        cdn = config.get('cdn', '')
-        if cdn:
-            cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
-            parts.append(cdn_name)
-        
-        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
     
     def _build_shadowsocks_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        SHADOWSOCKS format: ss-[method]-[plugin]-COUNTRY-num
-        Example: ss-aes-256-gcm-obfs-IR🇮🇷-1
-        """
+        """SS format: ss-[method]-[cdn]-COUNTRY-num"""
         parts = ['ss']
         
-        # Encryption method
         method = config.get('method', '').lower()
         if method:
-            # Simplify method name
             method = method.replace('_', '-')
             parts.append(method)
         
-        # Plugin (obfs, v2ray-plugin, etc.)
-        # Usually not in our parsed data, but can be added if available
-        
-        # CDN
         cdn = config.get('cdn', '')
         if cdn:
             cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
             parts.append(cdn_name)
         
-        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
     
     def _build_ssr_name(self, config: Dict, country: str, idx: int) -> str:
-        """SSR format: ssr-[method]-[protocol]-[obfs]-COUNTRY-num"""
-        parts = ['ssr']
-        
-        # Country + Flag
+        """SSR format: ssr-COUNTRY-num"""
         flag = COUNTRY_FLAGS.get(country, '🌐')
-        parts.append(f"{country}{flag}")
-        
-        # Number
-        parts.append(str(idx))
-        
-        return '-'.join(parts)
+        return f"ssr-{country}{flag}-{idx}"
     
     def _build_hysteria_name(self, config: Dict, country: str, idx: int) -> str:
-        """Hysteria format: hysteria-[version]-[protocol]-COUNTRY-num"""
+        """Hysteria format: hysteria-udp-[cdn]-COUNTRY-num"""
         protocol_type = config.get('type', 'hysteria')
-        parts = [protocol_type]
+        parts = [protocol_type, 'udp']
         
-        # Protocol (udp usually)
-        parts.append('udp')
-        
-        # CDN
         cdn = config.get('cdn', '')
         if cdn:
             cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
             parts.append(cdn_name)
         
-        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
     
     def _build_tuic_name(self, config: Dict, country: str, idx: int) -> str:
-        """TUIC format: tuic-[version]-udp-COUNTRY-num"""
-        parts = ['tuic']
+        """TUIC format: tuic-udp-[cdn]-COUNTRY-num"""
+        parts = ['tuic', 'udp']
         
-        # Protocol
-        parts.append('udp')
-        
-        # CDN
         cdn = config.get('cdn', '')
         if cdn:
             cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
             parts.append(cdn_name)
         
-        # Country + Flag
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
-        
-        # Number
         parts.append(str(idx))
         
         return '-'.join(parts)
@@ -369,7 +325,6 @@ class OutputGenerator:
             params_part = config_str.split('?')[1].split('#')[0]
             params = parse_qs(params_part)
             
-            # Flatten single values
             result = {}
             for key, value in params.items():
                 result[key] = value[0] if len(value) == 1 else value
@@ -419,6 +374,10 @@ class OutputGenerator:
         config_type = config.get('type', '')
         original = config.get('original', '')
         
+        if not original:
+            logger.warning("Config has no original string!")
+            return ''
+        
         try:
             if config_type == 'vmess':
                 return self._rebuild_vmess(original, new_name)
@@ -435,9 +394,10 @@ class OutputGenerator:
             elif config_type == 'tuic':
                 return self._rebuild_tuic(original, new_name)
             else:
+                logger.warning(f"Unknown config type: {config_type}")
                 return original
         except Exception as e:
-            logger.debug(f"Error rebuilding {config_type}: {e}")
+            logger.error(f"Error rebuilding {config_type}: {e}")
             return original
     
     def _rebuild_vmess(self, original: str, new_name: str) -> str:
@@ -533,9 +493,11 @@ class OutputGenerator:
             
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(output_data, f, ensure_ascii=False, indent=2)
+            
+            logger.info(f"✅ Generated JSON: {filepath}")
                 
         except Exception as e:
-            logger.error(f"Error generating JSON: {e}")
+            logger.error(f"Error generating JSON: {e}", exc_info=True)
     
     def _generate_txt(self, directory: str, filename: str, configs: List[Dict]):
         """Generate TXT output"""
@@ -545,10 +507,13 @@ class OutputGenerator:
             with open(filepath, 'w', encoding='utf-8') as f:
                 for config in configs:
                     config_str = config.get('rebuilt', config.get('original', ''))
-                    f.write(config_str + '\n')
+                    if config_str:
+                        f.write(config_str + '\n')
+            
+            logger.info(f"✅ Generated TXT: {filepath}")
                     
         except Exception as e:
-            logger.error(f"Error generating TXT: {e}")
+            logger.error(f"Error generating TXT: {e}", exc_info=True)
     
     def _generate_subscription(self, directory: str, filename: str, configs: List[Dict]):
         """Generate subscription link"""
@@ -561,14 +526,20 @@ class OutputGenerator:
                 if config_str:
                     config_lines.append(config_str)
             
+            if not config_lines:
+                logger.warning(f"No config lines to encode for subscription!")
+                return
+            
             all_configs = '\n'.join(config_lines)
             encoded = base64.b64encode(all_configs.encode('utf-8')).decode('utf-8')
             
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(encoded)
+            
+            logger.info(f"✅ Generated Subscription: {filepath}")
                 
         except Exception as e:
-            logger.error(f"Error generating subscription: {e}")
+            logger.error(f"Error generating subscription: {e}", exc_info=True)
     
     def _generate_readme(self, all_configs: Dict, tested_configs: Dict):
         """Generate README.md"""
@@ -630,6 +601,8 @@ class OutputGenerator:
                 
                 f.write("\n---\n")
                 f.write("*🤖 Auto-updated every 8 hours via GitHub Actions*\n")
+            
+            logger.info(f"✅ Generated README: {readme_path}")
                 
         except Exception as e:
-            logger.error(f"Error generating README: {e}")
+            logger.error(f"Error generating README: {e}", exc_info=True)
