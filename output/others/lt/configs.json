@@ -1,34 +1,47 @@
 {
-  "updated": "2025-11-25T16:21:26.316574",
-  "count": 2,
+  "updated": "2025-11-26T16:20:01.234593",
+  "count": 3,
   "configs": [
     {
+      "type": "ss",
+      "address": "638941610778721799.helsinki-drc-tusacaf.info",
+      "port": "8880?security=&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778721799.helsinki-drc-tusacaf.info:8880?security=&amp;encryption=none&amp;type=grpc#ss-LT%F0%9F%8C%90-1",
+      "ip": "94.131.14.29",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778721799.helsinki-drc-tusacaf.info:8880?security=&amp;encryption=none&amp;type=grpc#ss-LT%F0%9F%8C%90-1"
+    },
+    {
       "type": "vless",
-      "address": "94.131.13.164",
+      "address": "638941610778721799.helsinki-drc-tusacaf.info",
       "port": "8880",
       "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?flow=&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-1",
-      "ip": "94.131.13.164",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778721799.helsinki-drc-tusacaf.info:8880?security=&amp;encryption=none&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-2",
+      "ip": "94.131.14.29",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?flow=&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778721799.helsinki-drc-tusacaf.info:8880?security=&amp;encryption=none&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "94.131.13.164",
-      "port": "8880?flow=&amp;type=grpc",
+      "address": "88.216.69.54",
+      "port": "2096/?type=ws&amp;encryption=none&amp;flow=&amp;host=sni.aizrf.com&amp;path=%2Fsnippets&amp;security=tls&amp;sni=sni.aizrf.com",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?flow=&amp;type=grpc#ss-LT%F0%9F%8C%90-2",
-      "ip": "94.131.13.164",
+      "original": "ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&amp;encryption=none&amp;flow=&amp;host=sni.aizrf.com&amp;path=%2Fsnippets&amp;security=tls&amp;sni=sni.aizrf.com#ss-LT%F0%9F%8C%90-3",
+      "ip": "88.216.69.54",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?flow=&amp;type=grpc#ss-LT%F0%9F%8C%90-2"
+      "rebuilt": "ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&amp;encryption=none&amp;flow=&amp;host=sni.aizrf.com&amp;path=%2Fsnippets&amp;security=tls&amp;sni=sni.aizrf.com#ss-LT%F0%9F%8C%90-3"
     }
   ]
 }

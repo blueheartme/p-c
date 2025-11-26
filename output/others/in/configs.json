@@ -1,19 +1,19 @@
 {
-  "updated": "2025-11-26T08:21:47.689385",
+  "updated": "2025-11-26T16:20:01.249669",
   "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "45.88.183.158",
-      "port": "44629/?type=tcp&amp;encryption=none",
-      "method": "",
-      "password": "",
+      "address": "43.205.208.0",
+      "port": "80",
+      "method": "aes-256-gcm",
+      "password": "dada0801",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&amp;encryption=none#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.88.183.158",
+      "original": "ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE@43.205.208.0:80#ss-aes-256-gcm-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "43.205.208.0",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&amp;encryption=none#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE@43.205.208.0:80#ss-aes-256-gcm-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "vless",
