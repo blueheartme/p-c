@@ -1,32 +1,34 @@
 {
-  "updated": "2025-11-24T09:40:22.155430",
+  "updated": "2025-11-26T08:21:47.688539",
   "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "83.228.227.96",
-      "port": "48933?security=reality&amp;encryption=none&amp;pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=refersion.com&amp;sid=8457e2",
+      "address": "83.228.210.214",
+      "port": "443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ok.ru&amp;fp=chrome&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;type=tcp&amp;headerType=none",
       "method": "",
       "password": "",
-      "name": "🇨🇭 CH #1",
-      "original": "ss://2a59f955-18bc-427d-854d-219144015426@83.228.227.96:48933?security=reality&amp;encryption=none&amp;pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=refersion.com&amp;sid=8457e2#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><br/><br/><i",
-      "ip": "83.228.227.96",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ok.ru&amp;fp=chrome&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;type=tcp&amp;headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.210.214",
       "country": "CH",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "ss://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ok.ru&amp;fp=chrome&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;type=tcp&amp;headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
-      "address": "83.228.227.96",
-      "port": "48933",
-      "id": "2a59f955-18bc-427d-854d-219144015426",
-      "name": "🇨🇭 CH #2",
+      "address": "83.228.210.214",
+      "port": "443",
+      "id": "c5fdf480-3942-4fc9-9e73-f6899c24bda6",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://2a59f955-18bc-427d-854d-219144015426@83.228.227.96:48933?security=reality&amp;encryption=none&amp;pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=refersion.com&amp;sid=8457e2#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><br/><br/><i",
-      "ip": "83.228.227.96",
+      "original": "vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ok.ru&amp;fp=chrome&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;type=tcp&amp;headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "83.228.210.214",
       "country": "CH",
-      "cdn": null
+      "cdn": null,
+      "rebuilt": "vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=ok.ru&amp;fp=chrome&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;type=tcp&amp;headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

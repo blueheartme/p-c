@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-26T01:11:15.493123",
+  "updated": "2025-11-26T08:21:47.671927",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "server1.mrlizard.my",
-      "port": "443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "143.198.214.92",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "server1.mrlizard.my",
@@ -24,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "143.198.214.92",
+      "original": "vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "139.59.122.131",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "ss",
+      "address": "server1.mrlizard.my",
+      "port": "443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "139.59.122.131",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&amp;security=tls&amp;sni=epicgames.com&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "trojan",

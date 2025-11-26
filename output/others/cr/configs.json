@@ -1,19 +1,34 @@
 {
-  "updated": "2025-11-25T08:22:19.605683",
-  "count": 1,
+  "updated": "2025-11-26T08:21:47.683605",
+  "count": 2,
   "configs": [
     {
+      "type": "vless",
+      "address": "190.93.246.20",
+      "port": "8880",
+      "id": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#vless-tcp-CR%F0%9F%8C%90-1",
+      "ip": "190.93.246.20",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#vless-tcp-CR%F0%9F%8C%90-1"
+    },
+    {
       "type": "ss",
-      "address": "190.93.245.234",
-      "port": "8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=v3.ganglink.sbs&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=v3.ganglink.sbs&amp;fp=chrome",
+      "address": "190.93.246.20",
+      "port": "8880?encryption=none&amp;security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=v3.ganglink.sbs&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=v3.ganglink.sbs&amp;fp=chrome#ss-CR%F0%9F%8C%90-1",
-      "ip": "190.93.245.234",
+      "original": "ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#ss-CR%F0%9F%8C%90-2",
+      "ip": "190.93.246.20",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "ss://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=v3.ganglink.sbs&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=v3.ganglink.sbs&amp;fp=chrome#ss-CR%F0%9F%8C%90-1"
+      "rebuilt": "ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#ss-CR%F0%9F%8C%90-2"
     }
   ]
 }
