@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-25T16:21:26.319186",
+  "updated": "2025-11-26T01:11:15.488996",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "185.251.81.253",
-      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
-      "method": "",
-      "password": "",
-      "name": "Singapore Cloudflare</pre></div>",
-      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-1",
-      "ip": "185.251.81.253",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "185.251.81.253",
@@ -24,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-2",
+      "original": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-1",
       "ip": "185.251.81.253",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.251.81.253",
+      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
+      "method": "",
+      "password": "",
+      "name": "Singapore Cloudflare</pre></div>",
+      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-2",
+      "ip": "185.251.81.253",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-2"
     }
   ]
 }

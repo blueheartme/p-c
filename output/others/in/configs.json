@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-25T16:21:26.306714",
-  "count": 2,
+  "updated": "2025-11-26T01:11:15.486127",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "45.88.183.156",
-      "port": "12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "Cyprus Dedipath</pre></div>",
-      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.88.183.156",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
     {
       "type": "vless",
       "address": "45.88.183.156",
@@ -24,11 +11,52 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "45.88.183.156",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.88.183.156",
+      "port": "12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "Cyprus Dedipath</pre></div>",
+      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "45.88.183.156",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "vless",
+      "address": "india2.clearorbitllc.com",
+      "port": "443",
+      "id": "b41b3c10-91f1-42ed-b597-2ebdaddb9a96",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=india2.clearorbitllc.com&amp;pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&amp;sid=157c0871&amp;spx=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "45.88.183.124",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=india2.clearorbitllc.com&amp;pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&amp;sid=157c0871&amp;spx=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+    },
+    {
+      "type": "ss",
+      "address": "india2.clearorbitllc.com",
+      "port": "443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=india2.clearorbitllc.com&amp;pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&amp;sid=157c0871&amp;spx=/?",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=india2.clearorbitllc.com&amp;pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&amp;sid=157c0871&amp;spx=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "45.88.183.124",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=india2.clearorbitllc.com&amp;pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&amp;sid=157c0871&amp;spx=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4"
     }
   ]
 }
