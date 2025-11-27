@@ -1,7 +1,22 @@
 {
-  "updated": "2025-11-26T16:20:01.247289",
-  "count": 1,
+  "updated": "2025-11-27T01:10:08.378383",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "13.230.205.164",
+      "port": "27775",
+      "id": "48d022ad-f831-48e0-9730-df4dadbbc684",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://48d022ad-f831-48e0-9730-df4dadbbc684@13.230.205.164:27775?security=&amp;encryption=&amp;headerType=&amp;type=#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "13.230.205.164",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://48d022ad-f831-48e0-9730-df4dadbbc684@13.230.205.164:27775?security=&amp;encryption=&amp;headerType=&amp;type=#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+    },
     {
       "type": "trojan",
       "address": "160.16.196.59",
@@ -10,11 +25,38 @@
       "name": "United State Hivelocity</pre></div>",
       "sni": "",
       "host": "",
-      "original": "trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "160.16.196.59",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "ss",
+      "address": "13.230.205.164",
+      "port": "27775?security=&amp;encryption=&amp;headerType=&amp;type=",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://48d022ad-f831-48e0-9730-df4dadbbc684@13.230.205.164:27775?security=&amp;encryption=&amp;headerType=&amp;type=#ss-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "13.230.205.164",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "ss://48d022ad-f831-48e0-9730-df4dadbbc684@13.230.205.164:27775?security=&amp;encryption=&amp;headerType=&amp;type=#ss-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "trojan",
+      "address": "eef72d13ad096a6703aabd5bae809848.v1.cac.node-is.green",
+      "port": "48385",
+      "password": "285caaa4-dd31-4825-ab6a-3e4a6808dcc7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@eef72d13ad096a6703aabd5bae809848.v1.cac.node-is.green:48385?allowInsecure=1&amp;sni=de1.bilibili.com#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "5.34.222.252",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@eef72d13ad096a6703aabd5bae809848.v1.cac.node-is.green:48385?allowInsecure=1&amp;sni=de1.bilibili.com#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     }
   ]
 }

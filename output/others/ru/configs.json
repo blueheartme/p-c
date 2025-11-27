@@ -1,19 +1,47 @@
 {
-  "updated": "2025-11-26T16:20:01.244133",
+  "updated": "2025-11-27T01:10:08.376545",
   "count": 5,
   "configs": [
     {
+      "type": "vless",
+      "address": "82.148.21.174",
+      "port": "443",
+      "id": "1a6fe500-59da-4598-8576-256f06765ffb",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d&amp;fp=chrome&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none#vless-xtls-rprx-vision-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-1",
+      "ip": "82.148.21.174",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d&amp;fp=chrome&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none#vless-xtls-rprx-vision-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-1"
+    },
+    {
       "type": "ss",
-      "address": "185.253.21.13",
-      "port": "443?encryption=none&amp;security=tls&amp;sni=api.furypay.ru&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=api.furypay.ru&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%22Accept%22%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%2C%22Priority%22%3A%22u%3D0%2C%2Bi%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%2C%22Sec-Fetch-Dest%22%3A%22document%22%2C%22Sec-Fetch-Mode%22%3A%22navigate%22%2C%22Sec-Fetch-Site%22%3A%22none%22%2C%22Accept-Encoding%22%3A%22gzip%2C%2Bdeflate%2C%2Bbr%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Upgrade-Insecure-Requests%22%3A%221%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D",
+      "address": "5.129.201.43",
+      "port": "23256",
+      "method": "chacha20-ietf-poly1305",
+      "password": "yALtyAtHfbw1Vu4pqh6wUc",
+      "name": "Russia Jfc timeweb</pre></div>",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#ss-chacha20-ietf-poly1305-RU%F0%9F%87%B7%F0%9F%87%BA-2",
+      "ip": "5.129.201.43",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#ss-chacha20-ietf-poly1305-RU%F0%9F%87%B7%F0%9F%87%BA-2"
+    },
+    {
+      "type": "ss",
+      "address": "82.148.21.174",
+      "port": "443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d&amp;fp=chrome&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://3d164570-4bc2-4bb4-aed4-e5fa36bd8d1c@185.253.21.13:443?encryption=none&amp;security=tls&amp;sni=api.furypay.ru&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=api.furypay.ru&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%22Accept%22%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%2C%22Priority%22%3A%22u%3D0%2C%2Bi%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%2C%22Sec-Fetch-Dest%22%3A%22document%22%2C%22Sec-Fetch-Mode%22%3A%22navigate%22%2C%22Sec-Fetch-Site%22%3A%22none%22%2C%22Accept-Encoding%22%3A%22gzip%2C%2Bdeflate%2C%2Bbr%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Upgrade-Insecure-Requests%22%3A%221%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#ss-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "185.253.21.13",
+      "original": "ss://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d&amp;fp=chrome&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none#ss-RU%F0%9F%87%B7%F0%9F%87%BA-3",
+      "ip": "82.148.21.174",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "ss://3d164570-4bc2-4bb4-aed4-e5fa36bd8d1c@185.253.21.13:443?encryption=none&amp;security=tls&amp;sni=api.furypay.ru&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=api.furypay.ru&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%22Accept%22%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%2C%22Priority%22%3A%22u%3D0%2C%2Bi%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%2C%22Sec-Fetch-Dest%22%3A%22document%22%2C%22Sec-Fetch-Mode%22%3A%22navigate%22%2C%22Sec-Fetch-Site%22%3A%22none%22%2C%22Accept-Encoding%22%3A%22gzip%2C%2Bdeflate%2C%2Bbr%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Upgrade-Insecure-Requests%22%3A%221%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#ss-RU%F0%9F%87%B7%F0%9F%87%BA-1"
+      "rebuilt": "ss://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d&amp;fp=chrome&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none#ss-RU%F0%9F%87%B7%F0%9F%87%BA-3"
     },
     {
       "type": "vless",
@@ -24,26 +52,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#vless-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-2",
+      "original": "vless://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#vless-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-4",
       "ip": "158.160.143.127",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#vless-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-2"
-    },
-    {
-      "type": "vless",
-      "address": "185.253.21.13",
-      "port": "443",
-      "id": "3d164570-4bc2-4bb4-aed4-e5fa36bd8d1c",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://3d164570-4bc2-4bb4-aed4-e5fa36bd8d1c@185.253.21.13:443?encryption=none&amp;security=tls&amp;sni=api.furypay.ru&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=api.furypay.ru&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%22Accept%22%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%2C%22Priority%22%3A%22u%3D0%2C%2Bi%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%2C%22Sec-Fetch-Dest%22%3A%22document%22%2C%22Sec-Fetch-Mode%22%3A%22navigate%22%2C%22Sec-Fetch-Site%22%3A%22none%22%2C%22Accept-Encoding%22%3A%22gzip%2C%2Bdeflate%2C%2Bbr%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Upgrade-Insecure-Requests%22%3A%221%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-3",
-      "ip": "185.253.21.13",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://3d164570-4bc2-4bb4-aed4-e5fa36bd8d1c@185.253.21.13:443?encryption=none&amp;security=tls&amp;sni=api.furypay.ru&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=api.furypay.ru&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%22Accept%22%3A%22text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8%22%2C%22Priority%22%3A%22u%3D0%2C%2Bi%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F120.0.0.0%2BSafari%2F537.36%22%2C%22Sec-Fetch-Dest%22%3A%22document%22%2C%22Sec-Fetch-Mode%22%3A%22navigate%22%2C%22Sec-Fetch-Site%22%3A%22none%22%2C%22Accept-Encoding%22%3A%22gzip%2C%2Bdeflate%2C%2Bbr%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Upgrade-Insecure-Requests%22%3A%221%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#vless-tcp-reality-RU%F0%9F%87%B7%F0%9F%87%BA-4"
     },
     {
       "type": "ss",
@@ -52,24 +65,11 @@
       "method": "",
       "password": "",
       "name": "I 1210 (@Outline_Vpn) free<br/>vle6967a7f2-e8a7-497e-f72e-c989e9f896d7",
-      "original": "ss://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#ss-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "ss://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#ss-RU%F0%9F%87%B7%F0%9F%87%BA-5",
       "ip": "158.160.143.127",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "ss://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#ss-RU%F0%9F%87%B7%F0%9F%87%BA-4"
-    },
-    {
-      "type": "ss",
-      "address": "5.129.201.43",
-      "port": "23256",
-      "method": "chacha20-ietf-poly1305",
-      "password": "yALtyAtHfbw1Vu4pqh6wUc",
-      "name": "Russia Jfc timeweb</pre></div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#ss-chacha20-ietf-poly1305-RU%F0%9F%87%B7%F0%9F%87%BA-5",
-      "ip": "5.129.201.43",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#ss-chacha20-ietf-poly1305-RU%F0%9F%87%B7%F0%9F%87%BA-5"
+      "rebuilt": "ss://cloud1163@cloud.whitenet.online:443?security=reality&amp;encryption=none&amp;pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eh.vk.com&amp;sid=ab1cd2#ss-RU%F0%9F%87%B7%F0%9F%87%BA-5"
     }
   ]
 }

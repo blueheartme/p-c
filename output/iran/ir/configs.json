@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-26T16:20:01.243185",
-  "count": 4,
+  "updated": "2025-11-27T01:10:08.371690",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
@@ -16,17 +16,60 @@
       "rebuilt": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
+      "type": "vless",
+      "address": "hybrid.arvancloud.online",
+      "port": "44443",
+      "id": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
+      "name": "pigefgh<br/><br/>vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#Mgrctr</code></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "193.151.135.21",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "78.157.59.173",
+      "port": "2082",
+      "id": "e424094c-d2bf-450c-8037-13814aa1d7f5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&amp;type=tcp&amp;host=Zulla.ir&amp;path=%2F&amp;headerType=http#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "78.157.59.173",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&amp;type=tcp&amp;host=Zulla.ir&amp;path=%2F&amp;headerType=http#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
       "type": "ss",
       "address": "94.182.142.10",
       "port": "7074?security=&amp;type=tcp&amp;encryption=none",
       "method": "",
       "password": "",
       "name": "<a",
-      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4",
       "ip": "94.182.142.10",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+    },
+    {
+      "type": "ss",
+      "address": "78.157.59.173",
+      "port": "2082?security=none&amp;type=tcp&amp;host=Zulla.ir&amp;path=%2F&amp;headerType=http",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&amp;type=tcp&amp;host=Zulla.ir&amp;path=%2F&amp;headerType=http#ss-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "78.157.59.173",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&amp;type=tcp&amp;host=Zulla.ir&amp;path=%2F&amp;headerType=http#ss-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     },
     {
       "type": "vless",
@@ -37,26 +80,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-6",
       "ip": "94.182.142.10",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "hybrid.arvancloud.online",
-      "port": "44443",
-      "id": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
-      "name": "pigefgh<br/><br/>vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#Mgrctr</code></div>",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "193.151.135.21",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }
