@@ -1,34 +1,21 @@
 {
-  "updated": "2025-11-26T16:20:01.241653",
-  "count": 2,
+  "updated": "2025-11-27T16:19:21.041046",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
-      "address": "106.14.75.114",
-      "port": "50002",
-      "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+      "address": "119.29.98.43",
+      "port": "56532",
+      "id": "b20b5fcd-23f5-4f70-ba49-898d78296abf",
       "name": "🇨🇳China -> 🇨🇳China ⚡@DeamNet_Proxy",
-      "network": "raw",
+      "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQ07wn4yQLTEiLCJhZGQiOiIxMDYuMTQuNzUuMTE0IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9",
-      "ip": "106.14.75.114",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1DTvCfjJAtMSIsImFkZCI6IjExOS4yOS45OC40MyIsInBvcnQiOiI1NjUzMiIsImlkIjoiYjIwYjVmY2QtMjNmNS00ZjcwLWJhNDktODk4ZDc4Mjk2YWJmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0=",
+      "ip": "119.29.98.43",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQ07wn4yQLTEiLCJhZGQiOiIxMDYuMTQuNzUuMTE0IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9"
-    },
-    {
-      "type": "ss",
-      "address": "120.233.71.140",
-      "port": "52251",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://YWVzLTEyOC1nY206dG1kODQyNw%3D%3D@120.233.71.140:52251#ss-CN%F0%9F%8C%90-2",
-      "ip": "120.233.71.140",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206dG1kODQyNw%3D%3D@120.233.71.140:52251#ss-CN%F0%9F%8C%90-2"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1DTvCfjJAtMSIsImFkZCI6IjExOS4yOS45OC40MyIsInBvcnQiOiI1NjUzMiIsImlkIjoiYjIwYjVmY2QtMjNmNS00ZjcwLWJhNDktODk4ZDc4Mjk2YWJmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0="
     }
   ]
 }

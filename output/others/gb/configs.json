@@ -1,7 +1,36 @@
 {
-  "updated": "2025-11-27T08:22:51.860252",
-  "count": 3,
+  "updated": "2025-11-27T16:19:21.041965",
+  "count": 7,
   "configs": [
+    {
+      "type": "vless",
+      "address": "638947655359329765.birjand-drc-tusaas.info",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-1",
+      "ip": "146.19.230.250",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-1"
+    },
+    {
+      "type": "trojan",
+      "address": "57.128.183.77",
+      "port": "8443",
+      "password": "df16cfa5-5558-4610-a591-f23589588922",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://df16cfa5-5558-4610-a591-f23589588922@57.128.183.77:8443?path=%2FFree-VPN-CF-Geo-Project%2F57.128.183.77%3D8443&amp;security=tls&amp;host=joss.dus.biz.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.dus.biz.id#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-2",
+      "ip": "57.128.183.77",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "trojan://df16cfa5-5558-4610-a591-f23589588922@57.128.183.77:8443?path=%2FFree-VPN-CF-Geo-Project%2F57.128.183.77%3D8443&amp;security=tls&amp;host=joss.dus.biz.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.dus.biz.id#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-2"
+    },
     {
       "type": "trojan",
       "address": "195.22.157.104",
@@ -10,39 +39,65 @@
       "name": "United Kingdom QuickHost UK</pre></div>",
       "sni": "",
       "host": "",
-      "original": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1",
+      "original": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3",
       "ip": "195.22.157.104",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-1"
-    },
-    {
-      "type": "vless",
-      "address": "engliskieusjai.gojustore.site",
-      "port": "7035",
-      "id": "e265fc78-e269-46b2-9b6a-85f573dab3d5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2",
-      "ip": "51.89.175.143",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2"
+      "rebuilt": "trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&amp;security=tls&amp;alpn=http%2F1.1&amp;host=joon.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=httpupgrade&amp;sni=joon.arshiacomplus.dpdns.org#trojan-tcp-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3"
     },
     {
       "type": "ss",
-      "address": "engliskieusjai.gojustore.site",
-      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
+      "address": "series-a2.samanehha.co",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "W74XFALLLuw6m5IA",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#ss-chacha20-ietf-poly1305-GB%F0%9F%87%AC%F0%9F%87%A7-4",
+      "ip": "4.250.220.204",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#ss-chacha20-ietf-poly1305-GB%F0%9F%87%AC%F0%9F%87%A7-4"
+    },
+    {
+      "type": "ss",
+      "address": "638947655359329765.birjand-drc-tusaas.info",
+      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-GB%F0%9F%87%AC%F0%9F%87%A7-3",
-      "ip": "51.89.175.143",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-GB%F0%9F%87%AC%F0%9F%87%A7-5",
+      "ip": "146.19.230.250",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-GB%F0%9F%87%AC%F0%9F%87%A7-3"
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-GB%F0%9F%87%AC%F0%9F%87%A7-5"
+    },
+    {
+      "type": "ss",
+      "address": "185.138.164.2",
+      "port": "8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#ss-GB%F0%9F%87%AC%F0%9F%87%A7-6",
+      "ip": "185.138.164.2",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#ss-GB%F0%9F%87%AC%F0%9F%87%A7-6"
+    },
+    {
+      "type": "vless",
+      "address": "185.138.164.2",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-7",
+      "ip": "185.138.164.2",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-7"
     }
   ]
 }

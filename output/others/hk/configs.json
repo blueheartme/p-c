@@ -1,47 +1,62 @@
 {
-  "updated": "2025-11-27T08:22:51.880470",
-  "count": 3,
+  "updated": "2025-11-27T16:19:21.044700",
+  "count": 4,
   "configs": [
     {
+      "type": "vmess",
+      "address": "47.238.71.166",
+      "port": "3721",
+      "id": "0b3da6e0-2a41-49e4-8bee-cfa705d448fc",
+      "name": "t.me/entryNET",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0Ny4yMzguNzEuMTY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBiM2RhNmUwLTJhNDEtNDllNC04YmVlLWNmYTcwNWQ0NDhmYyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIzNzIxIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "ip": "47.238.71.166",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yMzguNzEuMTY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBiM2RhNmUwLTJhNDEtNDllNC04YmVlLWNmYTcwNWQ0NDhmYyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIzNzIxIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
+    },
+    {
+      "type": "ss",
+      "address": "104.129.164.253",
+      "port": "2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "104.129.164.253",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "ss://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
       "type": "vless",
-      "address": "27.50.48.8",
-      "port": "443",
-      "id": "602b380a-9fdf-4425-bc07-aae9a95cfc4b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "address": "104.129.164.253",
+      "port": "2096",
+      "id": "7556317c-dff6-46e8-ad29-b408f2a6456e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;path=%2F#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "27.50.48.8",
+      "original": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top#vless-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "104.129.164.253",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;path=%2F#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top#vless-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     },
     {
       "type": "ss",
-      "address": "27.50.48.8",
-      "port": "443?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;path=%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;path=%2F#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "27.50.48.8",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;path=%2F#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "ss",
-      "address": "sg03.ssyhi.xyz",
-      "port": "50220",
-      "method": "chacha20-ietf-poly1305",
-      "password": "58488114-45ae-4577-8764-7826ab621ee1",
+      "address": "ss.007.node-for-bigairport.win",
+      "port": "36888",
+      "method": "aes-256-gcm",
+      "password": "c69374da-2208-4cbd-b81e-cdf88b5e7f53",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@sg03.ssyhi.xyz:50220#ss-chacha20-ietf-poly1305-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "82.152.164.10",
+      "original": "ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.007.node-for-bigairport.win:36888#ss-aes-256-gcm-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "18.163.77.6",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@sg03.ssyhi.xyz:50220#ss-chacha20-ietf-poly1305-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.007.node-for-bigairport.win:36888#ss-aes-256-gcm-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

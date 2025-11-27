@@ -1,20 +1,34 @@
 {
-  "updated": "2025-11-27T08:22:51.878128",
-  "count": 1,
+  "updated": "2025-11-27T16:19:21.052950",
+  "count": 2,
   "configs": [
     {
-      "type": "trojan",
-      "address": "16.16.114.239",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
+      "type": "ss",
+      "address": "185.146.173.90",
+      "port": "2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2%2Chttp%2F1.1&amp;type=grpc",
+      "method": "",
+      "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@16.16.114.239:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "16.16.114.239",
+      "original": "ss://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@185.146.173.90:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2%2Chttp%2F1.1&amp;type=grpc#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "185.146.173.90",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@16.16.114.239:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "ss://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@185.146.173.90:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2%2Chttp%2F1.1&amp;type=grpc#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.146.173.90",
+      "port": "2053",
+      "id": "e0c18fb5-9de5-4180-8ffe-444b2601a5c7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@185.146.173.90:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2%2Chttp%2F1.1&amp;type=grpc#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "185.146.173.90",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@185.146.173.90:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2%2Chttp%2F1.1&amp;type=grpc#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

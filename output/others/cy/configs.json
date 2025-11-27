@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-27T08:22:51.874676",
+  "updated": "2025-11-27T16:19:21.053759",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "77.37.33.39",
-      "port": "443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com",
-      "method": "",
-      "password": "",
-      "name": "I 1167 (@Outline_Vpn) free<br/>vle2f60be6f-be0c-48b4-9772-b56f42b51ba1",
-      "original": "ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#ss-CY%F0%9F%8C%90-1",
-      "ip": "77.37.33.39",
-      "country": "CY",
-      "cdn": null,
-      "rebuilt": "ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#ss-CY%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "77.37.33.39",
@@ -24,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#vless-tcp-CY%F0%9F%8C%90-2",
+      "original": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#vless-tcp-CY%F0%9F%8C%90-1",
       "ip": "77.37.33.39",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#vless-tcp-CY%F0%9F%8C%90-2"
+      "rebuilt": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#vless-tcp-CY%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "77.37.33.39",
+      "port": "443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com",
+      "method": "",
+      "password": "",
+      "name": "I 1167 (@Outline_Vpn) free<br/>vle2f60be6f-be0c-48b4-9772-b56f42b51ba1",
+      "original": "ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#ss-CY%F0%9F%8C%90-2",
+      "ip": "77.37.33.39",
+      "country": "CY",
+      "cdn": null,
+      "rebuilt": "ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&amp;security=tls&amp;encryption=none&amp;host=gb-8981.shenzogmbh.com&amp;fp=chrome&amp;type=ws&amp;sni=gb-8981.shenzogmbh.com#ss-CY%F0%9F%8C%90-2"
     }
   ]
 }
