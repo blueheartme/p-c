@@ -1,36 +1,19 @@
 {
-  "updated": "2025-11-27T01:10:08.355812",
-  "count": 16,
+  "updated": "2025-11-27T08:22:51.859092",
+  "count": 14,
   "configs": [
     {
-      "type": "vless",
-      "address": "157.180.123.25",
-      "port": "443",
-      "id": "638c1918-f6f0-4ecc-85e6-a3ac50ed9c02",
-      "name": "Finland Hetzner</pre></div>",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "157.180.123.25",
+      "type": "ss",
+      "address": "65.109.207.29",
+      "port": "8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "65.109.207.29",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "vless",
-      "address": "65.109.177.74",
-      "port": "443",
-      "id": "f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca",
-      "name": "I 1188 (@Outline_Vpn) free<br/>vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&amp;encryption=none&amp;pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=200f99e321#I 1189 (@Outline_Vpn) free<br/>vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=service.rogsoftwaregroup.com#I 1190 (@Outline_Vpn) free<br/>vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&amp;security=none&amp;encryption=none&amp;type=ws#I 1191 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "65.109.177.74",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "ss://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "vless",
@@ -41,52 +24,67 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=node.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=node.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "65.109.179.90",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=node.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=node.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "ss",
-      "address": "65.109.207.29",
-      "port": "8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp",
+      "address": "65.109.177.74",
+      "port": "443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4",
-      "ip": "65.109.207.29",
+      "name": "I 1188 (@Outline_Vpn) free<br/>vle6a8ee307-a1fb-4801-92e2-86253ecdd88d",
+      "original": "ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "ip": "65.109.177.74",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+      "rebuilt": "ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     },
     {
       "type": "vless",
-      "address": "marzpsubrsp.hlewx.com",
-      "port": "20340",
-      "id": "ca0ef0f2-1437-4e4b-b3e3-de82aa651003",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "65.109.207.29",
+      "port": "8080",
+      "id": "1889c0f3-77d5-448f-9d8e-726888940ce7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&amp;encryption=none&amp;host=refersion.com&amp;headerType=http&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "46.62.196.83",
+      "original": "vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "65.109.207.29",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&amp;encryption=none&amp;host=refersion.com&amp;headerType=http&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5"
+      "rebuilt": "vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
       "type": "ss",
+      "address": "185.193.102.7",
+      "port": "57456",
+      "method": "chacha20-ietf-poly1305",
+      "password": "360e21d21977dc11",
+      "name": "Finland Baxet Group Incz</pre></div>",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "ip": "185.193.102.7",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-5"
+    },
+    {
+      "type": "vless",
       "address": "157.180.123.25",
-      "port": "443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "638c1918-f6f0-4ecc-85e6-a3ac50ed9c02",
       "name": "Finland Hetzner</pre></div>",
-      "original": "ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#ss-FI%F0%9F%87%AB%F0%9F%87%AE-6",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=none&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-6",
       "ip": "157.180.123.25",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#ss-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=none&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-6"
     },
     {
       "type": "ss",
@@ -102,6 +100,19 @@
       "rebuilt": "ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=none&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#ss-FI%F0%9F%87%AB%F0%9F%87%AE-7"
     },
     {
+      "type": "ss",
+      "address": "157.180.123.25",
+      "port": "443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "Finland Hetzner</pre></div>",
+      "original": "ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#ss-FI%F0%9F%87%AB%F0%9F%87%AE-8",
+      "ip": "157.180.123.25",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#ss-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+    },
+    {
       "type": "vless",
       "address": "65.108.1.249",
       "port": "443",
@@ -110,11 +121,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-8",
+      "original": "vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-9",
       "ip": "65.108.1.249",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+      "rebuilt": "vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-9"
     },
     {
       "type": "ss",
@@ -123,24 +134,26 @@
       "method": "",
       "password": "",
       "name": "I 1170 (@Outline_Vpn) free<br/>vlecd79807f-bcef-46b8-93b6-229676a0c1a0",
-      "original": "ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&amp;encryption=none&amp;pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;sid=9d36b8589fa524fd#ss-FI%F0%9F%87%AB%F0%9F%87%AE-9",
+      "original": "ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&amp;encryption=none&amp;pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;sid=9d36b8589fa524fd#ss-FI%F0%9F%87%AB%F0%9F%87%AE-10",
       "ip": "62.60.237.26",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&amp;encryption=none&amp;pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;sid=9d36b8589fa524fd#ss-FI%F0%9F%87%AB%F0%9F%87%AE-9"
+      "rebuilt": "ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&amp;encryption=none&amp;pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;sid=9d36b8589fa524fd#ss-FI%F0%9F%87%AB%F0%9F%87%AE-10"
     },
     {
-      "type": "ss",
-      "address": "185.193.102.7",
-      "port": "57456",
-      "method": "chacha20-ietf-poly1305",
-      "password": "360e21d21977dc11",
-      "name": "Finland Baxet Group Incz</pre></div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-10",
-      "ip": "185.193.102.7",
+      "type": "vless",
+      "address": "65.109.177.74",
+      "port": "443",
+      "id": "f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca",
+      "name": "I 1188 (@Outline_Vpn) free<br/>vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&amp;encryption=none&amp;pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=200f99e321#I 1189 (@Outline_Vpn) free<br/>vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=service.rogsoftwaregroup.com#I 1190 (@Outline_Vpn) free<br/>vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&amp;security=none&amp;encryption=none&amp;type=ws#I 1191 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-11",
+      "ip": "65.109.177.74",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-10"
+      "rebuilt": "vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#vless-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-11"
     },
     {
       "type": "ss",
@@ -149,24 +162,11 @@
       "method": "",
       "password": "",
       "name": "I 1184 (@Outline_Vpn) free<br/>vlee0976e35-a651-4f34-b5b1-c9ac9f75cb74",
-      "original": "ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#ss-FI%F0%9F%87%AB%F0%9F%87%AE-11",
+      "original": "ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#ss-FI%F0%9F%87%AB%F0%9F%87%AE-12",
       "ip": "65.108.1.249",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#ss-FI%F0%9F%87%AB%F0%9F%87%AE-11"
-    },
-    {
-      "type": "ss",
-      "address": "65.109.177.74",
-      "port": "443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org",
-      "method": "",
-      "password": "",
-      "name": "I 1188 (@Outline_Vpn) free<br/>vle6a8ee307-a1fb-4801-92e2-86253ecdd88d",
-      "original": "ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-12",
-      "ip": "65.109.177.74",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=dmt.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-12"
+      "rebuilt": "ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=cdn.chandplus.com#ss-FI%F0%9F%87%AB%F0%9F%87%AE-12"
     },
     {
       "type": "ss",
@@ -195,34 +195,6 @@
       "country": "FI",
       "cdn": null,
       "rebuilt": "vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&amp;encryption=none&amp;pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;sid=9d36b8589fa524fd#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-14"
-    },
-    {
-      "type": "ss",
-      "address": "marzpsubrsp.hlewx.com",
-      "port": "20340?security=none&amp;encryption=none&amp;host=refersion.com&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&amp;encryption=none&amp;host=refersion.com&amp;headerType=http&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-15",
-      "ip": "46.62.196.83",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&amp;encryption=none&amp;host=refersion.com&amp;headerType=http&amp;type=tcp#ss-FI%F0%9F%87%AB%F0%9F%87%AE-15"
-    },
-    {
-      "type": "vless",
-      "address": "65.109.207.29",
-      "port": "8080",
-      "id": "1889c0f3-77d5-448f-9d8e-726888940ce7",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-16",
-      "ip": "65.109.207.29",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://1889c0f3-77d5-448f-9d8e-726888940ce7@65.109.207.29:8080?security=none&amp;encryption=none&amp;host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-16"
     }
   ]
 }

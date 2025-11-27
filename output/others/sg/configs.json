@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-27T01:10:08.379289",
-  "count": 2,
+  "updated": "2025-11-27T08:22:51.869587",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -10,10 +10,38 @@
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "original": "ss://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "152.42.181.255",
+      "ip": "54.254.151.244",
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "dl5-sg4-cdn.fastfilecdn.org",
+      "port": "2052",
+      "id": "f0421701-434d-4b7f-aba0-98b2ee1fce9b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "51.79.173.141",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "ss",
+      "address": "dl5-sg4-cdn.fastfilecdn.org",
+      "port": "2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "51.79.173.141",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
@@ -24,11 +52,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "152.42.181.255",
+      "original": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "54.254.151.244",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }
