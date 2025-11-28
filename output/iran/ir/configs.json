@@ -1,50 +1,7 @@
 {
-  "updated": "2025-11-28T01:08:57.852595",
+  "updated": "2025-11-28T08:22:08.219472",
   "count": 6,
   "configs": [
-    {
-      "type": "vless",
-      "address": "94.182.142.10",
-      "port": "7074",
-      "id": "1ba0161d-cb3d-4d10-b2ff-72e891687126",
-      "name": "<a",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "94.182.142.10",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "hybrid.arvancloud.online",
-      "port": "44443",
-      "id": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
-      "name": "pigefgh<br/><br/>vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#Mgrctr</code></div>",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "193.151.135.21",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "94.182.142.10",
-      "port": "7074?security=&amp;type=tcp&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "<a",
-      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "94.182.142.10",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
     {
       "type": "ss",
       "address": "hybrid.arvancloud.online",
@@ -52,11 +9,11 @@
       "method": "",
       "password": "",
       "name": "pigefgh<br/><br/>vlead069756-c14b-4443-87af-4a503c5c08f5",
-      "original": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "original": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "193.151.135.21",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
@@ -65,11 +22,11 @@
       "method": "",
       "password": "",
       "name": "",
-      "original": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "original": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "rebuilt": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -80,13 +37,56 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "original": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=pas-kale-agha.pages.dev&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=pas-kale-agha.pages.dev&amp;path=%2Ftelegram@@cav2ray%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "hybrid.arvancloud.online",
+      "port": "44443",
+      "id": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
+      "name": "pigefgh<br/><br/>vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#Mgrctr</code></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "ip": "193.151.135.21",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "94.182.142.10",
+      "port": "7074",
+      "id": "1ba0161d-cb3d-4d10-b2ff-72e891687126",
+      "name": "<a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "94.182.142.10",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+    },
+    {
+      "type": "ss",
+      "address": "94.182.142.10",
+      "port": "7074?security=&amp;type=tcp&amp;encryption=none",
+      "method": "",
+      "password": "",
+      "name": "<a",
+      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "ip": "94.182.142.10",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }

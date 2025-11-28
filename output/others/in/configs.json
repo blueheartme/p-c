@@ -1,7 +1,20 @@
 {
-  "updated": "2025-11-28T01:08:57.851771",
+  "updated": "2025-11-28T08:22:08.223925",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.88.183.156",
+      "port": "12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "Cyprus Dedipath</pre></div>",
+      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "45.88.183.156",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "vless",
       "address": "45.88.183.156",
@@ -11,24 +24,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "45.88.183.156",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.88.183.156",
-      "port": "12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "Cyprus Dedipath</pre></div>",
-      "original": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "45.88.183.156",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
