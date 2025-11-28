@@ -1,34 +1,20 @@
 {
-  "updated": "2025-11-28T01:08:57.860874",
-  "count": 2,
+  "updated": "2025-11-28T16:19:01.947553",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "101.32.168.155",
-      "port": "28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "101.32.168.155",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "101.32.168.155",
-      "port": "28443",
-      "id": "f64bdc57-0f54-4705-bf75-cfd646d98c06",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
+      "type": "trojan",
+      "address": "185.151.146.211",
+      "port": "443",
+      "password": "7522e2c27233459aab8d0f1d715828d0",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "101.32.168.155",
+      "original": "trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?encryption=none&amp;security=tls&amp;sni=www.gpt123.one&amp;type=raw&amp;headertype=none#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "185.151.146.211",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?encryption=none&amp;security=tls&amp;sni=www.gpt123.one&amp;type=raw&amp;headertype=none#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

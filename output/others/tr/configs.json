@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-28T08:22:08.210127",
-  "count": 6,
+  "updated": "2025-11-28T16:19:01.942202",
+  "count": 5,
   "configs": [
-    {
-      "type": "ss",
-      "address": "103.231.75.74",
-      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
-      "method": "",
-      "password": "",
-      "name": "I 1175 (@Outline_Vpn) free<br/>vle401374e6-df77-41fb-f638-dad8184f175b",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "103.231.75.74",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "38.180.105.12",
@@ -22,11 +9,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "tJlEWh2PzDMew8qo9YkPEA",
       "name": "Turkey Cogent Conmunications</pre></div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "38.180.105.12",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.231.75.74",
+      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "I 1175 (@Outline_Vpn) free<br/>vle401374e6-df77-41fb-f638-dad8184f175b",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "103.231.75.74",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -45,44 +45,31 @@
     },
     {
       "type": "ss",
-      "address": "Turunc.sefrtasad.com",
-      "port": "122?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=connectivitycheck.gstatic.com&amp;fp=firefox&amp;pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&amp;sid=ad916a3b743915d1",
+      "address": "188.132.141.112",
+      "port": "2095?path=%2F&amp;security=&amp;encryption=none&amp;type=httpupgrade",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://08d6af7e-58b0-c032-3d13-9121f946299c@Turunc.sefrtasad.com:122?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=connectivitycheck.gstatic.com&amp;fp=firefox&amp;pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&amp;sid=ad916a3b743915d1#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "31.57.225.221",
+      "original": "ss://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095?path=%2F&amp;security=&amp;encryption=none&amp;type=httpupgrade#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "188.132.141.112",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08d6af7e-58b0-c032-3d13-9121f946299c@Turunc.sefrtasad.com:122?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=connectivitycheck.gstatic.com&amp;fp=firefox&amp;pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&amp;sid=ad916a3b743915d1#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "62.133.63.230",
-      "port": "1580",
-      "method": "chacha20-ietf-poly1305",
-      "password": "KgcKQpFCkXnOJXceV68o12",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ2NLUXBGQ2tYbk9KWGNlVjY4bzEy@62.133.63.230:1580#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "62.133.63.230",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ2NLUXBGQ2tYbk9KWGNlVjY4bzEy@62.133.63.230:1580#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "ss://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095?path=%2F&amp;security=&amp;encryption=none&amp;type=httpupgrade#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
-      "address": "Turunc.sefrtasad.com",
-      "port": "122",
-      "id": "08d6af7e-58b0-c032-3d13-9121f946299c",
+      "address": "188.132.141.112",
+      "port": "2095",
+      "id": "3855723f-0260-4014-9225-4b0025f1768c",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://08d6af7e-58b0-c032-3d13-9121f946299c@Turunc.sefrtasad.com:122?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=connectivitycheck.gstatic.com&amp;fp=firefox&amp;pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&amp;sid=ad916a3b743915d1#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-6",
-      "ip": "31.57.225.221",
+      "original": "vless://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095?path=%2F&amp;security=&amp;encryption=none&amp;type=httpupgrade#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "188.132.141.112",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://08d6af7e-58b0-c032-3d13-9121f946299c@Turunc.sefrtasad.com:122?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=connectivitycheck.gstatic.com&amp;fp=firefox&amp;pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&amp;sid=ad916a3b743915d1#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "vless://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095?path=%2F&amp;security=&amp;encryption=none&amp;type=httpupgrade#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }
