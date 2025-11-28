@@ -1,20 +1,34 @@
 {
-  "updated": "2025-11-25T16:21:26.327076",
-  "count": 1,
+  "updated": "2025-11-28T01:08:57.859387",
+  "count": 2,
   "configs": [
     {
-      "type": "trojan",
-      "address": "172.64.201.25",
-      "port": "443",
-      "password": "blue2024",
+      "type": "vless",
+      "address": "185.193.31.253",
+      "port": "2096",
+      "id": "2456f90c-5183-476d-b069-16ae74ce120f",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
       "sni": "",
       "host": "",
-      "original": "trojan://blue2024@172.64.201.25:443?security=tls&amp;sni=tb.promote.icu&amp;type=ws&amp;host=tb.promote.icu&amp;path=%2F#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "172.64.201.25",
+      "original": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "185.193.31.253",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://blue2024@172.64.201.25:443?security=tls&amp;sni=tb.promote.icu&amp;type=ws&amp;host=tb.promote.icu&amp;path=%2F#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.193.31.253",
+      "port": "2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "185.193.31.253",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

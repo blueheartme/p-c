@@ -1,62 +1,34 @@
 {
-  "updated": "2025-11-27T08:22:51.869587",
-  "count": 4,
+  "updated": "2025-11-28T01:08:57.860874",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "www.bestprovider.site",
-      "port": "443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none",
+      "address": "101.32.168.155",
+      "port": "28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "54.254.151.244",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "101.32.168.155",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vless",
-      "address": "dl5-sg4-cdn.fastfilecdn.org",
-      "port": "2052",
-      "id": "f0421701-434d-4b7f-aba0-98b2ee1fce9b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "101.32.168.155",
+      "port": "28443",
+      "id": "f64bdc57-0f54-4705-bf75-cfd646d98c06",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "51.79.173.141",
+      "original": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "101.32.168.155",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "ss",
-      "address": "dl5-sg4-cdn.fastfilecdn.org",
-      "port": "2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "51.79.173.141",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-sg4-cdn.fastfilecdn.org:2052?path=%2F&amp;security=&amp;encryption=none&amp;host=dl5-sg4-cdn.fastfilecdn.org&amp;fp=firefox&amp;type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "vless",
-      "address": "www.bestprovider.site",
-      "port": "443",
-      "id": "18a58884-1279-4155-be96-9124497aae5d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "54.254.151.244",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://18a58884-1279-4155-be96-9124497aae5d@www.bestprovider.site:443?encryption=none&amp;security=tls&amp;sni=aka.ms&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=raw&amp;headertype=none#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@101.32.168.155:28443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.nneko.netlib.re#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }
