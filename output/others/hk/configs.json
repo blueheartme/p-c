@@ -1,48 +1,19 @@
 {
-  "updated": "2025-11-28T16:19:01.928374",
-  "count": 3,
+  "updated": "2025-11-29T16:17:48.719646",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "223.18.129.85",
-      "port": "11263?security=tls&amp;sni=hw.kpcloud.eu.org&amp;type=ws&amp;path=%2Fblue",
-      "method": "",
-      "password": "",
+      "address": "hk01.ssyhi.xyz",
+      "port": "50200",
+      "method": "chacha20-ietf-poly1305",
+      "password": "58488114-45ae-4577-8764-7826ab621ee1",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?security=tls&amp;sni=hw.kpcloud.eu.org&amp;type=ws&amp;path=%2Fblue#ss-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "223.18.129.85",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@hk01.ssyhi.xyz:50200#ss-chacha20-ietf-poly1305-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "82.152.164.10",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?security=tls&amp;sni=hw.kpcloud.eu.org&amp;type=ws&amp;path=%2Fblue#ss-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "trojan",
-      "address": "27.50.49.47",
-      "port": "2083",
-      "password": "SSorg",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "",
-      "host": "",
-      "original": "trojan://SSorg@27.50.49.47:2083?allowInsecure=1&amp;sni=ssjj.esslh.filegear-sg.me#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "27.50.49.47",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://SSorg@27.50.49.47:2083?allowInsecure=1&amp;sni=ssjj.esslh.filegear-sg.me#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vless",
-      "address": "223.18.129.85",
-      "port": "11263",
-      "id": "a13df940-020c-465f-bc89-ee5279b5cd6a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?security=tls&amp;sni=hw.kpcloud.eu.org&amp;type=ws&amp;path=%2Fblue#vless-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "223.18.129.85",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?security=tls&amp;sni=hw.kpcloud.eu.org&amp;type=ws&amp;path=%2Fblue#vless-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@hk01.ssyhi.xyz:50200#ss-chacha20-ietf-poly1305-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     }
   ]
 }

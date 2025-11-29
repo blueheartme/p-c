@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-29T01:09:25.147901",
-  "count": 4,
+  "updated": "2025-11-29T16:17:48.702282",
+  "count": 11,
   "configs": [
     {
       "type": "vless",
@@ -19,16 +19,29 @@
     },
     {
       "type": "ss",
-      "address": "hybrid.arvancloud.online",
-      "port": "44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net",
+      "address": "94.182.142.10",
+      "port": "7074?security=&amp;type=tcp&amp;encryption=none",
       "method": "",
       "password": "",
-      "name": "pigefgh<br/><br/>vlead069756-c14b-4443-87af-4a503c5c08f5",
-      "original": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "193.151.135.21",
+      "name": "<a",
+      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.142.10",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "92.61.180.83",
+      "port": "80?security=none&amp;type=ws&amp;host=www.masoud.ir&amp;path=/?ed%3D222",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://089f2b07-81bd-4b9a-b88f-b9830ff706bf@92.61.180.83:80?security=none&amp;type=ws&amp;host=www.masoud.ir&amp;path=/?ed%3D222#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "92.61.180.83",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://089f2b07-81bd-4b9a-b88f-b9830ff706bf@92.61.180.83:80?security=none&amp;type=ws&amp;host=www.masoud.ir&amp;path=/?ed%3D222#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -39,24 +52,108 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4",
       "ip": "193.151.135.21",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#vless-tcp-reality-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "188.0.247.17",
+      "port": "8017",
+      "id": "561adbb2-3d0d-45cb-9dc2-a30adbaae667",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://561adbb2-3d0d-45cb-9dc2-a30adbaae667@188.0.247.17:8017?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "188.0.247.17",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://561adbb2-3d0d-45cb-9dc2-a30adbaae667@188.0.247.17:8017?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     },
     {
       "type": "ss",
-      "address": "94.182.142.10",
-      "port": "7074?security=&amp;type=tcp&amp;encryption=none",
+      "address": "hybrid.arvancloud.online",
+      "port": "44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net",
       "method": "",
       "password": "",
-      "name": "<a",
-      "original": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "94.182.142.10",
+      "name": "pigefgh<br/><br/>vlead069756-c14b-4443-87af-4a503c5c08f5",
+      "original": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "ip": "193.151.135.21",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&amp;type=tcp&amp;encryption=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&amp;encryption=none&amp;pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net#ss-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+    },
+    {
+      "type": "ss",
+      "address": "188.0.247.17",
+      "port": "8017?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://561adbb2-3d0d-45cb-9dc2-a30adbaae667@188.0.247.17:8017?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-7",
+      "ip": "188.0.247.17",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://561adbb2-3d0d-45cb-9dc2-a30adbaae667@188.0.247.17:8017?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-7"
+    },
+    {
+      "type": "ss",
+      "address": "213.176.0.80",
+      "port": "222/?type=tcp&amp;path=%2F&amp;headerType=http&amp;security=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://235f129b-ea8b-473e-afd1-d8db54c37ef8@213.176.0.80:222/?type=tcp&amp;path=%2F&amp;headerType=http&amp;security=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-8",
+      "ip": "213.176.0.80",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://235f129b-ea8b-473e-afd1-d8db54c37ef8@213.176.0.80:222/?type=tcp&amp;path=%2F&amp;headerType=http&amp;security=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-8"
+    },
+    {
+      "type": "ss",
+      "address": "134.255.204.120",
+      "port": "7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#ss-IR%F0%9F%87%AE%F0%9F%87%B7-9",
+      "ip": "134.255.204.120",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#ss-IR%F0%9F%87%AE%F0%9F%87%B7-9"
+    },
+    {
+      "type": "vless",
+      "address": "134.255.204.120",
+      "port": "7033",
+      "id": "b3135464-6cf4-4d45-b5a5-743841ade728",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-10",
+      "ip": "134.255.204.120",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-10"
+    },
+    {
+      "type": "vless",
+      "address": "92.61.180.83",
+      "port": "80",
+      "id": "089f2b07-81bd-4b9a-b88f-b9830ff706bf",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://089f2b07-81bd-4b9a-b88f-b9830ff706bf@92.61.180.83:80?security=none&amp;type=ws&amp;host=www.masoud.ir&amp;path=/?ed%3D222#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-11",
+      "ip": "92.61.180.83",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "vless://089f2b07-81bd-4b9a-b88f-b9830ff706bf@92.61.180.83:80?security=none&amp;type=ws&amp;host=www.masoud.ir&amp;path=/?ed%3D222#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-11"
     }
   ]
 }
