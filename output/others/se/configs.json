@@ -1,34 +1,62 @@
 {
-  "updated": "2025-11-28T08:22:08.210969",
-  "count": 2,
+  "updated": "2025-11-29T01:09:25.143650",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "91.230.128.10",
-      "port": "993?security=reality&amp;encryption=none&amp;pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com",
-      "method": "",
-      "password": "",
+      "type": "vless",
+      "address": "95.111.209.125",
+      "port": "8443",
+      "id": "ddc5c720-12a5-4672-b7c6-14304c9d9575",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&amp;encryption=none&amp;pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "91.230.128.10",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://ddc5c720-12a5-4672-b7c6-14304c9d9575@95.111.209.125:8443?type=tcp&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=none#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "95.111.209.125",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&amp;encryption=none&amp;pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://ddc5c720-12a5-4672-b7c6-14304c9d9575@95.111.209.125:8443?type=tcp&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=none#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
-      "address": "91.230.128.10",
-      "port": "993",
-      "id": "40730d97-ffa7-1108-2c53-761516eb5fda",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
+      "address": "70.34.207.109",
+      "port": "21064",
+      "id": "b6cbb142-54a5-483d-a673-c45030af1075",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&amp;encryption=none&amp;pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "91.230.128.10",
+      "original": "vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&amp;encryption=none&amp;security=none#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "70.34.207.109",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&amp;encryption=none&amp;pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&amp;encryption=none&amp;security=none#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "95.111.209.125",
+      "port": "8443?type=tcp&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://ddc5c720-12a5-4672-b7c6-14304c9d9575@95.111.209.125:8443?type=tcp&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "95.111.209.125",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://ddc5c720-12a5-4672-b7c6-14304c9d9575@95.111.209.125:8443?type=tcp&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "ss",
+      "address": "70.34.207.109",
+      "port": "21064?type=tcp&amp;encryption=none&amp;security=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&amp;encryption=none&amp;security=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "70.34.207.109",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&amp;encryption=none&amp;security=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }

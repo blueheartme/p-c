@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-28T16:19:01.943823",
-  "count": 2,
+  "updated": "2025-11-29T01:09:25.137325",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -29,6 +29,34 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#vless-tcp-ES%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.12.150.186",
+      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-ES%F0%9F%8C%90-3",
+      "ip": "45.12.150.186",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-ES%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "45.12.150.186",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-ES%F0%9F%8C%90-4",
+      "ip": "45.12.150.186",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-ES%F0%9F%8C%90-4"
     }
   ]
 }
