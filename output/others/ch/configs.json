@@ -1,34 +1,48 @@
 {
-  "updated": "2025-11-30T08:19:12.419457",
-  "count": 2,
+  "updated": "2025-11-30T16:17:53.382068",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "83.228.210.214",
-      "port": "443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ok.ru&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;spx=/",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ok.ru&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.210.214",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ok.ru&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
       "type": "vless",
-      "address": "83.228.210.214",
-      "port": "443",
-      "id": "c5fdf480-3942-4fc9-9e73-f6899c24bda6",
+      "address": "83.228.225.112",
+      "port": "58920",
+      "id": "5da5f1fa-61b0-4a19-8637-acc5fca5f895",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ok.ru&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.210.214",
+      "original": "vless://5da5f1fa-61b0-4a19-8637-acc5fca5f895@83.228.225.112:58920?security=reality&amp;sni=fontawesome.com&amp;fp=chrome&amp;pbk=EM1NObkPHMzDSll1dfGtKsOnE9_la5ExvulW7REt2SA&amp;sid=bc9de70468&amp;spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.225.112",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=ok.ru&amp;pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&amp;sid=41f38b2355acf7bc&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://5da5f1fa-61b0-4a19-8637-acc5fca5f895@83.228.225.112:58920?security=reality&amp;sni=fontawesome.com&amp;fp=chrome&amp;pbk=EM1NObkPHMzDSll1dfGtKsOnE9_la5ExvulW7REt2SA&amp;sid=bc9de70468&amp;spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "176.10.124.178",
+      "port": "443",
+      "password": "01b69355-17c1-4298-9e00-a266946fd977",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://01b69355-17c1-4298-9e00-a266946fd977@176.10.124.178:443?path=%2FFree-VPN-CF-Geo-Project%2F176.10.124.178%3D443&amp;security=tls&amp;host=joss.gpj.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "176.10.124.178",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://01b69355-17c1-4298-9e00-a266946fd977@176.10.124.178:443?path=%2FFree-VPN-CF-Geo-Project%2F176.10.124.178%3D443&amp;security=tls&amp;host=joss.gpj.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "ss",
+      "address": "83.228.225.112",
+      "port": "58920?security=reality&amp;sni=fontawesome.com&amp;fp=chrome&amp;pbk=EM1NObkPHMzDSll1dfGtKsOnE9_la5ExvulW7REt2SA&amp;sid=bc9de70468&amp;spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://5da5f1fa-61b0-4a19-8637-acc5fca5f895@83.228.225.112:58920?security=reality&amp;sni=fontawesome.com&amp;fp=chrome&amp;pbk=EM1NObkPHMzDSll1dfGtKsOnE9_la5ExvulW7REt2SA&amp;sid=bc9de70468&amp;spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "83.228.225.112",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://5da5f1fa-61b0-4a19-8637-acc5fca5f895@83.228.225.112:58920?security=reality&amp;sni=fontawesome.com&amp;fp=chrome&amp;pbk=EM1NObkPHMzDSll1dfGtKsOnE9_la5ExvulW7REt2SA&amp;sid=bc9de70468&amp;spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

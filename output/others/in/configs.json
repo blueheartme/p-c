@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-30T08:19:12.415580",
-  "count": 2,
+  "updated": "2025-11-30T16:17:53.382967",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -29,6 +29,21 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "vmess",
+      "address": "94.136.185.230",
+      "port": "10534",
+      "id": "b01c7ef9-33ec-41f6-bfbf-77ddc4d21649",
+      "name": "t.me/entryNET",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0IiwicHMiOiJ2bWVzcy10Y3AtSU7wn4eu8J+Hsy0zIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "94.136.185.230",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0IiwicHMiOiJ2bWVzcy10Y3AtSU7wn4eu8J+Hsy0zIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }

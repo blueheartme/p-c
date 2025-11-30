@@ -1,19 +1,34 @@
 {
-  "updated": "2025-11-27T08:22:51.876365",
-  "count": 1,
+  "updated": "2025-11-30T16:17:53.371797",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "31.6.1.187",
-      "port": "25607/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;security=reality&amp;pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&amp;sid=84",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;security=reality&amp;pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&amp;sid=84#ss-RO%F0%9F%8C%90-1",
-      "ip": "31.6.1.187",
+      "type": "vless",
+      "address": "141.227.180.211",
+      "port": "25365",
+      "id": "1375d9a1-dece-4bbb-8131-29e06afd8ca4",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-RO%F0%9F%8C%90-1",
+      "ip": "141.227.180.211",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;security=reality&amp;pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&amp;sid=84#ss-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-RO%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "141.227.180.211",
+      "port": "25365?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-RO%F0%9F%8C%90-2",
+      "ip": "141.227.180.211",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "ss://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-RO%F0%9F%8C%90-2"
     }
   ]
 }
