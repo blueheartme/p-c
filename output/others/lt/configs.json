@@ -1,19 +1,34 @@
 {
-  "updated": "2025-11-29T01:09:25.152056",
-  "count": 1,
+  "updated": "2025-11-30T08:19:12.414170",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "94.131.13.163",
-      "port": "8880/?mode=gun&amp;security=none&amp;encryption=none&amp;authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=grpc",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880/?mode=gun&amp;security=none&amp;encryption=none&amp;authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=grpc#ss-LT%F0%9F%8C%90-1",
-      "ip": "94.131.13.163",
+      "type": "vless",
+      "address": "94.131.13.110",
+      "port": "2052",
+      "id": "17a7b879-4c4b-500a-815b-49507fdf1aa7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://17a7b879-4c4b-500a-815b-49507fdf1aa7@94.131.13.110:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#vless-tcp-LT%F0%9F%8C%90-1",
+      "ip": "94.131.13.110",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880/?mode=gun&amp;security=none&amp;encryption=none&amp;authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=grpc#ss-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://17a7b879-4c4b-500a-815b-49507fdf1aa7@94.131.13.110:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#vless-tcp-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "94.131.13.110",
+      "port": "2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://17a7b879-4c4b-500a-815b-49507fdf1aa7@94.131.13.110:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#ss-LT%F0%9F%8C%90-2",
+      "ip": "94.131.13.110",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://17a7b879-4c4b-500a-815b-49507fdf1aa7@94.131.13.110:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#ss-LT%F0%9F%8C%90-2"
     }
   ]
 }

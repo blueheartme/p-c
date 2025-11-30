@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-30T01:19:17.777523",
+  "updated": "2025-11-30T08:19:12.417819",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "190.93.246.89",
-      "port": "80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp",
-      "method": "",
-      "password": "",
-      "name": "🇺🇲@vpn_ioss ♻️ عضو شو</div>",
-      "original": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-1",
-      "ip": "190.93.246.89",
-      "country": "CR",
-      "cdn": null,
-      "rebuilt": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "190.93.246.89",
@@ -24,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#vless-tcp-CR%F0%9F%8C%90-2",
+      "original": "vless://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#vless-tcp-CR%F0%9F%8C%90-1",
       "ip": "190.93.246.89",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#vless-tcp-CR%F0%9F%8C%90-2"
+      "rebuilt": "vless://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#vless-tcp-CR%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "190.93.246.89",
+      "port": "80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp",
+      "method": "",
+      "password": "",
+      "name": "🇺🇲@vpn_ioss ♻️ عضو شو</div>",
+      "original": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-2",
+      "ip": "190.93.246.89",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-2"
     }
   ]
 }

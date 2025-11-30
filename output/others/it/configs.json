@@ -1,47 +1,19 @@
 {
-  "updated": "2025-11-29T16:17:48.693303",
-  "count": 3,
+  "updated": "2025-11-30T08:19:12.422514",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "176.126.83.158",
-      "port": "990?note=--Telegram--",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990?note=--Telegram--@NetifyVPN--#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
-      "ip": "176.126.83.158",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990?note=--Telegram--@NetifyVPN--#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "113.30.150.123",
-      "port": "6064",
-      "id": "e9e8dc55-af45-4d21-a116-ac9bb68ca2a2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://e9e8dc55-af45-4d21-a116-ac9bb68ca2a2@113.30.150.123:6064?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Fpath&amp;host=&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#vless-tcp-IT%F0%9F%8C%90-2",
-      "ip": "113.30.150.123",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://e9e8dc55-af45-4d21-a116-ac9bb68ca2a2@113.30.150.123:6064?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Fpath&amp;host=&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#vless-tcp-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "113.30.150.123",
-      "port": "6064?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Fpath&amp;host=&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D",
+      "address": "91.193.5.121",
+      "port": "8443/?type=ws&amp;encryption=none&amp;host=vl.kouok.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vl.kouok.us.kg&amp;fp=random",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://e9e8dc55-af45-4d21-a116-ac9bb68ca2a2@113.30.150.123:6064?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Fpath&amp;host=&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#ss-IT%F0%9F%8C%90-3",
-      "ip": "113.30.150.123",
+      "original": "ss://500fa635-f420-4148-ae10-5b857163d045@91.193.5.121:8443/?type=ws&amp;encryption=none&amp;host=vl.kouok.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vl.kouok.us.kg&amp;fp=random#ss-IT%F0%9F%8C%90-1",
+      "ip": "91.193.5.121",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://e9e8dc55-af45-4d21-a116-ac9bb68ca2a2@113.30.150.123:6064?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Fpath&amp;host=&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#ss-IT%F0%9F%8C%90-3"
+      "rebuilt": "ss://500fa635-f420-4148-ae10-5b857163d045@91.193.5.121:8443/?type=ws&amp;encryption=none&amp;host=vl.kouok.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vl.kouok.us.kg&amp;fp=random#ss-IT%F0%9F%8C%90-1"
     }
   ]
 }

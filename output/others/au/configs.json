@@ -1,20 +1,7 @@
 {
-  "updated": "2025-11-30T01:19:17.781095",
+  "updated": "2025-11-30T08:19:12.410280",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "170.64.171.83",
-      "port": "36402?security=&amp;type=tcp&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "170.64.171.83",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
     {
       "type": "vless",
       "address": "170.64.171.83",
@@ -24,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "original": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "170.64.171.83",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "ss",
+      "address": "170.64.171.83",
+      "port": "36402?security=&amp;type=tcp&amp;encryption=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "170.64.171.83",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
