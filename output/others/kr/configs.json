@@ -1,34 +1,21 @@
 {
-  "updated": "2025-11-29T16:17:48.718898",
-  "count": 2,
+  "updated": "2025-11-30T01:19:17.768832",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "16.184.29.115",
+      "type": "vmess",
+      "address": "202.79.161.192",
       "port": "443",
-      "id": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
+      "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+      "name": "t.me/entryNET",
+      "network": "ws",
       "host": "",
-      "original": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.29.115:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=f5#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "16.184.29.115",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMDIuNzkuMTYxLjE5MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJwYXRoLzE3MDczMzEzMjIzMyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1LUvCfh7Dwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "ip": "202.79.161.192",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.29.115:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=f5#vless-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "16.184.29.115",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=f5",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.29.115:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=f5#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "16.184.29.115",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.29.115:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=f5#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "vmess://eyJhZGQiOiIyMDIuNzkuMTYxLjE5MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJwYXRoLzE3MDczMzEzMjIzMyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1LUvCfh7Dwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
     }
   ]
 }

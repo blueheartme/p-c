@@ -1,34 +1,47 @@
 {
-  "updated": "2025-11-26T01:11:15.481412",
-  "count": 2,
+  "updated": "2025-11-30T01:19:17.774011",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "217.195.200.81",
-      "port": "443?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;fp=firefox&amp;pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&amp;sid=01acca2f70929b7a",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://40089ccb-cd68-487a-aae0-ac9ca6a64d09@217.195.200.81:443?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;fp=firefox&amp;pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&amp;sid=01acca2f70929b7a#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "217.195.200.81",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://40089ccb-cd68-487a-aae0-ac9ca6a64d09@217.195.200.81:443?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;fp=firefox&amp;pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&amp;sid=01acca2f70929b7a#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
       "type": "vless",
-      "address": "217.195.200.81",
-      "port": "443",
-      "id": "40089ccb-cd68-487a-aae0-ac9ca6a64d09",
+      "address": "93.127.180.140",
+      "port": "2085",
+      "id": "944445aa-23ce-4994-ab71-9615340e88f5",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://40089ccb-cd68-487a-aae0-ac9ca6a64d09@217.195.200.81:443?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;fp=firefox&amp;pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&amp;sid=01acca2f70929b7a#vless-tcp-reality-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "217.195.200.81",
+      "original": "vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "93.127.180.140",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://40089ccb-cd68-487a-aae0-ac9ca6a64d09@217.195.200.81:443?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;fp=firefox&amp;pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&amp;sid=01acca2f70929b7a#vless-tcp-reality-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "ss",
+      "address": "93.127.180.140",
+      "port": "2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "93.127.180.140",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "dubi.fast-turbooserver.com",
+      "port": "8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://turboo-server@dubi.fast-turbooserver.com:8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "147.78.0.91",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://turboo-server@dubi.fast-turbooserver.com:8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2025-11-29T16:17:48.703340",
-  "count": 5,
+  "updated": "2025-11-30T01:19:17.773214",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,45 +16,17 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
-      "address": "185.234.66.101",
-      "port": "443",
-      "id": "d4992ec8-d781-45f5-9f59-ef8c769f46f9",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fhfwsxtws%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "185.234.66.101",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fhfwsxtws%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
       "type": "ss",
       "address": "103.231.75.74",
       "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
       "method": "",
       "password": "",
       "name": "I 1175 (@Outline_Vpn) free<br/>vle401374e6-df77-41fb-f638-dad8184f175b",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "103.231.75.74",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "185.234.66.101",
-      "port": "443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fhfwsxtws%3Fed%3D2048",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fhfwsxtws%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "185.234.66.101",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fhfwsxtws%3Fed%3D2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -65,11 +37,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "103.231.75.74",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
