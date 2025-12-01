@@ -5,39 +5,39 @@ import os
 # ==================== SOURCES CONFIGURATION ====================
 
 TELEGRAM_CHANNELS = [
-    "https://t.me/s/v2ray_config_pool",
     "https://t.me/s/PrivateVPNs",
     "https://t.me/s/DirectVPN",
-    "https://t.me/s/V2rayNGn",
     "https://t.me/s/free4allVPN",
     "https://t.me/s/vpn_ioss",
-    "https://t.me/s/ShadowSocks_s",
-    "https://t.me/s/azadi_az_inja_migzare",
-    "https://t.me/s/WomanLifeFreedomVPN",
     "https://t.me/s/Outline_Vpn",
     # Add your channels here
     "https://t.me/s/mtproxy_lists" ,
+    "https://t.me/s/DailyV2RY" ,
 ]
 
 GITHUB_REPOS = [
-    "yebekhe/TelegramV2rayCollector",
     "mfuu/v2ray",
-    "aiboboxx/v2rayfree",
     "peasoft/NoMoreWalls",
     "mahdibland/V2RayAggregator",
-    "Barry-far/V2ray-Configs",
-    "coldwater-10/V2rayCollector",
     # Add your repos here
     "Epodonios/v2ray-configs",
     "MatinGhanbari/v2ray-configs",
 ]
 
 PUBLIC_APIS = [
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix",
     "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-    "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
     # Add your APIs here
+    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/blues.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/yudou66.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodev2ray.txt",
+    "https://raw.githubusercontent.com/Flikify/Free-Node/refs/heads/main/v2ray.txt",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub",
+    "https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/base64.txt",
+    "https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/clashnodecc.txt",
+    "https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/v2rayshare.txt",
+    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
 ]
 
 WEB_SCRAPE_URLS = []
