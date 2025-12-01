@@ -1,34 +1,34 @@
 {
-  "updated": "2025-11-30T08:19:12.410280",
+  "updated": "2025-12-01T08:24:41.166317",
   "count": 2,
   "configs": [
     {
+      "type": "ss",
+      "address": "185.231.172.38",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=370dd394052f2386",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://b1dbfe09-108c-485f-aede-3e9b101d23cf@185.231.172.38:443?security=reality&amp;encryption=none&amp;pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=370dd394052f2386#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "185.231.172.38",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://b1dbfe09-108c-485f-aede-3e9b101d23cf@185.231.172.38:443?security=reality&amp;encryption=none&amp;pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=370dd394052f2386#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
       "type": "vless",
-      "address": "170.64.171.83",
-      "port": "36402",
-      "id": "35f591c6-0932-4c68-a831-4fe6ecf00b85",
+      "address": "185.231.172.38",
+      "port": "443",
+      "id": "b1dbfe09-108c-485f-aede-3e9b101d23cf",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "170.64.171.83",
+      "original": "vless://b1dbfe09-108c-485f-aede-3e9b101d23cf@185.231.172.38:443?security=reality&amp;encryption=none&amp;pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=370dd394052f2386#vless-tcp-reality-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "185.231.172.38",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
-      "type": "ss",
-      "address": "170.64.171.83",
-      "port": "36402?security=&amp;type=tcp&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "170.64.171.83",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&amp;type=tcp&amp;encryption=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://b1dbfe09-108c-485f-aede-3e9b101d23cf@185.231.172.38:443?security=reality&amp;encryption=none&amp;pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=370dd394052f2386#vless-tcp-reality-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
