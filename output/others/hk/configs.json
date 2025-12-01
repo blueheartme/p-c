@@ -1,34 +1,49 @@
 {
-  "updated": "2025-11-30T08:19:12.413384",
-  "count": 2,
+  "updated": "2025-12-01T01:24:05.696190",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "27.50.48.8",
-      "port": "443",
-      "id": "602b380a-9fdf-4425-bc07-aae9a95cfc4b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
+      "type": "trojan",
+      "address": "18.162.188.231",
+      "port": "40793",
+      "password": "aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "27.50.48.8",
+      "original": "trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.188.231:40793?allowInsecure=1&amp;sni=hk12.bilibili.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "18.162.188.231",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.188.231:40793?allowInsecure=1&amp;sni=hk12.bilibili.com#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "ss",
-      "address": "27.50.48.8",
-      "port": "443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "27.50.48.8",
+      "type": "vmess",
+      "address": "47.76.157.234",
+      "port": "14479",
+      "id": "90606c14-cba4-43ff-9586-9edd8bef21a4",
+      "name": "🇭🇰Hong Kong -> 🇭🇰Hong Kong ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IS/Cfh63wn4ewLTIiLCJhZGQiOiI0Ny43Ni4xNTcuMjM0IiwicG9ydCI6IjE0NDc5IiwiaWQiOiI5MDYwNmMxNC1jYmE0LTQzZmYtOTU4Ni05ZWRkOGJlZjIxYTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ==",
+      "ip": "47.76.157.234",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=#ss-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IS/Cfh63wn4ewLTIiLCJhZGQiOiI0Ny43Ni4xNTcuMjM0IiwicG9ydCI6IjE0NDc5IiwiaWQiOiI5MDYwNmMxNC1jYmE0LTQzZmYtOTU4Ni05ZWRkOGJlZjIxYTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ=="
+    },
+    {
+      "type": "trojan",
+      "address": "206.238.237.1",
+      "port": "2087",
+      "password": "dns68",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://dns68@206.238.237.1:2087?security=tls&amp;sni=trojan.putata.us.kg&amp;type=ws&amp;host=trojan.putata.us.kg&amp;path=%2F%3Fed%3D2560&amp;fp=randomized&amp;alpn=http%2F1.1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "206.238.237.1",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://dns68@206.238.237.1:2087?security=tls&amp;sni=trojan.putata.us.kg&amp;type=ws&amp;host=trojan.putata.us.kg&amp;path=%2F%3Fed%3D2560&amp;fp=randomized&amp;alpn=http%2F1.1#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }

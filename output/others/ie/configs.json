@@ -1,20 +1,20 @@
 {
-  "updated": "2025-11-30T08:19:12.414898",
+  "updated": "2025-12-01T01:24:05.695404",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "52.19.223.108",
+      "address": "18.203.17.187",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "sni": "trojan.burgerip.co.uk",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@52.19.223.108:22222?sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
-      "ip": "52.19.223.108",
+      "original": "trojan://telegram-id-privatevpns@18.203.17.187:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "ip": "18.203.17.187",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@52.19.223.108:22222?sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://telegram-id-privatevpns@18.203.17.187:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-IE%F0%9F%8C%90-1"
     }
   ]
 }
