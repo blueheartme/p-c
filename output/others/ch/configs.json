@@ -1,34 +1,20 @@
 {
-  "updated": "2025-12-01T08:24:41.139546",
-  "count": 2,
+  "updated": "2025-12-01T10:14:14.843210",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "5.182.36.56",
-      "port": "45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "5.182.36.56",
+      "type": "trojan",
+      "address": "91.192.102.92",
+      "port": "443",
+      "password": "8d047125-8467-4724-bb62-ef64405dca78",
+      "name": "未知 TROJAN-144@free-nodes",
+      "sni": "joss.gpj1.web.id",
+      "host": "joss.gpj1.web.id",
+      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "91.192.102.92",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "5.182.36.56",
-      "port": "45886",
-      "id": "8338171d-2ea7-4015-bdea-492f3d5d4e60",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "5.182.36.56",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

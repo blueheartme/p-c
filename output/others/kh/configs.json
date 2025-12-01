@@ -1,19 +1,20 @@
 {
-  "updated": "2025-11-26T01:11:15.478735",
+  "updated": "2025-12-01T10:14:14.850042",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "92.243.74.239",
-      "port": "8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=saas.cfliu.filegear-sg.me&amp;path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&amp;security=tls&amp;sni=saas.cfliu.filegear-sg.me",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=saas.cfliu.filegear-sg.me&amp;path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&amp;security=tls&amp;sni=saas.cfliu.filegear-sg.me#ss-KH%F0%9F%8C%90-1",
-      "ip": "92.243.74.239",
+      "type": "trojan",
+      "address": "92.243.75.49",
+      "port": "2087",
+      "password": "wb6368",
+      "name": "未知 TROJAN-407@free-nodes",
+      "sni": "hsdgbuys.pages.dev",
+      "host": "",
+      "original": "trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#trojan-ws-tls-KH%F0%9F%8C%90-1",
+      "ip": "92.243.75.49",
       "country": "KH",
       "cdn": null,
-      "rebuilt": "ss://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443/?type=ws&amp;encryption=none&amp;flow=&amp;host=saas.cfliu.filegear-sg.me&amp;path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&amp;security=tls&amp;sni=saas.cfliu.filegear-sg.me#ss-KH%F0%9F%8C%90-1"
+      "rebuilt": "trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#trojan-ws-tls-KH%F0%9F%8C%90-1"
     }
   ]
 }

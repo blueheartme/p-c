@@ -1,47 +1,58 @@
 {
-  "updated": "2025-11-30T08:19:12.412598",
-  "count": 3,
+  "updated": "2025-12-01T10:14:14.822829",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "93.127.180.140",
-      "port": "2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp",
+      "address": "139.185.34.131",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "93.127.180.140",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "139.185.34.131",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "93.127.180.140",
-      "port": "2085",
-      "id": "944445aa-23ce-4994-ab71-9615340e88f5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "93.127.180.140",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2085?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
-      "address": "dubi.fast-turbooserver.com",
-      "port": "8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://turboo-server@dubi.fast-turbooserver.com:8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "147.78.0.91",
+      "address": "95.174.68.33",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
+      "name": "🇦🇪AE-95.174.68.33-1171",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "95.174.68.33",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://turboo-server@dubi.fast-turbooserver.com:8443/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "139.185.50.5",
+      "port": "14594?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "SG新加坡(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.50.5:14594?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "139.185.50.5",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.50.5:14594?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "ss",
+      "address": "193.123.90.82",
+      "port": "12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "NL荷兰(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "193.123.90.82",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }

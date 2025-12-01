@@ -1,34 +1,35 @@
 {
-  "updated": "2025-11-30T16:17:53.369890",
+  "updated": "2025-12-01T10:14:14.848439",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "5.101.180.145",
+      "type": "trojan",
+      "address": "37.252.5.75",
       "port": "443",
-      "id": "bcc320cb-8b20-49c7-b283-7ded456a62b1",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=%2FFree-VPN-CF-Geo-Project%2F5.101.180.145%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#vless-tcp-EE%F0%9F%8C%90-1",
-      "ip": "5.101.180.145",
+      "password": "3208e968-b862-4e2e-ad90-2b49e7ce7afb",
+      "name": "未知 TROJAN-616@free-nodes",
+      "sni": "joss.gpj1.web.id",
+      "host": "joss.gpj1.web.id",
+      "original": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-1",
+      "ip": "37.252.5.75",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=%2FFree-VPN-CF-Geo-Project%2F5.101.180.145%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#vless-tcp-EE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
-      "address": "5.101.180.145",
-      "port": "443?path=%2FFree-VPN-CF-Geo-Project%2F5.101.180.145%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=%2FFree-VPN-CF-Geo-Project%2F5.101.180.145%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#ss-EE%F0%9F%8C%90-2",
-      "ip": "5.101.180.145",
+      "type": "vless",
+      "address": "est01-ss01.tcp-reset-club.net",
+      "port": "8443",
+      "id": "3b4d1c7f-4fd7-45bb-9251-79cd53a3e006",
+      "name": "俄罗斯",
+      "network": "tcp",
+      "sni": "stats.vk-portal.net",
+      "host": "",
+      "original": "vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2",
+      "ip": "185.155.96.155",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=%2FFree-VPN-CF-Geo-Project%2F5.101.180.145%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#ss-EE%F0%9F%8C%90-2"
+      "rebuilt": "vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2"
     }
   ]
 }
