@@ -1,21 +1,36 @@
 {
-  "updated": "2025-12-02T01:12:25.060906",
-  "count": 1,
+  "updated": "2025-12-02T08:23:20.735534",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.128.54.15",
+      "port": "443",
+      "id": "44bda3cb-a8ed-4373-951e-7c018edd4e42",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?encryption=none&amp;security=tls&amp;type=ws&amp;path=%2Finqabcws#vless-tcp-MY%F0%9F%8C%90-1",
+      "ip": "45.128.54.15",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?encryption=none&amp;security=tls&amp;type=ws&amp;path=%2Finqabcws#vless-tcp-MY%F0%9F%8C%90-1"
+    },
     {
       "type": "vmess",
       "address": "45.89.107.51",
       "port": "20521",
       "id": "3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c",
-      "name": "🇲🇾MY-45.89.107.51-0337",
+      "name": "🇲🇾MY-45.89.107.51-0299",
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "original": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
       "ip": "45.89.107.51",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
     }
   ]
 }

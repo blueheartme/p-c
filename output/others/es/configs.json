@@ -1,20 +1,19 @@
 {
-  "updated": "2025-12-02T01:12:25.034491",
-  "count": 4,
+  "updated": "2025-12-02T08:23:20.730979",
+  "count": 9,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.86.229.28",
-      "port": "443",
-      "password": "9ccc3e1d-3df5-4348-aa05-738310149cc3",
-      "name": "未知 TROJAN-215@free-nodes",
-      "sni": "joss.gpj1.web.id",
-      "host": "joss.gpj1.web.id",
-      "original": "trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443#trojan-ws-tls-ES%F0%9F%8C%90-1",
-      "ip": "45.86.229.28",
+      "type": "ss",
+      "address": "5.188.181.201",
+      "port": "9054",
+      "method": "aes-256-cfb",
+      "password": "VcFuyXvND2yQWSFY",
+      "name": "🇪🇸ES-5.188.181.201-5904",
+      "original": "ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#ss-aes-256-cfb-ES%F0%9F%8C%90-1",
+      "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443#trojan-ws-tls-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#ss-aes-256-cfb-ES%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -22,7 +21,7 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "name": "DE德国(mibei77.com 米贝节点分享)",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
       "ip": "213.159.67.124",
       "country": "ES",
@@ -30,19 +29,30 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
     },
     {
-      "type": "vless",
-      "address": "es.monkeyisland.xyz",
-      "port": "443",
-      "id": "6184fcfb-52e0-40bb-a271-bbd097b70a8e",
-      "name": "未知 VLESS-49@free-nodes",
-      "network": "tcp",
-      "sni": "es.monkeyisland.xyz",
-      "host": "",
-      "original": "vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@es.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=2ce837f65ba41351#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-3",
-      "ip": "145.249.109.150",
+      "type": "ss",
+      "address": "5.188.181.201",
+      "port": "9029",
+      "method": "aes-256-cfb",
+      "password": "dU3DSNS8wYPXzEKw",
+      "name": "🇪🇸ES-5.188.181.201-5902",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#ss-aes-256-cfb-ES%F0%9F%8C%90-3",
+      "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@es.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=2ce837f65ba41351#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#ss-aes-256-cfb-ES%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "5.188.181.201",
+      "port": "9001",
+      "method": "aes-256-cfb",
+      "password": "UkXRsXvR6buDMG2Y",
+      "name": "🇪🇸ES-5.188.181.201-5906",
+      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#ss-aes-256-cfb-ES%F0%9F%8C%90-4",
+      "ip": "5.188.181.201",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#ss-aes-256-cfb-ES%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -53,11 +63,64 @@
       "network": "tcp",
       "sni": "ilovepdf.com",
       "host": "",
-      "original": "vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ilovepdf.com&fp=chrome&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&sid=13ec7fe402&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-4",
+      "original": "vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ilovepdf.com&fp=chrome&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&sid=13ec7fe402&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-5",
       "ip": "5.22.216.192",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ilovepdf.com&fp=chrome&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&sid=13ec7fe402&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-4"
+      "rebuilt": "vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ilovepdf.com&fp=chrome&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&sid=13ec7fe402&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-5"
+    },
+    {
+      "type": "trojan",
+      "address": "45.86.229.28",
+      "port": "443",
+      "password": "9ccc3e1d-3df5-4348-aa05-738310149cc3",
+      "name": "未知 TROJAN-541@free-nodes",
+      "sni": "joss.gpj1.web.id",
+      "host": "joss.gpj1.web.id",
+      "original": "trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443#trojan-ws-tls-ES%F0%9F%8C%90-6",
+      "ip": "45.86.229.28",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443#trojan-ws-tls-ES%F0%9F%8C%90-6"
+    },
+    {
+      "type": "ss",
+      "address": "185.251.81.253",
+      "port": "2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz",
+      "method": "",
+      "password": "",
+      "name": "Singapore Cloudflare</pre></div>",
+      "original": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-7",
+      "ip": "185.251.81.253",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#ss-ES%F0%9F%8C%90-7"
+    },
+    {
+      "type": "ss",
+      "address": "es.monkeyisland.xyz",
+      "port": "443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=2ce837f65ba41351",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-49@free-nodes",
+      "original": "ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@es.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=2ce837f65ba41351#ss-ES%F0%9F%8C%90-8",
+      "ip": "145.249.109.150",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@es.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=2ce837f65ba41351#ss-ES%F0%9F%8C%90-8"
+    },
+    {
+      "type": "ss",
+      "address": "5.188.181.201",
+      "port": "9019",
+      "method": "aes-256-cfb",
+      "password": "GA9KzeEgvfxNrgmM",
+      "name": "🇪🇸ES-5.188.181.201-5901",
+      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#ss-aes-256-cfb-ES%F0%9F%8C%90-9",
+      "ip": "5.188.181.201",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#ss-aes-256-cfb-ES%F0%9F%8C%90-9"
     }
   ]
 }

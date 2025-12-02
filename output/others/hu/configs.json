@@ -1,60 +1,36 @@
 {
-  "updated": "2025-12-02T01:12:25.029173",
-  "count": 4,
+  "updated": "2025-12-02T08:23:20.730015",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "193.124.18.13",
       "port": "443",
       "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
-      "name": "🇷🇺_RU_俄罗斯",
+      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
       "network": "ws",
       "sni": "kuangbao.xiejiang.dpdns.org",
       "host": "kuangbao.xiejiang.dpdns.org",
-      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#vless-ws-tls-HU%F0%9F%8C%90-1",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-1",
       "ip": "193.124.18.13",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#vless-ws-tls-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
+      "type": "vless",
       "address": "193.124.18.13",
-      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "香港(yudou6677.top 玉豆免费节点)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-2",
+      "port": "443",
+      "id": "f64bdc57-0f54-4705-bf75-cfd646d98c06",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@193.124.18.13:443?path=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&amp;security=tls&amp;encryption=none&amp;host=snippets.mnmnm.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.mnmnm.netlib.re#vless-tcp-HU%F0%9F%8C%90-2",
       "ip": "193.124.18.13",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "193.124.18.13",
-      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-3",
-      "ip": "193.124.18.13",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "193.124.18.13",
-      "port": "443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org",
-      "method": "",
-      "password": "",
-      "name": "🇷🇺_RU_俄罗斯",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#ss-HU%F0%9F%8C%90-4",
-      "ip": "193.124.18.13",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#ss-HU%F0%9F%8C%90-4"
+      "rebuilt": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@193.124.18.13:443?path=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&amp;security=tls&amp;encryption=none&amp;host=snippets.mnmnm.netlib.re&amp;fp=random&amp;type=ws&amp;sni=snippets.mnmnm.netlib.re#vless-tcp-HU%F0%9F%8C%90-2"
     }
   ]
 }

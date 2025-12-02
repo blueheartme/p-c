@@ -1,7 +1,22 @@
 {
-  "updated": "2025-12-02T01:12:25.063215",
-  "count": 1,
+  "updated": "2025-12-02T08:23:20.731957",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.131.14.48",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?encryption=none&amp;security=none&amp;fp=chrome&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-1",
+      "ip": "94.131.14.48",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?encryption=none&amp;security=none&amp;fp=chrome&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-1"
+    },
     {
       "type": "trojan",
       "address": "212.24.103.3",
@@ -10,11 +25,11 @@
       "name": "未知 TROJAN-223@free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-1",
+      "original": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-2",
       "ip": "212.24.103.3",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-1"
+      "rebuilt": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,45 +1,62 @@
 {
-  "updated": "2025-12-02T01:12:25.050991",
-  "count": 3,
+  "updated": "2025-12-02T08:23:20.702695",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "lv2.ultima.foundation",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.ultima.foundation&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "拉脱维亚",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@lv2.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.ultima.foundation&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-1",
-      "ip": "185.145.245.9",
+      "type": "vless",
+      "address": "77.73.238.211",
+      "port": "16109",
+      "id": "6bb90b5a-db5b-401d-afa9-49667e75de1e",
+      "name": "Latvia RU Vds</pre></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&amp;encryption=none&amp;pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&amp;host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=46ef6b9bc8#vless-tcp-reality-LV%F0%9F%8C%90-1",
+      "ip": "77.73.238.211",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@lv2.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.ultima.foundation&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "lv.monkeyisland.xyz",
-      "port": "443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-50@free-nodes",
-      "original": "ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@lv.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee#ss-LV%F0%9F%8C%90-2",
-      "ip": "46.32.185.161",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@lv.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee#ss-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&amp;encryption=none&amp;pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&amp;host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=46ef6b9bc8#vless-tcp-reality-LV%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
       "address": "46.183.217.204",
       "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-0288",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3",
+      "method": "",
+      "password": "",
+      "name": "Latvia SIA</pre></div>",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2",
       "ip": "46.183.217.204",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "188.253.21.154",
+      "port": "443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5",
+      "method": "",
+      "password": "",
+      "name": "🇮🇷_IR_伊朗",
+      "original": "ss://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#ss-LV%F0%9F%8C%90-3",
+      "ip": "188.253.21.154",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#ss-LV%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "188.253.21.154",
+      "port": "443",
+      "id": "3f162dc9-28f6-44be-96ba-291105acc861",
+      "name": "🇮🇷_IR_伊朗",
+      "network": "tcp",
+      "sni": "mirror.veesp.com",
+      "host": "",
+      "original": "vless://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-4",
+      "ip": "188.253.21.154",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-4"
     }
   ]
 }
