@@ -1,7 +1,22 @@
 {
-  "updated": "2025-12-01T10:14:14.843966",
-  "count": 1,
+  "updated": "2025-12-02T01:12:25.029173",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "193.124.18.13",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "🇷🇺_RU_俄罗斯",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#vless-ws-tls-HU%F0%9F%8C%90-1",
+      "ip": "193.124.18.13",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#vless-ws-tls-HU%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "193.124.18.13",
@@ -9,11 +24,37 @@
       "method": "",
       "password": "",
       "name": "香港(yudou6677.top 玉豆免费节点)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-2",
       "ip": "193.124.18.13",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "193.124.18.13",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-3",
+      "ip": "193.124.18.13",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2Fx-aniu%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "193.124.18.13",
+      "port": "443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org",
+      "method": "",
+      "password": "",
+      "name": "🇷🇺_RU_俄罗斯",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#ss-HU%F0%9F%8C%90-4",
+      "ip": "193.124.18.13",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=kuangbao.xiejiang.dpdns.org&sni=kuangbao.xiejiang.dpdns.org#ss-HU%F0%9F%8C%90-4"
     }
   ]
 }

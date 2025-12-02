@@ -1,19 +1,64 @@
 {
-  "updated": "2025-12-01T16:22:14.243356",
-  "count": 1,
+  "updated": "2025-12-02T01:12:25.058192",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
+      "address": "139.185.50.5",
+      "port": "14594",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.50.5:14594?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "139.185.50.5",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.50.5:14594?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
       "address": "139.185.34.131",
-      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "139.185.34.131",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "193.123.90.82",
+      "port": "12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "AU澳大利亚(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "193.123.90.82",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "193.123.90.82",
+      "port": "12648",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "193.123.90.82",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.123.90.82:12648?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }

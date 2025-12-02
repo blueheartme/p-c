@@ -1,34 +1,21 @@
 {
-  "updated": "2025-11-29T16:17:48.714783",
-  "count": 2,
+  "updated": "2025-12-02T01:12:25.060906",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "638931857059451035.rome-drc-tusabw.info",
-      "port": "8880",
-      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
+      "type": "vmess",
+      "address": "45.89.107.51",
+      "port": "20521",
+      "id": "3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c",
+      "name": "🇲🇾MY-45.89.107.51-0337",
+      "network": "ws",
       "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#vless-tcp-MY%F0%9F%8C%90-1",
-      "ip": "45.128.54.9",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "45.89.107.51",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#vless-tcp-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "638931857059451035.rome-drc-tusabw.info",
-      "port": "8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#ss-MY%F0%9F%8C%90-2",
-      "ip": "45.128.54.9",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?encryption=none&amp;security=none&amp;type=grpc&amp;mode=gun#ss-MY%F0%9F%8C%90-2"
+      "rebuilt": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
     }
   ]
 }

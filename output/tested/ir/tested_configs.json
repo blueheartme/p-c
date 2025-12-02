@@ -1,23 +1,40 @@
 {
-  "updated": "2025-12-01T10:14:14.856429",
-  "count": 1,
+  "updated": "2025-12-02T01:12:25.069611",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "188.114.97.3",
-      "port": "443",
-      "id": "f2e486f9-1697-4be6-be59-6c4fb42c7a24",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "94.182.137.12",
+      "port": "20532",
+      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
+      "name": "英国(yudou6677.top 玉豆免费节点)",
+      "network": "tcp",
+      "sni": "",
+      "host": "Telewebion.com",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "94.182.137.12",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "ir.edrispalani.site",
+      "port": "11564",
+      "id": "f7cbe396-1ba3-4c31-a369-d93cf21f4810",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.97.3",
+      "original": "vless://f7cbe396-1ba3-4c31-a369-d93cf21f4810@ir.edrispalani.site:11564?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "2.189.119.48",
       "country": "IR",
-      "cdn": "arvancloud",
+      "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "vless://f7cbe396-1ba3-4c31-a369-d93cf21f4810@ir.edrispalani.site:11564?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     }
   ]
 }

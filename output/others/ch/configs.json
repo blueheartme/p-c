@@ -1,20 +1,47 @@
 {
-  "updated": "2025-12-01T10:14:14.843210",
-  "count": 1,
+  "updated": "2025-12-02T01:12:25.050065",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
       "address": "91.192.102.92",
       "port": "443",
       "password": "8d047125-8467-4724-bb62-ef64405dca78",
-      "name": "未知 TROJAN-144@free-nodes",
+      "name": "未知 TROJAN-544@free-nodes",
       "sni": "joss.gpj1.web.id",
-      "host": "joss.gpj1.web.id",
-      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "host": "",
+      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "91.192.102.92",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "ch12.yukiss.eu.org",
+      "port": "18818",
+      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
+      "name": "未知 TROJAN-579@free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "152.67.71.149",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.95.232.236",
+      "port": "4248?note=--Telegram--NetifyVPN--",
+      "method": "chacha20-ietf-poly1305",
+      "password": "m1n5rKepQcdAigANHFbOyz",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMW41cktlcFFjZEFpZ0FOSEZiT3l6@45.95.232.236:4248?note=--Telegram--NetifyVPN--#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "45.95.232.236",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMW41cktlcFFjZEFpZ0FOSEZiT3l6@45.95.232.236:4248?note=--Telegram--NetifyVPN--#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

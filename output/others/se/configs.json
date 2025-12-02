@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-01T10:14:14.828277",
-  "count": 8,
+  "updated": "2025-12-02T01:12:25.047310",
+  "count": 7,
   "configs": [
     {
       "type": "trojan",
-      "address": "16.171.58.121",
+      "address": "13.49.46.49",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-263@free-nodes",
+      "name": "未知 TROJAN-339@free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "16.171.58.121",
+      "original": "trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "13.49.46.49",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
@@ -31,47 +31,46 @@
       "rebuilt": "trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443&Host=joss.gpj1.web.id#trojan-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
-      "type": "vmess",
-      "address": "dd.openaccessnode.com",
-      "port": "5230",
-      "id": "77238c49-bd20-e407-f05e-0c073ad08fdb",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "network": "tcp",
-      "host": "ieee.org",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtU0Xwn4e48J+Hqi0zIiwiYWRkIjoiZGQub3BlbmFjY2Vzc25vZGUuY29tIiwicG9ydCI6IjUyMzAiLCJpZCI6Ijc3MjM4YzQ5LWJkMjAtZTQwNy1mMDVlLTBjMDczYWQwOGZkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiaWVlZS5vcmciLCJwYXRoIjoiL0BKYXZpZG5hbWFuSXJhbi9KYXZpZC1TSEFILUtpbmdSZXphUGFobGF2aS8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
-      "ip": "81.230.244.37",
+      "type": "trojan",
+      "address": "13.49.224.224",
+      "port": "22222",
+      "password": "telegram-id-directvpn",
+      "name": "未知 TROJAN-494@free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "13.49.224.224",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtU0Xwn4e48J+Hqi0zIiwiYWRkIjoiZGQub3BlbmFjY2Vzc25vZGUuY29tIiwicG9ydCI6IjUyMzAiLCJpZCI6Ijc3MjM4YzQ5LWJkMjAtZTQwNy1mMDVlLTBjMDczYWQwOGZkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiaWVlZS5vcmciLCJwYXRoIjoiL0BKYXZpZG5hbWFuSXJhbi9KYXZpZC1TSEFILUtpbmdSZXphUGFobGF2aS8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0="
-    },
-    {
-      "type": "ss",
-      "address": "51.21.152.219",
-      "port": "55605?encryption=none&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "Sweden 88 dailyv2ry<br/>vle4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-      "original": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@51.21.152.219:55605?encryption=none&amp;type=tcp#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "51.21.152.219",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@51.21.152.219:55605?encryption=none&amp;type=tcp#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
-      "address": "51.21.152.219",
-      "port": "55605",
-      "id": "47d7d5eb-55e6-4085-a155-bdf3fcc428f6",
-      "name": "Sweden 88 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.237.36.65:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🍊 dailyv2ry<br/>vless://7bcfdcf8-fe22-4d40-8707-3249aeb66a5f@m82a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=/&amp;host=varzesh3.ir#telegram 🌟 dailyv2ry<br/>vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&amp;encryption=none&amp;path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&amp;host=vp13.mydatacloud1.ir&amp;mode=auto&amp;security=none#telegram 🚀 dailyv2ry<br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh30v6.carwashipdir.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh30v6.carwashipdir.shop#telegram ⚡️ dailyv2ry<br/>vless://e81e5ee4-59e0-4111-dc3e-6effd3b3b9ef@157.230.103.204:31109?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany 5 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.124.231.220:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🎪 dailyv2ry<br/>vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=wthyr.app-nimejam.info&amp;type=ws&amp;alpn=&amp;host=wthyr.app-nimejam.info&amp;path=/perform#telegram 🌈 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@67.205.135.37:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram 🍀 dailyv2ry<br/>vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&amp;security=reality&amp;pqv=&amp;type=tcp&amp;sni=mensura.cdn-apple.com&amp;fp=chrome&amp;pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&amp;sid=6ba85179e30d4fc2&amp;flow=xtls-rprx-vision#telegram 🌺 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@192.81.216.30:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram ☂️ dailyv2ry<br/>vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@16.170.244.155:55605?encryption=none&amp;type=tcp#Sweden 66 dailyv2ry<br/>vless://8df2b423-d068-4ebd-aff0-e0d14e2423ce@V2rayNGSelllBoT.m.heloisfood.ir:6673?encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT&amp;security=none#telegram 🌟 dailyv2ry<br/>vless://56104b8a-ab6e-4c38-c443-eb538a5ed762@46.101.248.140:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany D29 22 dailyv2ry<br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh30v3.carwashipdir.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh30v3.carwashipdir.shop#telegram ⚡️ dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.180.96.116:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🎯 dailyv2ry<br/>ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=gadap.ice-nimejam.info&amp;type=ws&amp;alpn=&amp;host=gadap.ice-nimejam.info&amp;path=/perform#telegram 🎪 dailyv2ry<br/><br/></pre><br/><br/><a",
+      "address": "bridge-quick-logic-forest-zone.dlcnamatike7.com",
+      "port": "19771",
+      "id": "e998eb52-4de4-450f-ae9b-6d0ed9089e4c",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@51.21.152.219:55605?encryption=none&amp;type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-5",
-      "ip": "51.21.152.219",
+      "original": "vless://e998eb52-4de4-450f-ae9b-6d0ed9089e4c@bridge-quick-logic-forest-zone.dlcnamatike7.com:19771?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "45.82.13.85",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@51.21.152.219:55605?encryption=none&amp;type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "vless://e998eb52-4de4-450f-ae9b-6d0ed9089e4c@bridge-quick-logic-forest-zone.dlcnamatike7.com:19771?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "ss",
+      "address": "78.40.116.178",
+      "port": "34094",
+      "method": "chacha20-ietf-poly1305",
+      "password": "yo6h9qkhwz8UJoTZCRtoSi",
+      "name": "未知 SS-63@free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "78.40.116.178",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     },
     {
       "type": "trojan",
@@ -88,31 +87,18 @@
       "rebuilt": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-6"
     },
     {
-      "type": "ss",
-      "address": "185.36.145.127",
-      "port": "6060?note=---Telegram---",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://bd80ec19-d764-4826-a607-d42bb1b3bc48@185.36.145.127:6060?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=pmo.smnsoft.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-7",
-      "ip": "185.36.145.127",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://bd80ec19-d764-4826-a607-d42bb1b3bc48@185.36.145.127:6060?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=pmo.smnsoft.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-7"
-    },
-    {
       "type": "trojan",
-      "address": "13.48.45.205",
+      "address": "13.50.16.231",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-610@free-nodes",
+      "name": "未知 TROJAN-304@free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-8",
-      "ip": "13.48.45.205",
+      "original": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-7",
+      "ip": "13.50.16.231",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-8"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-7"
     }
   ]
 }
