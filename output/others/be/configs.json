@@ -1,20 +1,7 @@
 {
-  "updated": "2025-12-02T08:23:20.712235",
+  "updated": "2025-12-03T01:13:03.399538",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "192.71.249.78",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇸🇪SE-192.71.249.78-0420",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1",
-      "ip": "192.71.249.78",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "34.22.190.30",
@@ -23,11 +10,24 @@
       "name": "未知 TROJAN-266@free-nodes",
       "sni": "joss.gpj1.web.id",
       "host": "joss.gpj1.web.id",
-      "original": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-2",
+      "original": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-1",
       "ip": "34.22.190.30",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-2"
+      "rebuilt": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "192.71.249.78",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇸🇪SE-192.71.249.78-0377",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2",
+      "ip": "192.71.249.78",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2"
     }
   ]
 }

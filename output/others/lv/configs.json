@@ -1,32 +1,64 @@
 {
-  "updated": "2025-12-02T16:21:49.331677",
-  "count": 2,
+  "updated": "2025-12-03T01:13:03.390136",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "77.73.238.211",
+      "port": "16109",
+      "id": "6bb90b5a-db5b-401d-afa9-49667e75de1e",
+      "name": "Latvia RU VDS</pre></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&amp;encryption=none&amp;pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&amp;host=%C3%97http&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=46ef6b9bc8#vless-tcp-reality-LV%F0%9F%8C%90-1",
+      "ip": "77.73.238.211",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&amp;encryption=none&amp;pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&amp;host=%C3%97http&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=46ef6b9bc8#vless-tcp-reality-LV%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "46.183.217.204",
       "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-0315",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-1",
+      "method": "",
+      "password": "",
+      "name": "Latvia SIA</pre></div>",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2",
       "ip": "46.183.217.204",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2"
     },
     {
-      "type": "ss",
-      "address": "188.253.21.154",
-      "port": "443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5",
-      "method": "",
-      "password": "",
-      "name": "🇮🇷_IR_伊朗",
-      "original": "ss://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#ss-LV%F0%9F%8C%90-2",
-      "ip": "188.253.21.154",
+      "type": "vless",
+      "address": "188.253.23.248",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "AU澳大利亚(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-3",
+      "ip": "188.253.23.248",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://3f162dc9-28f6-44be-96ba-291105acc861@188.253.21.154:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.veesp.com&fp=firefox&security=reality&pbk=Y9wcIIlOdKbJI1zD8vxfdEyPBmfdw4eiMUl1v0rlwio&sid=f6cbdef5#ss-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "lv2.ultima.foundation",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "拉脱维亚",
+      "network": "tcp",
+      "sni": "lv2.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lv2.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.ultima.foundation&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%8C%90-4",
+      "ip": "185.145.245.34",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lv2.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.ultima.foundation&fp=qq&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-LV%F0%9F%8C%90-4"
     }
   ]
 }

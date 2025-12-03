@@ -1,0 +1,20 @@
+{
+  "updated": "2025-12-03T01:13:03.401693",
+  "count": 1,
+  "configs": [
+    {
+      "type": "trojan",
+      "address": "103.168.56.77",
+      "port": "443",
+      "password": "4f2c305b-9a03-4493-b3e4-2dff2f1af8c9",
+      "name": "未知 TROJAN-441@free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#trojan-tcp-tls-MN%F0%9F%8C%90-1",
+      "ip": "103.168.56.77",
+      "country": "MN",
+      "cdn": null,
+      "rebuilt": "trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#trojan-tcp-tls-MN%F0%9F%8C%90-1"
+    }
+  ]
+}
