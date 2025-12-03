@@ -1,33 +1,7 @@
 {
-  "updated": "2025-12-03T01:13:03.394225",
-  "count": 4,
+  "updated": "2025-12-03T16:22:21.120849",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "est01-ss01.tcp-reset-club.net",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "俄罗斯",
-      "original": "ss://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-1",
-      "ip": "185.155.96.155",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "est01-ss01.tcp-reset-club.net",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=random&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "俄罗斯",
-      "original": "ss://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=random&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2",
-      "ip": "185.155.96.155",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=random&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2"
-    },
     {
       "type": "trojan",
       "address": "37.252.5.75",
@@ -36,26 +10,26 @@
       "name": "未知 TROJAN-616@free-nodes",
       "sni": "joss.gpj1.web.id",
       "host": "joss.gpj1.web.id",
-      "original": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-3",
+      "original": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-1",
       "ip": "37.252.5.75",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-3"
+      "rebuilt": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#trojan-ws-tls-EE%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
-      "address": "est01-ss01.tcp-reset-club.net",
-      "port": "8443",
-      "id": "3b4d1c7f-4fd7-45bb-9251-79cd53a3e006",
-      "name": "俄罗斯",
-      "network": "tcp",
-      "sni": "stats.vk-portal.net",
+      "address": "45.129.199.232",
+      "port": "443",
+      "id": "2429c651-e658-43c8-aba8-bb502bd98bd9",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=random&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%8C%90-4",
-      "ip": "185.155.96.155",
+      "original": "vless://2429c651-e658-43c8-aba8-bb502bd98bd9@45.129.199.232:443?path=%2FFree-VPN-CF-Geo-Project%2F45.129.199.232%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#vless-tcp-EE%F0%9F%8C%90-2",
+      "ip": "45.129.199.232",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@est01-ss01.tcp-reset-club.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=random&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-EE%F0%9F%8C%90-4"
+      "rebuilt": "vless://2429c651-e658-43c8-aba8-bb502bd98bd9@45.129.199.232:443?path=%2FFree-VPN-CF-Geo-Project%2F45.129.199.232%3D443&amp;security=tls&amp;encryption=none&amp;host=joss.gpj1.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj1.web.id#vless-tcp-EE%F0%9F%8C%90-2"
     }
   ]
 }

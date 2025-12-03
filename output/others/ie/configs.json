@@ -1,19 +1,48 @@
 {
-  "updated": "2025-12-03T08:22:29.379410",
-  "count": 1,
+  "updated": "2025-12-03T16:22:21.112141",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "54.220.129.240",
-      "port": "59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=",
-      "method": "",
-      "password": "",
-      "name": "Ireland 3 dailyv2ry<br/>vlea7e04b44-855e-4fe7-8fa0-31894e928bce",
-      "original": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.220.129.240:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#ss-IE%F0%9F%8C%90-1",
-      "ip": "54.220.129.240",
+      "type": "trojan",
+      "address": "54.78.157.126",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "未知 TROJAN-399@free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "ip": "54.78.157.126",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.220.129.240:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#ss-IE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "52.213.245.214",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@52.213.245.214:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-IE%F0%9F%8C%90-2",
+      "ip": "52.213.245.214",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@52.213.245.214:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#trojan-tcp-tls-IE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "3.249.15.72",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "未知 TROJAN-611@free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3",
+      "ip": "3.249.15.72",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3"
     }
   ]
 }

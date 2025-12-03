@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-03T08:22:29.381617",
-  "count": 2,
+  "updated": "2025-12-03T16:22:21.081185",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,20 +15,6 @@
       "country": "VN",
       "cdn": null,
       "rebuilt": "trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "103.173.255.127",
-      "port": "443",
-      "password": "5623be5f-c9da-4511-81a9-b4b39b16edae",
-      "name": "未知 TROJAN-456@free-nodes",
-      "sni": "sbank.ir",
-      "host": "",
-      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir#trojan-tcp-tls-VN%F0%9F%8C%90-2",
-      "ip": "103.173.255.127",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir#trojan-tcp-tls-VN%F0%9F%8C%90-2"
     }
   ]
 }
