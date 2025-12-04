@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-03T16:22:21.107680",
-  "count": 8,
+  "updated": "2025-12-04T01:12:45.371354",
+  "count": 10,
   "configs": [
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9044",
+      "method": "aes-256-cfb",
+      "password": "KBGjZYcy4SyRShmA",
+      "name": "🇵🇱PL-217.30.10.70-9820",
+      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
     {
       "type": "ss",
       "address": "217.30.10.70",
@@ -9,64 +22,50 @@
       "method": "aes-256-cfb",
       "password": "f63gg8EruDnUrmz4",
       "name": "🇵🇱PL-217.30.10.70-6413",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "ss",
       "address": "217.30.10.70",
-      "port": "9046",
+      "port": "9037",
       "method": "aes-256-cfb",
-      "password": "NvS8N4Vf8qAGPSCL",
-      "name": "🇵🇱PL-217.30.10.70-6412",
-      "original": "ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "password": "TN2YqghxeFDKZfLU",
+      "name": "🇵🇱PL-217.30.10.70-6406",
+      "original": "ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "trojan",
-      "address": "51.83.186.142",
-      "port": "443",
-      "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-493@free-nodes",
-      "sni": "pl1.trojanvh.xyz",
-      "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "51.83.186.142",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
       "address": "217.30.10.70",
-      "port": "9094",
+      "port": "9093",
       "method": "aes-256-cfb",
-      "password": "rpgbNnU9rDDU4aWZ",
-      "name": "🇵🇱PL-217.30.10.70-6410",
-      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "password": "wfLC2y7rzZyCmuyt",
+      "name": "🇵🇱PL-217.30.10.70-6407",
+      "original": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     },
     {
       "type": "ss",
       "address": "217.30.10.70",
-      "port": "9040",
+      "port": "9097",
       "method": "aes-256-cfb",
-      "password": "p9z5BVADH2YFs3MN",
-      "name": "🇵🇱PL-217.30.10.70-6405",
-      "original": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "password": "Sn5B7jTqr76aCJT8",
+      "name": "🇵🇱PL-217.30.10.70-6408",
+      "original": "ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "ss",
@@ -83,16 +82,43 @@
     },
     {
       "type": "ss",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "🇵🇱PL-57.128.214.100-6368",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "57.128.214.100",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+    },
+    {
+      "type": "trojan",
+      "address": "51.83.186.142",
+      "port": "443",
+      "password": "555034c8-6420-45d0-893c-905c02342150",
+      "name": "未知 TROJAN-493@free-nodes",
+      "sni": "pl1.trojanvh.xyz",
+      "host": "",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "ip": "51.83.186.142",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8"
+    },
+    {
+      "type": "ss",
       "address": "217.30.10.70",
-      "port": "9043",
+      "port": "9024",
       "method": "aes-256-cfb",
-      "password": "HSZuyJQcWe8dxNdF",
-      "name": "🇵🇱PL-217.30.10.70-6409",
-      "original": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.70:9043#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "password": "BejrQvtu9sqUeNuZ",
+      "name": "🇵🇱PL-217.30.10.70-6415",
+      "original": "ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-9",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.70:9043#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-9"
     },
     {
       "type": "vless",
@@ -103,11 +129,11 @@
       "network": "ws",
       "sni": "kuangbao.xiejiang.dpdns.org",
       "host": "kuangbao.xiejiang.dpdns.org",
-      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10",
       "ip": "91.149.253.249",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-8"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-10"
     }
   ]
 }
