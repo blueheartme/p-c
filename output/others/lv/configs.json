@@ -1,7 +1,22 @@
 {
-  "updated": "2025-12-04T01:12:45.375974",
-  "count": 3,
+  "updated": "2025-12-04T08:23:07.889927",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "188.253.23.248",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "澳洲(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-1",
+      "ip": "188.253.23.248",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "46.183.217.204",
@@ -9,39 +24,11 @@
       "method": "",
       "password": "",
       "name": "Latvia SIA</pre></div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2",
       "ip": "46.183.217.204",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "188.253.23.248",
-      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-2",
-      "ip": "188.253.23.248",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "188.253.23.248",
-      "port": "443",
-      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "kuangbao.xiejiang.dpdns.org",
-      "host": "kuangbao.xiejiang.dpdns.org",
-      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-3",
-      "ip": "188.253.23.248",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.248:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#ss-LV%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T01:12:45.369467",
+  "updated": "2025-12-04T08:23:07.877463",
   "count": 3,
   "configs": [
     {
@@ -16,33 +16,32 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "usaa.fastlynew.hosting-ip.com",
-      "port": "80",
-      "id": "db967ff3-7613-4198-ed55-83b20f2f97ea",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://db967ff3-7613-4198-ed55-83b20f2f97ea@usaa.fastlynew.hosting-ip.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mojhsjd.global.ssl.fastly.net&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2",
-      "ip": "151.101.241.242",
+      "type": "ss",
+      "address": "204.216.216.23",
+      "port": "1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-128@free-nodes",
+      "original": "ss://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#ss-IT%F0%9F%8C%90-2",
+      "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://db967ff3-7613-4198-ed55-83b20f2f97ea@usaa.fastlynew.hosting-ip.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mojhsjd.global.ssl.fastly.net&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#ss-IT%F0%9F%8C%90-2"
     },
     {
-      "type": "trojan",
-      "address": "it-full.privateip.net",
-      "port": "443",
-      "password": "8d16a256-42d7-4431-8039-da1eb06cafbc",
-      "name": "未知 TROJAN-534@free-nodes",
-      "sni": "",
+      "type": "vless",
+      "address": "204.216.216.23",
+      "port": "1114",
+      "id": "6ba2eac6-0ec9-44ca-a42b-a8e23aafb530",
+      "name": "未知 VLESS-128@free-nodes",
+      "network": "tcp",
+      "sni": "yahoo.com",
       "host": "",
-      "original": "trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#trojan-tcp-tls-IT%F0%9F%8C%90-3",
-      "ip": "5.253.43.181",
+      "original": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-3",
+      "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#trojan-tcp-tls-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-3"
     }
   ]
 }

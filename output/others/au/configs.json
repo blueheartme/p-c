@@ -1,19 +1,33 @@
 {
-  "updated": "2025-12-04T01:12:45.374371",
-  "count": 1,
+  "updated": "2025-12-04T08:23:07.866410",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "170.64.130.150",
+      "port": "443",
+      "password": "39386ab3-db28-468f-b87b-471f4ab7ca1c",
+      "name": "未知 TROJAN-559@free-nodes",
+      "sni": "$trxn.ballistics.top",
+      "host": "",
+      "original": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "170.64.130.150",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
     {
       "type": "ss",
       "address": "95.111.222.113",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "🇦🇺AU-95.111.222.113-0335",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "name": "澳洲(yudou6677.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2",
       "ip": "95.111.222.113",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
