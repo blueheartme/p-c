@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-02T01:12:25.068041",
+  "updated": "2025-12-04T16:22:08.261887",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "171.22.254.17",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇲🇹MT-171.22.254.17-0374",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#ss-aes-256-cfb-MT%F0%9F%8C%90-1",
-      "ip": "171.22.254.17",
+      "type": "vless",
+      "address": "46.202.30.39",
+      "port": "2096",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "乌克兰(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "sni.001316.xyz",
+      "host": "sni.001316.xyz",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.202.30.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-MT%F0%9F%8C%90-1",
+      "ip": "46.202.30.39",
       "country": "MT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#ss-aes-256-cfb-MT%F0%9F%8C%90-1"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.202.30.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-MT%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,24 +1,7 @@
 {
-  "updated": "2025-12-04T08:23:07.891910",
-  "count": 3,
+  "updated": "2025-12-04T16:22:08.242018",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.114.97.0",
-      "port": "8080",
-      "id": "db08cd72-94fb-46ef-a1e2-015538566194",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?path=%2Ftelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&amp;type=httpupgrade#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.97.0",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?path=%2Ftelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&amp;type=httpupgrade#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "94.182.137.12",
@@ -28,26 +11,69 @@
       "network": "tcp",
       "sni": "",
       "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "94.182.137.12",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
-      "address": "188.114.97.0",
-      "port": "8080?path=%2Ftelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&amp;type=httpupgrade",
+      "address": "94.182.137.12",
+      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
+      "method": "",
+      "password": "",
+      "name": "英国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.137.12",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "poland.a1mshop2.xyz",
+      "port": "49894?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?path=%2Ftelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&amp;type=httpupgrade#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "188.114.97.0",
+      "original": "ss://265836ef-a0d3-4ee3-b29c-c57164e90da7@poland.a1mshop2.xyz:49894?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "46.38.146.250",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://265836ef-a0d3-4ee3-b29c-c57164e90da7@poland.a1mshop2.xyz:49894?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "188.114.96.7",
+      "port": "443?encryption=none&amp;security=tls&amp;sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&amp;path=%2FnXWz3i2XoxHvOGI4%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?encryption=none&amp;security=tls&amp;sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&amp;path=%2FnXWz3i2XoxHvOGI4%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "ip": "188.114.96.7",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://db08cd72-94fb-46ef-a1e2-015538566194@188.114.97.0:8080?path=%2Ftelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%2Ctelegram-TwixService%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&amp;type=httpupgrade#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "ss://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?encryption=none&amp;security=tls&amp;sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&amp;path=%2FnXWz3i2XoxHvOGI4%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "188.114.96.7",
+      "port": "443",
+      "id": "5050e255-4919-4d7f-96c8-30b13d06fdf6",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?encryption=none&amp;security=tls&amp;sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&amp;path=%2FnXWz3i2XoxHvOGI4%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "188.114.96.7",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?encryption=none&amp;security=tls&amp;sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&amp;path=%2FnXWz3i2XoxHvOGI4%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     }
   ]
 }

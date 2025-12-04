@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-01T10:14:14.842423",
+  "updated": "2025-12-04T16:22:08.262817",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.82.249.42",
-      "port": "8443",
-      "id": "6938efdb-b699-464d-8098-ae35b886b5c7",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;sni=pq.chile1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-CL%F0%9F%8C%90-1",
-      "ip": "45.82.249.42",
+      "type": "ss",
+      "address": "38.54.20.59",
+      "port": "8881",
+      "method": "aes-256-gcm",
+      "password": "kDWvXYZoTBcGkC4",
+      "name": "🇨🇱CL-38.54.20.59-1275",
+      "original": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#ss-aes-256-gcm-CL%F0%9F%8C%90-1",
+      "ip": "38.54.20.59",
       "country": "CL",
       "cdn": null,
-      "rebuilt": "vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;sni=pq.chile1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-CL%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#ss-aes-256-gcm-CL%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-04T08:23:07.893082",
-  "count": 2,
+  "updated": "2025-12-04T16:22:08.217183",
+  "count": 7,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F",
       "method": "",
       "password": "",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "name": "加拿大",
       "original": "ss://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#ss-CZ%F0%9F%8C%90-1",
       "ip": "14.102.228.75",
       "country": "CZ",
       "cdn": null,
       "rebuilt": "ss://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#ss-CZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "195.181.160.6",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇨🇿CZ-195.181.160.6-0307",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2",
+      "ip": "195.181.160.6",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -24,11 +37,68 @@
       "network": "ws",
       "sni": "",
       "host": "ov-canada1.09vpn.com",
-      "original": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-2",
+      "original": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-3",
       "ip": "14.102.228.75",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "194.182.79.236",
+      "port": "24552",
+      "id": "499ae33f-cc94-4749-853f-a86724717ac8",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://499ae33f-cc94-4749-853f-a86724717ac8@194.182.79.236:24552?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-4",
+      "ip": "194.182.79.236",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://499ae33f-cc94-4749-853f-a86724717ac8@194.182.79.236:24552?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-4"
+    },
+    {
+      "type": "trojan",
+      "address": "92.118.149.85",
+      "port": "443",
+      "password": "3gLlCYBipVwr6Y5F",
+      "name": "未知 TROJAN-402@free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-5",
+      "ip": "92.118.149.85",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vless",
+      "address": "194.182.79.236",
+      "port": "24561",
+      "id": "12b67ef3-e714-41bc-8e3a-6a443516a599",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://12b67ef3-e714-41bc-8e3a-6a443516a599@194.182.79.236:24561?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-6",
+      "ip": "194.182.79.236",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://12b67ef3-e714-41bc-8e3a-6a443516a599@194.182.79.236:24561?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-6"
+    },
+    {
+      "type": "ss",
+      "address": "194.182.79.236",
+      "port": "24561?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://12b67ef3-e714-41bc-8e3a-6a443516a599@194.182.79.236:24561?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-7",
+      "ip": "194.182.79.236",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://12b67ef3-e714-41bc-8e3a-6a443516a599@194.182.79.236:24561?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-7"
     }
   ]
 }

@@ -1,19 +1,47 @@
 {
-  "updated": "2025-12-04T08:23:07.901159",
-  "count": 2,
+  "updated": "2025-12-04T16:22:08.215750",
+  "count": 8,
   "configs": [
     {
       "type": "ss",
-      "address": "57.128.214.100",
-      "port": "12000",
-      "method": "aes-256-gcm",
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "🇵🇱PL-57.128.214.100-6368",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "57.128.214.100",
+      "address": "91.149.253.249",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "91.149.253.249",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9025",
+      "method": "aes-256-cfb",
+      "password": "XPtzA9sCug3SPR4c",
+      "name": "🇵🇱PL-217.30.10.70-6859",
+      "original": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "91.149.253.249",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "91.149.253.249",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
@@ -21,12 +49,66 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0339",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "name": "🇵🇱PL-45.15.126.19-0372",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "45.15.126.19",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9006",
+      "method": "aes-256-cfb",
+      "password": "FAdUvMJUq5vDgKEq",
+      "name": "🇵🇱PL-217.30.10.70-6855",
+      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "vmess",
+      "address": "146.59.85.226",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "🇫🇷FR-146.59.85.226-1237",
+      "network": "ws",
+      "host": "pelang.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "146.59.85.226",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9073",
+      "method": "aes-256-cfb",
+      "password": "daFYagqDdBdA6VTX",
+      "name": "🇵🇱PL-217.30.10.70-6856",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9050",
+      "method": "aes-256-cfb",
+      "password": "FG5ddLsMPbV5CutE",
+      "name": "🇵🇱PL-217.30.10.70-6860",
+      "original": "ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.70:9050#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.70:9050#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8"
     }
   ]
 }
