@@ -1,20 +1,34 @@
 {
-  "updated": "2025-12-04T16:22:08.266055",
-  "count": 1,
+  "updated": "2025-12-05T01:13:22.993579",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "91.192.102.92",
       "port": "443",
       "password": "8d047125-8467-4724-bb62-ef64405dca78",
-      "name": "未知 TROJAN-634@free-nodes",
+      "name": "未知 TROJAN-144@free-nodes",
       "sni": "joss.gpj1.web.id",
       "host": "joss.gpj1.web.id",
-      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443&host=joss.gpj1.web.id#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "91.192.102.92",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443&host=joss.gpj1.web.id#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "trojan",
+      "address": "ch12.yukiss.eu.org",
+      "port": "18818",
+      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
+      "name": "未知 TROJAN-579@free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "152.67.71.149",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
