@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-05T08:22:06.374044",
-  "count": 5,
+  "updated": "2025-12-05T16:20:04.533584",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -16,21 +16,6 @@
       "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "188.214.135.158",
-      "port": "22230",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "立陶宛",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
-      "ip": "188.214.135.158",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
-    },
-    {
       "type": "trojan",
       "address": "212.24.103.3",
       "port": "443",
@@ -38,41 +23,11 @@
       "name": "未知 TROJAN-223@free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-3",
+      "original": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-2",
       "ip": "212.24.103.3",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "84.32.97.229",
-      "port": "2860",
-      "id": "b1163b14-3041-4817-a746-bc44b57d27dd",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://b1163b14-3041-4817-a746-bc44b57d27dd@84.32.97.229:2860?security=reality&amp;encryption=none&amp;pbk=Gld0oT2th0hU8263vPeQ4VIP0La9qZ8RhLiu0FOqYkc&amp;headerType=none&amp;fp=chrome&amp;spx=%2F%D9%80%D9%80%D9%80Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=0f4b32e37be08292#vless-tcp-reality-LT%F0%9F%8C%90-4",
-      "ip": "84.32.97.229",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://b1163b14-3041-4817-a746-bc44b57d27dd@84.32.97.229:2860?security=reality&amp;encryption=none&amp;pbk=Gld0oT2th0hU8263vPeQ4VIP0La9qZ8RhLiu0FOqYkc&amp;headerType=none&amp;fp=chrome&amp;spx=%2F%D9%80%D9%80%D9%80Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;sni=www.microsoft.com&amp;sid=0f4b32e37be08292#vless-tcp-reality-LT%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "188.214.135.154",
-      "port": "22230",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "立陶宛",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-5",
-      "ip": "188.214.135.154",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-5"
+      "rebuilt": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-2"
     }
   ]
 }

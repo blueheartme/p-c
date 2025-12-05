@@ -1,71 +1,21 @@
 {
-  "updated": "2025-12-05T08:22:06.386651",
-  "count": 5,
+  "updated": "2025-12-05T16:20:04.542761",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "57.128.198.152",
-      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "57.128.198.152",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9019",
-      "method": "aes-256-cfb",
-      "password": "GA9KzeEgvfxNrgmM",
-      "name": "🇵🇱PL-217.30.10.18-7059",
-      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.126.19",
+      "type": "vmess",
+      "address": "146.59.85.226",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0330",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "45.15.126.19",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "🇫🇷FR-146.59.85.226-1237",
+      "network": "ws",
+      "host": "pelang.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "146.59.85.226",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9033",
-      "method": "aes-256-cfb",
-      "password": "UTJA57ypk2XKQpnm",
-      "name": "🇵🇱PL-217.30.10.18-0359",
-      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "ss",
-      "address": "57.128.214.100",
-      "port": "12000",
-      "method": "aes-256-gcm",
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "🇵🇱PL-57.128.214.100-0375",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "57.128.214.100",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
     }
   ]
 }
