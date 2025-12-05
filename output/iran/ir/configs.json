@@ -1,40 +1,36 @@
 {
-  "updated": "2025-12-05T01:13:22.989777",
+  "updated": "2025-12-05T08:22:06.388994",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "blog.zanbori.ir",
-      "port": "24989",
-      "id": "c92794ee-7c70-4faa-8f07-e7cec2cb14c9",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
+      "address": "94.182.137.12",
+      "port": "20532",
+      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "tcp",
       "sni": "",
-      "host": "",
-      "original": "vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@blog.zanbori.ir:24989?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "46.38.150.201",
+      "host": "Telewebion.com",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "94.182.137.12",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@blog.zanbori.ir:24989?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
-      "address": "62.60.192.209",
-      "port": "80",
-      "id": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "62.60.192.209",
+      "type": "ss",
+      "address": "94.182.137.12",
+      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.137.12",
       "country": "IR",
       "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     }
   ]
 }

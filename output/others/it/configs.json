@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-05T01:13:22.982990",
-  "count": 1,
+  "updated": "2025-12-05T08:22:06.370882",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,6 +16,19 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "212.102.54.45",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇮🇹IT-212.102.54.45-0314",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-2",
+      "ip": "212.102.54.45",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-2"
     }
   ]
 }
