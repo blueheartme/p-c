@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-05T16:20:04.491708",
-  "count": 3,
+  "updated": "2025-12-06T01:09:24.010459",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -14,33 +14,6 @@
       "country": "AU",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
-      "type": "trojan",
-      "address": "152.67.98.30",
-      "port": "443",
-      "password": "e8c1ab3c-89b3-4933-92df-682e6dce7819",
-      "name": "未知 TROJAN-639@free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "152.67.98.30",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.185.70",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "45.15.185.70",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }

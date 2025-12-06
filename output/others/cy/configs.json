@@ -1,20 +1,19 @@
 {
-  "updated": "2025-12-05T08:22:06.388246",
+  "updated": "2025-12-06T01:09:24.013275",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "www.csgo.com",
-      "port": "443",
-      "password": "vip",
-      "name": "未知 TROJAN-625@free-nodes",
-      "sni": "heihu880.pages.dev",
-      "host": "",
-      "original": "trojan://vip@www.csgo.com:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#trojan-ws-tls-CY%F0%9F%8C%90-1",
-      "ip": "195.85.59.95",
+      "type": "ss",
+      "address": "91.148.135.31",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇨🇾CY-91.148.135.31-1286",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1",
+      "ip": "91.148.135.31",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "trojan://vip@www.csgo.com:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#trojan-ws-tls-CY%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1"
     }
   ]
 }
