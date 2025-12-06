@@ -1,34 +1,19 @@
 {
-  "updated": "2025-12-06T08:19:39.587476",
-  "count": 2,
+  "updated": "2025-12-06T16:17:57.757244",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "45.93.95.187",
-      "port": "8618",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4lUEC91c1d8oeClzDbYpXA",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.95.187:8618#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1",
-      "ip": "45.93.95.187",
-      "country": "IL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.95.187:8618#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
+      "address": "89.221.225.15",
       "port": "443",
-      "id": "0e8a6896-ad90-4a3b-89a3-77d64aa409e2",
-      "name": "未知 VLESS-02 | free-nodes",
-      "network": "tcp",
-      "sni": "i2pd.website",
-      "host": "",
-      "original": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-2",
-      "ip": "20.217.82.52",
+      "method": "chacha20-ietf-poly1305",
+      "password": "yCbQ4bry4otfifK7oel71NaXpPL9pYJb",
+      "name": "未知 SS-109 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1",
+      "ip": "89.221.225.15",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,35 +1,19 @@
 {
-  "updated": "2025-12-06T08:19:39.593418",
+  "updated": "2025-12-06T16:17:57.745115",
   "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.82.14.144",
-      "port": "2025",
-      "password": "vpn",
-      "name": "未知 TROJAN-251@free-nodes",
-      "sni": "dns.google.com",
-      "host": "",
-      "original": "trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#trojan-ws-tls-KZ%F0%9F%8C%90-1",
-      "ip": "45.82.14.144",
+      "type": "ss",
+      "address": "91.224.74.177",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=bit-site.ru&amp;sid=e4",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-73@free-nodes",
+      "original": "ss://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@91.224.74.177:443?security=reality&amp;encryption=none&amp;pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=bit-site.ru&amp;sid=e4#ss-KZ%F0%9F%8C%90-1",
+      "ip": "91.224.74.177",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#trojan-ws-tls-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "178.236.16.98",
-      "port": "35728",
-      "id": "a00d89f6-ab7e-4e30-a5e5-54c701d62c93",
-      "name": "未知 VLESS-91@free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2#vless-tcp-reality-KZ%F0%9F%8C%90-2",
-      "ip": "178.236.16.98",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2#vless-tcp-reality-KZ%F0%9F%8C%90-2"
+      "rebuilt": "ss://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@91.224.74.177:443?security=reality&amp;encryption=none&amp;pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=bit-site.ru&amp;sid=e4#ss-KZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -37,25 +21,38 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "4SaCIazlgumYkM8FkPzlmwjpyWBDZFBk",
-      "name": "🇰🇿KZ-103.106.3.82-0440",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3",
+      "name": "印度",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
       "ip": "103.106.3.82",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "77.73.232.61",
-      "port": "19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001",
+      "address": "178.236.16.98",
+      "port": "35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2",
       "method": "",
       "password": "",
-      "name": "Kazakhstan NLs Astana Llp</pre></div>",
-      "original": "ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#ss-KZ%F0%9F%8C%90-4",
-      "ip": "77.73.232.61",
+      "name": "未知 VLESS-91@free-nodes",
+      "original": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2#ss-KZ%F0%9F%8C%90-3",
+      "ip": "178.236.16.98",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#ss-KZ%F0%9F%8C%90-4"
+      "rebuilt": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&amp;encryption=none&amp;pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=69a2#ss-KZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "178.236.16.98",
+      "port": "35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "俄罗斯",
+      "original": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4",
+      "ip": "178.236.16.98",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4"
     }
   ]
 }
