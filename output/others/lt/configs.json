@@ -1,7 +1,49 @@
 {
-  "updated": "2025-12-06T01:09:23.999696",
-  "count": 5,
+  "updated": "2025-12-06T08:19:39.588386",
+  "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "212.24.103.3",
+      "port": "443",
+      "password": "4f9ca636-5195-406a-b48c-0388689dd9a7",
+      "name": "未知 TROJAN-223@free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-1",
+      "ip": "212.24.103.3",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#trojan-tcp-tls-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "5litva.youtuber-vpn.win",
+      "port": "11592?security=reality&amp;encryption=none&amp;pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=93f9d91296bb334c",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?security=reality&amp;encryption=none&amp;pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=93f9d91296bb334c#ss-LT%F0%9F%8C%90-2",
+      "ip": "181.214.147.36",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?security=reality&amp;encryption=none&amp;pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=93f9d91296bb334c#ss-LT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "84.32.244.5",
+      "port": "22230",
+      "id": "4aa980fb-b1f8-45ca-90d0-46ebeca227a0",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@84.32.244.5:22230?security=reality&amp;encryption=none&amp;pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apple.com&amp;sid=a9725715bf4c62ff#vless-tcp-reality-LT%F0%9F%8C%90-3",
+      "ip": "84.32.244.5",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@84.32.244.5:22230?security=reality&amp;encryption=none&amp;pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apple.com&amp;sid=a9725715bf4c62ff#vless-tcp-reality-LT%F0%9F%8C%90-3"
+    },
     {
       "type": "ss",
       "address": "188.214.135.158",
@@ -9,67 +51,11 @@
       "method": "",
       "password": "",
       "name": "立陶宛",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-1",
+      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-4",
       "ip": "188.214.135.158",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.14.48",
-      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#ss-LT%F0%9F%8C%90-2",
-      "ip": "94.131.14.48",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#ss-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "5litva.youtuber-vpn.win",
-      "port": "11592",
-      "id": "b0149cba-533b-47bd-b8ac-4053b5d6bb06",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?security=reality&amp;encryption=none&amp;pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=93f9d91296bb334c#vless-tcp-reality-LT%F0%9F%8C%90-3",
-      "ip": "181.214.147.36",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?security=reality&amp;encryption=none&amp;pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=93f9d91296bb334c#vless-tcp-reality-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.14.193",
-      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-LT%F0%9F%8C%90-4",
-      "ip": "94.131.14.193",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-LT%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "94.131.14.48",
-      "port": "8880",
-      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-5",
-      "ip": "94.131.14.48",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#vless-tcp-LT%F0%9F%8C%90-5"
+      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-4"
     }
   ]
 }
