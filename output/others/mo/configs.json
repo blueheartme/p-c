@@ -1,7 +1,21 @@
 {
-  "updated": "2025-12-07T01:19:56.542876",
-  "count": 1,
+  "updated": "2025-12-07T08:19:19.865508",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "45.64.22.55",
+      "port": "443",
+      "password": "Ty33ylFA4u6A5e0NE3wRFp3DIa8lZOzC87CeKnxYgpSOSa2ZaXBjDDSY9qCcxR",
+      "name": "未知 TROJAN-1619 | free-nodes",
+      "sni": "flowery.meijireform.com",
+      "host": "",
+      "original": "trojan://Ty33ylFA4u6A5e0NE3wRFp3DIa8lZOzC87CeKnxYgpSOSa2ZaXBjDDSY9qCcxR@45.64.22.55:443?security=tls&sni=flowery.meijireform.com#trojan-tcp-tls-MO%F0%9F%8C%90-1",
+      "ip": "45.64.22.55",
+      "country": "MO",
+      "cdn": null,
+      "rebuilt": "trojan://Ty33ylFA4u6A5e0NE3wRFp3DIa8lZOzC87CeKnxYgpSOSa2ZaXBjDDSY9qCcxR@45.64.22.55:443?security=tls&sni=flowery.meijireform.com#trojan-tcp-tls-MO%F0%9F%8C%90-1"
+    },
     {
       "type": "trojan",
       "address": "45.64.22.55",
@@ -10,11 +24,11 @@
       "name": "未知 TROJAN-221 | free-nodes",
       "sni": "pbvre.freetrade.link",
       "host": "",
-      "original": "trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?security=tls&sni=pbvre.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-1",
+      "original": "trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?security=tls&sni=pbvre.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-2",
       "ip": "45.64.22.55",
       "country": "MO",
       "cdn": null,
-      "rebuilt": "trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?security=tls&sni=pbvre.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-1"
+      "rebuilt": "trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?security=tls&sni=pbvre.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-2"
     }
   ]
 }

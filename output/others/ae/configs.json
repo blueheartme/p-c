@@ -1,34 +1,34 @@
 {
-  "updated": "2025-12-07T01:19:56.518082",
-  "count": 7,
+  "updated": "2025-12-07T08:19:19.849527",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "95.174.68.33",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
-      "name": "未知 SS-62@free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "95.174.68.33",
+      "address": "94.140.0.39",
+      "port": "2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "加拿大(yudou6677.top 玉豆免费节点)",
+      "original": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.39",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
       "address": "94.140.0.39",
       "port": "2096",
       "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "法国(yudou6677.top 玉豆免费节点)",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
       "network": "ws",
       "sni": "sni.001316.xyz",
       "host": "sni.001316.xyz",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "94.140.0.39",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "ss",
@@ -44,21 +44,6 @@
       "rebuilt": "ss://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&amp;encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     },
     {
-      "type": "vless",
-      "address": "93.127.180.224",
-      "port": "123",
-      "id": "871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&amp;encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=none#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "93.127.180.224",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&amp;encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=none#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4"
-    },
-    {
       "type": "trojan",
       "address": "45.66.134.219",
       "port": "443",
@@ -66,37 +51,11 @@
       "name": "未知 TROJAN-1389 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
       "ip": "45.66.134.219",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-5"
-    },
-    {
-      "type": "ss",
-      "address": "uaegaming.gojustore.site",
-      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-6",
-      "ip": "38.180.26.251",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-6"
-    },
-    {
-      "type": "ss",
-      "address": "94.140.0.39",
-      "port": "2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%40freecodes%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "法国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-7",
-      "ip": "94.140.0.39",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-7"
+      "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
     }
   ]
 }

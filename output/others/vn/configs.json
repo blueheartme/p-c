@@ -1,7 +1,35 @@
 {
-  "updated": "2025-12-07T01:19:56.545281",
-  "count": 1,
+  "updated": "2025-12-07T08:19:19.857347",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "103.81.85.238",
+      "port": "443",
+      "password": "b874173c-dfc6-40f4-9542-d973997f9659",
+      "name": "未知 TROJAN-1331 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1",
+      "ip": "103.81.85.238",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "103.173.155.72",
+      "port": "28443",
+      "password": "6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4",
+      "name": "未知 TROJAN-913 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2",
+      "ip": "103.173.155.72",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2"
+    },
     {
       "type": "trojan",
       "address": "103.195.236.24",
@@ -10,11 +38,11 @@
       "name": "未知 TROJAN-1123 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1",
+      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3",
       "ip": "103.195.236.24",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1"
+      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3"
     }
   ]
 }
