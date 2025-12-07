@@ -1,49 +1,7 @@
 {
-  "updated": "2025-12-06T16:17:57.738773",
+  "updated": "2025-12-07T01:19:56.526678",
   "count": 5,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "13.48.45.205",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-496@free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "13.48.45.205",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "trojan",
-      "address": "13.49.224.224",
-      "port": "22222",
-      "password": "telegram-id-directvpn",
-      "name": "未知 TROJAN-831 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "13.49.224.224",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "trojan",
-      "address": "13.48.202.26",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-747 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "13.48.202.26",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3"
-    },
     {
       "type": "trojan",
       "address": "13.48.105.114",
@@ -52,25 +10,68 @@
       "name": "未知 TROJAN-1301 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "13.48.105.114",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "test.fast.hosting-ip.com",
+      "port": "80",
+      "id": "TELEGRAM-CONFiGLiNE-76",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://TELEGRAM-CONFiGLiNE-76@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&amp;security=none&amp;encryption=none&amp;host=byby.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "199.232.173.242",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://TELEGRAM-CONFiGLiNE-76@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&amp;security=none&amp;encryption=none&amp;host=byby.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "trojan",
-      "address": "16.171.58.121",
+      "address": "13.48.45.205",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-1185 | free-nodes",
+      "name": "未知 TROJAN-1834 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-5",
-      "ip": "16.171.58.121",
+      "original": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "13.48.45.205",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "ss",
+      "address": "121.127.46.147",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇸🇪SE-121.127.46.147-0248",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "121.127.46.147",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "vless",
+      "address": "65.20.114.62",
+      "port": "443",
+      "id": "65e2772e-915a-4306-e3c7-e7bfa71e83fd",
+      "name": "Sweden 30 dailyv2ry<br/>vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&amp;encryption=none&amp;path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&amp;host=vp13.mydatacloud1.ir&amp;mode=auto&amp;security=none#telegram 🌟 dailyv2ry<br/>vless://bcf754d2-a095-40b9-90da-1f3bc2f5a1ef@165.22.25.113:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany 10 dailyv2ry<br/>vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=tsloj.jet-nimejam.info&amp;type=ws&amp;alpn=&amp;host=tsloj.jet-nimejam.info&amp;path=/perform#USA 99 dailyv2ry<br/>vless://47aa63bf-c1fb-41c7-842a-eeaa439d7ebc@165.22.86.83:51951?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany 27 dailyv2ry<br/>ss://bcf754d2-a095-40b9-90da-1f3bc2f5a1ef@165.22.25.113:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany 44 dailyv2ry<br/>vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.117.126.142:55605?encryption=none&amp;type=tcp#United States 8 dailyv2ry<br/>vless://86825b06-ee56-4dc9-9128-b3abda5c31e8@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=spl01.hatlikarious.org&amp;type=ws&amp;alpn=h3h2&amp;host=spl01.hatlikarious.org&amp;path=/#telegram 🍀 dailyv2ry<br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.carwashipdir.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.carwashipdir.shop#telegram 🌺 dailyv2ry<br/>vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&amp;encryption=none&amp;path=/&amp;host=vp6.mydatacloud2.ir&amp;mode=auto&amp;security=none#🇩🇪 Germany 16 dailyv2ry<br/>vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=/&amp;host=varzesh3.ir#telegram 🍊 dailyv2ry<br/>vless://3bdf1812-863a-4056-a548-952a384b88df@ziro11.zarashop0.ir:2087?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;allowInsecure=1&amp;sni=ziro11.zarashop0.ir#telegram 🌟 dailyv2ry<br/>vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=639004042094803957.legacy-amsit.info&amp;type=ws&amp;host=639004042094803957.legacy-amsit.info&amp;path=/amglzgws#Finland 46 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.248.127.235:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram ⚡️ dailyv2ry<br/>vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.117.123.222:55605?encryption=none&amp;type=tcp#United States 34 dailyv2ry<br/>vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=RR-FF.pages.DEV#telegram 🎪 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@44.242.204.249:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🌈 dailyv2ry<br/>vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=shupv.jet-nimejam.info&amp;type=ws&amp;alpn=&amp;host=shupv.jet-nimejam.info&amp;path=/perform#telegram 🍀 dailyv2ry<br/><br/></pre><br/><br/><a",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "original": "vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.62:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "65.20.114.62",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.62:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     }
   ]
 }
