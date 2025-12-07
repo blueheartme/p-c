@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-07T08:19:19.861621",
-  "count": 4,
+  "updated": "2025-12-07T16:17:23.088018",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,46 +16,34 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "trojan",
-      "address": "94.131.123.74",
-      "port": "443",
-      "password": "94a81dc7-e8e6-46e5-838d-84ca142b88b2",
-      "name": "未知 TROJAN-1766 | free-nodes",
-      "sni": "joss.gpj1.web.id",
-      "host": "",
-      "original": "trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "94.131.123.74",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "Trk.originalproxy.sbs",
-      "port": "20811?security=reality&amp;encryption=none&amp;pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&amp;headerType=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@Trk.originalproxy.sbs:20811?security=reality&amp;encryption=none&amp;pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&amp;headerType=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "213.142.133.46",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@Trk.originalproxy.sbs:20811?security=reality&amp;encryption=none&amp;pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&amp;headerType=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
       "type": "vless",
-      "address": "Trk.originalproxy.sbs",
-      "port": "20811",
-      "id": "a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4",
+      "address": "198.105.123.182",
+      "port": "2080",
+      "id": "684ead3d-43b1-4707-904a-24e3e9e91fb1",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@Trk.originalproxy.sbs:20811?security=reality&amp;encryption=none&amp;pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&amp;headerType=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "213.142.133.46",
+      "original": "vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=722ee6b369#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "198.105.123.182",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@Trk.originalproxy.sbs:20811?security=reality&amp;encryption=none&amp;pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&amp;headerType=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=722ee6b369#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "turkiye.marzxo.biz",
+      "port": "8087",
+      "id": "707a0019-a197-7ae1-e3db-767b5ec220cb",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://707a0019-a197-7ae1-e3db-767b5ec220cb@turkiye.marzxo.biz:8087?security=reality&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;fp=firefox&amp;pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&amp;sid=828348fc6d8e49cf#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "188.132.141.112",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://707a0019-a197-7ae1-e3db-767b5ec220cb@turkiye.marzxo.biz:8087?security=reality&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;fp=firefox&amp;pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&amp;sid=828348fc6d8e49cf#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }

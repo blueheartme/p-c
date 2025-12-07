@@ -1,20 +1,46 @@
 {
-  "updated": "2025-12-07T08:19:19.858074",
-  "count": 1,
+  "updated": "2025-12-07T16:17:23.121279",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
       "address": "34.22.190.30",
       "port": "443",
       "password": "29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15",
-      "name": "未知 TROJAN-598 | free-nodes",
+      "name": "未知 TROJAN-1436 | free-nodes",
       "sni": "joss.gpj1.web.id",
       "host": "joss.gpj1.web.id",
-      "original": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&host=joss.gpj1.web.id#trojan-ws-tls-BE%F0%9F%8C%90-1",
+      "original": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-1",
       "ip": "34.22.190.30",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&host=joss.gpj1.web.id#trojan-ws-tls-BE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#trojan-ws-tls-BE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.83.20.206",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "g5RQoxQuVtnFv3Xxsa8edPisXNPnyWKy",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-2",
+      "ip": "45.83.20.206",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "192.71.249.78",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇸🇪SE-192.71.249.78-0332",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-3",
+      "ip": "192.71.249.78",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-3"
     }
   ]
 }
