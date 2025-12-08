@@ -1,34 +1,33 @@
 {
-  "updated": "2025-12-08T08:24:45.094846",
+  "updated": "2025-12-08T16:21:32.012872",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "107.189.3.96",
-      "port": "443",
-      "password": "f42d1b0d-c398-43cb-be37-d739b1477a5d",
-      "name": "未知 TROJAN-1701 | free-nodes",
-      "sni": "joss.gpj4.web.id",
-      "host": "",
-      "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "107.189.3.96",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "trojan",
       "address": "91.192.102.92",
       "port": "443",
       "password": "8d047125-8467-4724-bb62-ef64405dca78",
-      "name": "未知 TROJAN-419 | free-nodes",
+      "name": "未知 TROJAN-1422 | free-nodes",
       "sni": "joss.gpj1.web.id",
       "host": "",
-      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "91.192.102.92",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "188.190.4.212",
+      "port": "8561",
+      "method": "chacha20-ietf-poly1305",
+      "password": "wQFXr3mmxKgurmUxKAMBGn",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UUZYcjNtbXhLZ3VybVV4S0FNQkdu@188.190.4.212:8561#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "188.190.4.212",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UUZYcjNtbXhLZ3VybVV4S0FNQkdu@188.190.4.212:8561#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

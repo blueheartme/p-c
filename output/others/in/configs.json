@@ -1,20 +1,46 @@
 {
-  "updated": "2025-12-08T08:24:45.100134",
-  "count": 1,
+  "updated": "2025-12-08T16:21:32.010392",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "103.111.114.29",
+      "port": "57456",
+      "method": "chacha20-ietf-poly1305",
+      "password": "360e21d21977dc11",
+      "name": "🇮🇳IN-103.111.114.29-7310",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "103.111.114.29",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
     {
       "type": "trojan",
       "address": "159.65.147.91",
       "port": "443",
       "password": "265f092f-418b-30c9-a479-4800fd44dd19mielink",
-      "name": "未知 TROJAN-769 | free-nodes",
+      "name": "未知 TROJAN-1065 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "159.65.147.91",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-7309",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "134.209.147.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
