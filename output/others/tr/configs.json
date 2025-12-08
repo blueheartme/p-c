@@ -1,20 +1,34 @@
 {
-  "updated": "2025-12-08T01:13:43.249972",
-  "count": 1,
+  "updated": "2025-12-08T08:24:45.093327",
+  "count": 2,
   "configs": [
     {
-      "type": "trojan",
-      "address": "94.131.123.74",
+      "type": "vless",
+      "address": "62.3.12.118",
       "port": "443",
-      "password": "94a81dc7-e8e6-46e5-838d-84ca142b88b2",
-      "name": "未知 TROJAN-1766 | free-nodes",
-      "sni": "joss.gpj1.web.id",
+      "id": "id8312437383",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "94.131.123.74",
+      "original": "vless://id8312437383@62.3.12.118:443?security=reality&amp;encryption=none&amp;pbk=JCIX7uiiOtjImlTWuj2j_70ym68oSOyYWvbi8kPdhyY&amp;headerType=none&amp;fp=chrome&amp;spx=%2FjodYKqQ6W4FSqdp&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=d8a915e3#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "62.3.12.118",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://id8312437383@62.3.12.118:443?security=reality&amp;encryption=none&amp;pbk=JCIX7uiiOtjImlTWuj2j_70ym68oSOyYWvbi8kPdhyY&amp;headerType=none&amp;fp=chrome&amp;spx=%2FjodYKqQ6W4FSqdp&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=d8a915e3#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "95.164.116.33",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
+      "name": "🇧🇬BG-95.164.116.33-0285",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "95.164.116.33",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }

@@ -1,35 +1,73 @@
 {
-  "updated": "2025-12-08T01:13:43.282447",
-  "count": 2,
+  "updated": "2025-12-08T08:24:45.090201",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "217.30.10.18",
+      "port": "9033",
+      "method": "aes-256-cfb",
+      "password": "UTJA57ypk2XKQpnm",
+      "name": "🇵🇱PL-217.30.10.18-0361",
+      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.15.126.19",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
+      "name": "🇵🇱PL-45.15.126.19-0304",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "45.15.126.19",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "🇵🇱PL-57.128.214.100-0354",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "57.128.214.100",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "trojan",
+      "address": "51.83.186.142",
+      "port": "443",
+      "password": "555034c8-6420-45d0-893c-905c02342150",
+      "name": "未知 TROJAN-570 | free-nodes",
+      "sni": "pl1.trojanvh.xyz",
+      "host": "",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "51.83.186.142",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
     {
       "type": "trojan",
       "address": "51.83.186.142",
       "port": "80",
       "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-1559 | free-nodes",
+      "name": "未知 TROJAN-959 | free-nodes",
       "sni": "pl1.trojanvh.xyz",
       "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5",
       "ip": "51.83.186.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "vless",
-      "address": "94.103.0.94",
-      "port": "8443",
-      "id": "669be00c-67b4-4b87-b08f-311c45abced2",
-      "name": "未知 VLESS-25 | free-nodes",
-      "network": "tcp",
-      "sni": "pingless.com",
-      "host": "",
-      "original": "vless://669be00c-67b4-4b87-b08f-311c45abced2@94.103.0.94:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#vless-xtls-rprx-vision-tcp-reality-safari-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "94.103.0.94",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://669be00c-67b4-4b87-b08f-311c45abced2@94.103.0.94:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#vless-xtls-rprx-vision-tcp-reality-safari-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     }
   ]
 }

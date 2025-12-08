@@ -1,20 +1,77 @@
 {
-  "updated": "2025-12-08T01:13:43.268533",
-  "count": 4,
+  "updated": "2025-12-08T08:24:45.077388",
+  "count": 8,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "3.252.69.131",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "未知 TROJAN-1847 | free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "ip": "3.252.69.131",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "54.78.157.126",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "未知 TROJAN-273 | free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2",
+      "ip": "54.78.157.126",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "34.253.231.7",
+      "port": "22222",
+      "password": "telegram-id-directvpn",
+      "name": "未知 TROJAN-732 | free-nodes",
+      "sni": "trj.rollingnext.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3",
+      "ip": "34.253.231.7",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "54.216.143.142",
+      "port": "59483",
+      "id": "47d7d5eb-55e6-4085-a155-bdf3fcc428f6",
+      "name": "Ireland 84 dailyv2ry<br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.carwashipdir.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.carwashipdir.shop#telegram 🍊 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.183.71.99:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🌟 dailyv2ry<br/>ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.211.114:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Sweden 44 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@99.79.39.157:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram ⚡️ dailyv2ry<br/>ss://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@70.34.223.131:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Sweden 98 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@146.190.71.154:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram 🎪 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.131.40.21:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram 🌈 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@142.93.31.116:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram 🍀 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.208.198.193:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🌺 dailyv2ry<br/>vless://58ceae57-1ea5-4056-869d-cc10255a5e90@vvv.floorshoping22.com:2087?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=tls&amp;fp=chrome&amp;alpn=h2&amp;allowInsecure=1&amp;sni=vvv.floorshoping22.com#telegram ☂️ dailyv2ry<br/>vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany PO 23 dailyv2ry<br/>vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.183.31.32:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram 🌟 dailyv2ry<br/>vless://Warpi-Free-Vpn-In-GooglePlay@168.119.48.122:443?type=xhttp&amp;encryption=none&amp;path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&amp;host=&amp;mode=auto&amp;security=reality&amp;pbk=lAQlZopyI2jjxnDeQNGb8tFNTs-ZDcQketxGd72FQiQ&amp;fp=chrome&amp;sni=google.com&amp;sid=63a066&amp;spx=/#telegram 🚀 dailyv2ry<br/>ss://5e0b7b64-ab8d-493b-9acb-55566ee9d1e6@91.98.198.176:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany 81 dailyv2ry<br/>vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.210.47:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Sweden 15 dailyv2ry<br/>vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.210.193:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Sweden 9 dailyv2ry<br/>vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@198.199.64.170:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram 🌈 dailyv2ry<br/><br/></pre><br/><br/><a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.143.142:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#vless-tcp-IE%F0%9F%8C%90-4",
+      "ip": "54.216.143.142",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.143.142:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#vless-tcp-IE%F0%9F%8C%90-4"
+    },
     {
       "type": "trojan",
       "address": "3.253.67.209",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-257 | free-nodes",
+      "name": "未知 TROJAN-753 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "original": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-5",
       "ip": "3.253.67.209",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-5"
     },
     {
       "type": "vless",
@@ -25,39 +82,38 @@
       "network": "grpc",
       "sni": "",
       "host": "",
-      "original": "vless://9eee43b5-6b7d-494a-a5b3-fb45b7ee4976@141.227.162.151:33919?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IE%F0%9F%8C%90-2",
+      "original": "vless://9eee43b5-6b7d-494a-a5b3-fb45b7ee4976@141.227.162.151:33919?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IE%F0%9F%8C%90-6",
       "ip": "141.227.162.151",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://9eee43b5-6b7d-494a-a5b3-fb45b7ee4976@141.227.162.151:33919?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IE%F0%9F%8C%90-2"
+      "rebuilt": "vless://9eee43b5-6b7d-494a-a5b3-fb45b7ee4976@141.227.162.151:33919?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IE%F0%9F%8C%90-6"
+    },
+    {
+      "type": "ss",
+      "address": "54.216.143.142",
+      "port": "59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=",
+      "method": "",
+      "password": "",
+      "name": "Ireland 84 dailyv2ry<br/>vlee4824193-4f54-453b-d037-88368e85ef0e",
+      "original": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.143.142:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#ss-IE%F0%9F%8C%90-7",
+      "ip": "54.216.143.142",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.143.142:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#ss-IE%F0%9F%8C%90-7"
     },
     {
       "type": "trojan",
       "address": "3.249.15.72",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-927 | free-nodes",
+      "name": "未知 TROJAN-379 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3",
+      "original": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-8",
       "ip": "3.249.15.72",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3"
-    },
-    {
-      "type": "trojan",
-      "address": "3.252.69.131",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-1847 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-4",
-      "ip": "3.252.69.131",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-4"
+      "rebuilt": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-8"
     }
   ]
 }
