@@ -1,20 +1,21 @@
 {
-  "updated": "2025-12-07T16:17:23.144587",
+  "updated": "2025-12-08T01:13:43.285248",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "107.189.3.96",
+      "type": "vless",
+      "address": "38.180.161.18",
       "port": "443",
-      "password": "f42d1b0d-c398-43cb-be37-d739b1477a5d",
+      "id": "2e57f159-2bc1-4266-91a1-e96873ef4edc",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
       "sni": "",
       "host": "",
-      "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?path=%2FFree-VPN-CF-Geo-Project%2F107.189.3.96%3D443&amp;security=tls&amp;host=joss.gpj4.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "107.189.3.96",
+      "original": "vless://2e57f159-2bc1-4266-91a1-e96873ef4edc@38.180.161.18:443?security=reality&amp;encryption=none&amp;pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&amp;host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=free3.tunnely.ru&amp;sid=fc45029be9d08fdc#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "38.180.161.18",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?path=%2FFree-VPN-CF-Geo-Project%2F107.189.3.96%3D443&amp;security=tls&amp;host=joss.gpj4.web.id&amp;fp=randomized&amp;type=ws&amp;sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://2e57f159-2bc1-4266-91a1-e96873ef4edc@38.180.161.18:443?security=reality&amp;encryption=none&amp;pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&amp;host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=free3.tunnely.ru&amp;sid=fc45029be9d08fdc#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

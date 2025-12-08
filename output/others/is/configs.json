@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-06T08:19:39.604047",
+  "updated": "2025-12-08T01:13:43.287704",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "89.221.224.211",
-      "port": "8880",
-      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.211:8880?encryption=none&amp;security=none&amp;type=grpc#vless-tcp-IS%F0%9F%8C%90-1",
-      "ip": "89.221.224.211",
+      "type": "ss",
+      "address": "89.221.224.216",
+      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-IS%F0%9F%8C%90-1",
+      "ip": "89.221.224.216",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.211:8880?encryption=none&amp;security=none&amp;type=grpc#vless-tcp-IS%F0%9F%8C%90-1"
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-IS%F0%9F%8C%90-1"
     }
   ]
 }

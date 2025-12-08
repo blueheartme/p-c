@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-07T16:17:23.106406",
+  "updated": "2025-12-08T01:13:43.281515",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "41.216.177.41",
       "port": "443",
       "password": "274c1b23-2bfe-40ac-943c-ebc1aa044b22",
-      "name": "未知 TROJAN-1379 | free-nodes",
+      "name": "未知 TROJAN-950 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1",
@@ -15,19 +15,6 @@
       "country": "ID",
       "cdn": null,
       "rebuilt": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "46.254.93.39",
-      "port": "2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "俄罗斯(yudou6677.top 玉豆免费节点)",
-      "original": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#ss-ID%F0%9F%8C%90-2",
-      "ip": "46.254.93.39",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#ss-ID%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -38,11 +25,24 @@
       "network": "ws",
       "sni": "sni.001316.xyz",
       "host": "sni.001316.xyz",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-3",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-2",
       "ip": "46.254.93.39",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-3"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "46.254.93.39",
+      "port": "2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "加拿大(yudou6677.top 玉豆免费节点)",
+      "original": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#ss-ID%F0%9F%8C%90-3",
+      "ip": "46.254.93.39",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@46.254.93.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#ss-ID%F0%9F%8C%90-3"
     }
   ]
 }
