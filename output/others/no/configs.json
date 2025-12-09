@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-09T01:12:40.630435",
+  "updated": "2025-12-09T16:22:02.167334",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "141.227.166.177",
-      "port": "37421",
-      "id": "75de6b1d-5180-41de-b2e8-471c99c3c780",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://75de6b1d-5180-41de-b2e8-471c99c3c780@141.227.166.177:37421?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-NO%F0%9F%8C%90-1",
-      "ip": "141.227.166.177",
+      "type": "ss",
+      "address": "107.174.114.71",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D",
+      "name": "🇳🇴NO-107.174.114.71-0350",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1",
+      "ip": "107.174.114.71",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://75de6b1d-5180-41de-b2e8-471c99c3c780@141.227.166.177:37421?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-NO%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1"
     }
   ]
 }
