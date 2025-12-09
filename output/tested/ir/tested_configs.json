@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-08T16:21:32.022727",
-  "count": 2,
+  "updated": "2025-12-09T01:12:40.649800",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -18,22 +18,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
-      "type": "trojan",
-      "address": "188.114.96.208",
-      "port": "443",
-      "password": "blue2024",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "hb.lii2010.us.kg",
-      "host": "",
-      "original": "trojan://blue2024@188.114.96.208:443?sni=hb.lii2010.us.kg&amp;type=ws&amp;host=hb.lii2010.us.kg&amp;allowInsecure=1#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.96.208",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://blue2024@188.114.96.208:443?sni=hb.lii2010.us.kg&amp;type=ws&amp;host=hb.lii2010.us.kg&amp;allowInsecure=1#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     }
   ]
 }

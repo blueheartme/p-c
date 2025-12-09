@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-08T16:21:32.021755",
-  "count": 4,
+  "updated": "2025-12-09T01:12:40.639550",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "v7.vipfast1.shop",
+      "port": "8080?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-16 | free-nodes",
+      "original": "ss://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "45.94.214.114",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "188.114.97.3",
@@ -11,29 +24,26 @@
       "network": "ws",
       "sni": "188.114.97.3",
       "host": "024.electrocellco-cf-024.workers.dev",
-      "original": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "original": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
-      "type": "trojan",
-      "address": "188.114.96.208",
-      "port": "443",
-      "password": "blue2024",
+      "type": "ss",
+      "address": "185.158.175.158",
+      "port": "11237?security=tls&amp;sni=ahmadi.gambron.info&amp;type=tcp&amp;host=bwm.com&amp;headerType=http&amp;alpn=h3,h2,http/1.1",
+      "method": "",
+      "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "hb.lii2010.us.kg",
-      "host": "",
-      "original": "trojan://blue2024@188.114.96.208:443?sni=hb.lii2010.us.kg&amp;type=ws&amp;host=hb.lii2010.us.kg&amp;allowInsecure=1#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.96.208",
+      "original": "ss://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&amp;sni=ahmadi.gambron.info&amp;type=tcp&amp;host=bwm.com&amp;headerType=http&amp;alpn=h3,h2,http/1.1#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "185.158.175.158",
       "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://blue2024@188.114.96.208:443?sni=hb.lii2010.us.kg&amp;type=ws&amp;host=hb.lii2010.us.kg&amp;allowInsecure=1#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "cdn": null,
+      "rebuilt": "ss://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&amp;sni=ahmadi.gambron.info&amp;type=tcp&amp;host=bwm.com&amp;headerType=http&amp;alpn=h3,h2,http/1.1#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
@@ -42,11 +52,11 @@
       "method": "",
       "password": "",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
     },
     {
       "type": "ss",
@@ -55,11 +65,11 @@
       "method": "",
       "password": "",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     }
   ]
 }
