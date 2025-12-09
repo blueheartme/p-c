@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-09T01:12:40.641144",
-  "count": 1,
+  "updated": "2025-12-09T08:23:25.351782",
+  "count": 2,
   "configs": [
     {
+      "type": "vless",
+      "address": "217.13.104.112",
+      "port": "443",
+      "id": "4a6de183-2ad3-456c-b420-feeac81f6257",
+      "name": "德国",
+      "network": "grpc",
+      "sni": "cloudflare.com",
+      "host": "",
+      "original": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1",
+      "ip": "217.13.104.112",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1"
+    },
+    {
       "type": "ss",
-      "address": "217.13.111.94",
+      "address": "217.13.104.112",
       "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
       "method": "",
       "password": "",
       "name": "德国",
-      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1",
-      "ip": "217.13.111.94",
+      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-2",
+      "ip": "217.13.104.112",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-2"
     }
   ]
 }

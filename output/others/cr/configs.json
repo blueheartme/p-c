@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-06T16:17:57.752262",
-  "count": 1,
+  "updated": "2025-12-09T08:23:25.347593",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "190.93.246.89",
-      "port": "80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp",
+      "address": "190.93.244.253",
+      "port": "2096?encryption=none&amp;security=tls&amp;sni=vless.muzheng.top&amp;type=ws&amp;host=vless.muzheng.top&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+",
       "method": "",
       "password": "",
-      "name": "🇺🇲@vpn_ioss ♻️ عضو شو</div>",
-      "original": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-1",
-      "ip": "190.93.246.89",
+      "name": "",
+      "original": "ss://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&amp;security=tls&amp;sni=vless.muzheng.top&amp;type=ws&amp;host=vless.muzheng.top&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#ss-CR%F0%9F%8C%90-1",
+      "ip": "190.93.244.253",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "ss://fad329ac-313b-471c-8d94-a6e8f598990e@190.93.246.89:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=vp3.mydatacloud2.ir&amp;type=xhttp#ss-CR%F0%9F%8C%90-1"
+      "rebuilt": "ss://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&amp;security=tls&amp;sni=vless.muzheng.top&amp;type=ws&amp;host=vless.muzheng.top&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#ss-CR%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "190.93.244.253",
+      "port": "2096",
+      "id": "7556317c-dff6-46e8-ad29-b408f2a6456e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&amp;security=tls&amp;sni=vless.muzheng.top&amp;type=ws&amp;host=vless.muzheng.top&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#vless-tcp-CR%F0%9F%8C%90-2",
+      "ip": "190.93.244.253",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&amp;security=tls&amp;sni=vless.muzheng.top&amp;type=ws&amp;host=vless.muzheng.top&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#vless-tcp-CR%F0%9F%8C%90-2"
     }
   ]
 }
