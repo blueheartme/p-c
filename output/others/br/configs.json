@@ -1,47 +1,19 @@
 {
-  "updated": "2025-12-09T01:12:40.638628",
-  "count": 3,
+  "updated": "2025-12-10T01:14:52.401508",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "38.54.57.90",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-38.54.57.90-7381",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "38.54.57.90",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vmess",
-      "address": "pq-brazil1.09vpn.com",
-      "port": "80",
-      "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
-      "name": "🇧🇷BR-95.164.4.88-0761",
-      "network": "ws",
-      "host": "pq-brazil1.09vpn.com",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6MCwiaG9zdCI6InBxLWJyYXppbDEuMDl2cG4uY29tIiwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoidm1lc3Mtd3MtYXV0by1CUvCfh6fwn4e3LTIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
-      "ip": "95.164.4.88",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6MCwiaG9zdCI6InBxLWJyYXppbDEuMDl2cG4uY29tIiwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoidm1lc3Mtd3MtYXV0by1CUvCfh6fwn4e3LTIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
-    },
     {
       "type": "ss",
       "address": "213.159.66.206",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0274",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "name": "🇲🇩MD-213.159.66.206-0290",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "213.159.66.206",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }

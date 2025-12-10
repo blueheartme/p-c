@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-09T16:22:02.165587",
+  "updated": "2025-12-10T01:14:52.381020",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "159.65.147.91",
       "port": "443",
       "password": "265f092f-418b-30c9-a479-4800fd44dd19mielink",
-      "name": "未知 TROJAN-1645 | free-nodes",
+      "name": "未知 TROJAN-418 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
@@ -18,30 +18,31 @@
     },
     {
       "type": "ss",
-      "address": "103.111.114.29",
-      "port": "57456",
-      "method": "chacha20-ietf-poly1305",
-      "password": "360e21d21977dc11",
-      "name": "🇮🇳IN-103.111.114.29-0383",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "103.111.114.29",
+      "address": "4.240.110.47",
+      "port": "443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "🇺🇸_US_美国",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@4.240.110.47:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "4.240.110.47",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@4.240.110.47:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
-      "type": "trojan",
-      "address": "152.67.160.174",
+      "type": "vless",
+      "address": "4.240.110.47",
       "port": "443",
-      "password": "54080134-2cba-4535-8599-95650bd9aa54",
-      "name": "未知 TROJAN-1118 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "152.67.160.174",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "🇺🇸_US_美国",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@4.240.110.47:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "4.240.110.47",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@4.240.110.47:443?&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&headerType=none&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
