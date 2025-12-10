@@ -1,47 +1,35 @@
 {
-  "updated": "2025-12-10T08:22:50.569650",
-  "count": 3,
+  "updated": "2025-12-10T16:23:10.073483",
+  "count": 2,
   "configs": [
     {
-      "type": "trojan",
-      "address": "170.64.130.150",
-      "port": "443",
-      "password": "39386ab3-db28-468f-b87b-471f4ab7ca1c",
-      "name": "未知 TROJAN-1658 | free-nodes",
-      "sni": "$trxn.ballistics.top",
+      "type": "vless",
+      "address": "170.64.232.45",
+      "port": "28899",
+      "id": "f61d9aee-63b8-439e-bebf-afaa53c015fd",
+      "name": "未知 VLESS-129 | free-nodes",
+      "network": "tcp",
+      "sni": "s0.awsstatic.com",
       "host": "",
-      "original": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "170.64.130.150",
+      "original": "vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "170.64.232.45",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
-      "type": "ss",
-      "address": "aus.hackkcah.xyz",
-      "port": "8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F",
-      "method": "",
-      "password": "",
-      "name": "DE德国(mibei77.com 米贝节点分享)",
-      "original": "ss://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "154.26.159.118",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
       "type": "trojan",
-      "address": "syd14.yukiss.eu.org",
-      "port": "18818",
-      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-445 | free-nodes",
+      "address": "152.67.98.30",
+      "port": "443",
+      "password": "e8c1ab3c-89b3-4933-92df-682e6dce7819",
+      "name": "未知 TROJAN-220 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "152.67.98.224",
+      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "152.67.98.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

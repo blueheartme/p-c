@@ -1,47 +1,47 @@
 {
-  "updated": "2025-12-10T08:22:50.575249",
+  "updated": "2025-12-10T16:23:10.065772",
   "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "141.227.140.217",
-      "port": "23991",
-      "id": "d016da91-83a9-42dc-a246-b27c192e40af",
-      "name": "未知 VLESS-134 | free-nodes",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "original": "vless://d016da91-83a9-42dc-a246-b27c192e40af@141.227.140.217:23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IT%F0%9F%8C%90-1",
-      "ip": "141.227.140.217",
+      "type": "ss",
+      "address": "212.102.54.45",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇮🇹IT-212.102.54.45-0240",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
+      "ip": "212.102.54.45",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://d016da91-83a9-42dc-a246-b27c192e40af@141.227.140.217:23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-grpc-IT%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
+      "type": "vless",
       "address": "204.216.216.23",
-      "port": "10086?security=none&encryption=none&headerType=none&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-108 | free-nodes",
-      "original": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-2",
+      "port": "1114",
+      "id": "6ba2eac6-0ec9-44ca-a42b-a8e23aafb530",
+      "name": "未知 VLESS-98 | free-nodes",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "original": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2",
       "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "151.101.241.242",
-      "port": "80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mojhsjd.global.ssl.fastly.net&amp;type=ws",
+      "address": "141.227.140.217",
+      "port": "23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://507980ca-6b6d-4723-9889-528858f18590@151.101.241.242:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mojhsjd.global.ssl.fastly.net&amp;type=ws#ss-IT%F0%9F%8C%90-3",
-      "ip": "151.101.241.242",
+      "name": "未知 VLESS-125 | free-nodes",
+      "original": "ss://d016da91-83a9-42dc-a246-b27c192e40af@141.227.140.217:23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-IT%F0%9F%8C%90-3",
+      "ip": "141.227.140.217",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://507980ca-6b6d-4723-9889-528858f18590@151.101.241.242:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mojhsjd.global.ssl.fastly.net&amp;type=ws#ss-IT%F0%9F%8C%90-3"
+      "rebuilt": "ss://d016da91-83a9-42dc-a246-b27c192e40af@141.227.140.217:23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-IT%F0%9F%8C%90-3"
     }
   ]
 }

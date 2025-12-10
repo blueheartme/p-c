@@ -1,59 +1,61 @@
 {
-  "updated": "2025-12-10T08:22:50.536030",
+  "updated": "2025-12-10T16:23:10.063874",
   "count": 4,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "146.59.85.226",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "🇫🇷FR-146.59.85.226-1187",
+      "network": "ws",
+      "host": "pelang.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "146.59.85.226",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9006",
+      "method": "aes-256-cfb",
+      "password": "FAdUvMJUq5vDgKEq",
+      "name": "🇵🇱PL-217.30.10.70-7556",
+      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "DE SS-06 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "57.128.214.100",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
     {
       "type": "trojan",
       "address": "51.83.186.142",
       "port": "80",
       "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-459 | free-nodes",
+      "name": "未知 TROJAN-1590 | free-nodes",
       "sni": "pl1.trojanvh.xyz",
       "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "51.83.186.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9060",
-      "method": "aes-256-cfb",
-      "password": "ueLXVkvh4hckhErQ",
-      "name": "🇵🇱PL-217.30.10.18-0384",
-      "original": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9019",
-      "method": "aes-256-cfb",
-      "password": "GA9KzeEgvfxNrgmM",
-      "name": "🇵🇱PL-217.30.10.18-0383",
-      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9008",
-      "method": "aes-256-cfb",
-      "password": "y9VURyNzJWNRYEGQ",
-      "name": "🇵🇱PL-217.30.10.70-7553",
-      "original": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.70:9008#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.70:9008#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-10T08:22:50.547301",
+  "updated": "2025-12-10T16:23:10.072628",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "45.82.253.237",
-      "port": "28443",
-      "password": "a1b16d10-4f43-4dd9-8c4f-52065b2b0910",
-      "name": "未知 TROJAN-1193 | free-nodes",
-      "sni": "",
+      "address": "37.252.5.75",
+      "port": "443",
+      "password": "3208e968-b862-4e2e-ad90-2b49e7ce7afb",
+      "name": "未知 TROJAN-178 | free-nodes",
+      "sni": "joss.gpj1.web.id",
       "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
-      "ip": "45.82.253.237",
+      "original": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-EE%F0%9F%8C%90-1",
+      "ip": "37.252.5.75",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-EE%F0%9F%8C%90-1"
     }
   ]
 }
