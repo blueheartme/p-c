@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-10T01:14:52.385404",
+  "updated": "2025-12-10T08:22:50.589207",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "180.149.44.70",
-      "port": "4655",
-      "id": "892930fd-0235-4352-817d-01a3ac3c70c5",
+      "port": "4655?encryption=none&security=none&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
       "name": "DE德国(mibei77.com 米贝节点分享)",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-AZ%F0%9F%8C%90-1",
+      "original": "ss://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#ss-AZ%F0%9F%8C%90-1",
       "ip": "180.149.44.70",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-AZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#ss-AZ%F0%9F%8C%90-1"
     }
   ]
 }

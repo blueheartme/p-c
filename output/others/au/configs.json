@@ -1,48 +1,47 @@
 {
-  "updated": "2025-12-10T01:14:52.395347",
+  "updated": "2025-12-10T08:22:50.569650",
   "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "95.111.222.113",
+      "type": "trojan",
+      "address": "170.64.130.150",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "法国",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "95.111.222.113",
+      "password": "39386ab3-db28-468f-b87b-471f4ab7ca1c",
+      "name": "未知 TROJAN-1658 | free-nodes",
+      "sni": "$trxn.ballistics.top",
+      "host": "",
+      "original": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "170.64.130.150",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
-      "type": "vless",
+      "type": "ss",
       "address": "aus.hackkcah.xyz",
-      "port": "8090",
-      "id": "ee662031-f0e9-47ec-aecf-f649e1a1c3ea",
+      "port": "8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F",
+      "method": "",
+      "password": "",
       "name": "DE德国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "ausa.hackkcah.xyz",
-      "host": "aus.hackkcah.xyz",
-      "original": "vless://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "original": "ss://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
       "ip": "154.26.159.118",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "ss://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:8090?encryption=none&security=none&sni=ausa.hackkcah.xyz&type=ws&host=aus.hackkcah.xyz&path=%2Fvless-ws%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     },
     {
       "type": "trojan",
-      "address": "mel12.yukiss.eu.org",
+      "address": "syd14.yukiss.eu.org",
       "port": "18818",
       "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-1828 | free-nodes",
+      "name": "未知 TROJAN-445 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "168.138.8.86",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
+      "ip": "152.67.98.224",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }

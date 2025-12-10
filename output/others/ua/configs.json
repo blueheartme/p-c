@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-09T16:22:02.170884",
-  "count": 2,
+  "updated": "2025-12-10T08:22:50.589919",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,19 +16,6 @@
       "country": "UA",
       "cdn": null,
       "rebuilt": "vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-UA%F0%9F%87%BA%F0%9F%87%A6-1"
-    },
-    {
-      "type": "ss",
-      "address": "ua.griffon-guard.com",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-93 | free-nodes",
-      "original": "ss://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#ss-UA%F0%9F%87%BA%F0%9F%87%A6-2",
-      "ip": "5.34.182.102",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#ss-UA%F0%9F%87%BA%F0%9F%87%A6-2"
     }
   ]
 }
