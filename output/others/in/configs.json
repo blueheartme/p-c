@@ -1,20 +1,19 @@
 {
-  "updated": "2025-12-10T16:23:10.057493",
+  "updated": "2025-12-11T01:15:26.972458",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "152.67.162.166",
-      "port": "443",
-      "password": "e05c749b-7c6b-41b8-9c71-9dcf685edf4a",
-      "name": "未知 TROJAN-1622 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "152.67.162.166",
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-7529",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "134.209.147.198",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

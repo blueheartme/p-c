@@ -1,35 +1,7 @@
 {
-  "updated": "2025-12-10T16:23:10.050428",
-  "count": 4,
+  "updated": "2025-12-11T01:15:26.957185",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "3.249.15.72",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-1097 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
-      "ip": "3.249.15.72",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "34.253.231.7",
-      "port": "22222",
-      "password": "telegram-id-directvpn",
-      "name": "未知 TROJAN-702 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2",
-      "ip": "34.253.231.7",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2"
-    },
     {
       "type": "trojan",
       "address": "3.253.67.209",
@@ -38,25 +10,25 @@
       "name": "未知 TROJAN-314 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3",
+      "original": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
       "ip": "3.253.67.209",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-3"
+      "rebuilt": "trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
     },
     {
       "type": "trojan",
       "address": "3.252.69.131",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-1700 | free-nodes",
+      "name": "未知 TROJAN-1735 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-4",
+      "original": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2",
       "ip": "3.252.69.131",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-4"
+      "rebuilt": "trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2"
     }
   ]
 }

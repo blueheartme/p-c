@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-10T16:23:10.062292",
+  "updated": "2025-12-11T01:15:26.975893",
   "count": 1,
   "configs": [
     {
       "type": "trojan",
-      "address": "212.90.123.133",
+      "address": "212.90.123.130",
       "port": "28443",
-      "password": "a1b16d10-4f43-4dd9-8c4f-52065b2b0910",
-      "name": "未知 TROJAN-1840 | free-nodes",
+      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
+      "name": "未知 TROJAN-648 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
-      "ip": "212.90.123.133",
+      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
+      "ip": "212.90.123.130",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
+      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#trojan-tcp-tls-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
     }
   ]
 }

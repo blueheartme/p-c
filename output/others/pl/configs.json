@@ -1,61 +1,48 @@
 {
-  "updated": "2025-12-10T16:23:10.063874",
-  "count": 4,
+  "updated": "2025-12-11T01:15:26.966909",
+  "count": 3,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "146.59.85.226",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇫🇷FR-146.59.85.226-1187",
-      "network": "ws",
-      "host": "pelang.org",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
-      "ip": "146.59.85.226",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNTkuODUuMjI2IiwiYWlkIjowLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1QTPCfh7Xwn4exLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9006",
-      "method": "aes-256-cfb",
-      "password": "FAdUvMJUq5vDgKEq",
-      "name": "🇵🇱PL-217.30.10.70-7556",
-      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
     {
       "type": "ss",
       "address": "57.128.214.100",
       "port": "12000",
       "method": "aes-256-gcm",
       "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "DE SS-06 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "name": "DE SS-08 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "57.128.214.100",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "trojan",
       "address": "51.83.186.142",
-      "port": "80",
+      "port": "443",
       "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-1590 | free-nodes",
+      "name": "未知 TROJAN-1147 | free-nodes",
       "sni": "pl1.trojanvh.xyz",
       "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "51.83.186.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "45.144.50.162",
+      "port": "443",
+      "id": "39198da5-1cd5-4d48-b70a-af5a454a22d2",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://39198da5-1cd5-4d48-b70a-af5a454a22d2@45.144.50.162:443?security=reality&amp;encryption=none&amp;pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=22628a15a948#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "45.144.50.162",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://39198da5-1cd5-4d48-b70a-af5a454a22d2@45.144.50.162:443?security=reality&amp;encryption=none&amp;pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=22628a15a948#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
