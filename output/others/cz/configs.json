@@ -1,33 +1,20 @@
 {
-  "updated": "2025-12-11T01:15:26.979073",
-  "count": 2,
+  "updated": "2025-12-11T08:23:49.104430",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "195.181.160.6",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇿CZ-195.181.160.6-0329",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1",
-      "ip": "195.181.160.6",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "92.118.149.85",
       "port": "443",
       "password": "3gLlCYBipVwr6Y5F",
-      "name": "未知 TROJAN-589 | free-nodes",
+      "name": "未知 TROJAN-1231 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-2",
+      "original": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-1",
       "ip": "92.118.149.85",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-2"
+      "rebuilt": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-1"
     }
   ]
 }
