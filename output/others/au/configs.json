@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-11T08:23:49.107986",
+  "updated": "2025-12-11T16:23:56.706311",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "syd14.yukiss.eu.org",
       "port": "18818",
       "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-925 | free-nodes",
+      "name": "未知 TROJAN-445 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
@@ -17,19 +17,18 @@
       "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
-      "type": "vless",
-      "address": "170.64.232.45",
-      "port": "28899",
-      "id": "f61d9aee-63b8-439e-bebf-afaa53c015fd",
-      "name": "未知 VLESS-143 | free-nodes",
-      "network": "tcp",
-      "sni": "s0.awsstatic.com",
+      "type": "trojan",
+      "address": "mel12.yukiss.eu.org",
+      "port": "18818",
+      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
+      "name": "未知 TROJAN-271 | free-nodes",
+      "sni": "",
       "host": "",
-      "original": "vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "170.64.232.45",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "168.138.8.86",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

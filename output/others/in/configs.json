@@ -1,20 +1,47 @@
 {
-  "updated": "2025-12-11T08:23:49.111195",
-  "count": 1,
+  "updated": "2025-12-11T16:23:56.708751",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "159.65.147.91",
+      "port": "443",
+      "password": "265f092f-418b-30c9-a479-4800fd44dd19mielink",
+      "name": "未知 TROJAN-363 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "159.65.147.91",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-6731",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "134.209.147.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
     {
       "type": "trojan",
       "address": "152.67.162.166",
       "port": "443",
       "password": "e05c749b-7c6b-41b8-9c71-9dcf685edf4a",
-      "name": "未知 TROJAN-1622 | free-nodes",
+      "name": "未知 TROJAN-362 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "152.67.162.166",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
