@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T08:23:15.119744",
+  "updated": "2025-12-12T16:19:40.572758",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "107.189.3.96",
       "port": "443",
       "password": "f42d1b0d-c398-43cb-be37-d739b1477a5d",
-      "name": "未知 TROJAN-523 | free-nodes",
+      "name": "未知 TROJAN-1531 | free-nodes",
       "sni": "joss.gpj4.web.id",
       "host": "",
       "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
@@ -21,7 +21,7 @@
       "address": "ch12.yukiss.eu.org",
       "port": "18818",
       "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-509 | free-nodes",
+      "name": "未知 TROJAN-1837 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
@@ -31,19 +31,18 @@
       "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
-      "type": "vless",
-      "address": "208.69.78.5",
+      "type": "trojan",
+      "address": "91.192.102.92",
       "port": "443",
-      "id": "0a21d713-6e6f-4274-8b84-464019325513",
-      "name": "未知 VLESS-19 | free-nodes",
-      "network": "",
-      "sni": "",
+      "password": "8d047125-8467-4724-bb62-ef64405dca78",
+      "name": "未知 TROJAN-1488 | free-nodes",
+      "sni": "joss.gpj1.web.id",
       "host": "",
-      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "208.69.78.5",
+      "original": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "91.192.102.92",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
