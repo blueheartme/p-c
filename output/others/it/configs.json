@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-12T01:15:04.643501",
+  "updated": "2025-12-12T08:23:15.122910",
   "count": 2,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "204.216.216.23",
-      "port": "10086?security=none&encryption=none&headerType=none&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-110 | free-nodes",
-      "original": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-1",
+      "port": "1114",
+      "id": "6ba2eac6-0ec9-44ca-a42b-a8e23aafb530",
+      "name": "未知 VLESS-98 | free-nodes",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "original": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-1",
       "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -21,7 +23,7 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "未知 SS-84 | free-nodes",
+      "name": "未知 SS-77 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-2",
       "ip": "212.102.54.45",
       "country": "IT",

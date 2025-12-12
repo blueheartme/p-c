@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T01:15:04.646957",
+  "updated": "2025-12-12T08:23:15.118888",
   "count": 3,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "103.176.78.153",
       "port": "443",
       "password": "idc117okt",
-      "name": "未知 TROJAN-1000 | free-nodes",
+      "name": "未知 TROJAN-845 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1",
@@ -17,25 +17,24 @@
       "rebuilt": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1"
     },
     {
-      "type": "trojan",
-      "address": "103.226.139.201",
-      "port": "443",
-      "password": "idc117okt",
-      "name": "未知 TROJAN-819 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2",
-      "ip": "103.226.139.201",
+      "type": "ss",
+      "address": "154.205.159.100",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇩ID-154.205.159.100-0439",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-2",
+      "ip": "154.205.159.100",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-2"
     },
     {
       "type": "trojan",
       "address": "38.9.140.66",
       "port": "443",
       "password": "vvip-periantara",
-      "name": "未知 TROJAN-850 | free-nodes",
+      "name": "未知 TROJAN-319 | free-nodes",
       "sni": "id3tr.jagoan.vip",
       "host": "",
       "original": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-3",

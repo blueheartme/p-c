@@ -1,21 +1,21 @@
 {
-  "updated": "2025-12-10T08:22:50.592980",
+  "updated": "2025-12-12T08:23:15.123721",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "8613",
-      "id": "80039b4d-bac0-4f89-82c7-54fad3b0a1ea",
-      "name": "🇲🇾MY-47.250.45.234-7536",
-      "network": "ws",
-      "host": "",
+      "type": "vless",
+      "address": "45.89.107.244",
+      "port": "443",
+      "id": "6fe4cdfd-11a8-4d3b-94a4-4b735da523de",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "47.250.45.234",
+      "host": "",
+      "original": "vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=%2Fajnexnws&amp;security=tls&amp;encryption=none&amp;type=ws#vless-tcp-MY%F0%9F%8C%90-1",
+      "ip": "45.89.107.244",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=%2Fajnexnws&amp;security=tls&amp;encryption=none&amp;type=ws#vless-tcp-MY%F0%9F%8C%90-1"
     }
   ]
 }
