@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-11T16:23:56.690703",
+  "updated": "2025-12-12T01:15:04.646957",
   "count": 3,
   "configs": [
     {
       "type": "trojan",
-      "address": "38.9.140.66",
+      "address": "103.176.78.153",
       "port": "443",
-      "password": "vvip-periantara",
-      "name": "未知 TROJAN-840 | free-nodes",
-      "sni": "id3tr.jagoan.vip",
+      "password": "idc117okt",
+      "name": "未知 TROJAN-1000 | free-nodes",
+      "sni": "",
       "host": "",
-      "original": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1",
-      "ip": "38.9.140.66",
+      "original": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1",
+      "ip": "103.176.78.153",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1"
+      "rebuilt": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1"
     },
     {
       "type": "trojan",
@@ -32,17 +32,17 @@
     },
     {
       "type": "trojan",
-      "address": "103.176.78.153",
+      "address": "38.9.140.66",
       "port": "443",
-      "password": "idc117okt",
-      "name": "未知 TROJAN-318 | free-nodes",
-      "sni": "",
+      "password": "vvip-periantara",
+      "name": "未知 TROJAN-850 | free-nodes",
+      "sni": "id3tr.jagoan.vip",
       "host": "",
-      "original": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3",
-      "ip": "103.176.78.153",
+      "original": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-3",
+      "ip": "38.9.140.66",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3"
+      "rebuilt": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-3"
     }
   ]
 }

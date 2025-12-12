@@ -1,20 +1,21 @@
 {
-  "updated": "2025-12-11T08:23:49.104430",
+  "updated": "2025-12-12T01:15:04.661839",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "92.118.149.85",
-      "port": "443",
-      "password": "3gLlCYBipVwr6Y5F",
-      "name": "未知 TROJAN-1231 | free-nodes",
+      "type": "vless",
+      "address": "194.182.79.240",
+      "port": "22728",
+      "id": "bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
       "sni": "",
       "host": "",
-      "original": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-1",
-      "ip": "92.118.149.85",
+      "original": "vless://bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a@194.182.79.240:22728?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-1",
+      "ip": "194.182.79.240",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#trojan-tcp-tls-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a@194.182.79.240:22728?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-1"
     }
   ]
 }
