@@ -1,36 +1,19 @@
 {
-  "updated": "2025-12-13T01:10:54.251401",
-  "count": 2,
+  "updated": "2025-12-13T16:18:29.675488",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "95.134.130.68",
-      "port": "53132",
-      "id": "4e060f72-a929-4cf9-a797-e06c42669722",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://4e060f72-a929-4cf9-a797-e06c42669722@95.134.130.68:53132?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "95.134.130.68",
+      "type": "ss",
+      "address": "83.217.9.17",
+      "port": "25232",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YHtXD4pojvormVWRiHgIfv",
+      "name": "TR SS-35 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRYRDRwb2p2b3JtVldSaUhnSWZ2@83.217.9.17:25232#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "83.217.9.17",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://4e060f72-a929-4cf9-a797-e06c42669722@95.134.130.68:53132?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "istanbul.fonixapp.org",
-      "port": "443",
-      "id": "cb7188cf-2c3a-43a5-af90-d893922e4917",
-      "name": "🇷🇺_RU_俄罗斯",
-      "network": "tcp",
-      "sni": "fonts.gstatic.com",
-      "host": "",
-      "original": "vless://cb7188cf-2c3a-43a5-af90-d893922e4917@istanbul.fonixapp.org:443?security=reality&encryption=none&pbk=eS0NqJCAo6Jn4PuU3nU4A5D7RyNbn3WyhipXViddnzI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=5457#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "213.156.152.223",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://cb7188cf-2c3a-43a5-af90-d893922e4917@istanbul.fonixapp.org:443?security=reality&encryption=none&pbk=eS0NqJCAo6Jn4PuU3nU4A5D7RyNbn3WyhipXViddnzI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=5457#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRYRDRwb2p2b3JtVldSaUhnSWZ2@83.217.9.17:25232#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

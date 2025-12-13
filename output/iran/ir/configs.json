@@ -1,21 +1,36 @@
 {
-  "updated": "2025-12-11T16:23:56.709596",
-  "count": 1,
+  "updated": "2025-12-13T16:18:29.683085",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "2.189.126.251",
-      "port": "50060",
-      "id": "5bf68ef6-c6b7-4158-8e8b-16ebf0bd437a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "188.114.99.16",
+      "port": "2053",
+      "id": "54f6e78c-b497-4db7-ba48-38c4cf81d5ef",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://5bf68ef6-c6b7-4158-8e8b-16ebf0bd437a@2.189.126.251:50060?security=none&amp;type=tcp&amp;headerType=http#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "2.189.126.251",
+      "original": "vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "188.114.99.16",
       "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://5bf68ef6-c6b7-4158-8e8b-16ebf0bd437a@2.189.126.251:50060?security=none&amp;type=tcp&amp;headerType=http#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "188.114.99.16",
+      "port": "2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "188.114.99.16",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "rebuilt": "ss://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     }
   ]
 }
