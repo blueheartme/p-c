@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-12T16:19:40.602286",
-  "count": 2,
+  "updated": "2025-12-13T01:10:54.242073",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "170.64.232.45",
-      "port": "28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-129 | free-nodes",
-      "original": "ss://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "170.64.232.45",
+      "type": "trojan",
+      "address": "170.64.130.150",
+      "port": "443",
+      "password": "39386ab3-db28-468f-b87b-471f4ab7ca1c",
+      "name": "未知 TROJAN-1784 | free-nodes",
+      "sni": "$trxn.ballistics.top",
+      "host": "",
+      "original": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "170.64.130.150",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://f61d9aee-63b8-439e-bebf-afaa53c015fd@170.64.232.45:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "mel12.yukiss.eu.org",
+      "port": "18818",
+      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
+      "name": "未知 TROJAN-1505 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "168.138.8.86",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     },
     {
       "type": "trojan",
@@ -23,11 +38,11 @@
       "name": "未知 TROJAN-220 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
       "ip": "152.67.98.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }

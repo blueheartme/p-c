@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-12T16:19:40.586265",
-  "count": 2,
+  "updated": "2025-12-13T01:10:54.256852",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -14,21 +14,6 @@
       "country": "AM",
       "cdn": null,
       "rebuilt": "ss://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#ss-AM%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "yer1.vpntype.dev",
-      "port": "8443",
-      "id": "c44d64d3-bc91-43ba-9d59-3a0906e7a2bd",
-      "name": "未知 VLESS-28 | free-nodes",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "original": "vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-2",
-      "ip": "91.132.132.158",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-2"
     }
   ]
 }

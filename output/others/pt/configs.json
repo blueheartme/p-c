@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-12T16:19:40.575757",
-  "count": 1,
+  "updated": "2025-12-13T01:10:54.224626",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "5.182.39.57",
       "port": "443",
       "password": "6c7d536e-1ecf-448d-83c1-3044dd89ceac",
-      "name": "未知 TROJAN-204 | free-nodes",
+      "name": "未知 TROJAN-479 | free-nodes",
       "sni": "joss.gpj4.web.id",
       "host": "",
       "original": "trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-PT%F0%9F%8C%90-1",
@@ -15,6 +15,19 @@
       "country": "PT",
       "cdn": null,
       "rebuilt": "trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-PT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.231.233.112",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇵🇹PT-185.231.233.112-6856",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#ss-aes-256-cfb-PT%F0%9F%8C%90-2",
+      "ip": "185.231.233.112",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#ss-aes-256-cfb-PT%F0%9F%8C%90-2"
     }
   ]
 }
