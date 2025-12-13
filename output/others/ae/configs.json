@@ -1,20 +1,19 @@
 {
-  "updated": "2025-12-12T16:19:40.606031",
+  "updated": "2025-12-13T08:19:46.611537",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.66.134.219",
-      "port": "443",
-      "password": "28d98f761aca9d636f44db62544628eb",
-      "name": "未知 TROJAN-318 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "45.66.134.219",
+      "type": "ss",
+      "address": "185.225.195.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.225.195.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "185.225.195.101",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.225.195.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-12T16:19:40.603065",
-  "count": 1,
+  "updated": "2025-12-13T08:19:46.614732",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,27 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇾CY-134.255.210.49-0413",
+      "name": "🇨🇾CY-134.255.210.49-0392",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1",
       "ip": "134.255.210.49",
       "country": "CY",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "195.26.229.101",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "name": "英国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@195.26.229.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CY%F0%9F%8C%90-2",
+      "ip": "195.26.229.101",
+      "country": "CY",
+      "cdn": null,
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@195.26.229.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CY%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-12T16:19:40.594308",
-  "count": 1,
+  "updated": "2025-12-13T08:19:46.600763",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "217.13.104.112",
-      "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
+      "address": "141.11.203.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
       "method": "",
       "password": "",
-      "name": "德国",
-      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1",
-      "ip": "217.13.104.112",
+      "name": "法国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1",
+      "ip": "141.11.203.101",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "217.13.111.94",
+      "port": "443",
+      "id": "4a6de183-2ad3-456c-b420-feeac81f6257",
+      "name": "德国",
+      "network": "grpc",
+      "sni": "cloudflare.com",
+      "host": "",
+      "original": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-2",
+      "ip": "217.13.111.94",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-12T16:19:40.587224",
-  "count": 2,
+  "updated": "2025-12-13T08:19:46.596658",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -23,12 +23,25 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇿CZ-195.181.160.6-0312",
+      "name": "🇨🇿CZ-195.181.160.6-0258",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2",
       "ip": "195.181.160.6",
       "country": "CZ",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "14.102.228.75",
+      "port": "80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F",
+      "method": "",
+      "password": "",
+      "name": "加拿大",
+      "original": "ss://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#ss-CZ%F0%9F%8C%90-3",
+      "ip": "14.102.228.75",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#ss-CZ%F0%9F%8C%90-3"
     }
   ]
 }

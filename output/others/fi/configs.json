@@ -1,32 +1,32 @@
 {
-  "updated": "2025-12-13T01:10:54.241105",
-  "count": 8,
+  "updated": "2025-12-13T08:19:46.602177",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "65.109.230.46",
-      "port": "52186?mode=gun&security=reality&encryption=none&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-01 | free-nodes",
-      "original": "ss://8cd990e3-44c7-4bb7-8883-7603649b441c@65.109.230.46:52186?mode=gun&security=reality&encryption=none&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1#ss-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "65.109.230.46",
+      "address": "65.21.243.22",
+      "port": "31348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "mZGUFWMAlfWqI4vP58zw9DAHxR8TZLndKkvRgHHFa9eqWdnx",
+      "name": "🇫🇮FI-65.21.243.22-0380",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "65.21.243.22",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://8cd990e3-44c7-4bb7-8883-7603649b441c@65.109.230.46:52186?mode=gun&security=reality&encryption=none&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1#ss-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#ss-chacha20-ietf-poly1305-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "ss",
-      "address": "m88a.vip784.com",
-      "port": "33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir",
+      "address": "inst.faceppm.ru",
+      "port": "1888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kernel.org&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&sid=16b7f8a207cda6e3&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-18 | free-nodes",
-      "original": "ss://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "65.109.176.237",
+      "name": "俄罗斯",
+      "original": "ss://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@inst.faceppm.ru:1888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kernel.org&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&sid=16b7f8a207cda6e3&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "185.42.163.177",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "ss://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@inst.faceppm.ru:1888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kernel.org&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&sid=16b7f8a207cda6e3&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "vless",
@@ -49,7 +49,7 @@
       "port": "33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-49 | free-nodes",
+      "name": "未知 VLESS-69 | free-nodes",
       "original": "ss://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4",
       "ip": "65.109.188.251",
       "country": "FI",
@@ -57,58 +57,19 @@
       "rebuilt": "ss://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
-      "type": "ss",
-      "address": "45.131.185.234",
-      "port": "443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-62 | free-nodes",
-      "original": "ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@45.131.185.234:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "45.131.185.234",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@45.131.185.234:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5"
-    },
-    {
-      "type": "ss",
-      "address": "m23a.vip784.com",
-      "port": "33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-123 | free-nodes",
-      "original": "ss://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-6",
-      "ip": "65.109.195.250",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#ss-FI%F0%9F%87%AB%F0%9F%87%AE-6"
-    },
-    {
-      "type": "ss",
-      "address": "advertisement.app-browser.org",
-      "port": "443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-44 | free-nodes",
-      "original": "ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-7",
-      "ip": "65.21.240.236",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#ss-FI%F0%9F%87%AB%F0%9F%87%AE-7"
-    },
-    {
       "type": "vless",
-      "address": "m23a.vip784.com",
+      "address": "m80a.vip784.com",
       "port": "33801",
-      "id": "b5802512-e06d-4784-bdf2-8c9a411dee74",
-      "name": "未知 VLESS-123 | free-nodes",
+      "id": "0945839b-113a-4272-a67c-1852b990abf5",
+      "name": "未知 VLESS-69 | free-nodes",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-8",
-      "ip": "65.109.195.250",
+      "original": "vless://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "ip": "65.109.188.251",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+      "rebuilt": "vless://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     }
   ]
 }

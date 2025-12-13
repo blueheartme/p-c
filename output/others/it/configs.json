@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-13T01:10:54.259021",
+  "updated": "2025-12-13T08:19:46.619762",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "204.216.216.23",
-      "port": "10086?security=none&encryption=none&headerType=none&type=tcp",
-      "method": "",
-      "password": "",
+      "port": "10086",
+      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
       "name": "未知 VLESS-110 | free-nodes",
-      "original": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-1",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-1",
       "ip": "204.216.216.23",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-1"
     }
   ]
 }
