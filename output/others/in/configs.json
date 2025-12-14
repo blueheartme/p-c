@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-13T16:18:29.668666",
-  "count": 5,
+  "updated": "2025-12-14T01:20:16.524843",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
       "address": "152.67.160.174",
       "port": "443",
       "password": "54080134-2cba-4535-8599-95650bd9aa54",
-      "name": "未知 TROJAN-1101 | free-nodes",
+      "name": "未知 TROJAN-288 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
@@ -18,56 +18,31 @@
     },
     {
       "type": "ss",
-      "address": "134.209.147.198",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-0392",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "trojan",
-      "address": "152.67.162.166",
-      "port": "443",
-      "password": "e05c749b-7c6b-41b8-9c71-9dcf685edf4a",
-      "name": "未知 TROJAN-1626 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "152.67.162.166",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-0358",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4"
-    },
-    {
-      "type": "ss",
       "address": "108.165.152.101",
       "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
       "method": "",
       "password": "",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "108.165.152.101",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "vless",
+      "address": "98.70.151.190",
+      "port": "443",
+      "id": "470df3e9-ff22-485b-94b3-7ad10ef5372a",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.site",
+      "host": "kuangbao.xiejiang.site",
+      "original": "vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@98.70.151.190:443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "98.70.151.190",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@98.70.151.190:443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }

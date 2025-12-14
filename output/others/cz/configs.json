@@ -1,32 +1,21 @@
 {
-  "updated": "2025-12-13T16:18:29.658491",
-  "count": 2,
+  "updated": "2025-12-14T01:20:16.486881",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "185.149.135.101",
-      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-1",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-1",
       "ip": "185.149.135.101",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "194.182.79.240",
-      "port": "22723?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://9f4e5fc4-24bb-4f99-965a-13877d2223a1@194.182.79.240:22723?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-2",
-      "ip": "194.182.79.240",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://9f4e5fc4-24bb-4f99-965a-13877d2223a1@194.182.79.240:22723?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-1"
     }
   ]
 }

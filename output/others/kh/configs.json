@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-13T16:18:29.662922",
-  "count": 2,
+  "updated": "2025-12-14T01:20:16.527115",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
       "address": "92.243.75.49",
       "port": "2087",
       "password": "wb6368",
-      "name": "未知 TROJAN-1784 | free-nodes",
+      "name": "未知 TROJAN-1404 | free-nodes",
       "sni": "hsdgbuys.pages.dev",
       "host": "",
       "original": "trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#trojan-ws-tls-KH%F0%9F%8C%90-1",
@@ -15,19 +15,6 @@
       "country": "KH",
       "cdn": null,
       "rebuilt": "trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#trojan-ws-tls-KH%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "38.54.4.87",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "未知 SS-102 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#ss-chacha20-ietf-poly1305-KH%F0%9F%8C%90-2",
-      "ip": "38.54.4.87",
-      "country": "KH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#ss-chacha20-ietf-poly1305-KH%F0%9F%8C%90-2"
     }
   ]
 }
