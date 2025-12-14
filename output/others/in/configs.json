@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-14T08:20:07.757202",
-  "count": 2,
+  "updated": "2025-12-14T16:17:52.859243",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
       "address": "159.65.147.91",
       "port": "443",
       "password": "265f092f-418b-30c9-a479-4800fd44dd19mielink",
-      "name": "未知 TROJAN-1162 | free-nodes",
+      "name": "未知 TROJAN-1941 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
@@ -15,20 +15,6 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "trojan",
-      "address": "152.67.160.174",
-      "port": "443",
-      "password": "54080134-2cba-4535-8599-95650bd9aa54",
-      "name": "未知 TROJAN-1101 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "152.67.160.174",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }

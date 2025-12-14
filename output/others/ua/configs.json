@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-13T16:18:29.681493",
+  "updated": "2025-12-14T16:17:52.883027",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "89.116.180.101",
-      "port": "2096",
-      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "spdf.qzz.io",
-      "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@89.116.180.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@89.116.180.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1",
       "ip": "89.116.180.101",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@89.116.180.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@89.116.180.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }
