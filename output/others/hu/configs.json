@@ -1,21 +1,21 @@
 {
-  "updated": "2025-12-13T16:18:29.680600",
+  "updated": "2025-12-14T08:20:07.790296",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "217.13.104.112",
+      "address": "217.13.111.94",
       "port": "443",
       "id": "4a6de183-2ad3-456c-b420-feeac81f6257",
       "name": "德国",
       "network": "grpc",
       "sni": "cloudflare.com",
       "host": "",
-      "original": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1",
-      "ip": "217.13.104.112",
+      "original": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1",
+      "ip": "217.13.111.94",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,21 +1,47 @@
 {
-  "updated": "2025-12-13T08:19:46.607488",
-  "count": 1,
+  "updated": "2025-12-14T08:20:07.789452",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "yer1.vpntype.dev",
-      "port": "8443",
-      "id": "c44d64d3-bc91-43ba-9d59-3a0906e7a2bd",
-      "name": "未知 VLESS-28 | free-nodes",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "original": "vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1",
+      "port": "8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-33 | free-nodes",
+      "original": "ss://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#ss-AM%F0%9F%8C%90-1",
       "ip": "91.132.132.158",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1"
+      "rebuilt": "ss://c44d64d3-bc91-43ba-9d59-3a0906e7a2bd@yer1.vpntype.dev:8443?security=reality&encryption=none&pbk=wWi-AH24-O27OYXsaT390rLPZY9hqBRYuvBGIZ9vzkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#ss-AM%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "arman6gaming1111.mongral.ir",
+      "port": "7936",
+      "id": "1ad9cac3-eb5b-485f-9df3-8cf03d454681",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6gaming1111.mongral.ir:7936?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-AM%F0%9F%8C%90-2",
+      "ip": "93.115.240.75",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "vless://1ad9cac3-eb5b-485f-9df3-8cf03d454681@arman6gaming1111.mongral.ir:7936?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-AM%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "213.159.76.21",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
+      "name": "🇲🇩MD-213.159.76.21-0287",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-3",
+      "ip": "213.159.76.21",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-3"
     }
   ]
 }

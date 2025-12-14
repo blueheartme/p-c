@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-14T01:20:16.532475",
-  "count": 3,
+  "updated": "2025-12-14T08:20:07.786064",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
       "address": "38.9.140.66",
       "port": "443",
       "password": "vvip-periantara",
-      "name": "未知 TROJAN-1023 | free-nodes",
+      "name": "未知 TROJAN-1820 | free-nodes",
       "sni": "id3tr.jagoan.vip",
       "host": "",
       "original": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1",
@@ -17,26 +17,25 @@
       "rebuilt": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "45.196.29.101",
-      "port": "2096",
-      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "spdf.qzz.io",
-      "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@45.196.29.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-2",
-      "ip": "45.196.29.101",
+      "type": "trojan",
+      "address": "103.176.78.153",
+      "port": "443",
+      "password": "idc117okt",
+      "name": "未知 TROJAN-1632 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2",
+      "ip": "103.176.78.153",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@45.196.29.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-ID%F0%9F%8C%90-2"
+      "rebuilt": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2"
     },
     {
       "type": "trojan",
       "address": "41.216.177.41",
       "port": "443",
       "password": "274c1b23-2bfe-40ac-943c-ebc1aa044b22",
-      "name": "未知 TROJAN-1131 | free-nodes",
+      "name": "未知 TROJAN-862 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3",
@@ -44,6 +43,20 @@
       "country": "ID",
       "cdn": null,
       "rebuilt": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3"
+    },
+    {
+      "type": "trojan",
+      "address": "103.226.139.201",
+      "port": "443",
+      "password": "idc117okt",
+      "name": "未知 TROJAN-318 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-4",
+      "ip": "103.226.139.201",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-4"
     }
   ]
 }

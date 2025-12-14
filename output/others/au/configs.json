@@ -1,35 +1,20 @@
 {
-  "updated": "2025-12-14T01:20:16.521713",
-  "count": 4,
+  "updated": "2025-12-14T08:20:07.795930",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "192.9.190.80",
-      "port": "23862",
-      "id": "470df3e9-ff22-485b-94b3-7ad10ef5372a",
-      "name": "AU澳大利亚(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "kuangbao.xiejiang.site",
-      "host": "kuangbao.xiejiang.site",
-      "original": "vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@192.9.190.80:23862?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "192.9.190.80",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@192.9.190.80:23862?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
       "type": "trojan",
-      "address": "152.67.98.30",
-      "port": "443",
-      "password": "e8c1ab3c-89b3-4933-92df-682e6dce7819",
-      "name": "未知 TROJAN-1035 | free-nodes",
+      "address": "mel12.yukiss.eu.org",
+      "port": "18818",
+      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
+      "name": "未知 TROJAN-496 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "152.67.98.30",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "168.138.8.86",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
       "type": "ss",
@@ -38,11 +23,11 @@
       "method": "",
       "password": "",
       "name": "AU澳大利亚(mibei77.com 米贝节点分享)",
-      "original": "ss://470df3e9-ff22-485b-94b3-7ad10ef5372a@20.167.42.198:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#ss-AU%F0%9F%87%A6%F0%9F%87%BA-3",
+      "original": "ss://470df3e9-ff22-485b-94b3-7ad10ef5372a@20.167.42.198:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
       "ip": "20.167.42.198",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://470df3e9-ff22-485b-94b3-7ad10ef5372a@20.167.42.198:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#ss-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "ss://470df3e9-ff22-485b-94b3-7ad10ef5372a@20.167.42.198:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=%2F%3Fed%3D2560#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     },
     {
       "type": "trojan",
@@ -52,11 +37,11 @@
       "name": "未知 TROJAN-934 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-4",
+      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
       "ip": "152.67.98.224",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-4"
+      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@syd14.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-14T01:20:16.528712",
-  "count": 2,
+  "updated": "2025-12-14T08:20:07.784367",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
       "address": "45.66.134.219",
       "port": "443",
       "password": "28d98f761aca9d636f44db62544628eb",
-      "name": "未知 TROJAN-318 | free-nodes",
+      "name": "未知 TROJAN-618 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
@@ -15,21 +15,6 @@
       "country": "AE",
       "cdn": null,
       "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "94.140.0.101",
-      "port": "2096",
-      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
-      "name": "法国(yudou6677.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "spdf.qzz.io",
-      "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@94.140.0.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.101",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@94.140.0.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
