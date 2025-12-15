@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-15T08:26:03.819601",
-  "count": 5,
+  "updated": "2025-12-15T16:24:00.877431",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -17,57 +17,17 @@
       "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
-      "type": "trojan",
-      "address": "51.83.186.142",
-      "port": "443",
-      "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-886 | free-nodes",
-      "sni": "pl1.trojanvh.xyz",
-      "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "51.83.186.142",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
       "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9044",
+      "address": "217.30.10.18",
+      "port": "9033",
       "method": "aes-256-cfb",
-      "password": "KBGjZYcy4SyRShmA",
-      "name": "🇵🇱PL-217.30.10.70-8484",
-      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "217.30.10.70",
+      "password": "UTJA57ypk2XKQpnm",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.18",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9073",
-      "method": "aes-256-cfb",
-      "password": "daFYagqDdBdA6VTX",
-      "name": "🇵🇱PL-217.30.10.70-5069",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9025",
-      "method": "aes-256-cfb",
-      "password": "XPtzA9sCug3SPR4c",
-      "name": "🇵🇱PL-217.30.10.70-5070",
-      "original": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

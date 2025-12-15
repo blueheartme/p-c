@@ -1,36 +1,21 @@
 {
-  "updated": "2025-12-15T08:26:03.847347",
-  "count": 2,
+  "updated": "2025-12-15T16:24:00.873546",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "188.114.97.3",
-      "port": "443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.97.3",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "rebuilt": "ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
       "type": "vless",
-      "address": "188.114.97.3",
+      "address": "194.5.178.153",
       "port": "443",
-      "id": "f2e486f9-1697-4be6-be59-6c4fb42c7a24",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "id": "062656d4-94b9-4097-a430-90818a6de1b5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#vless-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.97.3",
+      "original": "vless://062656d4-94b9-4097-a430-90818a6de1b5@194.5.178.153:443?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "194.5.178.153",
       "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=pas-kale-agha.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=paS-kaLE-AGhA.pageS.deV#vless-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "cdn": null,
+      "rebuilt": "vless://062656d4-94b9-4097-a430-90818a6de1b5@194.5.178.153:443?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }

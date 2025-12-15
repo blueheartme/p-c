@@ -1,13 +1,13 @@
 {
-  "updated": "2025-12-15T08:26:03.816830",
-  "count": 5,
+  "updated": "2025-12-15T16:24:00.849635",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
       "address": "103.81.85.238",
       "port": "443",
       "password": "5623be5f-c9da-4511-81a9-b4b39b16edae",
-      "name": "未知 TROJAN-1579 | free-nodes",
+      "name": "未知 TROJAN-1292 | free-nodes",
       "sni": "",
       "host": "",
       "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.81.85.238:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-1",
@@ -18,59 +18,31 @@
     },
     {
       "type": "trojan",
-      "address": "103.173.255.234",
-      "port": "443",
-      "password": "5623be5f-c9da-4511-81a9-b4b39b16edae",
-      "name": "未知 TROJAN-1284 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2",
-      "ip": "103.173.255.234",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2"
-    },
-    {
-      "type": "trojan",
       "address": "103.173.155.72",
-      "port": "28443",
-      "password": "6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4",
-      "name": "未知 TROJAN-1459 | free-nodes",
+      "port": "38000",
+      "password": "6711c6cf-847a-4177-b059-55f519b09de4",
+      "name": "未知 TROJAN-897 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3",
+      "original": "trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2",
       "ip": "103.173.155.72",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3"
+      "rebuilt": "trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-2"
     },
     {
       "type": "trojan",
-      "address": "103.195.236.24",
-      "port": "443",
-      "password": "6b4ced5e-835a-4a7a-9d03-6a46e94668cb",
-      "name": "未知 TROJAN-527 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://6b4ced5e-835a-4a7a-9d03-6a46e94668cb@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-4",
-      "ip": "103.195.236.24",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "trojan://6b4ced5e-835a-4a7a-9d03-6a46e94668cb@103.195.236.24:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-4"
-    },
-    {
-      "type": "trojan",
-      "address": "103.173.255.21",
+      "address": "103.173.255.234",
       "port": "443",
       "password": "5623be5f-c9da-4511-81a9-b4b39b16edae",
-      "name": "未知 TROJAN-482 | free-nodes",
-      "sni": "sbank.ir",
+      "name": "未知 TROJAN-499 | free-nodes",
+      "sni": "",
       "host": "",
-      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#trojan-tcp-tls-VN%F0%9F%8C%90-5",
-      "ip": "103.173.255.21",
+      "original": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3",
+      "ip": "103.173.255.234",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#trojan-tcp-tls-VN%F0%9F%8C%90-5"
+      "rebuilt": "trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#trojan-tcp-tls-VN%F0%9F%8C%90-3"
     }
   ]
 }

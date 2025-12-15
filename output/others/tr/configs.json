@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-15T08:26:03.818711",
-  "count": 5,
+  "updated": "2025-12-15T16:24:00.882885",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,59 +16,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://01cc2a19-7e26-4698-8d10-0b61bc125938@151.241.226.160:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&amp;sid=9f9be3d69031a138&amp;type=tcp&amp;flow=xtls-rprx-vision#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "trojan",
-      "address": "tr-full.privateip.net",
-      "port": "443",
-      "password": "4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361",
-      "name": "未知 TROJAN-1344 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "94.131.123.236",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "95.164.116.33",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
-      "name": "🇧🇬BG-95.164.116.33-0323",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "95.164.116.33",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "151.241.226.160",
-      "port": "8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&amp;sid=9f9be3d69031a138&amp;type=tcp&amp;flow=xtls-rprx-vision",
-      "method": "",
-      "password": "",
-      "name": "TR VLESS-38 | free-nodes",
-      "original": "ss://01cc2a19-7e26-4698-8d10-0b61bc125938@151.241.226.160:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&amp;sid=9f9be3d69031a138&amp;type=tcp&amp;flow=xtls-rprx-vision#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "151.241.226.160",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://01cc2a19-7e26-4698-8d10-0b61bc125938@151.241.226.160:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=rAn7sOzdu2NA6d-ddqWLZr8i3MGn9JGXe22NsehwWVQ&amp;sid=9f9be3d69031a138&amp;type=tcp&amp;flow=xtls-rprx-vision#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.123.236",
-      "port": "5223",
-      "method": "chacha20-ietf-poly1305",
-      "password": "3IJj3PFglv7UJNkX9ugR59",
-      "name": "TR SS-39 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "94.131.123.236",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }
