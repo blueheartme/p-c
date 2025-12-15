@@ -1,32 +1,73 @@
 {
-  "updated": "2025-12-14T16:17:52.871661",
-  "count": 2,
+  "updated": "2025-12-15T08:26:03.819601",
+  "count": 5,
   "configs": [
     {
-      "type": "ss",
-      "address": "test-pc.intfreed.ru",
-      "port": "443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8",
-      "method": "",
-      "password": "",
-      "name": "DE VLESS-13 | free-nodes",
-      "original": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "144.31.5.133",
+      "type": "trojan",
+      "address": "51.83.186.142",
+      "port": "80",
+      "password": "555034c8-6420-45d0-893c-905c02342150",
+      "name": "未知 TROJAN-1364 | free-nodes",
+      "sni": "pl1.trojanvh.xyz",
+      "host": "",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "51.83.186.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "trojan",
+      "address": "51.83.186.142",
+      "port": "443",
+      "password": "555034c8-6420-45d0-893c-905c02342150",
+      "name": "未知 TROJAN-886 | free-nodes",
+      "sni": "pl1.trojanvh.xyz",
+      "host": "",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "51.83.186.142",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "ss",
-      "address": "45.82.255.32",
-      "port": "4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-53 | free-nodes",
-      "original": "ss://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.82.255.32:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "45.82.255.32",
+      "address": "217.30.10.70",
+      "port": "9044",
+      "method": "aes-256-cfb",
+      "password": "KBGjZYcy4SyRShmA",
+      "name": "🇵🇱PL-217.30.10.70-8484",
+      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.82.255.32:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9073",
+      "method": "aes-256-cfb",
+      "password": "daFYagqDdBdA6VTX",
+      "name": "🇵🇱PL-217.30.10.70-5069",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9025",
+      "method": "aes-256-cfb",
+      "password": "XPtzA9sCug3SPR4c",
+      "name": "🇵🇱PL-217.30.10.70-5070",
+      "original": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     }
   ]
 }
