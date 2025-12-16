@@ -1,35 +1,73 @@
 {
-  "updated": "2025-12-16T01:16:12.409246",
-  "count": 2,
+  "updated": "2025-12-16T08:23:44.669624",
+  "count": 5,
   "configs": [
     {
-      "type": "trojan",
-      "address": "107.189.3.96",
-      "port": "443",
-      "password": "f42d1b0d-c398-43cb-be37-d739b1477a5d",
-      "name": "未知 TROJAN-762 | free-nodes",
-      "sni": "joss.gpj4.web.id",
-      "host": "",
-      "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "107.189.3.96",
+      "type": "ss",
+      "address": "86.106.84.195",
+      "port": "13262",
+      "method": "aes-128-gcm",
+      "password": "kfuzkwdg4oynv495aywc",
+      "name": "🇷🇴_RO_罗马尼亚",
+      "original": "ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#ss-aes-128-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "86.106.84.195",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#ss-aes-128-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
-      "address": "swiss.intfreed.ru",
+      "address": "208.69.78.5",
       "port": "443",
-      "id": "bf92bdef-ab8d-4481-8798-2d39023357b2",
-      "name": "RU VLESS-17 | free-nodes",
-      "network": "tcp",
-      "sni": "swiss.video.intfreed.ru",
+      "id": "0a21d713-6e6f-4274-8b84-464019325513",
+      "name": "未知 VLESS-65 | free-nodes",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "195.15.243.164",
+      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "ss",
+      "address": "86.106.84.196",
+      "port": "13263",
+      "method": "aes-128-gcm",
+      "password": "lvxuj11x8sfgt9gt6mjf",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#ss-aes-128-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "86.106.84.196",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#ss-aes-128-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "45.85.93.121",
+      "port": "443?encryption=none&amp;security=tls&amp;sni=vxh.wxgqlfx.cn&amp;alpn=http%2F1.1&amp;fp=random&amp;allowInsecure=1&amp;type=ws&amp;host=vxh.wxgqlfx.cn&amp;path=%2FTG%40wxgqlfx%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@45.85.93.121:443?encryption=none&amp;security=tls&amp;sni=vxh.wxgqlfx.cn&amp;alpn=http%2F1.1&amp;fp=random&amp;allowInsecure=1&amp;type=ws&amp;host=vxh.wxgqlfx.cn&amp;path=%2FTG%40wxgqlfx%3Fed%3D2560#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "45.85.93.121",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@45.85.93.121:443?encryption=none&amp;security=tls&amp;sni=vxh.wxgqlfx.cn&amp;alpn=http%2F1.1&amp;fp=random&amp;allowInsecure=1&amp;type=ws&amp;host=vxh.wxgqlfx.cn&amp;path=%2FTG%40wxgqlfx%3Fed%3D2560#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
+    {
+      "type": "ss",
+      "address": "208.69.78.5",
+      "port": "443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-65 | free-nodes",
+      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "208.69.78.5",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }

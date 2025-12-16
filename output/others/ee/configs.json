@@ -1,19 +1,19 @@
 {
-  "updated": "2025-12-16T01:16:12.392291",
+  "updated": "2025-12-16T08:23:44.697771",
   "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "146.19.143.8",
-      "port": "8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d",
+      "address": "216.144.231.65",
+      "port": "465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-67 | free-nodes",
-      "original": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-1",
-      "ip": "146.19.143.8",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-1",
+      "ip": "216.144.231.65",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-1"
+      "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -31,17 +31,19 @@
       "rebuilt": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-2"
     },
     {
-      "type": "ss",
-      "address": "216.144.231.65",
-      "port": "465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-3",
-      "ip": "216.144.231.65",
+      "type": "vless",
+      "address": "146.19.143.8",
+      "port": "8443",
+      "id": "787ae54e-40ad-4caf-899b-ad3a19ff1103",
+      "name": "未知 VLESS-68 | free-nodes",
+      "network": "tcp",
+      "sni": "discordapp.com",
+      "host": "",
+      "original": "vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-3",
+      "ip": "146.19.143.8",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-3"
+      "rebuilt": "vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-3"
     }
   ]
 }
