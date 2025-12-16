@@ -1,20 +1,47 @@
 {
-  "updated": "2025-12-15T16:24:00.870490",
-  "count": 1,
+  "updated": "2025-12-16T01:16:12.392291",
+  "count": 3,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.82.253.237",
-      "port": "28443",
-      "password": "a1b16d10-4f43-4dd9-8c4f-52065b2b0910",
-      "name": "未知 TROJAN-409 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
-      "ip": "45.82.253.237",
+      "type": "ss",
+      "address": "146.19.143.8",
+      "port": "8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-67 | free-nodes",
+      "original": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-1",
+      "ip": "146.19.143.8",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
+      "rebuilt": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "216.144.231.65",
+      "port": "465",
+      "id": "ad7a9316-1953-439a-854f-66355100a004",
+      "name": "🇺🇸_US_美国",
+      "network": "grpc",
+      "sni": "smtp.yandex.ru",
+      "host": "",
+      "original": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-2",
+      "ip": "216.144.231.65",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "216.144.231.65",
+      "port": "465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-3",
+      "ip": "216.144.231.65",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=smtp.yandex.ru&amp;sid=4c11446008#ss-EE%F0%9F%8C%90-3"
     }
   ]
 }

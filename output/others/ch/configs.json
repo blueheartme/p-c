@@ -1,47 +1,35 @@
 {
-  "updated": "2025-12-15T16:24:00.866063",
-  "count": 3,
+  "updated": "2025-12-16T01:16:12.409246",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "ch12.yukiss.eu.org",
-      "port": "18818",
-      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-1859 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "152.67.71.149",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "trojan",
       "address": "107.189.3.96",
       "port": "443",
       "password": "f42d1b0d-c398-43cb-be37-d739b1477a5d",
-      "name": "未知 TROJAN-1976 | free-nodes",
+      "name": "未知 TROJAN-762 | free-nodes",
       "sni": "joss.gpj4.web.id",
       "host": "",
-      "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "107.189.3.96",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?security=tls&sni=joss.gpj4.web.id#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
-      "type": "ss",
+      "type": "vless",
       "address": "swiss.intfreed.ru",
-      "port": "443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "bf92bdef-ab8d-4481-8798-2d39023357b2",
       "name": "RU VLESS-17 | free-nodes",
-      "original": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "network": "tcp",
+      "sni": "swiss.video.intfreed.ru",
+      "host": "",
+      "original": "vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "195.15.243.164",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://bf92bdef-ab8d-4481-8798-2d39023357b2@swiss.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swiss.video.intfreed.ru&sid=7755e972daf8eec8#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
