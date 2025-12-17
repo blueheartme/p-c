@@ -1,21 +1,34 @@
 {
-  "updated": "2025-12-16T16:22:39.113254",
-  "count": 1,
+  "updated": "2025-12-17T01:10:49.781599",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "8613",
-      "id": "80039b4d-bac0-4f89-82c7-54fad3b0a1ea",
-      "name": "🇲🇾Malaysia ⚡@DeamNet_Proxy",
-      "network": "ws",
-      "host": "",
+      "type": "vless",
+      "address": "638966471315850594.lahijan-blkaft-aaas.info",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiODYxMyIsImlkIjoiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSJ9",
-      "ip": "47.250.45.234",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-MY%F0%9F%8C%90-1",
+      "ip": "45.89.107.235",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiODYxMyIsImlkIjoiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSJ9"
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#vless-tcp-MY%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "638966471315850594.lahijan-blkaft-aaas.info",
+      "port": "8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-MY%F0%9F%8C%90-2",
+      "ip": "45.89.107.235",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ss-MY%F0%9F%8C%90-2"
     }
   ]
 }
