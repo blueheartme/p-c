@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-17T01:10:49.805623",
-  "count": 2,
+  "updated": "2025-12-17T08:23:32.579463",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -18,17 +18,45 @@
       "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-1"
     },
     {
+      "type": "vless",
+      "address": "217.13.104.112",
+      "port": "443",
+      "id": "4a6de183-2ad3-456c-b420-feeac81f6257",
+      "name": "德国",
+      "network": "grpc",
+      "sni": "cloudflare.com",
+      "host": "",
+      "original": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-2",
+      "ip": "217.13.104.112",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#vless-grpc-reality-chrome-HU%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "217.13.111.94",
+      "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
+      "method": "",
+      "password": "",
+      "name": "德国",
+      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-3",
+      "ip": "217.13.111.94",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-3"
+    },
+    {
       "type": "ss",
       "address": "217.13.104.112",
       "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
       "method": "",
       "password": "",
       "name": "德国",
-      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-2",
+      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-4",
       "ip": "217.13.104.112",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-2"
+      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-4"
     }
   ]
 }
