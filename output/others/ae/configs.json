@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-17T08:23:32.570919",
+  "updated": "2025-12-17T16:21:55.665465",
   "count": 2,
   "configs": [
     {
@@ -18,17 +18,18 @@
       "rebuilt": "vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
-      "type": "ss",
-      "address": "uaeemar123.vtuix.ir",
-      "port": "7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-42 | free-nodes",
-      "original": "ss://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "93.127.180.178",
+      "type": "trojan",
+      "address": "45.66.134.219",
+      "port": "443",
+      "password": "28d98f761aca9d636f44db62544628eb",
+      "name": "未知 TROJAN-200 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "45.66.134.219",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }

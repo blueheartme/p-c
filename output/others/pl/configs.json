@@ -1,85 +1,20 @@
 {
-  "updated": "2025-12-17T08:23:32.551760",
-  "count": 6,
+  "updated": "2025-12-17T16:21:55.662914",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9033",
-      "method": "aes-256-cfb",
-      "password": "UTJA57ypk2XKQpnm",
-      "name": "🇵🇱PL-217.30.10.18-4874",
-      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9019",
-      "method": "aes-256-cfb",
-      "password": "GA9KzeEgvfxNrgmM",
-      "name": "🇵🇱PL-217.30.10.18-4762",
-      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9040",
-      "method": "aes-256-cfb",
-      "password": "p9z5BVADH2YFs3MN",
-      "name": "🇵🇱PL-217.30.10.70-5084",
-      "original": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "ss",
-      "address": "poland.geodema.network",
-      "port": "8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=5540e44a53c3d01c",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-140 | free-nodes",
-      "original": "ss://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=5540e44a53c3d01c#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "144.31.1.197",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=5540e44a53c3d01c#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
     {
       "type": "trojan",
       "address": "51.83.186.142",
-      "port": "443",
+      "port": "80",
       "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-571 | free-nodes",
+      "name": "未知 TROJAN-175 | free-nodes",
       "sni": "pl1.trojanvh.xyz",
       "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "51.83.186.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5"
-    },
-    {
-      "type": "ss",
-      "address": "57.128.214.100",
-      "port": "12000",
-      "method": "aes-256-gcm",
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "🇵🇱PL-57.128.214.100-5041",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "57.128.214.100",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     }
   ]
 }
