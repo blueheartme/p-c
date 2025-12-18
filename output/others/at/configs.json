@@ -1,34 +1,64 @@
 {
-  "updated": "2025-12-17T16:21:55.656399",
-  "count": 2,
+  "updated": "2025-12-18T01:11:54.017508",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "38.180.144.156",
-      "port": "8443",
-      "id": "ae0a43bc-6189-456e-9b8a-a93f39af336e",
-      "name": "未知 VLESS-76 | free-nodes",
-      "network": "",
+      "address": "hajimamadvpnjoinsho.fast199.hosting-ip.com",
+      "port": "80",
+      "id": "b727aa5e-27bd-4fe5-bd95-7db682992637",
+      "name": "🇩🇰_DK_丹麦",
+      "network": "ws",
       "sni": "",
-      "host": "",
-      "original": "vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision#vless-tcp-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "38.180.144.156",
+      "host": "downloadha.global.ssl.fastly.net",
+      "original": "vless://b727aa5e-27bd-4fe5-bd95-7db682992637@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?security=none&type=ws&path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=downloadha.global.ssl.fastly.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "199.232.19.9",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision#vless-tcp-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://b727aa5e-27bd-4fe5-bd95-7db682992637@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?security=none&type=ws&path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=downloadha.global.ssl.fastly.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "152.53.47.193",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "法国",
+      "network": "tcp",
+      "sni": "at.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.47.193",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
       "type": "ss",
-      "address": "152.53.115.178",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
+      "address": "38.180.144.156",
+      "port": "8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision",
       "method": "",
       "password": "",
+      "name": "未知 VLESS-76 | free-nodes",
+      "original": "ss://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "38.180.144.156",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
+      "address": "152.53.115.178",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
       "name": "法国",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "network": "tcp",
+      "sni": "at.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4",
       "ip": "152.53.115.178",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4"
     }
   ]
 }

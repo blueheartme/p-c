@@ -1,35 +1,7 @@
 {
-  "updated": "2025-12-17T16:21:55.666287",
-  "count": 3,
+  "updated": "2025-12-18T01:11:54.032812",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "5.182.37.87",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR",
-      "name": "🇷🇺RU-5.182.37.87-0273",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1",
-      "ip": "5.182.37.87",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "jrghxqxyoy-518237151-direct.bahame.co",
-      "port": "443",
-      "id": "jrghxqxyoy",
-      "name": "🇷🇺_RU_俄罗斯",
-      "network": "tcp",
-      "sni": "jrghxqxyoy-518237151-direct.bahame.co",
-      "host": "",
-      "original": "vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#vless-xtls-rprx-vision-tcp-tls-chrome-RO%F0%9F%8C%90-2",
-      "ip": "5.182.37.151",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#vless-xtls-rprx-vision-tcp-tls-chrome-RO%F0%9F%8C%90-2"
-    },
     {
       "type": "ss",
       "address": "jrghxqxyoy-518237151-direct.bahame.co",
@@ -37,11 +9,11 @@
       "method": "",
       "password": "",
       "name": "🇷🇺_RU_俄罗斯",
-      "original": "ss://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#ss-RO%F0%9F%8C%90-3",
+      "original": "ss://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#ss-RO%F0%9F%8C%90-1",
       "ip": "5.182.37.151",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#ss-RO%F0%9F%8C%90-3"
+      "rebuilt": "ss://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#ss-RO%F0%9F%8C%90-1"
     }
   ]
 }

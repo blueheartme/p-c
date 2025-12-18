@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-17T08:23:32.568229",
-  "count": 1,
+  "updated": "2025-12-18T01:11:54.009483",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.95.232.236",
+      "port": "4248?note=--Telegram--",
+      "method": "chacha20-ietf-poly1305",
+      "password": "hNOZp9FIp83Q6ZeWIJbeTM",
+      "name": "",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.95.232.236",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "ss",
       "address": "208.69.78.5",
@@ -9,11 +22,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-65 | free-nodes",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

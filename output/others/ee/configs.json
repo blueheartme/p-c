@@ -1,20 +1,20 @@
 {
-  "updated": "2025-12-17T16:21:55.650627",
-  "count": 3,
+  "updated": "2025-12-18T01:11:54.004415",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "45.82.253.237",
+      "address": "45.82.253.234",
       "port": "28443",
-      "password": "a1b16d10-4f43-4dd9-8c4f-52065b2b0910",
-      "name": "未知 TROJAN-456 | free-nodes",
+      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
+      "name": "未知 TROJAN-471 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
-      "ip": "45.82.253.237",
+      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
+      "ip": "45.82.253.234",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -30,19 +30,6 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&amp;encryption=none&amp;pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discordapp.com&amp;sid=50c860b05993532d#vless-tcp-reality-EE%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "146.19.143.8",
-      "port": "8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-68 | free-nodes",
-      "original": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-3",
-      "ip": "146.19.143.8",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#ss-EE%F0%9F%8C%90-3"
     }
   ]
 }

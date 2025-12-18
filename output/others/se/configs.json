@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-17T16:21:55.637381",
+  "updated": "2025-12-18T01:11:54.016471",
   "count": 8,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "13.48.45.205",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-384 | free-nodes",
+      "name": "未知 TROJAN-454 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
       "original": "trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
@@ -18,46 +18,59 @@
     },
     {
       "type": "trojan",
-      "address": "16.171.58.121",
+      "address": "13.50.16.231",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-429 | free-nodes",
+      "name": "未知 TROJAN-252 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "16.171.58.121",
+      "original": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "13.50.16.231",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "trojan",
-      "address": "13.49.46.49",
+      "address": "16.171.58.121",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-274 | free-nodes",
+      "name": "未知 TROJAN-248 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "13.49.46.49",
+      "original": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "16.171.58.121",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
-      "address": "89.23.123.15",
-      "port": "4443",
-      "id": "edb3d24d-1a55-42f7-8752-6ae216f18cf4",
-      "name": "DE VLESS-12 | free-nodes",
+      "address": "at.ultima.foundation",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "奥地利",
       "network": "tcp",
-      "sni": "github.com",
+      "sni": "at.ultima.foundation",
       "host": "",
-      "original": "vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@89.23.123.15:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "89.23.123.15",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "185.189.45.24",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@89.23.123.15:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "ss",
+      "address": "121.127.46.147",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇸🇪SE-121.127.46.147-0261",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "121.127.46.147",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     },
     {
       "type": "trojan",
@@ -67,52 +80,38 @@
       "name": "未知 TROJAN-238 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "original": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-6",
       "ip": "13.48.105.114",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-6"
     },
     {
-      "type": "trojan",
-      "address": "13.50.16.231",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "未知 TROJAN-491 | free-nodes",
-      "sni": "trj.rollingnext.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-6",
-      "ip": "13.50.16.231",
+      "type": "ss",
+      "address": "51.20.125.235",
+      "port": "443",
+      "method": "aes-256-cfb",
+      "password": "amazonskr05",
+      "name": "🇸🇪SE-51.20.125.235-0269",
+      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.125.235:443#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-7",
+      "ip": "51.20.125.235",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-6"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.125.235:443#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-7"
     },
     {
       "type": "trojan",
       "address": "13.49.224.224",
       "port": "22222",
       "password": "telegram-id-directvpn",
-      "name": "未知 TROJAN-513 | free-nodes",
+      "name": "未知 TROJAN-164 | free-nodes",
       "sni": "trj.rollingnext.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-7",
+      "original": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-8",
       "ip": "13.49.224.224",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-7"
-    },
-    {
-      "type": "ss",
-      "address": "13.61.13.231",
-      "port": "443",
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "name": "🇸🇪SE-13.61.13.231-0267",
-      "original": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.13.231:443#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-8",
-      "ip": "13.61.13.231",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.13.231:443#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-8"
+      "rebuilt": "trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-8"
     }
   ]
 }

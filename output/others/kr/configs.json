@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-17T16:21:55.636273",
+  "updated": "2025-12-18T01:11:54.018437",
   "count": 5,
   "configs": [
     {
@@ -18,59 +18,59 @@
     },
     {
       "type": "trojan",
-      "address": "146.56.179.67",
-      "port": "40005",
-      "password": "cc05b267-2e17-4e73-92f0-2cf603aa5997",
-      "name": "未知 TROJAN-564 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "146.56.179.67",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
-    },
-    {
-      "type": "trojan",
       "address": "official.seoulcitygovernment.com.ua",
       "port": "8443",
       "password": "96983eb4-c8f1-316e-ab00-500014ed3d8b",
       "name": "未知 TROJAN-438 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "original": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "123.140.124.23",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+      "rebuilt": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     },
     {
       "type": "trojan",
       "address": "146.56.189.146",
       "port": "443",
       "password": "f2117e99-9b6e-47fd-b0a9-634a0b15b998",
-      "name": "未知 TROJAN-377 | free-nodes",
+      "name": "未知 TROJAN-252 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "original": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3",
       "ip": "146.56.189.146",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+      "rebuilt": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-3"
     },
     {
       "type": "trojan",
-      "address": "official.seoulcityhall.com.ua",
-      "port": "8443",
-      "password": "96983eb4-c8f1-316e-ab00-500014ed3d8b",
-      "name": "未知 TROJAN-535 | free-nodes",
-      "sni": "",
+      "address": "121.78.213.3",
+      "port": "443",
+      "password": "KLF0qOU0ZZGw5Tnu",
+      "name": "未知 TROJAN-235 | free-nodes",
+      "sni": "swift.protocolbuffer.com",
       "host": "",
-      "original": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5",
-      "ip": "123.140.124.23",
+      "original": "trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "ip": "121.78.213.3",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5"
+      "rebuilt": "trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+    },
+    {
+      "type": "trojan",
+      "address": "150.230.249.20",
+      "port": "443",
+      "password": "b5fc9fa9-796d-4185-a316-395ecac04a85",
+      "name": "未知 TROJAN-444 | free-nodes",
+      "sni": "www.gomacau.gq",
+      "host": "",
+      "original": "trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5",
+      "ip": "150.230.249.20",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#trojan-tcp-tls-KR%F0%9F%87%B0%F0%9F%87%B7-5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-17T16:21:55.647763",
+  "updated": "2025-12-18T01:11:54.005209",
   "count": 2,
   "configs": [
     {
@@ -7,27 +7,27 @@
       "address": "109.234.211.66",
       "port": "8443",
       "password": "trojan",
-      "name": "未知 TROJAN-177 | free-nodes",
+      "name": "未知 TROJAN-511 | free-nodes",
       "sni": "store.timimi.dpdns.org",
       "host": "",
-      "original": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1",
+      "original": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1",
       "ip": "109.234.211.66",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1"
+      "rebuilt": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
-      "address": "188.214.157.58",
-      "port": "990",
+      "address": "213.159.67.124",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇦MA-188.214.157.58-0406",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "188.214.157.58",
+      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
+      "name": "俄罗斯",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
+      "ip": "213.159.67.124",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
     }
   ]
 }
