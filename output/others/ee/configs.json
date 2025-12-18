@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-18T08:22:48.941148",
+  "updated": "2025-12-18T16:22:36.007700",
   "count": 2,
   "configs": [
     {
@@ -16,19 +16,18 @@
       "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#ss-EE%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "146.19.143.8",
-      "port": "8443",
-      "id": "787ae54e-40ad-4caf-899b-ad3a19ff1103",
-      "name": "未知 VLESS-89 | free-nodes",
-      "network": "",
+      "type": "trojan",
+      "address": "45.82.253.234",
+      "port": "28443",
+      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
+      "name": "未知 TROJAN-392 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&amp;encryption=none&amp;pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discordapp.com&amp;sid=50c860b05993532d#vless-tcp-reality-EE%F0%9F%8C%90-2",
-      "ip": "146.19.143.8",
+      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2",
+      "ip": "45.82.253.234",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&amp;encryption=none&amp;pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discordapp.com&amp;sid=50c860b05993532d#vless-tcp-reality-EE%F0%9F%8C%90-2"
+      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2"
     }
   ]
 }
