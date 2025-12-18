@@ -1,34 +1,60 @@
 {
-  "updated": "2025-12-18T01:11:54.015509",
-  "count": 2,
+  "updated": "2025-12-18T08:22:48.930539",
+  "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "51.83.186.142",
-      "port": "80",
-      "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-175 | free-nodes",
-      "sni": "pl1.trojanvh.xyz",
-      "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "51.83.186.142",
+      "type": "ss",
+      "address": "57.128.198.152",
+      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "57.128.198.152",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?encryption=none&amp;security=none&amp;type=ws&amp;host=ShadowProxy66&amp;path=%2Fvless%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
-      "type": "trojan",
-      "address": "51.83.186.142",
+      "type": "vless",
+      "address": "poland25.clearorbitllc.com",
       "port": "443",
-      "password": "555034c8-6420-45d0-893c-905c02342150",
-      "name": "未知 TROJAN-571 | free-nodes",
-      "sni": "pl1.trojanvh.xyz",
+      "id": "1091ab59-e8b5-4fca-bdd5-58fcff4fed1f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "51.83.186.142",
+      "original": "vless://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?security=reality&amp;encryption=none&amp;pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland25.clearorbitllc.com&amp;sid=ad76d8e3#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "144.31.2.208",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?security=reality&amp;encryption=none&amp;pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland25.clearorbitllc.com&amp;sid=ad76d8e3#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "🇵🇱PL-57.128.214.100-5063",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "57.128.214.100",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "ss",
+      "address": "poland25.clearorbitllc.com",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland25.clearorbitllc.com&amp;sid=ad76d8e3",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?security=reality&amp;encryption=none&amp;pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland25.clearorbitllc.com&amp;sid=ad76d8e3#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "144.31.2.208",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?security=reality&amp;encryption=none&amp;pbk=-QlxjsQ9QuUaQmCG6D4pPTaLhHKbgYUCJs9rdfS5hzc&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=poland25.clearorbitllc.com&amp;sid=ad76d8e3#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }

@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-18T01:11:54.031444",
+  "updated": "2025-12-18T08:22:48.917544",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "213.159.66.206",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0288",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "213.159.66.206",
+      "type": "vless",
+      "address": "185.133.35.61",
+      "port": "2096",
+      "id": "12345678-1234-1234-1234-123456789123",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://12345678-1234-1234-1234-123456789123@185.133.35.61:2096?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;host=vless.hubp.de&amp;path=%2Fsnippets#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "185.133.35.61",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "vless://12345678-1234-1234-1234-123456789123@185.133.35.61:2096?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;host=vless.hubp.de&amp;path=%2Fsnippets#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }

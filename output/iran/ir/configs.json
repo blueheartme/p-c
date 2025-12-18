@@ -1,24 +1,7 @@
 {
-  "updated": "2025-12-18T01:11:54.023487",
-  "count": 3,
+  "updated": "2025-12-18T08:22:48.925050",
+  "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.114.97.3",
-      "port": "80",
-      "id": "c3f75f0e-3fe6-4037-95be-ec869c453dfc",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "188.114.97.3",
-      "host": "024.electrocellco-cf-024.workers.dev",
-      "original": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.97.3",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "188.114.97.3",
@@ -26,11 +9,28 @@
       "method": "",
       "password": "",
       "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.3",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "188.114.97.3",
+      "port": "80",
+      "id": "c3f75f0e-3fe6-4037-95be-ec869c453dfc",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "",
+      "host": "024.electrocellco-cf-024.workers.dev",
+      "original": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "188.114.97.3",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -44,6 +44,19 @@
       "country": "IR",
       "cdn": "arvancloud",
       "rebuilt": "ss://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "213.176.0.80",
+      "port": "222?security=none&amp;encryption=none&amp;host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&amp;encryption=none&amp;host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "ip": "213.176.0.80",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&amp;encryption=none&amp;host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&amp;headerType=http&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-4"
     }
   ]
 }
