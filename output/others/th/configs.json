@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-01T08:24:41.167170",
-  "count": 1,
+  "updated": "2025-12-19T08:22:39.165351",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "103.80.48.200",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "solid_indianram",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb2xpZF9pbmRpYW5yYW0=@103.80.48.200:8388#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-1",
-      "ip": "103.80.48.200",
+      "address": "45.150.128.215",
+      "port": "80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-1",
+      "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb2xpZF9pbmRpYW5yYW0=@103.80.48.200:8388#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-1"
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.150.128.215",
+      "port": "80",
+      "id": "65094902-5425-464d-9171-d3a69d9e1cbc",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "t.me/v2Line",
+      "host": "",
+      "original": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-2",
+      "ip": "45.150.128.215",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-2"
     }
   ]
 }
