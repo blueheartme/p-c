@@ -1,20 +1,34 @@
 {
-  "updated": "2025-12-18T16:22:36.048130",
-  "count": 1,
+  "updated": "2025-12-19T01:15:16.053141",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
-      "address": "103.176.78.153",
+      "address": "38.9.140.66",
       "port": "443",
-      "password": "idc117okt",
-      "name": "未知 TROJAN-509 | free-nodes",
-      "sni": "",
+      "password": "vvip-periantara",
+      "name": "未知 TROJAN-322 | free-nodes",
+      "sni": "id3tr.jagoan.vip",
       "host": "",
-      "original": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1",
-      "ip": "103.176.78.153",
+      "original": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1",
+      "ip": "38.9.140.66",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "trojan://idc117okt@103.176.78.153:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1"
+      "rebuilt": "trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#trojan-tcp-tls-ID%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "41.216.177.41",
+      "port": "443",
+      "password": "274c1b23-2bfe-40ac-943c-ebc1aa044b22",
+      "name": "未知 TROJAN-154 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2",
+      "ip": "41.216.177.41",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-18T16:22:36.007700",
+  "updated": "2025-12-19T01:15:16.034811",
   "count": 2,
   "configs": [
     {
@@ -16,18 +16,19 @@
       "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#ss-EE%F0%9F%8C%90-1"
     },
     {
-      "type": "trojan",
-      "address": "45.82.253.234",
-      "port": "28443",
-      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
-      "name": "未知 TROJAN-392 | free-nodes",
-      "sni": "",
+      "type": "vless",
+      "address": "216.144.231.65",
+      "port": "465",
+      "id": "ad7a9316-1953-439a-854f-66355100a004",
+      "name": "🇺🇸_US_美国",
+      "network": "grpc",
+      "sni": "smtp.yandex.ru",
       "host": "",
-      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2",
-      "ip": "45.82.253.234",
+      "original": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-2",
+      "ip": "216.144.231.65",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2"
+      "rebuilt": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-2"
     }
   ]
 }
