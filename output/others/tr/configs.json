@@ -1,20 +1,7 @@
 {
-  "updated": "2025-12-19T08:22:39.156740",
+  "updated": "2025-12-19T16:20:37.915396",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "95.164.116.33",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
-      "name": "🇧🇬BG-95.164.116.33-0357",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "95.164.116.33",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "5.180.45.176",
@@ -22,11 +9,24 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-97 | free-nodes",
-      "original": "ss://edb3d24d-1a55-42f7-8752-6ae216f18cf4@5.180.45.176:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "ss://edb3d24d-1a55-42f7-8752-6ae216f18cf4@5.180.45.176:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "5.180.45.176",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://edb3d24d-1a55-42f7-8752-6ae216f18cf4@5.180.45.176:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://edb3d24d-1a55-42f7-8752-6ae216f18cf4@5.180.45.176:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "95.164.116.33",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
+      "name": "🇧🇬BG-95.164.116.33-0335",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "95.164.116.33",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }

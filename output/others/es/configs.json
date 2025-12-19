@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-19T08:22:39.152680",
-  "count": 4,
+  "updated": "2025-12-19T16:20:37.901488",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "213.159.67.124",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
+      "name": "🇲🇩MD-213.159.67.124-0340",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "ip": "213.159.67.124",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+    },
     {
       "type": "trojan",
       "address": "109.234.211.66",
@@ -10,50 +23,24 @@
       "name": "未知 TROJAN-242 | free-nodes",
       "sni": "store.timimi.dpdns.org",
       "host": "",
-      "original": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1",
+      "original": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-2",
       "ip": "109.234.211.66",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-1"
+      "rebuilt": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "145.249.109.121",
-      "port": "25512",
-      "method": "chacha20-ietf-poly1305",
-      "password": "smSMfR9jqLgMkHuQtxSIWh",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "145.249.109.121",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.70.207.97",
+      "address": "45.154.206.192",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇦MA-154.70.207.97-0410",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
-      "ip": "154.70.207.97",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇪🇸ES-45.154.206.192-0442",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
+      "ip": "45.154.206.192",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.22.134",
-      "port": "40565",
-      "method": "chacha20-ietf-poly1305",
-      "password": "QLXkEq597i3oGAGzjE4qS64uPGhjxWpPiqwwBArKbsqYPUNpQBwdgHL6KoDSRGE9bjSdn3p4UaDYMVm6s1wMoifavnirR5N8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTFhrRXE1OTdpM29HQUd6akU0cVM2NHVQR2hqeFdwUGlxd3dCQXJLYnNxWVBVTnBRQndkZ0hMNktvRFNSR0U5YmpTZG4zcDRVYURZTVZtNnMxd01vaWZhdm5pclI1Tjg=@94.131.22.134:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4",
-      "ip": "94.131.22.134",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTFhrRXE1OTdpM29HQUd6akU0cVM2NHVQR2hqeFdwUGlxd3dCQXJLYnNxWVBVTnBRQndkZ0hMNktvRFNSR0U5YmpTZG4zcDRVYURZTVZtNnMxd01vaWZhdm5pclI1Tjg=@94.131.22.134:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
     }
   ]
 }

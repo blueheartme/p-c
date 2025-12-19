@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-19T08:22:39.147665",
-  "count": 7,
+  "updated": "2025-12-19T16:20:37.914418",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "pizaitaliano.gojustore.site",
-      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-1",
-      "ip": "31.14.135.127",
+      "type": "vmess",
+      "address": "xiaoniu.andcdn.bid",
+      "port": "41315",
+      "id": "82539eb7-18c8-48d0-bb9c-55d1b6e47f59",
+      "name": "HK香港(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "host": "img14.360buyimg.com",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JVPCfjJAtMSIsImFkZCI6InhpYW9uaXUuYW5kY2RuLmJpZCIsInBvcnQiOiI0MTMxNSIsImlkIjoiODI1MzllYjctMThjOC00OGQwLWJiOWMtNTVkMWI2ZTQ3ZjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJwYXRoIjoiL29iaiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "ip": "93.46.8.90",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JVPCfjJAtMSIsImFkZCI6InhpYW9uaXUuYW5kY2RuLmJpZCIsInBvcnQiOiI0MTMxNSIsImlkIjoiODI1MzllYjctMThjOC00OGQwLWJiOWMtNTVkMWI2ZTQ3ZjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJwYXRoIjoiL29iaiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
     },
     {
       "type": "trojan",
@@ -30,62 +32,33 @@
       "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-2"
     },
     {
-      "type": "vless",
-      "address": "pizaitaliano.gojustore.site",
-      "port": "7035",
-      "id": "e265fc78-e269-46b2-9b6a-85f573dab3d5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-3",
-      "ip": "31.14.135.127",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-3"
-    },
-    {
       "type": "trojan",
-      "address": "it-full.privateip.net",
-      "port": "443",
-      "password": "8d16a256-42d7-4431-8039-da1eb06cafbc",
-      "name": "未知 TROJAN-313 | free-nodes",
+      "address": "172.238.229.254",
+      "port": "14051",
+      "password": "OdgHycGphesfLmPMYolUF",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#trojan-tcp-tls-IT%F0%9F%8C%90-4",
-      "ip": "5.253.43.181",
+      "original": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-3",
+      "ip": "172.238.229.254",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#trojan-tcp-tls-IT%F0%9F%8C%90-4"
+      "rebuilt": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
-      "address": "31.14.135.127",
-      "port": "7035",
-      "id": "7d27c544-135d-41a2-bd84-713b8af4f3c2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "ip.fastlynew.hosting-ip.com",
+      "port": "80",
+      "id": "TELEGRAM-CONFiGLiNE-86",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-5",
-      "ip": "31.14.135.127",
+      "original": "vless://TELEGRAM-CONFiGLiNE-86@ip.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barakanal3.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IT%F0%9F%8C%90-4",
+      "ip": "151.101.241.242",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-5"
-    },
-    {
-      "type": "trojan",
-      "address": "146.70.73.211",
-      "port": "53809",
-      "password": "blhwsknjxmfuydz0vhfv",
-      "name": "I 40 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "sni": "",
-      "host": "",
-      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-6",
-      "ip": "146.70.73.211",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-6"
+      "rebuilt": "vless://TELEGRAM-CONFiGLiNE-86@ip.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barakanal3.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IT%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -94,11 +67,26 @@
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "未知 SS-124 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-7",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-5",
       "ip": "212.102.54.45",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-7"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vmess",
+      "address": "xiaoniu.andcdn.bid",
+      "port": "41318",
+      "id": "82539eb7-18c8-48d0-bb9c-55d1b6e47f59",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "host": "img14.360buyimg.com",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JVPCfjJAtNiIsImFkZCI6InhpYW9uaXUuYW5kY2RuLmJpZCIsInBvcnQiOiI0MTMxOCIsImlkIjoiODI1MzllYjctMThjOC00OGQwLWJiOWMtNTVkMWI2ZTQ3ZjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJwYXRoIjoiL29iaiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "ip": "93.46.8.90",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JVPCfjJAtNiIsImFkZCI6InhpYW9uaXUuYW5kY2RuLmJpZCIsInBvcnQiOiI0MTMxOCIsImlkIjoiODI1MzllYjctMThjOC00OGQwLWJiOWMtNTVkMWI2ZTQ3ZjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJwYXRoIjoiL29iaiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
     }
   ]
 }

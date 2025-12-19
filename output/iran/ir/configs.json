@@ -1,20 +1,7 @@
 {
-  "updated": "2025-12-19T08:22:39.166196",
-  "count": 2,
+  "updated": "2025-12-19T16:20:37.939837",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "94.182.137.12",
-      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "94.182.137.12",
@@ -24,13 +11,13 @@
       "network": "tcp",
       "sni": "",
       "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "94.182.137.12",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }

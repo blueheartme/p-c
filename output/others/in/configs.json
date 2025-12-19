@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-19T08:22:39.159421",
-  "count": 3,
+  "updated": "2025-12-19T16:20:37.895544",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -18,19 +18,19 @@
       "rebuilt": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.235.105.146:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
-      "type": "vmess",
-      "address": "103.97.203.220",
-      "port": "550",
-      "id": "9e0e83ca-0fbc-44b1-8024-0eb8f9414156",
-      "name": "印度(yudou6677.top 玉豆免费节点)",
-      "network": "tcp",
-      "host": "t.me/v2Line",
+      "type": "vless",
+      "address": "45.89.105.24",
+      "port": "4443",
+      "id": "edb3d24d-1a55-42f7-8752-6ae216f18cf4",
+      "name": "未知 VLESS-26 | free-nodes",
+      "network": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
-      "ip": "103.97.203.220",
+      "host": "",
+      "original": "vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.89.105.24:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "45.89.105.24",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+      "rebuilt": "vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.89.105.24:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
       "type": "trojan",
@@ -45,6 +45,47 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#trojan-tcp-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+    },
+    {
+      "type": "ss",
+      "address": "45.88.183.124",
+      "port": "25578",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bCZLsl80SLLqkljWS7yRk8",
+      "name": "🇳🇱_NL_荷兰",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ1pMc2w4MFNMTHFrbGpXUzd5Ums4@45.88.183.124:25578#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "45.88.183.124",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ1pMc2w4MFNMTHFrbGpXUzd5Ums4@45.88.183.124:25578#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+    },
+    {
+      "type": "vmess",
+      "address": "103.97.203.220",
+      "port": "550",
+      "id": "9e0e83ca-0fbc-44b1-8024-0eb8f9414156",
+      "name": "印度(yudou6677.top 玉豆免费节点)",
+      "network": "tcp",
+      "host": "t.me/v2Line",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy01IiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "ip": "103.97.203.220",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy01IiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "103.111.114.29",
+      "port": "57456",
+      "method": "chacha20-ietf-poly1305",
+      "password": "360e21d21977dc11",
+      "name": "🇮🇳IN-103.111.114.29-0428",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-6",
+      "ip": "103.111.114.29",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-6"
     }
   ]
 }
