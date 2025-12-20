@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-20T01:11:13.712120",
+  "updated": "2025-12-20T08:19:57.644592",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "178.160.211.182",
-      "port": "20155",
-      "id": "dc28e2d3-7c69-47c6-b5b0-f76914454294",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1",
-      "ip": "178.160.211.182",
+      "type": "ss",
+      "address": "194.156.103.148",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "qdpM4ROvoLtayi7NN9DIId",
+      "name": "未知 SS-94 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
+      "ip": "194.156.103.148",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
     }
   ]
 }

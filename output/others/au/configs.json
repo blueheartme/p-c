@@ -1,19 +1,20 @@
 {
-  "updated": "2025-12-20T01:11:13.729453",
+  "updated": "2025-12-20T08:19:57.661456",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "95.111.222.113",
+      "type": "trojan",
+      "address": "152.67.98.30",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "🇫🇮_FI_芬兰",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "95.111.222.113",
+      "password": "e8c1ab3c-89b3-4933-92df-682e6dce7819",
+      "name": "未知 TROJAN-362 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "152.67.98.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#trojan-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

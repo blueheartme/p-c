@@ -1,22 +1,7 @@
 {
-  "updated": "2025-12-20T01:11:13.710583",
-  "count": 2,
+  "updated": "2025-12-20T08:19:57.601647",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "216.144.231.65",
-      "port": "465",
-      "id": "ad7a9316-1953-439a-854f-66355100a004",
-      "name": "🇺🇸_US_美国",
-      "network": "grpc",
-      "sni": "smtp.yandex.ru",
-      "host": "",
-      "original": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "216.144.231.65",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "45.82.253.237",
@@ -25,11 +10,38 @@
       "name": "未知 TROJAN-343 | free-nodes",
       "sni": "",
       "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2",
+      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
       "ip": "45.82.253.237",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-2"
+      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "est01-ss01.tcp-reset-club.net",
+      "port": "8444",
+      "method": "chacha20-ietf-poly1305",
+      "password": "AWNeHjukGQWwuFXadw2r6qH7gh4hZ9cj",
+      "name": "🇪🇪EE-185.155.96.155-0324",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-2",
+      "ip": "185.155.96.155",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "45.82.253.234",
+      "port": "28443",
+      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
+      "name": "未知 TROJAN-477 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-3",
+      "ip": "45.82.253.234",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-3"
     }
   ]
 }

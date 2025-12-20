@@ -1,21 +1,7 @@
 {
-  "updated": "2025-12-20T01:11:13.711381",
-  "count": 3,
+  "updated": "2025-12-20T08:19:57.648156",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "103.226.139.201",
-      "port": "443",
-      "password": "idc117okt",
-      "name": "未知 TROJAN-543 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1",
-      "ip": "103.226.139.201",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "trojan://idc117okt@103.226.139.201:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "154.205.159.100",
@@ -23,25 +9,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇮🇩ID-154.205.159.100-4932",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-1",
       "ip": "154.205.159.100",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-2"
-    },
-    {
-      "type": "trojan",
-      "address": "41.216.177.41",
-      "port": "443",
-      "password": "274c1b23-2bfe-40ac-943c-ebc1aa044b22",
-      "name": "未知 TROJAN-202 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3",
-      "ip": "41.216.177.41",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#trojan-tcp-tls-ID%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-1"
     }
   ]
 }
