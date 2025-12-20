@@ -1,33 +1,19 @@
 {
-  "updated": "2025-12-20T08:19:57.646671",
-  "count": 2,
+  "updated": "2025-12-20T16:18:42.379404",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.66.134.219",
-      "port": "443",
-      "password": "28d98f761aca9d636f44db62544628eb",
-      "name": "未知 TROJAN-428 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "45.66.134.219",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#trojan-tcp-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
     {
       "type": "ss",
       "address": "95.174.68.33",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
-      "name": "🇦🇪AE-95.174.68.33-0435",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "name": "🇦🇪AE-95.174.68.33-0445",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "95.174.68.33",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

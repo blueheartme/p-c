@@ -1,21 +1,49 @@
 {
-  "updated": "2025-12-20T08:19:57.649555",
-  "count": 1,
+  "updated": "2025-12-20T16:18:42.383690",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "45.150.128.215",
-      "port": "80",
-      "id": "65094902-5425-464d-9171-d3a69d9e1cbc",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "address": "vpn.chitphong.shop",
+      "port": "8080",
+      "id": "8afb49f3-c337-4c3a-a113-a6fb98a29c48",
+      "name": "IN印度(mibei77.com 米贝节点分享)",
       "network": "ws",
-      "sni": "t.me/v2Line",
-      "host": "",
-      "original": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-1",
+      "sni": "",
+      "host": "www.speedtest.net",
+      "original": "vless://8afb49f3-c337-4c3a-a113-a6fb98a29c48@vpn.chitphong.shop:8080?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2F#vless-ws-TH%F0%9F%8C%90-1",
+      "ip": "103.253.72.13",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vless://8afb49f3-c337-4c3a-a113-a6fb98a29c48@vpn.chitphong.shop:8080?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2F#vless-ws-TH%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vmess",
+      "address": "m.modzard.com",
+      "port": "8080",
+      "id": "f2e17b4d-22fd-44a4-90db-40649717be8e",
+      "name": "IN印度(mibei77.com 米贝节点分享)",
+      "network": "tcp",
+      "host": "speedtest.adslthailand.com",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVEjwn4yQLTIiLCJhZGQiOiJtLm1vZHphcmQuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImYyZTE3YjRkLTIyZmQtNDRhNC05MGRiLTQwNjQ5NzE3YmU4ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0LmFkc2x0aGFpbGFuZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "ip": "223.204.65.164",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVEjwn4yQLTIiLCJhZGQiOiJtLm1vZHphcmQuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImYyZTE3YjRkLTIyZmQtNDRhNC05MGRiLTQwNjQ5NzE3YmU4ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0LmFkc2x0aGFpbGFuZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "45.150.128.215",
+      "port": "80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-3",
       "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-1"
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-3"
     }
   ]
 }

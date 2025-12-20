@@ -1,47 +1,19 @@
 {
-  "updated": "2025-12-20T08:19:57.601647",
-  "count": 3,
+  "updated": "2025-12-20T16:18:42.397543",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.82.253.237",
-      "port": "28443",
-      "password": "a1b16d10-4f43-4dd9-8c4f-52065b2b0910",
-      "name": "未知 TROJAN-343 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1",
-      "ip": "45.82.253.237",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "est01-ss01.tcp-reset-club.net",
       "port": "8444",
       "method": "chacha20-ietf-poly1305",
       "password": "AWNeHjukGQWwuFXadw2r6qH7gh4hZ9cj",
-      "name": "🇪🇪EE-185.155.96.155-0324",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-2",
+      "name": "🇪🇪_EE_爱沙尼亚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-1",
       "ip": "185.155.96.155",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-2"
-    },
-    {
-      "type": "trojan",
-      "address": "45.82.253.234",
-      "port": "28443",
-      "password": "750a29bf-0a40-437f-b120-38de74ae7eaf",
-      "name": "未知 TROJAN-477 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-3",
-      "ip": "45.82.253.234",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#trojan-tcp-tls-EE%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV05lSGp1a0dRV3d1RlhhZHcycjZxSDdnaDRoWjljag==@est01-ss01.tcp-reset-club.net:8444#ss-chacha20-ietf-poly1305-EE%F0%9F%8C%90-1"
     }
   ]
 }

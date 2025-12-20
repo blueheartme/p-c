@@ -1,46 +1,19 @@
 {
-  "updated": "2025-12-20T08:19:57.647418",
-  "count": 3,
+  "updated": "2025-12-20T16:18:42.400739",
+  "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "ch12.yukiss.eu.org",
-      "port": "18818",
-      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-457 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "152.67.71.149",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
       "type": "ss",
-      "address": "ch.srv.oplcdn.link",
-      "port": "8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-13 | free-nodes",
-      "original": "ss://3116cc23-0c39-4bb6-8154-d3f332e9017e@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "45.141.119.180",
+      "address": "45.95.232.236",
+      "port": "4248",
+      "method": "chacha20-ietf-poly1305",
+      "password": "hNOZp9FIp83Q6ZeWIJbeTM",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.95.232.236",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://3116cc23-0c39-4bb6-8154-d3f332e9017e@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "ss",
-      "address": "208.69.78.5",
-      "port": "443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-128 | free-nodes",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "208.69.78.5",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
