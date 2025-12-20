@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-19T16:20:37.901488",
-  "count": 3,
+  "updated": "2025-12-20T01:11:13.712846",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -8,39 +8,12 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "🇲🇩MD-213.159.67.124-0340",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "name": "俄罗斯",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
       "ip": "213.159.67.124",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "8443",
-      "password": "trojan",
-      "name": "未知 TROJAN-242 | free-nodes",
-      "sni": "store.timimi.dpdns.org",
-      "host": "",
-      "original": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-2",
-      "ip": "109.234.211.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#trojan-tcp-tls-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "45.154.206.192",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇪🇸ES-45.154.206.192-0442",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
-      "ip": "45.154.206.192",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
     }
   ]
 }

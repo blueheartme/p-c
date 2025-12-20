@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-19T16:20:37.939837",
-  "count": 1,
+  "updated": "2025-12-20T01:11:13.708766",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -18,6 +18,19 @@
       "tested": true,
       "working": true,
       "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "94.182.137.12",
+      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.137.12",
+      "country": "IR",
+      "cdn": null,
+      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     }
   ]
 }

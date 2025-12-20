@@ -1,20 +1,62 @@
 {
-  "updated": "2025-12-19T16:20:37.929106",
-  "count": 1,
+  "updated": "2025-12-20T01:11:13.703975",
+  "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "ch12.yukiss.eu.org",
-      "port": "18818",
-      "password": "8a03bc28-2a33-42c4-be59-30464dbb9954",
-      "name": "未知 TROJAN-159 | free-nodes",
-      "sni": "",
+      "type": "vless",
+      "address": "ch.srv.oplcdn.link",
+      "port": "8443",
+      "id": "3116cc23-0c39-4bb6-8154-d3f332e9017e",
+      "name": "未知 VLESS-13 | free-nodes",
+      "network": "tcp",
+      "sni": "ign.com",
       "host": "",
-      "original": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "152.67.71.149",
+      "original": "vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.141.119.180",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "83.228.225.98",
+      "port": "24472",
+      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "83.228.225.98",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "ss",
+      "address": "208.69.78.5",
+      "port": "443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-128 | free-nodes",
+      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "208.69.78.5",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;sid=9c8d68d581a08ea5&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "83.228.225.98",
+      "port": "24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "83.228.225.98",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }

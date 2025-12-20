@@ -1,32 +1,21 @@
 {
-  "updated": "2025-12-19T16:20:37.935021",
-  "count": 2,
+  "updated": "2025-12-20T01:11:13.712120",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "194.156.103.148",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "qdpM4ROvoLtayi7NN9DIId",
+      "type": "vless",
+      "address": "178.160.211.182",
+      "port": "20155",
+      "id": "dc28e2d3-7c69-47c6-b5b0-f76914454294",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
-      "ip": "194.156.103.148",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1",
+      "ip": "178.160.211.182",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "213.159.76.21",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-      "name": "🇲🇩MD-213.159.76.21-0353",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-2",
-      "ip": "213.159.76.21",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-2"
+      "rebuilt": "vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1"
     }
   ]
 }
