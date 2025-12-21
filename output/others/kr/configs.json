@@ -1,7 +1,48 @@
 {
-  "updated": "2025-12-21T01:19:52.892643",
-  "count": 2,
+  "updated": "2025-12-21T08:20:28.498327",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "125.137.81.171",
+      "port": "10033",
+      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
+      "name": "KR韩国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "stall.saass.ccwu.cc",
+      "host": "stall.saass.ccwu.cc",
+      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@125.137.81.171:10033?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "125.137.81.171",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@125.137.81.171:10033?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "211.217.234.224",
+      "port": "32101?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
+      "method": "",
+      "password": "",
+      "name": "KR韩国(mibei77.com 米贝节点分享)",
+      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@211.217.234.224:32101?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "211.217.234.224",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@211.217.234.224:32101?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "221.164.138.63",
+      "port": "12353?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
+      "method": "",
+      "password": "",
+      "name": "韩国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@221.164.138.63:12353?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "ip": "221.164.138.63",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@221.164.138.63:12353?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+    },
     {
       "type": "vmess",
       "address": "seoul03.zgjok.com",
@@ -11,11 +52,11 @@
       "network": "ws",
       "host": "seoul03.zgjok.com",
       "sni": "seoul03.zgjok.com",
-      "original": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0=",
+      "original": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctNCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0=",
       "ip": "146.56.177.166",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0="
+      "rebuilt": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctNCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0="
     },
     {
       "type": "ss",
@@ -24,11 +65,11 @@
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇰🇷KR-154.90.62.168-0400",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-5",
       "ip": "154.90.62.168",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-5"
     }
   ]
 }

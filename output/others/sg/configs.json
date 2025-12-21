@@ -1,19 +1,49 @@
 {
-  "updated": "2025-12-21T01:19:52.879515",
-  "count": 5,
+  "updated": "2025-12-21T08:20:28.494758",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "34.143.159.175",
+      "address": "20.247.137.183",
       "port": "443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560",
       "method": "",
       "password": "",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
-      "original": "ss://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "20.247.137.183",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "34.143.159.175",
+      "port": "443",
+      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "stall.saass.ccwu.cc",
+      "host": "stall.saass.ccwu.cc",
+      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@34.143.159.175:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "34.143.159.175",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@34.143.159.175:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vless",
+      "address": "20.247.137.183",
+      "port": "443",
+      "id": "e258977b-e413-4718-a3af-02d75492c349",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "yyds.x-aniu----hk.netlib.re",
+      "host": "yyds.x-aniu----hk.netlib.re",
+      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "20.247.137.183",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "ss",
@@ -21,55 +51,40 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "SG SS-113 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@95.173.218.203:990#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "name": "🇸🇬SG-95.173.218.203-0341",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4",
       "ip": "95.173.218.203",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@95.173.218.203:990#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     },
     {
       "type": "vless",
       "address": "34.143.159.175",
       "port": "443",
       "id": "e258977b-e413-4718-a3af-02d75492c349",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
       "network": "ws",
       "sni": "yyds.x-aniu----hk.netlib.re",
       "host": "yyds.x-aniu----hk.netlib.re",
-      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "34.143.159.175",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "vless",
-      "address": "20.247.137.183",
-      "port": "443",
-      "id": "e258977b-e413-4718-a3af-02d75492c349",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "yyds.x-aniu----hk.netlib.re",
-      "host": "yyds.x-aniu----hk.netlib.re",
-      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "20.247.137.183",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "ss",
-      "address": "20.247.137.183",
-      "port": "443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560",
+      "address": "124.243.132.106",
+      "port": "23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=%2F%40Marisa_kristi",
       "method": "",
       "password": "",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
-      "original": "ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "20.247.137.183",
+      "name": "新加坡(yudou6677.top 玉豆免费节点)",
+      "original": "ss://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=%2F%40Marisa_kristi#ss-SG%F0%9F%87%B8%F0%9F%87%AC-6",
+      "ip": "124.243.132.106",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "ss://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=%2F%40Marisa_kristi#ss-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }

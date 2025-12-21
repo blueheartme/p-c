@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-21T01:19:52.893188",
-  "count": 1,
+  "updated": "2025-12-21T08:20:28.503269",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,6 +16,19 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#vless-grpc-reality-chrome-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "216.144.231.65",
+      "port": "465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none",
+      "method": "",
+      "password": "",
+      "name": "🇺🇸_US_美国",
+      "original": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#ss-EE%F0%9F%8C%90-2",
+      "ip": "216.144.231.65",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?security=reality&type=grpc&mode=gun&serviceName=SMTP&sni=smtp.yandex.ru&fp=chrome&sid=4c11446008&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&encryption=none#ss-EE%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-21T01:19:52.870818",
-  "count": 12,
+  "updated": "2025-12-21T08:20:28.493001",
+  "count": 9,
   "configs": [
     {
-      "type": "vless",
-      "address": "axe.soyet2j.ir",
-      "port": "443",
-      "id": "4624643d-cfad-4860-9a61-9a2a191edd2a",
-      "name": "🇺🇸_US_美国",
-      "network": "ws",
-      "sni": "menu.gejeh683bm.ir",
-      "host": "menu.gejeh683bm.ir",
-      "original": "vless://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "23.227.38.32",
+      "type": "ss",
+      "address": "144.217.164.29",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "🇨🇦CA-144.217.164.29-0393",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "144.217.164.29",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",
@@ -32,44 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "144.217.164.29",
-      "port": "12000",
-      "method": "aes-256-gcm",
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "未知 SS-01 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "144.217.164.29",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
-    {
-      "type": "ss",
       "address": "45.154.204.7",
       "port": "990",
       "method": "",
       "password": "",
       "name": "Canada BrainStorm Network</pre></div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#ss-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "45.154.204.7",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "vmess",
-      "address": "23.162.200.227",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦CA-23.162.200.227-7261",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi01IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "23.162.200.227",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi01IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#ss-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     },
     {
       "type": "ss",
@@ -78,26 +48,25 @@
       "method": "",
       "password": "",
       "name": "🇺🇸_US_美国",
-      "original": "ss://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#ss-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "original": "ss://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#ss-CA%F0%9F%87%A8%F0%9F%87%A6-6"
+      "rebuilt": "ss://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
-      "type": "vmess",
-      "address": "15.235.41.200",
-      "port": "80",
-      "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-      "name": "🇨🇦CA-15.235.41.200-0876",
-      "network": "ws",
+      "type": "trojan",
+      "address": "209.200.246.53",
+      "port": "36774",
+      "password": "Fv7ogJ6vfz",
+      "name": "美国",
+      "sni": "cloudflare.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOjgwLCJwcyI6InZtZXNzLXdzLWF1dG8tQ0Hwn4eo8J+Hpi03IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "15.235.41.200",
+      "original": "trojan://Fv7ogJ6vfz@209.200.246.53:36774?security=reality&sni=cloudflare.com&fp=chrome&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e&spx=%2F&type=grpc#trojan-grpc-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "209.200.246.53",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOjgwLCJwcyI6InZtZXNzLXdzLWF1dG8tQ0Hwn4eo8J+Hpi03IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "trojan://Fv7ogJ6vfz@209.200.246.53:36774?security=reality&sni=cloudflare.com&fp=chrome&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e&spx=%2F&type=grpc#trojan-grpc-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     },
     {
       "type": "ss",
@@ -106,52 +75,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "🇨🇦CA-45.154.204.7-0343",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-8",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-6",
       "ip": "45.154.204.7",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-8"
-    },
-    {
-      "type": "vmess",
-      "address": "15.235.85.156",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦Canada -> 🇨🇦Canada ⚡@DeamNet_Proxy",
-      "network": "ws",
-      "host": "kampong.org",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi05IiwiYWRkIjoiMTUuMjM1Ljg1LjE1NiIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyJ9",
-      "ip": "15.235.85.156",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi05IiwiYWRkIjoiMTUuMjM1Ljg1LjE1NiIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyJ9"
-    },
-    {
-      "type": "ss",
-      "address": "79.127.233.170",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇦CA-79.127.233.170-0259",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#ss-aes-256-cfb-CA%F0%9F%87%A8%F0%9F%87%A6-10",
-      "ip": "79.127.233.170",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#ss-aes-256-cfb-CA%F0%9F%87%A8%F0%9F%87%A6-10"
-    },
-    {
-      "type": "ss",
-      "address": "ca225.vpnbook.com",
-      "port": "80",
-      "method": "chacha20-ietf-poly1305",
-      "password": "JIhN6rBKkaEboLNXVSv5rq",
-      "name": "🇨🇦CA-142.4.216.225-0337",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-11",
-      "ip": "142.4.216.225",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-11"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     },
     {
       "type": "ss",
@@ -160,11 +88,39 @@
       "method": "chacha20-ietf-poly1305",
       "password": "JIhN6rBKkaEboLNXVSv5rq",
       "name": "🇨🇦CA-142.4.216.225-0330",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-12",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-7",
       "ip": "142.4.216.225",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-12"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-7"
+    },
+    {
+      "type": "vmess",
+      "address": "134.195.198.147",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "🇨🇦CA-134.195.198.147-7236",
+      "network": "ws",
+      "host": "inna.cfd",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi04IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "134.195.198.147",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi04IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "79.127.233.170",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇨🇦CA-79.127.233.170-0259",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#ss-aes-256-cfb-CA%F0%9F%87%A8%F0%9F%87%A6-9",
+      "ip": "79.127.233.170",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#ss-aes-256-cfb-CA%F0%9F%87%A8%F0%9F%87%A6-9"
     }
   ]
 }
