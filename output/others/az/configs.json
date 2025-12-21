@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-21T08:20:28.519694",
-  "count": 1,
+  "updated": "2025-12-21T16:18:29.908878",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "180.149.44.70",
+      "port": "4655?security=&encryption=none&headerType=&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-23 | free-nodes",
+      "original": "ss://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#ss-AZ%F0%9F%8C%90-1",
+      "ip": "180.149.44.70",
+      "country": "AZ",
+      "cdn": null,
+      "rebuilt": "ss://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#ss-AZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "180.149.44.70",
@@ -11,11 +24,11 @@
       "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#vless-tcp-AZ%F0%9F%8C%90-1",
+      "original": "vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#vless-tcp-AZ%F0%9F%8C%90-2",
       "ip": "180.149.44.70",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#vless-tcp-AZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=&type=tcp#vless-tcp-AZ%F0%9F%8C%90-2"
     }
   ]
 }
