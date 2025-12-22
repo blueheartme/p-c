@@ -1,34 +1,19 @@
 {
-  "updated": "2025-12-22T08:24:10.707015",
-  "count": 4,
+  "updated": "2025-12-22T16:20:06.585710",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "45.150.128.215",
-      "port": "80",
-      "id": "65094902-5425-464d-9171-d3a69d9e1cbc",
-      "name": "未知 VLESS-49 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "t.me/v2Line",
-      "original": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#vless-ws-TH%F0%9F%8C%90-1",
+      "port": "80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-79 | free-nodes",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1",
       "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#vless-ws-TH%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "103.253.74.94",
-      "port": "31348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
-      "name": "🇹🇭TH-103.253.74.94-5146",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
-      "ip": "103.253.74.94",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -37,26 +22,11 @@
       "method": "",
       "password": "",
       "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-3",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-2",
       "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vmess",
-      "address": "m.modzard.com",
-      "port": "8080",
-      "id": "f2e17b4d-22fd-44a4-90db-40649717be8e",
-      "name": "IN印度(mibei77.com 米贝节点分享)",
-      "network": "tcp",
-      "host": "speedtest.adslthailand.com",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVEjwn4yQLTQiLCJhZGQiOiJtLm1vZHphcmQuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImYyZTE3YjRkLTIyZmQtNDRhNC05MGRiLTQwNjQ5NzE3YmU4ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0LmFkc2x0aGFpbGFuZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
-      "ip": "223.204.65.164",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVEjwn4yQLTQiLCJhZGQiOiJtLm1vZHphcmQuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImYyZTE3YjRkLTIyZmQtNDRhNC05MGRiLTQwNjQ5NzE3YmU4ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3BlZWR0ZXN0LmFkc2x0aGFpbGFuZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#ss-TH%F0%9F%8C%90-2"
     }
   ]
 }

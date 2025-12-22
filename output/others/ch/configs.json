@@ -1,47 +1,34 @@
 {
-  "updated": "2025-12-22T08:24:10.712752",
-  "count": 3,
+  "updated": "2025-12-22T16:20:06.562585",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "45.95.232.236",
-      "port": "4248",
-      "method": "chacha20-ietf-poly1305",
-      "password": "AWTJjYceuRKyPdMeuYtaxx",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "45.95.232.236",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "83.228.225.98",
-      "port": "24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "address": "208.69.78.5",
+      "port": "443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.225.98",
+      "name": "🇺🇸_US_美国",
+      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
-      "address": "83.228.225.98",
-      "port": "24472",
-      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
+      "address": "208.69.78.5",
+      "port": "443",
+      "id": "0a21d713-6e6f-4274-8b84-464019325513",
+      "name": "🇺🇸_US_美国",
+      "network": "grpc",
+      "sni": "www.microsoft.com",
       "host": "",
-      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "83.228.225.98",
+      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

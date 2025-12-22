@@ -1,32 +1,33 @@
 {
-  "updated": "2025-12-22T08:24:10.719903",
+  "updated": "2025-12-22T16:20:06.579948",
   "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "46.246.96.30",
-      "port": "31561",
-      "method": "chacha20-ietf-poly1305",
-      "password": "hc8LMJew3Fl9MbcFCoFgT0",
-      "name": "未知 SS-131 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "46.246.96.30",
+      "type": "trojan",
+      "address": "70.34.218.149",
+      "port": "11930",
+      "password": "BaeSzHdfJIR13l67",
+      "name": "🇸🇪SE-70.34.218.149-0362",
+      "sni": "softpillow.silentrocket.click",
+      "host": "",
+      "original": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "70.34.218.149",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
-      "address": "121.127.46.147",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇸🇪SE-121.127.46.147-0285",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "121.127.46.147",
+      "address": "78.40.116.178",
+      "port": "34094",
+      "method": "chacha20-ietf-poly1305",
+      "password": "yo6h9qkhwz8UJoTZCRtoSi",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "78.40.116.178",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#ss-aes-256-cfb-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }
