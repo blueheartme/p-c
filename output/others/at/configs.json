@@ -1,35 +1,7 @@
 {
-  "updated": "2025-12-21T16:18:29.884293",
-  "count": 4,
+  "updated": "2025-12-22T01:18:23.008800",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "152.53.47.193",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "法国",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.47.193",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
-    {
-      "type": "vless",
-      "address": "152.53.115.178",
-      "port": "22231",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "法国",
-      "network": "tcp",
-      "sni": "at.ultima.foundation",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "152.53.115.178",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
-    },
     {
       "type": "vless",
       "address": "at.ultima.foundation",
@@ -39,11 +11,24 @@
       "network": "tcp",
       "sni": "at.ultima.foundation",
       "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "152.53.44.251",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.45.244",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "at.ultima.foundation",
+      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "奥地利",
+      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.45.244",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -54,11 +39,11 @@
       "network": "tcp",
       "sni": "at.ultima.foundation",
       "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3",
       "ip": "152.53.47.193",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

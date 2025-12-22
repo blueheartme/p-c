@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-21T16:18:29.892060",
-  "count": 5,
+  "updated": "2025-12-22T01:18:23.009705",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
       "method": "",
       "password": "",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "94.182.137.12",
       "country": "IR",
@@ -17,23 +17,23 @@
     },
     {
       "type": "ss",
-      "address": "85.133.241.75",
-      "port": "1935",
-      "method": "chacha20-ietf-poly1305",
-      "password": "21586aab-3a37-4f55-b8b7-5ae69572d403",
-      "name": "🇮🇷_IR_伊朗->🇹🇷_TR_土耳其",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@85.133.241.75:1935#ss-chacha20-ietf-poly1305-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "85.133.241.75",
+      "address": "188.114.97.0",
+      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "188.114.97.0",
       "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@85.133.241.75:1935#ss-chacha20-ietf-poly1305-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "cdn": "arvancloud",
+      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
       "address": "94.182.137.12",
       "port": "20532",
       "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "tcp",
       "sni": "",
       "host": "Telewebion.com",
@@ -50,7 +50,7 @@
       "address": "188.114.97.0",
       "port": "8080",
       "id": "7235ac4c-b73b-45d1-8727-53e147f3744a",
-      "name": "US美国(mibei77.com 米贝节点分享)",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
       "network": "ws",
       "sni": "",
       "host": "064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev",
@@ -61,19 +61,6 @@
       "tested": true,
       "working": true,
       "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "188.114.97.0",
-      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
-      "ip": "188.114.97.0",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     }
   ]
 }
