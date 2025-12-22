@@ -1,19 +1,47 @@
 {
-  "updated": "2025-12-22T01:18:23.032660",
-  "count": 1,
+  "updated": "2025-12-22T08:24:10.712752",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
       "address": "45.95.232.236",
       "port": "4248",
       "method": "chacha20-ietf-poly1305",
-      "password": "cU7YuLfkzgsWMED3YulG6F",
+      "password": "AWTJjYceuRKyPdMeuYtaxx",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "45.95.232.236",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#ss-chacha20-ietf-poly1305-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "83.228.225.98",
+      "port": "24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "83.228.225.98",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "83.228.225.98",
+      "port": "24472",
+      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "83.228.225.98",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

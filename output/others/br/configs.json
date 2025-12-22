@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-22T01:18:23.012236",
-  "count": 3,
+  "updated": "2025-12-22T08:24:10.718487",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-185.192.124.188-1828",
+      "name": "🇧🇷BR-185.192.124.188-0324",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "185.192.124.188",
       "country": "BR",
@@ -17,31 +17,16 @@
     },
     {
       "type": "ss",
-      "address": "95.164.4.88",
-      "port": "8443?encryption=none&amp;security=tls&amp;sni=pq-brazil1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&amp;security=tls&amp;sni=pq-brazil1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2",
-      "ip": "95.164.4.88",
+      "address": "213.159.66.206",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
+      "name": "🇲🇩MD-213.159.66.206-0308",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "213.159.66.206",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&amp;security=tls&amp;sni=pq-brazil1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "95.164.4.88",
-      "port": "8443",
-      "id": "1a7a39e4-8c9b-4052-b8b2-c0929536bba5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&amp;security=tls&amp;sni=pq-brazil1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3",
-      "ip": "95.164.4.88",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&amp;security=tls&amp;sni=pq-brazil1.09vpn.com&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }

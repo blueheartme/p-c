@@ -1,32 +1,47 @@
 {
-  "updated": "2025-12-22T01:18:23.014722",
-  "count": 2,
+  "updated": "2025-12-22T08:24:10.662468",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "213.159.67.124",
-      "port": "443",
+      "address": "45.154.206.192",
+      "port": "990",
       "method": "chacha20-ietf-poly1305",
-      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "俄罗斯",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
-      "ip": "213.159.67.124",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇪🇸ES-45.154.206.192-0363",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "ip": "45.154.206.192",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "145.249.109.63",
+      "port": "59238",
+      "id": "f920a6db-e2ff-404b-a67f-bea6ca25c0d4",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f920a6db-e2ff-404b-a67f-bea6ca25c0d4@145.249.109.63:59238?security=reality&amp;encryption=none&amp;pbk=NZjHSmcnAZI5AIHqvewmjA9xtWIMGCA2Qk2xvDXReUY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yandex.ru&amp;sid=7c83be9a354c0574#vless-tcp-reality-ES%F0%9F%8C%90-2",
+      "ip": "145.249.109.63",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://f920a6db-e2ff-404b-a67f-bea6ca25c0d4@145.249.109.63:59238?security=reality&amp;encryption=none&amp;pbk=NZjHSmcnAZI5AIHqvewmjA9xtWIMGCA2Qk2xvDXReUY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yandex.ru&amp;sid=7c83be9a354c0574#vless-tcp-reality-ES%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "145.249.109.121",
-      "port": "25512",
+      "address": "imap.roomyinmita.name",
+      "port": "40565",
       "method": "chacha20-ietf-poly1305",
-      "password": "smSMfR9jqLgMkHuQtxSIWh",
-      "name": "未知 SS-56 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "145.249.109.121",
+      "password": "2AJogKuFsiVa5SrhD7vPn8P28se9DBAT564XTGDnE9h5HZPh593bzJRxYavWzryacr6CAN5nHFm8RpsHfqRnasyhbsRzY4Np",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUpvZ0t1RnNpVmE1U3JoRDd2UG44UDI4c2U5REJBVDU2NFhUR0RuRTloNUhaUGg1OTNiekpSeFlhdld6cnlhY3I2Q0FONW5IRm04UnBzSGZxUm5hc3loYnNSelk0TnA=@imap.roomyinmita.name:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
+      "ip": "94.131.22.134",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUpvZ0t1RnNpVmE1U3JoRDd2UG44UDI4c2U5REJBVDU2NFhUR0RuRTloNUhaUGg1OTNiekpSeFlhdld6cnlhY3I2Q0FONW5IRm04UnBzSGZxUm5hc3loYnNSelk0TnA=@imap.roomyinmita.name:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
     }
   ]
 }

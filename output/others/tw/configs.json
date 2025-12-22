@@ -1,49 +1,62 @@
 {
-  "updated": "2025-12-22T01:18:22.991897",
-  "count": 5,
+  "updated": "2025-12-22T08:24:10.695355",
+  "count": 7,
   "configs": [
     {
+      "type": "vless",
+      "address": "60.251.232.240",
+      "port": "995",
+      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
+      "name": "TW台湾(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "stall.saass.ccwu.cc",
+      "host": "stall.saass.ccwu.cc",
+      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "60.251.232.240",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+    },
+    {
       "type": "ss",
-      "address": "210.61.97.241",
-      "port": "81?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
+      "address": "220.130.58.230",
+      "port": "443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
       "method": "",
       "password": "",
-      "name": "台湾(yudou6677.top 玉豆免费节点)",
-      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@210.61.97.241:81?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "210.61.97.241",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@210.61.97.241:81?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "vless",
-      "address": "210.61.97.241",
-      "port": "81",
-      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
-      "name": "台湾(yudou6677.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "stall.saass.ccwu.cc",
-      "host": "stall.saass.ccwu.cc",
-      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@210.61.97.241:81?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "210.61.97.241",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@210.61.97.241:81?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
-    },
-    {
-      "type": "vless",
-      "address": "220.130.58.230",
-      "port": "443",
-      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
       "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "stall.saass.ccwu.cc",
-      "host": "stall.saass.ccwu.cc",
-      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@220.130.58.230:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@220.130.58.230:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "220.130.58.230",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@220.130.58.230:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@220.130.58.230:443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
+      "port": "31104",
+      "password": "3846a29b-57d5-40f2-8acd-13855aa025cd",
+      "name": "🇹🇼TW-220.130.58.138-5031",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "220.130.58.138",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
+      "port": "34411",
+      "password": "a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e",
+      "name": "🇹🇼TW-220.130.58.138-5029",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "ip": "220.130.58.138",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     },
     {
       "type": "ss",
@@ -51,12 +64,27 @@
       "port": "16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
       "method": "",
       "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-5",
       "ip": "114.32.9.249",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-4"
+      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-5"
+    },
+    {
+      "type": "vless",
+      "address": "114.32.9.249",
+      "port": "16443",
+      "id": "6943fe4d-0a5e-0543-d402-0e5cf7fe7af0",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "stall.saass.ccwu.cc",
+      "host": "stall.saass.ccwu.cc",
+      "original": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-6",
+      "ip": "114.32.9.249",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-6"
     },
     {
       "type": "ss",
@@ -64,12 +92,12 @@
       "port": "995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo",
       "method": "",
       "password": "",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-5",
+      "name": "台湾(yudou6677.top 玉豆免费节点)",
+      "original": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-7",
       "ip": "60.251.232.240",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-5"
+      "rebuilt": "ss://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@60.251.232.240:995?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#ss-TW%F0%9F%87%B9%F0%9F%87%BC-7"
     }
   ]
 }
