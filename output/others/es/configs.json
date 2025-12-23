@@ -1,73 +1,32 @@
 {
-  "updated": "2025-12-23T01:15:01.828412",
-  "count": 6,
+  "updated": "2025-12-23T08:23:33.598844",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "37.143.130.203",
+      "address": "5.188.181.201",
+      "port": "9030",
+      "method": "aes-256-cfb",
+      "password": "GeregetR8cvQHzYr",
+      "name": "🇪🇸ES-5.188.181.201-8390",
+      "original": "ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#ss-aes-256-cfb-ES%F0%9F%8C%90-1",
+      "ip": "5.188.181.201",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#ss-aes-256-cfb-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.70.207.97",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇪🇸ES-37.143.130.203-0441",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
-      "ip": "37.143.130.203",
+      "name": "🇲🇦MA-154.70.207.97-5057",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
+      "ip": "154.70.207.97",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.154.206.192",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇪🇸ES-45.154.206.192-0363",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "45.154.206.192",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "176.120.74.41",
-      "port": "443",
-      "id": "7f760f5f-a79c-4f0c-aac1-6c647a81925a",
-      "name": "未知 VLESS-15 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#vless-tcp-ES%F0%9F%8C%90-3",
-      "ip": "176.120.74.41",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#vless-tcp-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "213.159.67.124",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "俄罗斯",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4",
-      "ip": "213.159.67.124",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "145.249.109.121",
-      "port": "25512",
-      "method": "chacha20-ietf-poly1305",
-      "password": "smSMfR9jqLgMkHuQtxSIWh",
-      "name": "未知 SS-84 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-5",
-      "ip": "145.249.109.121",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -75,12 +34,12 @@
       "port": "443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-15 | free-nodes",
-      "original": "ss://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#ss-ES%F0%9F%8C%90-6",
+      "name": "未知 VLESS-36 | free-nodes",
+      "original": "ss://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#ss-ES%F0%9F%8C%90-3",
       "ip": "176.120.74.41",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#ss-ES%F0%9F%8C%90-6"
+      "rebuilt": "ss://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#ss-ES%F0%9F%8C%90-3"
     }
   ]
 }
