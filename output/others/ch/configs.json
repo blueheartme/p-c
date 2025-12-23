@@ -1,34 +1,47 @@
 {
-  "updated": "2025-12-22T16:20:06.562585",
-  "count": 2,
+  "updated": "2025-12-23T16:21:23.742817",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "208.69.78.5",
-      "port": "443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5",
+      "address": "ch.srv.oplcdn.link",
+      "port": "8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2",
       "method": "",
       "password": "",
-      "name": "🇺🇸_US_美国",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "208.69.78.5",
+      "name": "未知 VLESS-121 | free-nodes",
+      "original": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.141.119.180",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "83.228.225.98",
+      "port": "24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "83.228.225.98",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
-      "address": "208.69.78.5",
-      "port": "443",
-      "id": "0a21d713-6e6f-4274-8b84-464019325513",
-      "name": "🇺🇸_US_美国",
-      "network": "grpc",
-      "sni": "www.microsoft.com",
+      "address": "83.228.225.98",
+      "port": "24472",
+      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "208.69.78.5",
+      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "83.228.225.98",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

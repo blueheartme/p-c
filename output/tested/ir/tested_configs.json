@@ -1,39 +1,57 @@
 {
-  "updated": "2025-12-23T08:23:33.612876",
-  "count": 2,
+  "updated": "2025-12-23T16:21:23.768717",
+  "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "188.114.97.3",
-      "port": "443",
-      "password": "cf142ac0-4bae-4c4b-9882-21fc0550a661",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "sni": "",
-      "host": "",
-      "original": "trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=red-dream-2d6c.xepis84786.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=red-dream-2d6c.xepis84786.workers.dev&amp;path=%2F%3Fed%3D2560#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.97.3",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=red-dream-2d6c.xepis84786.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=red-dream-2d6c.xepis84786.workers.dev&amp;path=%2F%3Fed%3D2560#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "188.114.97.0",
       "port": "8080",
       "id": "7235ac4c-b73b-45d1-8727-53e147f3744a",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "ws",
       "sni": "",
       "host": "064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev",
-      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "94.182.137.12",
+      "port": "20532",
+      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "tcp",
+      "sni": "",
+      "host": "Telewebion.com",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.137.12",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "94.183.149.98",
+      "port": "6000",
+      "id": "14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "94.183.149.98",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     }
   ]
 }
