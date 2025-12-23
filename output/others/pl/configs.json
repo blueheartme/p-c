@@ -1,48 +1,7 @@
 {
-  "updated": "2025-12-22T16:20:06.576566",
+  "updated": "2025-12-23T01:15:01.838842",
   "count": 6,
   "configs": [
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9094",
-      "method": "aes-256-cfb",
-      "password": "rpgbNnU9rDDU4aWZ",
-      "name": "🇵🇱PL-217.30.10.18-0374",
-      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9041",
-      "method": "aes-256-cfb",
-      "password": "U6qnYRhfyDmn8sgn",
-      "name": "🇵🇱PL-217.30.10.18-0378",
-      "original": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "vless",
-      "address": "pl01.tweopi.ru",
-      "port": "443",
-      "id": "29419eea-2d3e-4e17-8114-7ba0c1e7e666",
-      "name": "RU VLESS-53 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://29419eea-2d3e-4e17-8114-7ba0c1e7e666@pl01.tweopi.ru:443?security=reality&amp;encryption=none&amp;pbk=NP-Ns_Yd3d9X1VtuLduEucJrX-HhaYpPJr3ADo1ZywU&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "92.62.251.44",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://29419eea-2d3e-4e17-8114-7ba0c1e7e666@pl01.tweopi.ru:443?security=reality&amp;encryption=none&amp;pbk=NP-Ns_Yd3d9X1VtuLduEucJrX-HhaYpPJr3ADo1ZywU&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
     {
       "type": "ss",
       "address": "217.30.10.18",
@@ -50,11 +9,11 @@
       "method": "aes-256-cfb",
       "password": "rNBfNuuANFCAk7KB",
       "name": "🇵🇱PL-217.30.10.18-0368",
-      "original": "ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "217.30.10.18",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -63,24 +22,63 @@
       "method": "aes-256-cfb",
       "password": "UkXRsXvR6buDMG2Y",
       "name": "🇵🇱PL-217.30.10.18-0382",
-      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "217.30.10.18",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "ss",
       "address": "217.30.10.18",
-      "port": "9011",
+      "port": "9041",
       "method": "aes-256-cfb",
-      "password": "M3t2ZEQcMGRWBjRa",
-      "name": "🇵🇱PL-217.30.10.18-0383",
-      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "password": "U6qnYRhfyDmn8sgn",
+      "name": "🇵🇱PL-217.30.10.18-0378",
+      "original": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "217.30.10.18",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.18",
+      "port": "9094",
+      "method": "aes-256-cfb",
+      "password": "rpgbNnU9rDDU4aWZ",
+      "name": "🇵🇱PL-217.30.10.18-0374",
+      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.18",
+      "port": "9006",
+      "method": "aes-256-cfb",
+      "password": "FAdUvMJUq5vDgKEq",
+      "name": "🇵🇱PL-217.30.10.18-0381",
+      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9093",
+      "method": "aes-256-cfb",
+      "password": "wfLC2y7rzZyCmuyt",
+      "name": "🇵🇱PL-217.30.10.70-5130",
+      "original": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     }
   ]
 }

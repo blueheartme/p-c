@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-22T16:20:06.592458",
-  "count": 2,
+  "updated": "2025-12-23T01:15:01.847341",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,20 +15,6 @@
       "country": "TW",
       "cdn": null,
       "rebuilt": "trojan://a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "trojan",
-      "address": "green2.cdntencentmusic.com",
-      "port": "31104",
-      "password": "3846a29b-57d5-40f2-8acd-13855aa025cd",
-      "name": "🇹🇼TW-220.130.58.138-5031",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "220.130.58.138",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }
