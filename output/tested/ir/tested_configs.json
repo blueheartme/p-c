@@ -1,24 +1,7 @@
 {
-  "updated": "2025-12-24T08:23:04.708779",
-  "count": 4,
+  "updated": "2025-12-24T16:20:09.301955",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.114.98.6",
-      "port": "80",
-      "id": "4751adcd-064b-493e-979b-b1c56c133cb4",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://4751adcd-064b-493e-979b-b1c56c133cb4@188.114.98.6:80?encryption=none&amp;security=none&amp;type=ws&amp;host=steep-water-754d-ppal0333333333333333.finisal307.workers.dev&amp;path=%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.98.6",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://4751adcd-064b-493e-979b-b1c56c133cb4@188.114.98.6:80?encryption=none&amp;security=none&amp;type=ws&amp;host=steep-water-754d-ppal0333333333333333.finisal307.workers.dev&amp;path=%2F%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "188.114.97.0",
@@ -28,47 +11,13 @@
       "network": "ws",
       "sni": "",
       "host": "064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev",
-      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.97.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "94.182.137.12",
-      "port": "20532",
-      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "tcp",
-      "sni": "",
-      "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "94.183.149.102",
-      "port": "10005",
-      "id": "513bfff6-0286-48e7-8e28-2d7f49edf7a9",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://513bfff6-0286-48e7-8e28-2d7f49edf7a9@94.183.149.102:10005?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "94.183.149.102",
-      "country": "IR",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://513bfff6-0286-48e7-8e28-2d7f49edf7a9@94.183.149.102:10005?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }
