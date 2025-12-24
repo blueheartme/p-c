@@ -1,32 +1,19 @@
 {
-  "updated": "2025-12-23T16:21:23.734446",
+  "updated": "2025-12-24T01:14:18.303383",
   "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "119.59.98.58",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇹🇭TH-119.59.98.58-0964",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-1",
-      "ip": "119.59.98.58",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
       "address": "45.150.128.215",
-      "port": "80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F",
+      "port": "80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-49 | free-nodes",
-      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#ss-TH%F0%9F%8C%90-2",
+      "name": "未知 VLESS-93 | free-nodes",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1",
       "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#ss-TH%F0%9F%8C%90-2"
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -35,11 +22,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
       "name": "未知 SS-68 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
       "ip": "103.253.74.94",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.150.128.215",
+      "port": "80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-49 | free-nodes",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#ss-TH%F0%9F%8C%90-3",
+      "ip": "45.150.128.215",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me%2Fv2Line&path=%2F#ss-TH%F0%9F%8C%90-3"
     }
   ]
 }

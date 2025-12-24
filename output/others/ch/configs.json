@@ -1,47 +1,36 @@
 {
-  "updated": "2025-12-23T16:21:23.742817",
-  "count": 3,
+  "updated": "2025-12-24T01:14:18.298063",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "ch.srv.oplcdn.link",
-      "port": "8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-121 | free-nodes",
-      "original": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "45.141.119.180",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "83.228.225.98",
-      "port": "24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.225.98",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
       "type": "vless",
-      "address": "83.228.225.98",
-      "port": "24472",
-      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "address": "208.69.78.5",
+      "port": "443",
+      "id": "0a21d713-6e6f-4274-8b84-464019325513",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "83.228.225.98",
+      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;fp=chrome&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56&amp;sni=www.microsoft.com&amp;sid=9c8d68d581a08ea5#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&amp;fp=chrome&amp;type=grpc&amp;serviceName=ecb7f0f50489f81cd1983a56&amp;sni=www.microsoft.com&amp;sid=9c8d68d581a08ea5#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "ch.srv.oplcdn.link",
+      "port": "8443",
+      "id": "c51fac89-9c57-4416-b48b-c780d6710605",
+      "name": "未知 VLESS-121 | free-nodes",
+      "network": "tcp",
+      "sni": "ign.com",
+      "host": "",
+      "original": "vless://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "45.141.119.180",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

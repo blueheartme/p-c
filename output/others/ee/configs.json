@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-23T16:21:23.737129",
+  "updated": "2025-12-24T01:14:18.305168",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "ee.srv.oplcdn.link",
-      "port": "8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2",
-      "method": "",
-      "password": "",
+      "port": "8443",
+      "id": "c51fac89-9c57-4416-b48b-c780d6710605",
       "name": "未知 VLESS-05 | free-nodes",
-      "original": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-EE%F0%9F%8C%90-1",
+      "network": "tcp",
+      "sni": "ign.com",
+      "host": "",
+      "original": "vless://c51fac89-9c57-4416-b48b-c780d6710605@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-1",
       "ip": "216.144.231.93",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://c51fac89-9c57-4416-b48b-c780d6710605@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ss-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://c51fac89-9c57-4416-b48b-c780d6710605@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-1"
     }
   ]
 }
