@@ -1,9 +1,24 @@
 {
-  "updated": "2025-12-24T16:20:09.277318",
-  "count": 5,
+  "updated": "2025-12-25T01:15:02.337357",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
+      "address": "152.53.115.178",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "法国",
+      "network": "tcp",
+      "sni": "at.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.115.178",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
       "address": "at.ultima.foundation",
       "port": "22231",
       "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
@@ -11,11 +26,11 @@
       "network": "tcp",
       "sni": "at.ultima.foundation",
       "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.67.96",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.34.33",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
       "type": "vless",
@@ -26,52 +41,11 @@
       "network": "tcp",
       "sni": "at.ultima.foundation",
       "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3",
       "ip": "152.53.47.193",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
-    },
-    {
-      "type": "ss",
-      "address": "at.ultima.foundation",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "奥地利",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "152.53.67.96",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3"
-    },
-    {
-      "type": "ss",
-      "address": "152.53.47.193",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "法国",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4",
-      "ip": "152.53.47.193",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4"
-    },
-    {
-      "type": "vless",
-      "address": "212.183.88.2",
-      "port": "443",
-      "id": "c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.2:443?security=tls&amp;sni=va.ylkszy.eu.org&amp;type=ws&amp;path=%2F%3Fproxyip#vless-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-5",
-      "ip": "212.183.88.2",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.2:443?security=tls&amp;sni=va.ylkszy.eu.org&amp;type=ws&amp;path=%2F%3Fproxyip#vless-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-5"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

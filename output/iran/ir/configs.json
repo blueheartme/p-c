@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-24T16:20:09.279992",
-  "count": 4,
+  "updated": "2025-12-25T01:15:02.338363",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
@@ -16,17 +16,47 @@
       "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
-      "type": "ss",
-      "address": "152.89.46.87",
-      "port": "8443?security=tls&amp;sni=robot11.server21.org&amp;type=ws&amp;host=robot11.server21.org&amp;path=/",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://a63f0b27-0087-4e6b-810d-3d74de08dc1b@152.89.46.87:8443?security=tls&amp;sni=robot11.server21.org&amp;type=ws&amp;host=robot11.server21.org&amp;path=/#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "152.89.46.87",
+      "type": "vless",
+      "address": "94.182.137.12",
+      "port": "20532",
+      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "tcp",
+      "sni": "",
+      "host": "Telewebion.com",
+      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "94.182.137.12",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://a63f0b27-0087-4e6b-810d-3d74de08dc1b@152.89.46.87:8443?security=tls&amp;sni=robot11.server21.org&amp;type=ws&amp;host=robot11.server21.org&amp;path=/#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "188.114.97.0",
+      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
+      "method": "",
+      "password": "",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "188.114.97.0",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "188.114.98.4",
+      "port": "8443?encryption=none&amp;security=tls&amp;sni=h10-7.tap30.site&amp;alpn=h2&amp;fp=chrome&amp;type=xhttp&amp;host=h10-7.tap30.site&amp;path=%2F&amp;mode=stream-up",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://MahsaNG-vpn-47774155@188.114.98.4:8443?encryption=none&amp;security=tls&amp;sni=h10-7.tap30.site&amp;alpn=h2&amp;fp=chrome&amp;type=xhttp&amp;host=h10-7.tap30.site&amp;path=%2F&amp;mode=stream-up#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "ip": "188.114.98.4",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "rebuilt": "ss://MahsaNG-vpn-47774155@188.114.98.4:8443?encryption=none&amp;security=tls&amp;sni=h10-7.tap30.site&amp;alpn=h2&amp;fp=chrome&amp;type=xhttp&amp;host=h10-7.tap30.site&amp;path=%2F&amp;mode=stream-up#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
@@ -37,26 +67,30 @@
       "network": "ws",
       "sni": "",
       "host": "064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev",
-      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
       "ip": "188.114.97.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
     },
     {
-      "type": "ss",
-      "address": "188.114.97.0",
-      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "188.114.97.0",
+      "type": "vless",
+      "address": "188.114.98.4",
+      "port": "8443",
+      "id": "MahsaNG-vpn-47774155",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://MahsaNG-vpn-47774155@188.114.98.4:8443?encryption=none&amp;security=tls&amp;sni=h10-7.tap30.site&amp;alpn=h2&amp;fp=chrome&amp;type=xhttp&amp;host=h10-7.tap30.site&amp;path=%2F&amp;mode=stream-up#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "ip": "188.114.98.4",
       "country": "IR",
       "cdn": "arvancloud",
-      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://MahsaNG-vpn-47774155@188.114.98.4:8443?encryption=none&amp;security=tls&amp;sni=h10-7.tap30.site&amp;alpn=h2&amp;fp=chrome&amp;type=xhttp&amp;host=h10-7.tap30.site&amp;path=%2F&amp;mode=stream-up#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }

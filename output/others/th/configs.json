@@ -1,7 +1,22 @@
 {
-  "updated": "2025-12-24T16:20:09.287305",
-  "count": 2,
+  "updated": "2025-12-25T01:15:02.332809",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.150.128.215",
+      "port": "80",
+      "id": "65094902-5425-464d-9171-d3a69d9e1cbc",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "t.me/v2Line",
+      "host": "",
+      "original": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-1",
+      "ip": "45.150.128.215",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&sni=t.me/v2Line&type=ws&path=%2F#vless-ws-TH%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "45.150.128.215",
@@ -9,24 +24,24 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-91 | free-nodes",
-      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1",
+      "original": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-2",
       "ip": "45.150.128.215",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-1"
+      "rebuilt": "ss://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#ss-TH%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "103.253.74.94",
-      "port": "31348",
+      "address": "119.59.98.58",
+      "port": "990",
       "method": "chacha20-ietf-poly1305",
-      "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
-      "name": "未知 SS-69 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
-      "ip": "103.253.74.94",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "TW台湾(mibei77.com 米贝节点分享)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3",
+      "ip": "119.59.98.58",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3"
     }
   ]
 }
