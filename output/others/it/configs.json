@@ -1,19 +1,49 @@
 {
-  "updated": "2025-12-25T01:15:02.340202",
-  "count": 1,
+  "updated": "2025-12-25T08:22:27.328342",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "212.102.54.45",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇮🇹IT-212.102.54.45-0297",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
-      "ip": "212.102.54.45",
+      "type": "trojan",
+      "address": "146.70.73.211",
+      "port": "53809",
+      "password": "blhwsknjxmfuydz0vhfv",
+      "name": "I 40 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1",
+      "ip": "146.70.73.211",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "Itw.sefrtasad.com",
+      "port": "3159",
+      "id": "af9a0f4a-aef7-6990-ea33-ac6cf29c04c7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://af9a0f4a-aef7-6990-ea33-ac6cf29c04c7@Itw.sefrtasad.com:3159?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=translation.steampowered.com&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#vless-tcp-reality-IT%F0%9F%8C%90-2",
+      "ip": "80.211.136.17",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://af9a0f4a-aef7-6990-ea33-ac6cf29c04c7@Itw.sefrtasad.com:3159?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=translation.steampowered.com&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#vless-tcp-reality-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "146.70.73.214",
+      "port": "53809",
+      "password": "blhwsknjxmfuydz0vhfv",
+      "name": "I 42 (@Outline_Vpn) free<br/>vless://ea05a148-8d1f-4141-a033-236ab8a03f8f@45.67.228.191:443?path=/qnegucws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ads.x5.ru#I 43 (@Outline_Vpn) free<br/>vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443?path=/ktqdgews&amp;security=tls&amp;encryption=none&amp;type=ws#I 44 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-3",
+      "ip": "146.70.73.214",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-3"
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "updated": "2025-12-25T01:15:02.320401",
-  "count": 8,
+  "updated": "2025-12-25T08:22:27.316391",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9006",
-      "method": "aes-256-cfb",
-      "password": "FAdUvMJUq5vDgKEq",
-      "name": "🇵🇱PL-217.30.10.70-5094",
-      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
       "address": "217.30.10.18",
-      "port": "9041",
+      "port": "9001",
       "method": "aes-256-cfb",
-      "password": "U6qnYRhfyDmn8sgn",
-      "name": "🇵🇱PL-217.30.10.18-0380",
-      "original": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "password": "UkXRsXvR6buDMG2Y",
+      "name": "🇵🇱PL-217.30.10.18-0409",
+      "original": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "217.30.10.18",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "145.239.29.93",
+      "port": "48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-51 | free-nodes",
+      "original": "ss://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "145.239.29.93",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "vless",
@@ -44,69 +44,32 @@
       "rebuilt": "vless://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
+      "type": "vless",
+      "address": "144.31.5.179",
+      "port": "443",
+      "id": "98cb33a8-d6f7-41f0-8796-e4b471d65df8",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "144.31.5.179",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
       "type": "ss",
-      "address": "145.239.29.93",
-      "port": "48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp",
+      "address": "144.31.5.179",
+      "port": "443?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-51 | free-nodes",
-      "original": "ss://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "145.239.29.93",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "144.31.5.179",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://cdd3952e-f4dc-41b9-83ca-733f0a3f0eb0@145.239.29.93:48209?encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;packetEncoding=xudp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9050",
-      "method": "aes-256-cfb",
-      "password": "FG5ddLsMPbV5CutE",
-      "name": "🇵🇱PL-217.30.10.70-5092",
-      "original": "ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.70:9050#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.70:9050#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9006",
-      "method": "aes-256-cfb",
-      "password": "FAdUvMJUq5vDgKEq",
-      "name": "🇵🇱PL-217.30.10.18-0376",
-      "original": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-6"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9033",
-      "method": "aes-256-cfb",
-      "password": "UTJA57ypk2XKQpnm",
-      "name": "🇵🇱PL-217.30.10.18-0400",
-      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9011",
-      "method": "aes-256-cfb",
-      "password": "M3t2ZEQcMGRWBjRa",
-      "name": "🇵🇱PL-217.30.10.18-0378",
-      "original": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8"
+      "rebuilt": "ss://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     }
   ]
 }

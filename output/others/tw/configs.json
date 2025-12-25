@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-25T01:15:02.319472",
-  "count": 3,
+  "updated": "2025-12-25T08:22:27.307952",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -33,16 +33,30 @@
     {
       "type": "trojan",
       "address": "green2.cdntencentmusic.com",
+      "port": "34411",
+      "password": "a5049baa-eadf-4523-bcac-33139e4a99ea",
+      "name": "TW台湾(mibei77.com 米贝节点分享)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://a5049baa-eadf-4523-bcac-33139e4a99ea@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "220.130.58.138",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://a5049baa-eadf-4523-bcac-33139e4a99ea@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
       "port": "31103",
       "password": "3846a29b-57d5-40f2-8acd-13855aa025cd",
       "name": "US美国(mibei77.com 米贝节点分享)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
       "ip": "220.130.58.138",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     }
   ]
 }

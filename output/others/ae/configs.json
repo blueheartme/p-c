@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-25T01:15:02.328175",
+  "updated": "2025-12-25T08:22:27.339610",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "89.31.120.192",
-      "port": "443",
-      "id": "44537595-9ccc-4b83-8936-5f9ad3229019",
-      "name": "🇦🇪United Arab Emirates -> 🇦🇪United Arab Emirates ⚡@DeamNet_Proxy",
-      "network": "raw",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQUXwn4em8J+Hqi0xIiwiYWRkIjoiODkuMzEuMTIwLjE5MiIsInBvcnQiOiI0NDMiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ==",
-      "ip": "89.31.120.192",
+      "type": "ss",
+      "address": "147.78.0.182",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇦🇪AE-147.78.0.182-0348",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "147.78.0.182",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQUXwn4em8J+Hqi0xIiwiYWRkIjoiODkuMzEuMTIwLjE5MiIsInBvcnQiOiI0NDMiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ=="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }
