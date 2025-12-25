@@ -1,62 +1,20 @@
 {
-  "updated": "2025-12-25T08:22:27.307952",
-  "count": 4,
+  "updated": "2025-12-25T16:20:01.630402",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "220.130.58.138",
-      "port": "34411",
-      "password": "17d3bf89-d2f0-4827-bcd0-c199fe54cd2a",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://17d3bf89-d2f0-4827-bcd0-c199fe54cd2a@220.130.58.138:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "220.130.58.138",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://17d3bf89-d2f0-4827-bcd0-c199fe54cd2a@220.130.58.138:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
-    },
-    {
-      "type": "trojan",
-      "address": "green2.cdntencentmusic.com",
-      "port": "31104",
-      "password": "3846a29b-57d5-40f2-8acd-13855aa025cd",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "220.130.58.138",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
-    },
-    {
-      "type": "trojan",
-      "address": "green2.cdntencentmusic.com",
-      "port": "34411",
-      "password": "a5049baa-eadf-4523-bcac-33139e4a99ea",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://a5049baa-eadf-4523-bcac-33139e4a99ea@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
-      "ip": "220.130.58.138",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://a5049baa-eadf-4523-bcac-33139e4a99ea@green2.cdntencentmusic.com:34411?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
-    },
     {
       "type": "trojan",
       "address": "green2.cdntencentmusic.com",
       "port": "31103",
-      "password": "3846a29b-57d5-40f2-8acd-13855aa025cd",
-      "name": "US美国(mibei77.com 米贝节点分享)",
+      "password": "cfdf8794-5365-41ac-9e59-573aab964b3e",
+      "name": "🇭🇰 香港6|@stairnode",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "original": "trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
       "ip": "220.130.58.138",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
+      "rebuilt": "trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }

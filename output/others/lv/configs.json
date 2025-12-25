@@ -1,22 +1,7 @@
 {
-  "updated": "2025-12-25T08:22:27.323490",
-  "count": 4,
+  "updated": "2025-12-25T16:20:01.583393",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;sid=4360e536&amp;type=raw&amp;headertype=none#vless-tcp-LV%F0%9F%8C%90-1",
-      "ip": "195.135.252.28",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;sid=4360e536&amp;type=raw&amp;headertype=none#vless-tcp-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "188.253.21.106",
@@ -24,37 +9,39 @@
       "method": "",
       "password": "",
       "name": "越南",
-      "original": "ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-2",
+      "original": "ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-1",
       "ip": "188.253.21.106",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-2"
+      "rebuilt": "ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "188.253.21.106",
+      "port": "443",
+      "id": "247a22e1-0795-4852-9bdd-a65ac1078034",
+      "name": "越南",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "original": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "ip": "188.253.21.106",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "195.135.252.28",
-      "port": "443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;sid=4360e536&amp;type=raw&amp;headertype=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;sid=4360e536&amp;type=raw&amp;headertype=none#ss-LV%F0%9F%8C%90-3",
-      "ip": "195.135.252.28",
+      "address": "46.183.217.204",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇱🇻LV-46.183.217.204-0344",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3",
+      "ip": "46.183.217.204",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;sid=4360e536&amp;type=raw&amp;headertype=none#ss-LV%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "188.253.23.98",
-      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-4",
-      "ip": "188.253.23.98",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3"
     }
   ]
 }

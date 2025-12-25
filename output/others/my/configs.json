@@ -1,21 +1,21 @@
 {
-  "updated": "2025-12-25T08:22:27.336642",
+  "updated": "2025-12-25T16:20:01.614308",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "8613",
-      "id": "80039b4d-bac0-4f89-82c7-54fad3b0a1ea",
-      "name": "🇲🇾MY-47.250.45.234-5123",
-      "network": "ws",
-      "host": "",
+      "type": "vless",
+      "address": "45.89.107.200",
+      "port": "8443",
+      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
+      "name": "未知 VLESS-19 | free-nodes",
+      "network": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "47.250.45.234",
+      "host": "",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-MY%F0%9F%8C%90-1",
+      "ip": "45.89.107.200",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-MY%F0%9F%8C%90-1"
     }
   ]
 }
