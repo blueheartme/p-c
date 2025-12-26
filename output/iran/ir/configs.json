@@ -1,77 +1,19 @@
 {
-  "updated": "2025-12-25T16:20:01.599974",
-  "count": 6,
+  "updated": "2025-12-26T01:15:25.818617",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "94.182.137.12",
-      "port": "20532",
-      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "network": "tcp",
-      "sni": "",
-      "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "188.114.96.11",
-      "port": "2087",
-      "id": "b9b8cf4c-29a3-4288-9c6c-8811dc37beec",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?encryption=none&amp;security=tls&amp;sni=xLZ767v2Ray.PAgEs.dev&amp;fp=chrome&amp;type=ws&amp;host=xLZ767v2Ray.PAgEs.dev&amp;path=%2F5z5wdmesbon0p3kk%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.96.11",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?encryption=none&amp;security=tls&amp;sni=xLZ767v2Ray.PAgEs.dev&amp;fp=chrome&amp;type=ws&amp;host=xLZ767v2Ray.PAgEs.dev&amp;path=%2F5z5wdmesbon0p3kk%3Fed%3D2560#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
       "type": "ss",
-      "address": "94.182.137.12",
-      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "188.114.96.11",
-      "port": "2087?encryption=none&amp;security=tls&amp;sni=xLZ767v2Ray.PAgEs.dev&amp;fp=chrome&amp;type=ws&amp;host=xLZ767v2Ray.PAgEs.dev&amp;path=%2F5z5wdmesbon0p3kk%3Fed%3D2560",
+      "address": "62.60.212.122",
+      "port": "9129?security=none&amp;sni=188.245.157.215&amp;type=tcp&amp;host=speedtest.net&amp;path=/&amp;headerType=http",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?encryption=none&amp;security=tls&amp;sni=xLZ767v2Ray.PAgEs.dev&amp;fp=chrome&amp;type=ws&amp;host=xLZ767v2Ray.PAgEs.dev&amp;path=%2F5z5wdmesbon0p3kk%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "188.114.96.11",
+      "original": "ss://71759f92-ede9-095b-291f-96f2ffb71a6a@62.60.212.122:9129?security=none&amp;sni=188.245.157.215&amp;type=tcp&amp;host=speedtest.net&amp;path=/&amp;headerType=http#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "62.60.212.122",
       "country": "IR",
-      "cdn": "arvancloud",
-      "rebuilt": "ss://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?encryption=none&amp;security=tls&amp;sni=xLZ767v2Ray.PAgEs.dev&amp;fp=chrome&amp;type=ws&amp;host=xLZ767v2Ray.PAgEs.dev&amp;path=%2F5z5wdmesbon0p3kk%3Fed%3D2560#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "188.114.97.0",
-      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
-      "ip": "188.114.97.0",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "cdn": null,
+      "rebuilt": "ss://71759f92-ede9-095b-291f-96f2ffb71a6a@62.60.212.122:9129?security=none&amp;sni=188.245.157.215&amp;type=tcp&amp;host=speedtest.net&amp;path=/&amp;headerType=http#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -82,13 +24,26 @@
       "network": "ws",
       "sni": "",
       "host": "064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev",
-      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "original": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.97.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "188.114.97.0",
+      "port": "8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed",
+      "method": "",
+      "password": "",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "188.114.97.0",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "rebuilt": "ss://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#ss-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     }
   ]
 }

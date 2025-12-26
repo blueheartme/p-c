@@ -1,60 +1,33 @@
 {
-  "updated": "2025-12-25T16:20:01.598988",
-  "count": 4,
+  "updated": "2025-12-26T01:15:25.826363",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.192.124.188",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-185.192.124.188-0331",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "185.192.124.188",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.82.245.39",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "未知 VLESS-18 | free-nodes",
-      "network": "",
+      "type": "trojan",
+      "address": "216.238.102.126",
+      "port": "25636",
+      "password": "7LlUkWYFvIDNyJ8oKhBuiw2c1m6d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "original": "trojan://7LlUkWYFvIDNyJ8oKhBuiw2c1m6d@216.238.102.126:25636/?type=tcp&amp;security=tls&amp;sni=t.me%2Foneclickvpnkeys#trojan-tcp-tls-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "216.238.102.126",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "trojan://7LlUkWYFvIDNyJ8oKhBuiw2c1m6d@216.238.102.126:25636/?type=tcp&amp;security=tls&amp;sni=t.me%2Foneclickvpnkeys#trojan-tcp-tls-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.82.245.39",
+      "port": "8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-48 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2",
       "ip": "45.82.245.39",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "38.54.57.90",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-38.54.57.90-0437",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-3",
-      "ip": "38.54.57.90",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "213.159.66.206",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0334",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-4",
-      "ip": "213.159.66.206",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-4"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }
