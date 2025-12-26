@@ -1,7 +1,35 @@
 {
-  "updated": "2025-12-26T08:21:56.544042",
-  "count": 4,
+  "updated": "2025-12-26T16:18:58.788071",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.12.136.170",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "l668XHPejoSNNuD66BYzyehaCpZexiF7",
+      "name": "未知 SS-116 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-1",
+      "ip": "45.12.136.170",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "188.214.135.158",
+      "port": "22230",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "立陶宛",
+      "network": "tcp",
+      "sni": "apple.com",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
+      "ip": "188.214.135.158",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
+    },
     {
       "type": "ss",
       "address": "188.214.135.158",
@@ -9,52 +37,11 @@
       "method": "",
       "password": "",
       "name": "立陶宛",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-1",
+      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-3",
       "ip": "188.214.135.158",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "188.214.135.154",
-      "port": "22230",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "立陶宛",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
-      "ip": "188.214.135.154",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "188.214.135.154",
-      "port": "22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "立陶宛",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-3",
-      "ip": "188.214.135.154",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "45.12.136.170",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "l668XHPejoSNNuD66BYzyehaCpZexiF7",
-      "name": "🇨🇾CY-45.12.136.170-0341",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-4",
-      "ip": "45.12.136.170",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-4"
+      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-3"
     }
   ]
 }
