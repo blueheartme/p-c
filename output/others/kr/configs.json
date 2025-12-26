@@ -1,45 +1,32 @@
 {
-  "updated": "2025-12-25T16:20:01.612609",
-  "count": 3,
+  "updated": "2025-12-26T08:21:56.539101",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "p141.panda001.net",
+      "port": "4652",
+      "method": "aes-256-cfb",
+      "password": "qwerREWQ@@",
+      "name": "🇰🇷KR-218.237.185.230-4959",
+      "original": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "218.237.185.230",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
     {
       "type": "ss",
       "address": "141.164.45.187",
       "port": "7001",
       "method": "aes-256-gcm",
       "password": "RexnBgU7EV5ADxG",
-      "name": "🇰🇷KR-141.164.45.187-0350",
-      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#ss-aes-256-gcm-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "name": "🇰🇷KR-141.164.45.187-0344",
+      "original": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#ss-aes-256-gcm-KR%F0%9F%87%B0%F0%9F%87%B7-2",
       "ip": "141.164.45.187",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#ss-aes-256-gcm-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "218.237.185.230",
-      "port": "4652",
-      "method": "aes-256-cfb",
-      "password": "qwerREWQ@@",
-      "name": "🇰🇷KR-218.237.185.230-0443",
-      "original": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "218.237.185.230",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.90.63.177",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇰🇷KR-154.90.63.177-0426",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-3",
-      "ip": "154.90.63.177",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#ss-aes-256-gcm-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
-  "updated": "2025-12-26T01:15:25.834062",
-  "count": 2,
+  "updated": "2025-12-26T08:21:56.547706",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "146.70.73.211",
+      "port": "53809",
+      "password": "blhwsknjxmfuydz0vhfv",
+      "name": "I 40 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1",
+      "ip": "146.70.73.211",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "172.238.229.254",
+      "port": "14051",
+      "password": "OdgHycGphesfLmPMYolUF",
+      "name": "TR TROJAN-76 | free-nodes",
+      "sni": "",
+      "host": "",
+      "original": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-2",
+      "ip": "172.238.229.254",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-2"
+    },
     {
       "type": "trojan",
       "address": "146.70.73.214",
@@ -10,24 +38,11 @@
       "name": "I 42 (@Outline_Vpn) free<br/>vless://ea05a148-8d1f-4141-a033-236ab8a03f8f@45.67.228.191:443?path=/qnegucws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ads.x5.ru#I 43 (@Outline_Vpn) free<br/>vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443?path=/ktqdgews&amp;security=tls&amp;encryption=none&amp;type=ws#I 44 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
       "sni": "",
       "host": "",
-      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-3",
       "ip": "146.70.73.214",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "Itw.sefrtasad.com",
-      "port": "3159?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=translation.steampowered.com&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://f05818d6-d6cf-f478-ff10-60acef14b7fe@Itw.sefrtasad.com:3159?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=translation.steampowered.com&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#ss-IT%F0%9F%8C%90-2",
-      "ip": "80.211.136.17",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://f05818d6-d6cf-f478-ff10-60acef14b7fe@Itw.sefrtasad.com:3159?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=translation.steampowered.com&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#ss-IT%F0%9F%8C%90-2"
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-3"
     }
   ]
 }

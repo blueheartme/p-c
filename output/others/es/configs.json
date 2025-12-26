@@ -1,45 +1,21 @@
 {
-  "updated": "2025-12-26T01:15:25.799021",
-  "count": 5,
+  "updated": "2025-12-26T08:21:56.541201",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "37.143.130.203",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇪🇸ES-37.143.130.203-0432",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
-      "ip": "37.143.130.203",
+      "type": "vless",
+      "address": "176.120.74.41",
+      "port": "443",
+      "id": "7f760f5f-a79c-4f0c-aac1-6c647a81925a",
+      "name": "未知 VLESS-45 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#vless-tcp-ES%F0%9F%8C%90-1",
+      "ip": "176.120.74.41",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.154.206.192",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇪🇸ES-45.154.206.192-0385",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "45.154.206.192",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "188.214.157.58",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇦MA-188.214.157.58-0410",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
-      "ip": "188.214.157.58",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
+      "rebuilt": "vless://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=%2Fssiiccws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=st.ozone.ru#vless-tcp-ES%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -48,26 +24,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
       "name": "俄罗斯",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
       "ip": "213.159.67.124",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "es2.tunnely.ru",
-      "port": "443",
-      "id": "c42e4667-ca09-4769-b544-89a8da730daf",
-      "name": "RU VLESS-10 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://c42e4667-ca09-4769-b544-89a8da730daf@es2.tunnely.ru:443?security=reality&amp;encryption=none&amp;pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=es2.tunnely.ru&amp;sid=2e40144ddc07e8e1#vless-tcp-reality-ES%F0%9F%8C%90-5",
-      "ip": "38.180.53.202",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://c42e4667-ca09-4769-b544-89a8da730daf@es2.tunnely.ru:443?security=reality&amp;encryption=none&amp;pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=es2.tunnely.ru&amp;sid=2e40144ddc07e8e1#vless-tcp-reality-ES%F0%9F%8C%90-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
     }
   ]
 }

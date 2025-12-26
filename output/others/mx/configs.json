@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-26T01:15:25.825694",
-  "count": 3,
+  "updated": "2025-12-26T08:21:56.553312",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
@@ -22,7 +22,7 @@
       "address": "131.196.252.59",
       "port": "20521",
       "id": "5809911a-a16e-43d3-90b0-2c94cfc2035e",
-      "name": "🇲🇽MX-131.196.252.59-5093",
+      "name": "🇲🇽MX-131.196.252.59-0353",
       "network": "ws",
       "host": "",
       "sni": "",
@@ -31,19 +31,6 @@
       "country": "MX",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIxLCJwcyI6InZtZXNzLXdzLWF1dG8tTVjwn4ey8J+HvS0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
-    },
-    {
-      "type": "ss",
-      "address": "147.78.1.230",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇲🇽MX-147.78.1.230-0440",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-3",
-      "ip": "147.78.1.230",
-      "country": "MX",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-3"
     }
   ]
 }
