@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T16:18:58.792209",
+  "updated": "2025-12-27T01:13:37.280107",
   "count": 4,
   "configs": [
     {
@@ -16,6 +16,34 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
     },
     {
+      "type": "ss",
+      "address": "178.236.16.98",
+      "port": "35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "俄罗斯",
+      "original": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2",
+      "ip": "178.236.16.98",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "kz.connect-opengate.ru",
+      "port": "443",
+      "id": "2f88363e-497d-42fa-836c-ad3497f84913",
+      "name": "哈萨克斯坦",
+      "network": "tcp",
+      "sni": "softpipe.xyz",
+      "host": "",
+      "original": "vless://2f88363e-497d-42fa-836c-ad3497f84913@kz.connect-opengate.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=softpipe.xyz&fp=qq&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&sid=4d8983d5ff11fc78&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-KZ%F0%9F%8C%90-3",
+      "ip": "194.31.159.26",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://2f88363e-497d-42fa-836c-ad3497f84913@kz.connect-opengate.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=softpipe.xyz&fp=qq&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&sid=4d8983d5ff11fc78&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-KZ%F0%9F%8C%90-3"
+    },
+    {
       "type": "vless",
       "address": "178.236.16.98",
       "port": "35728",
@@ -24,39 +52,11 @@
       "network": "tcp",
       "sni": "yahoo.com",
       "host": "",
-      "original": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-2",
+      "original": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-4",
       "ip": "178.236.16.98",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "178.236.16.98",
-      "port": "35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "俄罗斯",
-      "original": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3",
-      "ip": "178.236.16.98",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "45.82.14.32",
-      "port": "4443",
-      "id": "f228db24-3602-4dd2-bdec-2d7faa61e70b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@45.82.14.32:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-KZ%F0%9F%8C%90-4",
-      "ip": "45.82.14.32",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@45.82.14.32:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-KZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&type=tcp&headerType=none#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-4"
     }
   ]
 }

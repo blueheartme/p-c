@@ -1,19 +1,62 @@
 {
-  "updated": "2025-12-26T16:18:58.811993",
-  "count": 1,
+  "updated": "2025-12-27T01:13:37.274363",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "212.102.54.45",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇮🇹IT-212.102.54.45-0288",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
-      "ip": "212.102.54.45",
+      "type": "trojan",
+      "address": "146.70.73.211",
+      "port": "53809",
+      "password": "blhwsknjxmfuydz0vhfv",
+      "name": "I 40 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1",
+      "ip": "146.70.73.211",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "146.70.73.214",
+      "port": "53809",
+      "password": "blhwsknjxmfuydz0vhfv",
+      "name": "I 42 (@Outline_Vpn) free<br/>vless://ea05a148-8d1f-4141-a033-236ab8a03f8f@45.67.228.191:443?path=/qnegucws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ads.x5.ru#I 43 (@Outline_Vpn) free<br/>vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443?path=/ktqdgews&amp;security=tls&amp;encryption=none&amp;type=ws#I 44 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "sni": "",
+      "host": "",
+      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-2",
+      "ip": "146.70.73.214",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "trt.fastlynew.hosting-ip.com",
+      "port": "80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp",
+      "method": "",
+      "password": "",
+      "name": "🇧🇷@vpn_ioss ♻️ عضو شو</div>",
+      "original": "ss://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#ss-IT%F0%9F%8C%90-3",
+      "ip": "151.101.241.242",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#ss-IT%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "trt.fastlynew.hosting-ip.com",
+      "port": "80",
+      "id": "50a9ab6c-1e20-41f2-b0d2-93ddec168ef9",
+      "name": "🇹🇷@vpn_ioss ♻️ عضو شو</div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IT%F0%9F%8C%90-4",
+      "ip": "151.101.241.242",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IT%F0%9F%8C%90-4"
     }
   ]
 }
