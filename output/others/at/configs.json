@@ -1,32 +1,19 @@
 {
-  "updated": "2025-12-27T08:20:49.438866",
-  "count": 5,
+  "updated": "2025-12-27T16:19:14.997126",
+  "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "152.53.47.193",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
+      "address": "at.ultima.foundation",
+      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "法国",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.47.193",
+      "name": "奥地利",
+      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.65.134",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
-    {
-      "type": "ss",
-      "address": "37.235.56.69",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "telegram ☂️ dailyv2ry<br/>vle2668fdee-331d-4770-8244-d2a4efbf6ef8",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#ss-chacha20-ietf-poly1305-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "37.235.56.69",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#ss-chacha20-ietf-poly1305-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     },
     {
       "type": "ss",
@@ -35,24 +22,41 @@
       "method": "",
       "password": "",
       "name": "奥地利",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "152.53.115.178",
+      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.65.134",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
-      "type": "ss",
-      "address": "152.53.115.178",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
+      "type": "vless",
+      "address": "152.53.47.193",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
       "name": "法国",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4",
+      "network": "tcp",
+      "sni": "at.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "152.53.47.193",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+    },
+    {
+      "type": "vless",
+      "address": "152.53.115.178",
+      "port": "22231",
+      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+      "name": "法国",
+      "network": "tcp",
+      "sni": "at.ultima.foundation",
+      "host": "",
+      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4",
       "ip": "152.53.115.178",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4"
+      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.115.178:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-4"
     },
     {
       "type": "vless",
@@ -64,10 +68,23 @@
       "sni": "at.ultima.foundation",
       "host": "",
       "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-5",
-      "ip": "152.53.115.178",
+      "ip": "152.53.65.134",
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-5"
+    },
+    {
+      "type": "ss",
+      "address": "37.235.56.69",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "telegram ☂️ dailyv2ry<br/>vle2668fdee-331d-4770-8244-d2a4efbf6ef8",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#ss-chacha20-ietf-poly1305-AT%F0%9F%87%A6%F0%9F%87%B9-6",
+      "ip": "37.235.56.69",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#ss-chacha20-ietf-poly1305-AT%F0%9F%87%A6%F0%9F%87%B9-6"
     }
   ]
 }

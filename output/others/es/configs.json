@@ -1,61 +1,7 @@
 {
-  "updated": "2025-12-27T08:20:49.446730",
-  "count": 5,
+  "updated": "2025-12-27T16:19:15.003714",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "213.159.67.124",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "🇲🇩MD-213.159.67.124-0339",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
-      "ip": "213.159.67.124",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "188.214.157.58",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇦MA-188.214.157.58-0455",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "188.214.157.58",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "45.12.150.186",
-      "port": "8880",
-      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-ES%F0%9F%8C%90-3",
-      "ip": "45.12.150.186",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "45.154.206.192",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇪🇸ES-45.154.206.192-0408",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4",
-      "ip": "45.154.206.192",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4"
-    },
     {
       "type": "ss",
       "address": "145.249.109.108",
@@ -63,11 +9,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "YHalDvP1z5RriU6l4LngKi",
       "name": "未知 SS-42 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-5",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
       "ip": "145.249.109.108",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
     }
   ]
 }

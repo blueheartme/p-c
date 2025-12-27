@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-27T08:20:49.440696",
-  "count": 1,
+  "updated": "2025-12-27T16:19:15.014200",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,47 @@
       "country": "TW",
       "cdn": null,
       "rebuilt": "trojan://acf09ee5-b3ca-409b-835b-18fae8e8db92@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
+      "port": "35502",
+      "password": "bcb12795-9b04-4293-93e5-42f448481532",
+      "name": "HK香港(mibei77.com 米贝节点分享)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://bcb12795-9b04-4293-93e5-42f448481532@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "ip": "220.130.58.138",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://bcb12795-9b04-4293-93e5-42f448481532@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
+      "port": "31102",
+      "password": "9c206dfa-409d-4814-8091-1547da8ec868",
+      "name": "HK香港(mibei77.com 米贝节点分享)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://9c206dfa-409d-4814-8091-1547da8ec868@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "220.130.58.138",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://9c206dfa-409d-4814-8091-1547da8ec868@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
+    {
+      "type": "ss",
+      "address": "223.165.4.173",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇹🇼TW-223.165.4.173-4905",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#ss-chacha20-ietf-poly1305-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "ip": "223.165.4.173",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#ss-chacha20-ietf-poly1305-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     }
   ]
 }
