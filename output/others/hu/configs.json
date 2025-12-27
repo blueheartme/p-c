@@ -1,21 +1,19 @@
 {
-  "updated": "2025-12-27T01:13:37.269595",
-  "count": 4,
+  "updated": "2025-12-27T08:20:49.449234",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "79.127.133.79",
-      "port": "8443",
-      "id": "291a2db3-04b5-4089-af90-adb5d1ce05ff",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.79:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=f4b4a6365558ea2e#vless-tcp-reality-HU%F0%9F%8C%90-1",
-      "ip": "79.127.133.79",
+      "type": "ss",
+      "address": "217.13.111.94",
+      "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
+      "method": "",
+      "password": "",
+      "name": "德国",
+      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1",
+      "ip": "217.13.111.94",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.79:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=f4b4a6365558ea2e#vless-tcp-reality-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -44,19 +42,6 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "217.13.111.94",
-      "port": "443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun",
-      "method": "",
-      "password": "",
-      "name": "德国",
-      "original": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-4",
-      "ip": "217.13.111.94",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.111.94:443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#ss-HU%F0%9F%8C%90-4"
     }
   ]
 }

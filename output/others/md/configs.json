@@ -1,19 +1,32 @@
 {
-  "updated": "2025-12-26T16:18:58.809667",
-  "count": 1,
+  "updated": "2025-12-27T08:20:49.452807",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "176.123.5.253",
+      "address": "176.123.1.175",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇩MD-176.123.5.253-0333",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1",
-      "ip": "176.123.5.253",
+      "name": "🇲🇩MD-176.123.1.175-0385",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1",
+      "ip": "176.123.1.175",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.153.197.5",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇲🇩MD-185.153.197.5-0593",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#ss-aes-256-cfb-MD%F0%9F%8C%90-2",
+      "ip": "185.153.197.5",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#ss-aes-256-cfb-MD%F0%9F%8C%90-2"
     }
   ]
 }
