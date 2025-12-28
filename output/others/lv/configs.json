@@ -1,22 +1,7 @@
 {
-  "updated": "2025-12-27T16:19:15.000408",
-  "count": 2,
+  "updated": "2025-12-28T01:23:43.182387",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.253.23.98",
-      "port": "443",
-      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
-      "name": "美国(yudou6677.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "kuangbao.xiejiang.dpdns.org",
-      "host": "kuangbao.xiejiang.dpdns.org",
-      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-1",
-      "ip": "188.253.23.98",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "188.253.21.106",
@@ -26,11 +11,37 @@
       "network": "tcp",
       "sni": "yahoo.com",
       "host": "",
-      "original": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "original": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
       "ip": "188.253.21.106",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "94.131.104.147",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6VAcll4P8xPTUVVtHeST3onRmLoVIBSU",
+      "name": "🇲🇩MD-94.131.104.147-0303",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2",
+      "ip": "94.131.104.147",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "188.253.23.98",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou6677.top 玉豆免费节点)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-3",
+      "ip": "188.253.23.98",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@188.253.23.98:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-LV%F0%9F%8C%90-3"
     }
   ]
 }
