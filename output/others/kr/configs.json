@@ -1,51 +1,60 @@
 {
-  "updated": "2025-12-28T01:23:43.163866",
-  "count": 3,
+  "updated": "2025-12-28T08:20:55.283666",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "s597.okgfwbackxyz.xyz",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s597.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u076as597.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "HK VLESS-195 | free-nodes",
+      "original": "ss://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s597.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s597.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u076as597.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "47.80.1.18",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s597.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s597.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u076as597.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "47.80.1.18",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s604.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u4a15s604.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "HK VLESS-185 | free-nodes",
+      "original": "ss://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@47.80.1.18:443?encryption=none&type=tcp&headerType=none&fp=random&host=s604.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u4a15s604.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "47.80.1.18",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@47.80.1.18:443?encryption=none&type=tcp&headerType=none&fp=random&host=s604.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u4a15s604.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "154.90.62.168",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇰🇷KR-154.90.62.168-0421",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "ip": "154.90.62.168",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#ss-aes-256-cfb-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+    },
     {
       "type": "vmess",
       "address": "seoul03.zgjok.com",
       "port": "443",
       "id": "72a0dac4-9689-4a57-b164-5c65bfa94772",
-      "name": "🇰🇷KR-146.56.177.166-0329",
+      "name": "t.me/entryNET",
       "network": "ws",
       "host": "seoul03.zgjok.com",
       "sni": "seoul03.zgjok.com",
-      "original": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0=",
+      "original": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctNCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0=",
       "ip": "146.56.177.166",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0="
-    },
-    {
-      "type": "vless",
-      "address": "47.80.1.18",
-      "port": "443",
-      "id": "f3dc78d2-a8cb-3f6e-bebd-b223dfa91691",
-      "name": "HK VLESS-184 | free-nodes",
-      "network": "tcp",
-      "sni": "u720947u4a15s604.okgfwbackxyz.xyz",
-      "host": "s604.okgfwbackxyz.xyz",
-      "original": "vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@47.80.1.18:443?encryption=none&type=tcp&headerType=none&fp=random&host=s604.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u4a15s604.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "47.80.1.18",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@47.80.1.18:443?encryption=none&type=tcp&headerType=none&fp=random&host=s604.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u4a15s604.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "s605.okgfwbackxyz.xyz",
-      "port": "443",
-      "id": "f3dc78d2-a8cb-3f6e-bebd-b223dfa91691",
-      "name": "HK VLESS-166 | free-nodes",
-      "network": "tcp",
-      "sni": "u720947u3d35s605.okgfwbackxyz.xyz",
-      "host": "s605.okgfwbackxyz.xyz",
-      "original": "vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s605.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s605.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u3d35s605.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-3",
-      "ip": "47.80.1.18",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://f3dc78d2-a8cb-3f6e-bebd-b223dfa91691@s605.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s605.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u720947u3d35s605.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+      "rebuilt": "vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUtS8J+HsPCfh7ctNCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNlb3VsMDMuemdqb2suY29tIn0="
     }
   ]
 }

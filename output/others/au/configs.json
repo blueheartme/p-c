@@ -1,47 +1,32 @@
 {
-  "updated": "2025-12-28T01:23:43.168639",
-  "count": 3,
+  "updated": "2025-12-28T08:20:55.311829",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "95.111.222.113",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "SG新加坡(mibei77.com 米贝节点分享)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "95.111.222.113",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
     {
       "type": "ss",
       "address": "45.15.185.69",
       "port": "8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-61 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "name": "未知 VLESS-69 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "45.15.185.69",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
-      "type": "vless",
-      "address": "45.15.185.69",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "未知 VLESS-61 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "45.15.185.69",
+      "type": "ss",
+      "address": "95.111.222.113",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
+      "name": "法国",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "95.111.222.113",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
