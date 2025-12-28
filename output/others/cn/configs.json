@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-28T08:20:55.300879",
-  "count": 2,
+  "updated": "2025-12-28T16:19:14.649855",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
@@ -16,20 +16,6 @@
       "country": "CN",
       "cdn": null,
       "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1DTvCfjJAtMSIsImFkZCI6ImdzN2RzMzEyZi5nZHVmZHMueHl6IiwicG9ydCI6IjQxMzExIiwiaWQiOiI4MjUzOWViNy0xOGM4LTQ4ZDAtYmI5Yy01NWQxYjZlNDdmNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaW1nMTQuMzYwYnV5aW1nLmNvbSIsInBhdGgiOiIvb2JqIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
-    },
-    {
-      "type": "trojan",
-      "address": "59.37.173.53",
-      "port": "3387",
-      "password": "d30ab83dbde4480082048fb315bedebd",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "sni": "",
-      "host": "",
-      "original": "trojan://d30ab83dbde4480082048fb315bedebd@59.37.173.53:3387?encryption=none&amp;security=tls&amp;sni=59.37.173.53&amp;type=raw&amp;headertype=none#trojan-tcp-tls-CN%F0%9F%8C%90-2",
-      "ip": "59.37.173.53",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "trojan://d30ab83dbde4480082048fb315bedebd@59.37.173.53:3387?encryption=none&amp;security=tls&amp;sni=59.37.173.53&amp;type=raw&amp;headertype=none#trojan-tcp-tls-CN%F0%9F%8C%90-2"
     }
   ]
 }
