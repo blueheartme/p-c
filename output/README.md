@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2025-12-29 08:25:20 UTC
+**Last Updated:** 2025-12-29 16:20:16 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 867
-- **Tested & Working:** 30
-- **Countries:** 54
+- **Total Configs:** 902
+- **Tested & Working:** 31
+- **Countries:** 56
 
 ## 🇮🇷 Iran Configs (Priority)
 
 - **Total:** 2
-- **Tested:** 2
+- **Tested:** 1
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 68
-- **Tested:** 28
+- **Total:** 74
+- **Tested:** 30
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -32,80 +32,88 @@
 
 ## 🌍 Other Countries
 
-### 🌐 AM
+### 🇦🇷 AR
 - **Count:** 1
-- [JSON](others/am/configs.json) | [TXT](others/am/configs.txt) | [Subscription](others/am/subscription.txt)
+- [JSON](others/ar/configs.json) | [TXT](others/ar/configs.txt) | [Subscription](others/ar/subscription.txt)
 
 ### 🇦🇹 AT
-- **Count:** 3
+- **Count:** 6
 - [JSON](others/at/configs.json) | [TXT](others/at/configs.txt) | [Subscription](others/at/subscription.txt)
 
 ### 🇦🇺 AU
-- **Count:** 1
+- **Count:** 3
 - [JSON](others/au/configs.json) | [TXT](others/au/configs.txt) | [Subscription](others/au/subscription.txt)
 
 ### 🌐 AZ
 - **Count:** 2
 - [JSON](others/az/configs.json) | [TXT](others/az/configs.txt) | [Subscription](others/az/subscription.txt)
 
+### 🌐 BE
+- **Count:** 1
+- [JSON](others/be/configs.json) | [TXT](others/be/configs.txt) | [Subscription](others/be/subscription.txt)
+
 ### 🌐 BG
 - **Count:** 2
 - [JSON](others/bg/configs.json) | [TXT](others/bg/configs.txt) | [Subscription](others/bg/subscription.txt)
 
 ### 🇧🇷 BR
-- **Count:** 1
+- **Count:** 2
 - [JSON](others/br/configs.json) | [TXT](others/br/configs.txt) | [Subscription](others/br/subscription.txt)
 
 ### 🇨🇦 CA
-- **Count:** 12
+- **Count:** 14
 - [JSON](others/ca/configs.json) | [TXT](others/ca/configs.txt) | [Subscription](others/ca/subscription.txt)
 
 ### 🇨🇭 CH
-- **Count:** 2
+- **Count:** 3
 - [JSON](others/ch/configs.json) | [TXT](others/ch/configs.txt) | [Subscription](others/ch/subscription.txt)
 
 ### 🌐 CL
 - **Count:** 1
 - [JSON](others/cl/configs.json) | [TXT](others/cl/configs.txt) | [Subscription](others/cl/subscription.txt)
 
+### 🌐 CN
+- **Count:** 1
+- [JSON](others/cn/configs.json) | [TXT](others/cn/configs.txt) | [Subscription](others/cn/subscription.txt)
+
 ### 🌐 CO
 - **Count:** 1
 - [JSON](others/co/configs.json) | [TXT](others/co/configs.txt) | [Subscription](others/co/subscription.txt)
-
-### 🌐 CY
-- **Count:** 1
-- [JSON](others/cy/configs.json) | [TXT](others/cy/configs.txt) | [Subscription](others/cy/subscription.txt)
 
 ### 🌐 CZ
 - **Count:** 3
 - [JSON](others/cz/configs.json) | [TXT](others/cz/configs.txt) | [Subscription](others/cz/subscription.txt)
 
-### 🌐 DK
-- **Count:** 3
-- [JSON](others/dk/configs.json) | [TXT](others/dk/configs.txt) | [Subscription](others/dk/subscription.txt)
-
-### 🌐 EC
+### 🌐 DZ
 - **Count:** 1
-- [JSON](others/ec/configs.json) | [TXT](others/ec/configs.txt) | [Subscription](others/ec/subscription.txt)
+- [JSON](others/dz/configs.json) | [TXT](others/dz/configs.txt) | [Subscription](others/dz/subscription.txt)
 
 ### 🌐 ES
 - **Count:** 5
 - [JSON](others/es/configs.json) | [TXT](others/es/configs.txt) | [Subscription](others/es/subscription.txt)
 
 ### 🇫🇮 FI
-- **Count:** 8
+- **Count:** 12
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
-- **Count:** 22
+- **Count:** 30
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
-- **Count:** 28
+- **Count:** 61
 - [JSON](others/gb/configs.json) | [TXT](others/gb/configs.txt) | [Subscription](others/gb/subscription.txt)
 
+### 🌐 GR
+- **Count:** 1
+- [JSON](others/gr/configs.json) | [TXT](others/gr/configs.txt) | [Subscription](others/gr/subscription.txt)
+
+### 🌐 GT
+- **Count:** 1
+- [JSON](others/gt/configs.json) | [TXT](others/gt/configs.txt) | [Subscription](others/gt/subscription.txt)
+
 ### 🇭🇰 HK
-- **Count:** 41
+- **Count:** 43
 - [JSON](others/hk/configs.json) | [TXT](others/hk/configs.txt) | [Subscription](others/hk/subscription.txt)
 
 ### 🌐 HR
@@ -113,59 +121,59 @@
 - [JSON](others/hr/configs.json) | [TXT](others/hr/configs.txt) | [Subscription](others/hr/subscription.txt)
 
 ### 🌐 HU
-- **Count:** 5
+- **Count:** 1
 - [JSON](others/hu/configs.json) | [TXT](others/hu/configs.txt) | [Subscription](others/hu/subscription.txt)
 
 ### 🌐 ID
-- **Count:** 3
+- **Count:** 5
 - [JSON](others/id/configs.json) | [TXT](others/id/configs.txt) | [Subscription](others/id/subscription.txt)
 
 ### 🌐 IL
-- **Count:** 2
+- **Count:** 5
 - [JSON](others/il/configs.json) | [TXT](others/il/configs.txt) | [Subscription](others/il/subscription.txt)
 
 ### 🇮🇳 IN
-- **Count:** 1
+- **Count:** 4
 - [JSON](others/in/configs.json) | [TXT](others/in/configs.txt) | [Subscription](others/in/subscription.txt)
 
 ### 🌐 IT
-- **Count:** 2
+- **Count:** 3
 - [JSON](others/it/configs.json) | [TXT](others/it/configs.txt) | [Subscription](others/it/subscription.txt)
 
 ### 🇯🇵 JP
-- **Count:** 26
+- **Count:** 16
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
 
-### 🇰🇷 KR
+### 🌐 KH
 - **Count:** 1
+- [JSON](others/kh/configs.json) | [TXT](others/kh/configs.txt) | [Subscription](others/kh/subscription.txt)
+
+### 🇰🇷 KR
+- **Count:** 5
 - [JSON](others/kr/configs.json) | [TXT](others/kr/configs.txt) | [Subscription](others/kr/subscription.txt)
 
 ### 🌐 KZ
-- **Count:** 3
+- **Count:** 7
 - [JSON](others/kz/configs.json) | [TXT](others/kz/configs.txt) | [Subscription](others/kz/subscription.txt)
 
 ### 🌐 LT
-- **Count:** 2
+- **Count:** 4
 - [JSON](others/lt/configs.json) | [TXT](others/lt/configs.txt) | [Subscription](others/lt/subscription.txt)
 
 ### 🌐 LV
 - **Count:** 3
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
-### 🌐 MK
+### 🌐 MD
 - **Count:** 1
-- [JSON](others/mk/configs.json) | [TXT](others/mk/configs.txt) | [Subscription](others/mk/subscription.txt)
+- [JSON](others/md/configs.json) | [TXT](others/md/configs.txt) | [Subscription](others/md/subscription.txt)
 
 ### 🌐 MT
 - **Count:** 1
 - [JSON](others/mt/configs.json) | [TXT](others/mt/configs.txt) | [Subscription](others/mt/subscription.txt)
 
-### 🇲🇽 MX
-- **Count:** 2
-- [JSON](others/mx/configs.json) | [TXT](others/mx/configs.txt) | [Subscription](others/mx/subscription.txt)
-
 ### 🌐 MY
-- **Count:** 7
+- **Count:** 11
 - [JSON](others/my/configs.json) | [TXT](others/my/configs.txt) | [Subscription](others/my/subscription.txt)
 
 ### 🌐 NG
@@ -173,11 +181,11 @@
 - [JSON](others/ng/configs.json) | [TXT](others/ng/configs.txt) | [Subscription](others/ng/subscription.txt)
 
 ### 🇳🇱 NL
-- **Count:** 63
+- **Count:** 71
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
 
 ### 🌐 NO
-- **Count:** 1
+- **Count:** 2
 - [JSON](others/no/configs.json) | [TXT](others/no/configs.txt) | [Subscription](others/no/subscription.txt)
 
 ### 🌐 PA
@@ -187,10 +195,6 @@
 ### 🌐 PH
 - **Count:** 3
 - [JSON](others/ph/configs.json) | [TXT](others/ph/configs.txt) | [Subscription](others/ph/subscription.txt)
-
-### 🌐 PK
-- **Count:** 1
-- [JSON](others/pk/configs.json) | [TXT](others/pk/configs.txt) | [Subscription](others/pk/subscription.txt)
 
 ### 🇵🇱 PL
 - **Count:** 3
@@ -204,40 +208,44 @@
 - **Count:** 1
 - [JSON](others/pt/configs.json) | [TXT](others/pt/configs.txt) | [Subscription](others/pt/subscription.txt)
 
+### 🌐 PY
+- **Count:** 1
+- [JSON](others/py/configs.json) | [TXT](others/py/configs.txt) | [Subscription](others/py/subscription.txt)
+
 ### 🌐 RS
 - **Count:** 1
 - [JSON](others/rs/configs.json) | [TXT](others/rs/configs.txt) | [Subscription](others/rs/subscription.txt)
 
 ### 🇷🇺 RU
-- **Count:** 30
+- **Count:** 32
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
 
 ### 🇸🇪 SE
-- **Count:** 3
+- **Count:** 1
 - [JSON](others/se/configs.json) | [TXT](others/se/configs.txt) | [Subscription](others/se/subscription.txt)
 
 ### 🇸🇬 SG
-- **Count:** 7
+- **Count:** 9
 - [JSON](others/sg/configs.json) | [TXT](others/sg/configs.txt) | [Subscription](others/sg/subscription.txt)
 
+### 🌐 SI
+- **Count:** 1
+- [JSON](others/si/configs.json) | [TXT](others/si/configs.txt) | [Subscription](others/si/subscription.txt)
+
 ### 🌐 TH
-- **Count:** 4
+- **Count:** 7
 - [JSON](others/th/configs.json) | [TXT](others/th/configs.txt) | [Subscription](others/th/subscription.txt)
 
 ### 🇹🇷 TR
-- **Count:** 2
+- **Count:** 3
 - [JSON](others/tr/configs.json) | [TXT](others/tr/configs.txt) | [Subscription](others/tr/subscription.txt)
 
-### 🇹🇼 TW
-- **Count:** 6
-- [JSON](others/tw/configs.json) | [TXT](others/tw/configs.txt) | [Subscription](others/tw/subscription.txt)
-
 ### 🇺🇸 US
-- **Count:** 465
+- **Count:** 419
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
 
 ### 🌐 VN
-- **Count:** 5
+- **Count:** 6
 - [JSON](others/vn/configs.json) | [TXT](others/vn/configs.txt) | [Subscription](others/vn/subscription.txt)
 
 
