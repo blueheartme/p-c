@@ -1,21 +1,48 @@
 {
-  "updated": "2025-12-28T16:19:14.652332",
-  "count": 1,
+  "updated": "2025-12-29T01:21:31.823794",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "185.146.173.32",
-      "port": "80",
-      "id": "03d25a8c-2d35-5e37-b689-95cc627ef40f",
+      "address": "89.23.123.8",
+      "port": "4443",
+      "id": "f228db24-3602-4dd2-bdec-2d7faa61e70b",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&amp;type=ws#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "185.146.173.32",
+      "original": "vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@89.23.123.8:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "89.23.123.8",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&amp;type=ws#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@89.23.123.8:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "trojan",
+      "address": "70.34.218.149",
+      "port": "11930",
+      "password": "BaeSzHdfJIR13l67",
+      "name": "🇸🇪SE-70.34.218.149-0408",
+      "sni": "softpillow.silentrocket.click",
+      "host": "",
+      "original": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "70.34.218.149",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "89.23.123.8",
+      "port": "4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://f228db24-3602-4dd2-bdec-2d7faa61e70b@89.23.123.8:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "89.23.123.8",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://f228db24-3602-4dd2-bdec-2d7faa61e70b@89.23.123.8:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }

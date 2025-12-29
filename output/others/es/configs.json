@@ -1,33 +1,7 @@
 {
-  "updated": "2025-12-28T16:19:14.629943",
-  "count": 3,
+  "updated": "2025-12-29T01:21:31.785879",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "213.159.67.124",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-      "name": "俄罗斯",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
-      "ip": "213.159.67.124",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "145.249.109.108",
-      "port": "18740",
-      "method": "chacha20-ietf-poly1305",
-      "password": "YHalDvP1z5RriU6l4LngKi",
-      "name": "未知 SS-49 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
-      "ip": "145.249.109.108",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
-    },
     {
       "type": "ss",
       "address": "45.154.206.192",
@@ -35,11 +9,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇪🇸ES-45.154.206.192-0387",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
       "ip": "45.154.206.192",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "213.159.67.124",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
+      "name": "俄罗斯",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
+      "ip": "213.159.67.124",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
     }
   ]
 }

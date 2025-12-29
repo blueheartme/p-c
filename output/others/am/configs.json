@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-28T16:19:14.662643",
+  "updated": "2025-12-29T01:21:31.824608",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "213.159.76.21",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-      "name": "🇲🇩MD-213.159.76.21-0351",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
-      "ip": "213.159.76.21",
+      "type": "vless",
+      "address": "ARMEN.TORPROSPEED.IR",
+      "port": "1990",
+      "id": "64cc4a1d-bd56-45f1-8943-a4a5a7a38632",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&amp;encryption=none&amp;pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.refersion.com&amp;sid=8fa8e38aa17730d6#vless-tcp-reality-AM%F0%9F%8C%90-1",
+      "ip": "85.90.207.47",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
+      "rebuilt": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&amp;encryption=none&amp;pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.refersion.com&amp;sid=8fa8e38aa17730d6#vless-tcp-reality-AM%F0%9F%8C%90-1"
     }
   ]
 }
