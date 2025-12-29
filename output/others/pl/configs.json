@@ -1,45 +1,47 @@
 {
-  "updated": "2025-12-29T01:21:31.814786",
+  "updated": "2025-12-29T08:25:20.891855",
   "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "45.15.126.19",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0407",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "45.15.126.19",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "🇵🇱PL-57.128.214.100-0412",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "57.128.214.100",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9019",
+      "address": "217.30.10.70",
+      "port": "9018",
       "method": "aes-256-cfb",
-      "password": "GA9KzeEgvfxNrgmM",
-      "name": "🇵🇱PL-217.30.10.18-4856",
-      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.18",
+      "password": "fG2artUmHfNT2cX7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.70:9018#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.70:9018#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9060",
-      "method": "aes-256-cfb",
-      "password": "ueLXVkvh4hckhErQ",
-      "name": "🇵🇱PL-217.30.10.18-4855",
-      "original": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "217.30.10.18",
+      "type": "vless",
+      "address": "145.239.29.74",
+      "port": "43962",
+      "id": "3735d502-12ea-40a5-a59f-6b66413c20ad",
+      "name": "telegram 🍊 dailyv2ry<br/>vless://309fa273-6579-4cb2-9143-7cad50401eba@45.67.228.11:443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#telegram 🌟 dailyv2ry<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#telegram 🚀 dailyv2ry<br/>vless://94671f42-fdd3-4503-a3e6-bda4a2527560@019.electrocellco-cf-019.workers.dev:80?encryption=none&amp;security=none&amp;sni=019.electrocellco-cf-019.workers.dev&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;host=019.electrocellco-cf-019.workers.dev&amp;path=/eyJqdW5rIjoibUVFb0RQcHJZZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjM0LjI1My4yMzQuNjIiXX0=?ed=2560#telegram ⚡️ dailyv2ry<br/>vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0gXHVkODNjXHVkZmFmIGRhaWx5djJyeSIsICJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#telegram 🎪 dailyv2ry<br/>vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&amp;security=reality&amp;sni=www.ok.ru&amp;fp=chrome&amp;pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&amp;sid=fdc8125ea6f61323&amp;type=tcp&amp;headerType=none#telegram 🌈 dailyv2ry<br/>vless://97dd83ab-b3b7-43e4-9002-c6bdcae0729d@130.193.35.232:443?security=reality&amp;encryption=none&amp;pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=6419bed7fd0a2cff#telegram 🍀 dailyv2ry<br/>vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#telegram 🌺 dailyv2ry<br/>vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=/FREE By Tharuwa (0767597317)&amp;security=none&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#telegram ☂️ dailyv2ry<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#telegram 🍊 dailyv2ry<br/>vless://3e7f67de-648e-4871-b51a-a225214d41ee@43.99.250.221:443?encryption=none&amp;security=reality&amp;sni=www.primevideo.com&amp;fp=chrome&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;type=tcp&amp;headerType=none&amp;host=www.primevideo.com#telegram 🌟 dailyv2ry<br/>vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#telegram 🚀 dailyv2ry<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990#telegram ⚡️ dailyv2ry<br/><br/></pre><br/><br/><a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "145.239.29.74",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
