@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-29T16:20:16.872029",
-  "count": 1,
+  "updated": "2025-12-30T01:15:29.955807",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,34 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "ss",
+      "address": "se.locations-sub.com",
+      "port": "5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;allowinsecure=0&amp;type=tcp&amp;sni=refersion.com",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://ed00c907-eb9f-481d-a6da-6cc30db358b7@se.locations-sub.com:5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;allowinsecure=0&amp;type=tcp&amp;sni=refersion.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "141.227.160.17",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://ed00c907-eb9f-481d-a6da-6cc30db358b7@se.locations-sub.com:5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;allowinsecure=0&amp;type=tcp&amp;sni=refersion.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "se.locations-sub.com",
+      "port": "5059",
+      "id": "ed00c907-eb9f-481d-a6da-6cc30db358b7",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://ed00c907-eb9f-481d-a6da-6cc30db358b7@se.locations-sub.com:5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;allowinsecure=0&amp;type=tcp&amp;sni=refersion.com#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "141.227.160.17",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://ed00c907-eb9f-481d-a6da-6cc30db358b7@se.locations-sub.com:5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;allowinsecure=0&amp;type=tcp&amp;sni=refersion.com#vless-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-29T01:21:31.826736",
-  "count": 1,
+  "updated": "2025-12-30T01:15:29.947344",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,40 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇦🇪AE-147.78.0.182-0335",
+      "name": "🇦🇪AE-147.78.0.182-0364",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "147.78.0.182",
       "country": "AE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "ss",
+      "address": "uaegaming.gojustore.site",
+      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "38.180.26.251",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "uaegaming.gojustore.site",
+      "port": "7035",
+      "id": "e265fc78-e269-46b2-9b6a-85f573dab3d5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "38.180.26.251",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }

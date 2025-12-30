@@ -1,7 +1,33 @@
 {
-  "updated": "2025-12-29T16:20:16.852695",
-  "count": 3,
+  "updated": "2025-12-30T01:15:29.948367",
+  "count": 7,
   "configs": [
+    {
+      "type": "ss",
+      "address": "217.30.10.18",
+      "port": "9033",
+      "method": "aes-256-cfb",
+      "password": "UTJA57ypk2XKQpnm",
+      "name": "🇵🇱PL-217.30.10.18-4884",
+      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "77.83.246.74",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "cyV2HqVsjk3cEMvdN9iKtN",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "77.83.246.74",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
     {
       "type": "vless",
       "address": "145.239.29.74",
@@ -11,24 +37,39 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "145.239.29.74",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
-      "address": "89.223.93.176",
-      "port": "41348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
-      "name": "🇵🇱PL-89.223.93.176-0430",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "89.223.93.176",
+      "address": "Pl.sefrtasad.com",
+      "port": "18946?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=b.tile.openstreetmap.org&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://f05818d6-d6cf-f478-ff10-60acef14b7fe@Pl.sefrtasad.com:18946?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=b.tile.openstreetmap.org&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "80.211.249.69",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://f05818d6-d6cf-f478-ff10-60acef14b7fe@Pl.sefrtasad.com:18946?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=b.tile.openstreetmap.org&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "vless",
+      "address": "Pl.sefrtasad.com",
+      "port": "18946",
+      "id": "f05818d6-d6cf-f478-ff10-60acef14b7fe",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f05818d6-d6cf-f478-ff10-60acef14b7fe@Pl.sefrtasad.com:18946?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=b.tile.openstreetmap.org&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "80.211.249.69",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://f05818d6-d6cf-f478-ff10-60acef14b7fe@Pl.sefrtasad.com:18946?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=b.tile.openstreetmap.org&amp;fp=firefox&amp;pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&amp;sid=21432a79954b#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "ss",
@@ -37,11 +78,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
       "name": "🇵🇱PL-45.15.126.19-0341",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6",
       "ip": "45.15.126.19",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.18",
+      "port": "9019",
+      "method": "aes-256-cfb",
+      "password": "GA9KzeEgvfxNrgmM",
+      "name": "🇵🇱PL-217.30.10.18-0399",
+      "original": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     }
   ]
 }
