@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-30T08:23:08.118861",
-  "count": 3,
+  "updated": "2025-12-30T16:21:10.850561",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "all.app-nima.shop",
+      "port": "3749?encryption=none&security=none&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "美國",
+      "original": "ss://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.225.253",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "208.69.78.5",
@@ -11,39 +24,52 @@
       "network": "grpc",
       "sni": "www.microsoft.com",
       "host": "",
-      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "pro.turbooserver.com",
-      "port": "80",
-      "id": "8dcbc92f-5c77-42a8-8d35-064e14c55f6e",
-      "name": "未知 VLESS-03 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "original": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "84.234.30.125",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "ss",
-      "address": "208.69.78.5",
-      "port": "443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5",
+      "address": "pro.turbooserver.com",
+      "port": "80?path=%2Fed%3D2560&security=none&encryption=none&type=ws",
       "method": "",
       "password": "",
-      "name": "🇺🇸_US_美国",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "208.69.78.5",
+      "name": "未知 VLESS-03 | free-nodes",
+      "original": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "84.234.30.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "pro.turbooserver.com",
+      "port": "80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-27 | free-nodes",
+      "original": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "84.234.30.125",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
+    {
+      "type": "vless",
+      "address": "all.app-nima.shop",
+      "port": "3749",
+      "id": "2364f94b-f985-478b-d694-879bb47d14e6",
+      "name": "美國",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "83.228.225.253",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     }
   ]
 }
