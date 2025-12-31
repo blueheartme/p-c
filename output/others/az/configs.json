@@ -1,7 +1,20 @@
 {
-  "updated": "2025-12-31T08:22:56.686935",
-  "count": 1,
+  "updated": "2025-12-31T16:20:25.855812",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "180.149.44.70",
+      "port": "4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "telegram ☂️ dailyv2ry<br/>vle4307e484-6c8b-46d0-9df4-8b3983ab27b4",
+      "original": "ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AZ%F0%9F%8C%90-1",
+      "ip": "180.149.44.70",
+      "country": "AZ",
+      "cdn": null,
+      "rebuilt": "ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-AZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "180.149.44.70",
@@ -11,11 +24,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AZ%F0%9F%8C%90-1",
+      "original": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AZ%F0%9F%8C%90-2",
       "ip": "180.149.44.70",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-AZ%F0%9F%8C%90-2"
     }
   ]
 }
