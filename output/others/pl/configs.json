@@ -1,34 +1,19 @@
 {
-  "updated": "2025-12-31T01:16:39.168399",
-  "count": 7,
+  "updated": "2025-12-31T08:22:56.670673",
+  "count": 9,
   "configs": [
     {
       "type": "ss",
-      "address": "plb.tunnelguard.ru",
-      "port": "443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "俄羅斯",
-      "original": "ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "193.247.82.67",
+      "address": "217.30.10.70",
+      "port": "9097",
+      "method": "aes-256-cfb",
+      "password": "Sn5B7jTqr76aCJT8",
+      "name": "🇵🇱PL-217.30.10.70-5035",
+      "original": "ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "vless",
-      "address": "145.239.29.93",
-      "port": "48217",
-      "id": "f43fa45b-e9d5-4cea-9550-0b60a837bc55",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "145.239.29.93",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "vless",
@@ -39,11 +24,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "145.239.29.74",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "ss",
@@ -52,50 +37,91 @@
       "method": "",
       "password": "",
       "name": "telegram ☂️ dailyv2ry<br/>vlee4d65496-d1c8-444e-be91-a7a156954373",
-      "original": "ss://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "145.239.29.74",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://3735d502-12ea-40a5-a59f-6b66413c20ad@145.239.29.74:43962?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
-      "address": "144.31.5.142",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2",
+      "address": "217.30.10.18",
+      "port": "9060",
+      "method": "aes-256-cfb",
+      "password": "ueLXVkvh4hckhErQ",
+      "name": "🇵🇱PL-217.30.10.18-0387",
+      "original": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "217.30.10.18",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "89.223.93.176",
+      "port": "41348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
+      "name": "🇵🇱PL-89.223.93.176-0381",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "89.223.93.176",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "ss",
+      "address": "plb.tunnelguard.ru",
+      "port": "443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F",
       "method": "",
       "password": "",
+      "name": "俄羅斯",
+      "original": "ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "193.247.82.67",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&type=xhttp&path=%2F#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9032",
+      "method": "aes-256-cfb",
+      "password": "UWZQeLRWnkqgkseq",
+      "name": "🇵🇱PL-217.30.10.70-5036",
+      "original": "ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@217.30.10.70:9032#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@217.30.10.70:9032#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9040",
+      "method": "aes-256-cfb",
+      "password": "p9z5BVADH2YFs3MN",
+      "name": "🇵🇱PL-217.30.10.70-5037",
+      "original": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-8"
+    },
+    {
+      "type": "vless",
+      "address": "144.31.5.142",
+      "port": "443",
+      "id": "3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa",
       "name": "未知 VLESS-23 | free-nodes",
-      "original": "ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-9",
       "ip": "144.31.5.142",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5"
-    },
-    {
-      "type": "ss",
-      "address": "145.239.29.93",
-      "port": "48217?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "145.239.29.93",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6"
-    },
-    {
-      "type": "ss",
-      "address": "81.27.102.67",
-      "port": "4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-7",
-      "ip": "81.27.102.67",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-9"
     }
   ]
 }
