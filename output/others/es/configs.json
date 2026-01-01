@@ -1,7 +1,33 @@
 {
-  "updated": "2025-12-31T16:20:25.860165",
-  "count": 2,
+  "updated": "2026-01-01T01:23:27.219950",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "145.249.109.108",
+      "port": "18740",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YHalDvP1z5RriU6l4LngKi",
+      "name": "未知 SS-53 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "ip": "145.249.109.108",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.154.206.192",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇪🇸ES-45.154.206.192-0414",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
+      "ip": "45.154.206.192",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
+    },
     {
       "type": "ss",
       "address": "213.159.67.124",
@@ -9,25 +35,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
       "name": "俄罗斯",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
       "ip": "213.159.67.124",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "2087",
-      "password": "trojan",
-      "name": "香港",
-      "sni": "store.timimi.dpdns.org",
-      "host": "",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-2",
-      "ip": "109.234.211.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
     }
   ]
 }

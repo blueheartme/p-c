@@ -1,21 +1,20 @@
 {
-  "updated": "2025-12-30T16:21:10.866980",
+  "updated": "2026-01-01T01:23:27.238860",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "test.fast.hosting-ip.com",
-      "port": "80",
-      "id": "telegram-id-ArV2ray",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
+      "type": "trojan",
+      "address": "54.155.61.134",
+      "port": "22222",
+      "password": "telegram-id-directvpn",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
       "host": "",
-      "original": "vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Iranmoviemx.ir&amp;type=xhttp#vless-tcp-IE%F0%9F%8C%90-1",
-      "ip": "199.232.25.242",
+      "original": "trojan://telegram-id-directvpn@54.155.61.134:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "ip": "54.155.61.134",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Iranmoviemx.ir&amp;type=xhttp#vless-tcp-IE%F0%9F%8C%90-1"
+      "rebuilt": "trojan://telegram-id-directvpn@54.155.61.134:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-1"
     }
   ]
 }

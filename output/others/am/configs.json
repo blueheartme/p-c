@@ -1,19 +1,21 @@
 {
-  "updated": "2025-12-31T16:20:25.883282",
+  "updated": "2026-01-01T01:23:27.239569",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "213.159.76.21",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-      "name": "🇲🇩MD-213.159.76.21-0395",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
-      "ip": "213.159.76.21",
+      "type": "vless",
+      "address": "habib.aftabix.com",
+      "port": "3889",
+      "id": "c66b757e-13fc-48b1-90b4-827c6256934c",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://c66b757e-13fc-48b1-90b4-827c6256934c@habib.aftabix.com:3889?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1",
+      "ip": "92.223.2.68",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
+      "rebuilt": "vless://c66b757e-13fc-48b1-90b4-827c6256934c@habib.aftabix.com:3889?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#vless-tcp-AM%F0%9F%8C%90-1"
     }
   ]
 }

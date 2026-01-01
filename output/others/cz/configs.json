@@ -1,6 +1,6 @@
 {
-  "updated": "2025-12-31T16:20:25.872233",
-  "count": 1,
+  "updated": "2026-01-01T01:23:27.222390",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,36 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "14.102.228.75",
+      "port": "80",
+      "id": "b49d8a13-12f6-4613-bb0d-3e2f6244f29c",
+      "name": "加拿大",
+      "network": "ws",
+      "sni": "",
+      "host": "ov-canada1.09vpn.com",
+      "original": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-2",
+      "ip": "14.102.228.75",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?encryption=none&security=none&type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#vless-ws-CZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "194.182.79.240",
+      "port": "22728",
+      "id": "bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a@194.182.79.240:22728?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-3",
+      "ip": "194.182.79.240",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://bdbd4387-8f85-43ee-b8ce-dd8f6a5f539a@194.182.79.240:22728?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-3"
     }
   ]
 }

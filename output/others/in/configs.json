@@ -1,60 +1,21 @@
 {
-  "updated": "2025-12-31T16:20:25.827199",
-  "count": 6,
+  "updated": "2026-01-01T01:23:27.229190",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
       "address": "45.88.183.100",
       "port": "8443",
       "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "未知 VLESS-70 | free-nodes",
-      "network": "",
-      "sni": "",
+      "name": "未知 VLESS-76 | free-nodes",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
       "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "45.88.183.100",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.88.183.100",
-      "port": "8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-70 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "45.88.183.100",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-5048",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-4882",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "vmess",
@@ -63,13 +24,13 @@
       "id": "9e0e83ca-0fbc-44b1-8024-0eb8f9414156",
       "name": "印度(yudou6677.top 玉豆免费节点)",
       "network": "tcp",
-      "host": "t.me/v2Line",
+      "host": "doufeng.pages.dev",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy01IiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRvdWZlbmcucGFnZXMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
       "ip": "103.97.203.220",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy01IiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtSU7wn4eu8J+Hsy0yIiwiYWRkIjoiMTAzLjk3LjIwMy4yMjAiLCJwb3J0IjoiNTUwIiwiaWQiOiI5ZTBlODNjYS0wZmJjLTQ0YjEtODAyNC0wZWI4Zjk0MTQxNTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRvdWZlbmcucGFnZXMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0="
     },
     {
       "type": "ss",
@@ -77,12 +38,38 @@
       "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-73 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-6",
+      "name": "未知 VLESS-76 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "45.88.183.100",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-6"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+    },
+    {
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-5048",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "134.209.147.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+    },
+    {
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-4882",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "ip": "134.209.147.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-5"
     }
   ]
 }
