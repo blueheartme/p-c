@@ -1,49 +1,21 @@
 {
-  "updated": "2026-01-01T01:23:27.236462",
-  "count": 3,
+  "updated": "2026-01-01T08:22:44.151335",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.53.47.193",
-      "port": "22231",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "法国",
-      "network": "tcp",
-      "sni": "at.ultima.foundation",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.47.193",
+      "address": "212.183.88.238",
+      "port": "2096",
+      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "sni.111000.cc.cd",
+      "host": "sni.111000.cc.cd",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "212.183.88.238",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
-    {
-      "type": "ss",
-      "address": "at.ultima.foundation",
-      "port": "22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "奥地利",
-      "original": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "152.53.115.178",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2"
-    },
-    {
-      "type": "vless",
-      "address": "at.ultima.foundation",
-      "port": "22231",
-      "id": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-      "name": "奥地利",
-      "network": "tcp",
-      "sni": "at.ultima.foundation",
-      "host": "",
-      "original": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "152.53.115.178",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-AT%F0%9F%87%A6%F0%9F%87%B9-3"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

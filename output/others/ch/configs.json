@@ -1,60 +1,34 @@
 {
-  "updated": "2025-12-31T16:20:25.849841",
-  "count": 4,
+  "updated": "2026-01-01T08:22:44.128594",
+  "count": 2,
   "configs": [
     {
+      "type": "ss",
+      "address": "185.18.250.238",
+      "port": "2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.18.250.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.238",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.18.250.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
       "type": "vless",
-      "address": "all.app-nima.shop",
-      "port": "3749",
-      "id": "2364f94b-f985-478b-d694-879bb47d14e6",
-      "name": "美國",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.225.253",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
       "address": "pro.turbooserver.com",
-      "port": "80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none",
-      "method": "",
-      "password": "",
+      "port": "80",
+      "id": "8dcbc92f-5c77-42a8-8d35-064e14c55f6e",
       "name": "未知 VLESS-27 | free-nodes",
-      "original": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "network": "ws",
+      "sni": "",
+      "host": "pro.turbooserver.com",
+      "original": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "84.234.30.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "ss",
-      "address": "all.app-nima.shop",
-      "port": "3749?encryption=none&security=none&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "美國",
-      "original": "ss://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "83.228.225.253",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "ss",
-      "address": "pro.turbooserver.com",
-      "port": "80?path=%2Fed%3D2560&security=none&encryption=none&type=ws",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-03 | free-nodes",
-      "original": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "84.234.30.125",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?security=none&type=ws&path=%2Fed%3D2560&host=pro.turbooserver.com&encryption=none#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
