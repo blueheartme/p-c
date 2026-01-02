@@ -1,19 +1,34 @@
 {
-  "updated": "2025-12-31T16:20:25.874573",
-  "count": 1,
+  "updated": "2026-01-02T16:19:45.602542",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "192.71.218.46",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ckSGa0PUgi36vZVPEKsv7Y",
-      "name": "未知 SS-14 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#ss-chacha20-ietf-poly1305-IS%F0%9F%8C%90-1",
-      "ip": "192.71.218.46",
+      "address": "89.221.224.220",
+      "port": "8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-IS%F0%9F%8C%90-1",
+      "ip": "89.221.224.220",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#ss-chacha20-ietf-poly1305-IS%F0%9F%8C%90-1"
+      "rebuilt": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#ss-IS%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "89.221.224.220",
+      "port": "8880",
+      "id": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-IS%F0%9F%8C%90-2",
+      "ip": "89.221.224.220",
+      "country": "IS",
+      "cdn": null,
+      "rebuilt": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#vless-tcp-IS%F0%9F%8C%90-2"
     }
   ]
 }

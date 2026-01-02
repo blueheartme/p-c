@@ -1,34 +1,17 @@
 {
-  "updated": "2026-01-02T08:23:02.134915",
-  "count": 2,
+  "updated": "2026-01-02T16:19:45.577640",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "141.227.160.163",
-      "port": "25535",
-      "id": "48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "141.227.160.163",
+      "type": "hysteria2",
+      "address": "dd.openaccessnode.com",
+      "port": "989",
+      "name": "瑞典",
+      "original": "hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "217.215.190.102",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "ss",
-      "address": "78.40.116.178",
-      "port": "34094",
-      "method": "chacha20-ietf-poly1305",
-      "password": "yo6h9qkhwz8UJoTZCRtoSi",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "78.40.116.178",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#ss-chacha20-ietf-poly1305-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
