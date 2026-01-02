@@ -1,22 +1,7 @@
 {
-  "updated": "2026-01-01T08:22:44.125372",
-  "count": 3,
+  "updated": "2026-01-02T01:17:14.194896",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "141.11.203.238",
-      "port": "2096",
-      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "sni.111000.cc.cd",
-      "host": "sni.111000.cc.cd",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.11.203.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1",
-      "ip": "141.11.203.238",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.11.203.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "217.13.104.149",
@@ -26,24 +11,11 @@
       "network": "tcp",
       "sni": "travel.yandex.ru",
       "host": "",
-      "original": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2",
+      "original": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
       "ip": "217.13.104.149",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "141.11.203.238",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.11.203.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-HU%F0%9F%8C%90-3",
-      "ip": "141.11.203.238",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.11.203.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-HU%F0%9F%8C%90-3"
+      "rebuilt": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
     }
   ]
 }

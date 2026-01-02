@@ -1,49 +1,21 @@
 {
-  "updated": "2026-01-01T08:22:44.116136",
-  "count": 3,
+  "updated": "2026-01-02T01:17:14.209899",
+  "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "146.70.73.214",
-      "port": "53809",
-      "password": "blhwsknjxmfuydz0vhfv",
-      "name": "I 42 (@Outline_Vpn) free<br/>vless://ea05a148-8d1f-4141-a033-236ab8a03f8f@45.67.228.191:443?path=/qnegucws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ads.x5.ru#I 43 (@Outline_Vpn) free<br/>vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443?path=/ktqdgews&amp;security=tls&amp;encryption=none&amp;type=ws#I 44 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "sni": "",
-      "host": "",
-      "original": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1",
-      "ip": "146.70.73.214",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.vk.com#trojan-tcp-tls-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "172.238.229.254",
-      "port": "14051",
-      "password": "OdgHycGphesfLmPMYolUF",
-      "name": "TR TROJAN-103 | free-nodes",
-      "sni": "",
-      "host": "",
-      "original": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-2",
-      "ip": "172.238.229.254",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#trojan-tcp-tls-IT%F0%9F%8C%90-2"
-    },
-    {
       "type": "vless",
-      "address": "5.249.155.77",
-      "port": "34521",
-      "id": "c7d76d42-cf84-47a8-aa5f-5134c536c326",
-      "name": "未知 VLESS-41 | free-nodes",
+      "address": "93.186.254.141",
+      "port": "9804",
+      "id": "2f30aa44-c87c-e73d-a715-0813c68ee9b2",
+      "name": "未知 VLESS-16 | free-nodes",
       "network": "tcp",
-      "sni": "google.com",
+      "sni": "",
       "host": "",
-      "original": "vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#vless-tcp-reality-chrome-IT%F0%9F%8C%90-3",
-      "ip": "5.249.155.77",
+      "original": "vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&type=tcp&encryption=none#vless-tcp-IT%F0%9F%8C%90-1",
+      "ip": "93.186.254.141",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#vless-tcp-reality-chrome-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&type=tcp&encryption=none#vless-tcp-IT%F0%9F%8C%90-1"
     }
   ]
 }

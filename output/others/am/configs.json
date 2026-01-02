@@ -1,34 +1,21 @@
 {
-  "updated": "2026-01-01T08:22:44.137981",
-  "count": 2,
+  "updated": "2026-01-02T01:17:14.196436",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "213.159.76.21",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-      "name": "🇲🇩MD-213.159.76.21-0326",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
-      "ip": "213.159.76.21",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "ARMEN.TORPROSPEED.IR",
       "port": "1990",
       "id": "64cc4a1d-bd56-45f1-8943-a4a5a7a38632",
-      "name": "未知 VLESS-88 | free-nodes",
+      "name": "未知 VLESS-85 | free-nodes",
       "network": "tcp",
       "sni": "www.refersion.com",
       "host": "",
-      "original": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&encryption=none&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.refersion.com&sid=8fa8e38aa17730d6#vless-tcp-reality-firefox-AM%F0%9F%8C%90-2",
+      "original": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&encryption=none&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.refersion.com&sid=8fa8e38aa17730d6#vless-tcp-reality-firefox-AM%F0%9F%8C%90-1",
       "ip": "85.90.207.47",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&encryption=none&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.refersion.com&sid=8fa8e38aa17730d6#vless-tcp-reality-firefox-AM%F0%9F%8C%90-2"
+      "rebuilt": "vless://64cc4a1d-bd56-45f1-8943-a4a5a7a38632@ARMEN.TORPROSPEED.IR:1990?security=reality&encryption=none&pbk=He8nxWcaow1yKxFTRwFnwVq61K30ApGuRB17lObSDEc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.refersion.com&sid=8fa8e38aa17730d6#vless-tcp-reality-firefox-AM%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-01T08:22:44.147801",
-  "count": 1,
+  "updated": "2026-01-02T01:17:14.197246",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "185.149.135.238",
+      "port": "2096",
+      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+      "name": "FR法国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "sni.111000.cc.cd",
+      "host": "sni.111000.cc.cd",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.149.135.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-CZ%F0%9F%8C%90-1",
+      "ip": "185.149.135.238",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.149.135.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-CZ%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "195.181.160.6",
@@ -9,11 +24,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇨🇿CZ-195.181.160.6-0298",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2",
       "ip": "195.181.160.6",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "185.149.135.238",
+      "port": "2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "FR法国(mibei77.com 米贝节点分享)",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.149.135.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-CZ%F0%9F%8C%90-3",
+      "ip": "185.149.135.238",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.149.135.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-CZ%F0%9F%8C%90-3"
     }
   ]
 }
