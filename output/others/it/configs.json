@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-02T01:17:14.209899",
+  "updated": "2026-01-02T08:23:02.124080",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "93.186.254.141",
-      "port": "9804",
-      "id": "2f30aa44-c87c-e73d-a715-0813c68ee9b2",
-      "name": "未知 VLESS-16 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&type=tcp&encryption=none#vless-tcp-IT%F0%9F%8C%90-1",
-      "ip": "93.186.254.141",
+      "type": "ss",
+      "address": "176.126.83.121",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Q4t8T7hEYY3mD2Fn4wnxyK4X35AUzvR8",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
+      "ip": "176.126.83.121",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=none&type=tcp&encryption=none#vless-tcp-IT%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     }
   ]
 }

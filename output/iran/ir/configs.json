@@ -1,62 +1,22 @@
 {
-  "updated": "2026-01-02T01:17:14.187316",
-  "count": 4,
+  "updated": "2026-01-02T08:23:02.141487",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "abiidar-free.avamovie1.top",
-      "port": "4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "DE VLESS-01 | free-nodes",
-      "original": "ss://6cb81e33-d011-4500-936b-5d38e90ca3fb@abiidar-free.avamovie1.top:4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "87.248.139.152",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://6cb81e33-d011-4500-936b-5d38e90ca3fb@abiidar-free.avamovie1.top:4001?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "94.182.137.12",
-      "port": "20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com",
-      "method": "",
-      "password": "",
-      "name": "伊朗",
-      "original": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "95.38.210.6",
-      "port": "12241?encryption=none&security=none&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "95.38.210.6",
-      "country": "IR",
-      "cdn": null,
-      "rebuilt": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#ss-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "94.182.137.12",
-      "port": "20532",
-      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "伊朗",
-      "network": "tcp",
+      "type": "trojan",
+      "address": "188.114.99.81",
+      "port": "443",
+      "password": "auto",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
-      "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "94.182.137.12",
+      "host": "",
+      "original": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "188.114.99.81",
       "country": "IR",
-      "cdn": null,
+      "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }

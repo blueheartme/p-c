@@ -1,23 +1,22 @@
 {
-  "updated": "2026-01-02T01:17:14.210563",
+  "updated": "2026-01-02T08:23:02.160328",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "94.182.137.12",
-      "port": "20532",
-      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "伊朗",
-      "network": "tcp",
+      "type": "trojan",
+      "address": "188.114.99.81",
+      "port": "443",
+      "password": "auto",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "sni": "",
-      "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "94.182.137.12",
+      "host": "",
+      "original": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "188.114.99.81",
       "country": "IR",
-      "cdn": null,
+      "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }
