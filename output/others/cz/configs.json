@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-02T16:19:45.597822",
-  "count": 3,
+  "updated": "2026-01-03T01:12:07.102477",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "78.159.247.136",
+      "port": "3443",
+      "id": "55d5c995-b3c7-4055-98d2-af263d7ba8f1",
+      "name": "阿爾巴尼亞",
+      "network": "tcp",
+      "sni": "max.ru",
+      "host": "",
+      "original": "vless://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1",
+      "ip": "78.159.247.136",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "78.159.247.136",
@@ -9,39 +24,11 @@
       "method": "",
       "password": "",
       "name": "阿爾巴尼亞",
-      "original": "ss://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-1",
+      "original": "ss://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2",
       "ip": "78.159.247.136",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "195.181.160.6",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇿CZ-195.181.160.6-0300",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2",
-      "ip": "195.181.160.6",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "194.182.79.236",
-      "port": "24552",
-      "id": "499ae33f-cc94-4749-853f-a86724717ac8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://499ae33f-cc94-4749-853f-a86724717ac8@194.182.79.236:24552?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-3",
-      "ip": "194.182.79.236",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://499ae33f-cc94-4749-853f-a86724717ac8@194.182.79.236:24552?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-3"
+      "rebuilt": "ss://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2"
     }
   ]
 }

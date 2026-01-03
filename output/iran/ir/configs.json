@@ -1,7 +1,24 @@
 {
-  "updated": "2026-01-02T16:19:45.610234",
-  "count": 2,
+  "updated": "2026-01-03T01:12:07.104758",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "78.109.198.25",
+      "port": "80",
+      "id": "eb749b4f-7afe-4482-af82-cbacc9ba698e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://eb749b4f-7afe-4482-af82-cbacc9ba698e@78.109.198.25:80?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "78.109.198.25",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://eb749b4f-7afe-4482-af82-cbacc9ba698e@78.109.198.25:80?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+    },
     {
       "type": "ss",
       "address": "95.38.210.6",
@@ -9,11 +26,11 @@
       "method": "",
       "password": "",
       "name": "US VLESS-57 | free-nodes",
-      "original": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "original": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "95.38.210.6",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -24,11 +41,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "95.38.210.6",
       "country": "IR",
       "cdn": null,
-      "rebuilt": "vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     }
   ]
 }

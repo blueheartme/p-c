@@ -1,22 +1,23 @@
 {
-  "updated": "2026-01-02T08:23:02.160328",
+  "updated": "2026-01-03T01:12:07.135585",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "188.114.99.81",
-      "port": "443",
-      "password": "auto",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "type": "vless",
+      "address": "78.109.198.25",
+      "port": "80",
+      "id": "eb749b4f-7afe-4482-af82-cbacc9ba698e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
       "sni": "",
       "host": "",
-      "original": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.99.81",
+      "original": "vless://eb749b4f-7afe-4482-af82-cbacc9ba698e@78.109.198.25:80?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "78.109.198.25",
       "country": "IR",
-      "cdn": "arvancloud",
+      "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://auto@188.114.99.81:443?security=tls&amp;type=ws&amp;sni=mazq100za43.962dael.workers.dev&amp;host=mazq100za43.962dael.workers.dev#trojan-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "vless://eb749b4f-7afe-4482-af82-cbacc9ba698e@78.109.198.25:80?security=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     }
   ]
 }
