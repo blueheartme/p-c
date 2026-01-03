@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-03T01:12:07.125602",
-  "count": 1,
+  "updated": "2026-01-03T08:20:51.275960",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -11,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.cc.cd&amp;sni=sni.111000.cc.cd&amp;fp=chrome&amp;encryption=none#vless-tcp-tls-CW%F0%9F%8C%90-1",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.cc.cd#vless-tcp-CW%F0%9F%8C%90-1",
       "ip": "62.72.166.238",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.cc.cd&amp;sni=sni.111000.cc.cd&amp;fp=chrome&amp;encryption=none#vless-tcp-tls-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.cc.cd#vless-tcp-CW%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "62.72.166.238",
+      "port": "2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.cc.cd",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.cc.cd#ss-CW%F0%9F%8C%90-2",
+      "ip": "62.72.166.238",
+      "country": "CW",
+      "cdn": null,
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.cc.cd#ss-CW%F0%9F%8C%90-2"
     }
   ]
 }
