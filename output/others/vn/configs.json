@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-03T08:20:51.286994",
-  "count": 8,
+  "updated": "2026-01-03T16:19:00.467959",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -19,68 +19,31 @@
     },
     {
       "type": "ss",
-      "address": "103.186.155.202",
-      "port": "38388",
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.202:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-2",
-      "ip": "103.186.155.202",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.202:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "103.186.154.221",
-      "port": "38388",
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.221:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-3",
-      "ip": "103.186.154.221",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.221:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
       "address": "103.163.218.2",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
+      "port": "989",
+      "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇻🇳VN-103.163.218.2-0429",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4",
+      "name": "🇻🇳VN-103.163.218.2-0385",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-2",
       "ip": "103.163.218.2",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-2"
     },
     {
-      "type": "ss",
-      "address": "103.173.155.212",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s525.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u5e31s525.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-161 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@103.173.155.212:443?encryption=none&type=tcp&headerType=none&fp=random&host=s525.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u5e31s525.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-5",
-      "ip": "103.173.155.212",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@103.173.155.212:443?encryption=none&type=tcp&headerType=none&fp=random&host=s525.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u5e31s525.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
+      "type": "vless",
       "address": "s534.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
       "name": "未知 VLESS-196 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-6",
+      "network": "tcp",
+      "sni": "u709014uce41s534.okgfw.top",
+      "host": "s534.okgfw.top",
+      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-3",
       "ip": "103.173.155.212",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-6"
+      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -89,24 +52,37 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-195 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s518.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s518.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uaa34s518.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-7",
+      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s518.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s518.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uaa34s518.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-4",
       "ip": "103.173.155.212",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s518.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s518.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uaa34s518.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-7"
+      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s518.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s518.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uaa34s518.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
-      "address": "103.186.155.203",
-      "port": "38388",
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.203:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-8",
-      "ip": "103.186.155.203",
+      "address": "s534.okgfw.top",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-196 | free-nodes",
+      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-5",
+      "ip": "103.173.155.212",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.203:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-8"
+      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u709014uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-5"
+    },
+    {
+      "type": "ss",
+      "address": "103.163.218.2",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇻🇳VN-103.163.218.2-0374",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-6",
+      "ip": "103.163.218.2",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-6"
     }
   ]
 }
