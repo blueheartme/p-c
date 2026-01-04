@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-04T01:24:12.541572",
-  "count": 4,
+  "updated": "2026-01-04T08:21:31.558708",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-5051",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "134.209.147.198",
+      "type": "vless",
+      "address": "20.235.105.146",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@20.235.105.146:443?encryption=none&amp;security=tls&amp;sni=kuangbao.xiejiang.dpdns.org&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=kuangbao.xiejiang.dpdns.org&amp;path=%2F%3Fed%3D2560#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "20.235.105.146",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@20.235.105.146:443?encryption=none&amp;security=tls&amp;sni=kuangbao.xiejiang.dpdns.org&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=kuangbao.xiejiang.dpdns.org&amp;path=%2F%3Fed%3D2560#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "vless",
@@ -29,32 +31,6 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-0451",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "ss",
-      "address": "103.97.203.227",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4",
-      "ip": "103.97.203.227",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4"
     }
   ]
 }

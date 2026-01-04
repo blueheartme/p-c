@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-04T01:24:12.560435",
-  "count": 5,
+  "updated": "2026-01-04T08:21:31.595902",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -21,23 +21,6 @@
     },
     {
       "type": "vless",
-      "address": "94.182.137.12",
-      "port": "20532",
-      "id": "8496c102-4094-4dd3-ad63-7bb7a35cbaee",
-      "name": "伊朗",
-      "network": "tcp",
-      "sni": "",
-      "host": "Telewebion.com",
-      "original": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "94.182.137.12",
-      "country": "IR",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#vless-tcp-http-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
       "address": "tnl34.vipradvin.ir",
       "port": "7050",
       "id": "d25ffbd2-d00b-4f1f-8f5f-92e429fb27aa",
@@ -45,30 +28,13 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://d25ffbd2-d00b-4f1f-8f5f-92e429fb27aa@tnl34.vipradvin.ir:7050?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://d25ffbd2-d00b-4f1f-8f5f-92e429fb27aa@tnl34.vipradvin.ir:7050?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "89.235.116.57",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://d25ffbd2-d00b-4f1f-8f5f-92e429fb27aa@tnl34.vipradvin.ir:7050?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "us.sepshoping.de",
-      "port": "1121",
-      "id": "f90b7a19-0b71-44b6-b95b-baab85af4d51",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@us.sepshoping.de:1121?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4",
-      "ip": "87.236.38.26",
-      "country": "IR",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@us.sepshoping.de:1121?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "vless://d25ffbd2-d00b-4f1f-8f5f-92e429fb27aa@tnl34.vipradvin.ir:7050?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -79,13 +45,13 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://248a9dbc-9eee-4698-88c2-7ac90aa0edda@apple.land200.netmeli.com:51921?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "original": "vless://248a9dbc-9eee-4698-88c2-7ac90aa0edda@apple.land200.netmeli.com:51921?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "5.160.128.210",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://248a9dbc-9eee-4698-88c2-7ac90aa0edda@apple.land200.netmeli.com:51921?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "rebuilt": "vless://248a9dbc-9eee-4698-88c2-7ac90aa0edda@apple.land200.netmeli.com:51921?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;headerType=http&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     }
   ]
 }
