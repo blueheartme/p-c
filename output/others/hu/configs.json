@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-03T16:19:00.492413",
-  "count": 1,
+  "updated": "2026-01-04T01:24:12.539953",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,21 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "ss://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "217.13.104.149",
+      "port": "443",
+      "id": "2f4bf5cd-dbfb-4587-9b15-225a79ed6264",
+      "name": "匈牙利",
+      "network": "tcp",
+      "sni": "travel.yandex.ru",
+      "host": "",
+      "original": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2",
+      "ip": "217.13.104.149",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2"
     }
   ]
 }
