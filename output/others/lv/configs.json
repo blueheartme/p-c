@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-04T16:18:57.823977",
-  "count": 6,
+  "updated": "2026-01-05T01:23:16.477311",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -17,31 +17,44 @@
     },
     {
       "type": "vless",
-      "address": "62.192.174.198",
-      "port": "47256",
-      "id": "06babfd1-1af2-4db4-a485-cdf404ce80a9",
-      "name": "未知 VLESS-70 | free-nodes",
+      "address": "185.77.231.80",
+      "port": "54969",
+      "id": "2a428848-ede7-4fb2-9e8d-92bb5158814e",
+      "name": "未知 VLESS-65 | free-nodes",
       "network": "tcp",
-      "sni": "www.unicreditbank.ru",
+      "sni": "alfabank.ru",
       "host": "",
-      "original": "vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
-      "ip": "62.192.174.198",
+      "original": "vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alfabank.ru&sid=00e7#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "ip": "185.77.231.80",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alfabank.ru&sid=00e7#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "46.183.217.204",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-4821",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3",
-      "ip": "46.183.217.204",
+      "address": "185.77.231.80",
+      "port": "54969?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alfabank.ru&sid=00e7",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-65 | free-nodes",
+      "original": "ss://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alfabank.ru&sid=00e7#ss-LV%F0%9F%8C%90-3",
+      "ip": "185.77.231.80",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3"
+      "rebuilt": "ss://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alfabank.ru&sid=00e7#ss-LV%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "62.192.174.198",
+      "port": "47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-70 | free-nodes",
+      "original": "ss://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#ss-LV%F0%9F%8C%90-4",
+      "ip": "62.192.174.198",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#ss-LV%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -52,37 +65,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-4",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-5",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "62.192.174.198",
-      "port": "47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-70 | free-nodes",
-      "original": "ss://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#ss-LV%F0%9F%8C%90-5",
-      "ip": "62.192.174.198",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#ss-LV%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
-      "address": "195.135.252.28",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536",
-      "method": "",
-      "password": "",
-      "name": "Latvia Sia Veesp</pre></div>",
-      "original": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-6",
-      "ip": "195.135.252.28",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-6"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-5"
     }
   ]
 }
