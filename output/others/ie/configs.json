@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-04T16:18:57.809273",
-  "count": 1,
+  "updated": "2026-01-05T16:22:02.025986",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "8881",
       "method": "aes-256-gcm",
       "password": "kDWvXYZoTBcGkC4",
-      "name": "未知 SS-15 | free-nodes",
+      "name": "未知 SS-25 | free-nodes",
       "original": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#ss-aes-256-gcm-IE%F0%9F%8C%90-1",
       "ip": "38.180.152.210",
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#ss-aes-256-gcm-IE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "196.196.192.58",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "未知 SS-15 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@196.196.192.58:990#ss-chacha20-ietf-poly1305-IE%F0%9F%8C%90-2",
+      "ip": "196.196.192.58",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@196.196.192.58:990#ss-chacha20-ietf-poly1305-IE%F0%9F%8C%90-2"
     }
   ]
 }

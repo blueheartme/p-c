@@ -1,19 +1,47 @@
 {
-  "updated": "2026-01-05T01:23:16.483180",
-  "count": 1,
+  "updated": "2026-01-05T16:22:02.015965",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "5.10.214.158",
+      "port": "2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.de5.net&amp;sni=sni.111000.de5.net&amp;fp=chrome&amp;encryption=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.de5.net&amp;sni=sni.111000.de5.net&amp;fp=chrome&amp;encryption=none#ss-AM%F0%9F%8C%90-1",
+      "ip": "5.10.214.158",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.de5.net&amp;sni=sni.111000.de5.net&amp;fp=chrome&amp;encryption=none#ss-AM%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "213.159.76.21",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-      "name": "🇲🇩MD-213.159.76.21-0279",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1",
+      "name": "🇲🇩MD-213.159.76.21-0263",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-2",
       "ip": "213.159.76.21",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "5.10.214.158",
+      "port": "2096",
+      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.de5.net&amp;sni=sni.111000.de5.net&amp;fp=chrome&amp;encryption=none#vless-tcp-tls-AM%F0%9F%8C%90-3",
+      "ip": "5.10.214.158",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?security=tls&amp;type=ws&amp;path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=sni.111000.de5.net&amp;sni=sni.111000.de5.net&amp;fp=chrome&amp;encryption=none#vless-tcp-tls-AM%F0%9F%8C%90-3"
     }
   ]
 }

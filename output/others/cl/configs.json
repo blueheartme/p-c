@@ -1,34 +1,21 @@
 {
-  "updated": "2026-01-05T01:23:16.476436",
-  "count": 2,
+  "updated": "2026-01-05T16:22:02.056129",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.82.249.42",
+      "address": "45.82.249.129",
       "port": "8443",
-      "id": "6938efdb-b699-464d-8098-ae35b886b5c7",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
+      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
+      "name": "未知 VLESS-107 | free-nodes",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
       "host": "",
-      "original": "vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-CL%F0%9F%8C%90-1",
-      "ip": "45.82.249.42",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1",
+      "ip": "45.82.249.129",
       "country": "CL",
       "cdn": null,
-      "rebuilt": "vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-CL%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.82.249.42",
-      "port": "8443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#ss-CL%F0%9F%8C%90-2",
-      "ip": "45.82.249.42",
-      "country": "CL",
-      "cdn": null,
-      "rebuilt": "ss://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;path=%2Fvless%2F#ss-CL%F0%9F%8C%90-2"
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1"
     }
   ]
 }

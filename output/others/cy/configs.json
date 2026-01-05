@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-05T08:26:45.738766",
+  "updated": "2026-01-05T16:22:02.054610",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "77.37.33.86",
-      "port": "2082",
-      "id": "5ebbbaca-a9cb-4713-b0b8-00a74e59c491",
+      "type": "ss",
+      "address": "134.255.210.49",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://5ebbbaca-a9cb-4713-b0b8-00a74e59c491@77.37.33.86:2082?security=none&amp;type=httpupgrade&amp;host=SWISS.CgNM.IR.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#vless-tcp-CY%F0%9F%8C%90-1",
-      "ip": "77.37.33.86",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1",
+      "ip": "134.255.210.49",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vless://5ebbbaca-a9cb-4713-b0b8-00a74e59c491@77.37.33.86:2082?security=none&amp;type=httpupgrade&amp;host=SWISS.CgNM.IR.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#vless-tcp-CY%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,35 +1,7 @@
 {
-  "updated": "2026-01-05T08:26:45.744831",
+  "updated": "2026-01-05T16:22:02.026803",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "208.69.78.5",
-      "port": "443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5",
-      "method": "",
-      "password": "",
-      "name": "🇺🇸_US_美国",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "208.69.78.5",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "83.228.225.98",
-      "port": "24472",
-      "id": "14ba01de-0de4-48b4-9327-d6a2f7797764",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.225.98",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
     {
       "type": "vless",
       "address": "208.69.78.5",
@@ -39,11 +11,39 @@
       "network": "grpc",
       "sni": "www.microsoft.com",
       "host": "",
-      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "pro.turbooserver.com",
+      "port": "80",
+      "id": "8dcbc92f-5c77-42a8-8d35-064e14c55f6e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;path=%2Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pro.turbooserver.com&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "84.234.30.125",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;path=%2Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pro.turbooserver.com&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "ss",
+      "address": "pro.turbooserver.com",
+      "port": "80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;path=%2Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pro.turbooserver.com&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;path=%2Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pro.turbooserver.com&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "84.234.30.125",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&amp;path=%2Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pro.turbooserver.com&amp;type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
