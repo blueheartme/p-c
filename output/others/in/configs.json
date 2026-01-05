@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-05T01:23:16.489025",
-  "count": 4,
+  "updated": "2026-01-05T08:26:45.730251",
+  "count": 7,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,79 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-0389",
+      "name": "🇮🇳IN-134.209.147.198-4896",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "134.209.147.198",
       "country": "IN",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.88.183.100",
+      "port": "8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-112 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "45.88.183.100",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "ss",
+      "address": "103.97.203.227",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "103.97.203.227",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+    },
+    {
+      "type": "ss",
+      "address": "134.209.147.198",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-5057",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "134.209.147.198",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#ss-aes-256-cfb-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+    },
+    {
+      "type": "vless",
+      "address": "98.70.151.163",
+      "port": "443",
+      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "kuangbao.xiejiang.dpdns.org",
+      "host": "kuangbao.xiejiang.dpdns.org",
+      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "ip": "98.70.151.163",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+    },
+    {
+      "type": "ss",
+      "address": "98.70.151.163",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-6",
+      "ip": "98.70.151.163",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-6"
     },
     {
       "type": "vless",
@@ -24,37 +91,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-7",
       "ip": "45.88.183.100",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "ss",
-      "address": "103.97.203.227",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "印度(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "103.97.203.227",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
-    },
-    {
-      "type": "ss",
-      "address": "45.88.183.100",
-      "port": "8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-112 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4",
-      "ip": "45.88.183.100",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-7"
     }
   ]
 }

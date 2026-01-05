@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-05T01:23:16.492017",
+  "updated": "2026-01-05T08:26:45.745603",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "217.13.104.154",
-      "port": "443",
-      "id": "64bc8910-bc0f-453e-b3f3-a101a5dce03e",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
       "name": "匈牙利",
-      "network": "tcp",
-      "sni": "travel.yandex.ru",
-      "host": "",
-      "original": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
+      "original": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-1",
       "ip": "217.13.104.154",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
