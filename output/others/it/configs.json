@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T16:22:02.025177",
+  "updated": "2026-01-06T01:16:59.909218",
   "count": 3,
   "configs": [
     {
@@ -16,19 +16,17 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "server.ultra-irancell.com",
-      "port": "80",
-      "id": "turboo-server",
-      "name": "未知 VLESS-19 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=turboo-server.io&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2",
-      "ip": "146.75.55.82",
+      "type": "ss",
+      "address": "pizaitaliano.gojustore.site",
+      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-2",
+      "ip": "31.14.135.127",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=turboo-server.io&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-2"
     },
     {
       "type": "trojan",

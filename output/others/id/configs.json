@@ -1,33 +1,7 @@
 {
-  "updated": "2026-01-05T16:22:02.036471",
-  "count": 3,
+  "updated": "2026-01-06T01:16:59.947039",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "8.215.18.213",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-146 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-1",
-      "ip": "8.215.18.213",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "s626.okgfwbackxyz.xyz",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-185 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2",
-      "ip": "8.215.18.213",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2"
-    },
     {
       "type": "vless",
       "address": "8.215.18.213",
@@ -37,11 +11,24 @@
       "network": "tcp",
       "sni": "u709014u3330s628.okgfwbackxyz.xyz",
       "host": "s628.okgfwbackxyz.xyz",
-      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3",
+      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-1",
       "ip": "8.215.18.213",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3"
+      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "8.215.18.213",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-146 | free-nodes",
+      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2",
+      "ip": "8.215.18.213",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2"
     }
   ]
 }
