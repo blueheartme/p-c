@@ -1,21 +1,20 @@
 {
-  "updated": "2026-01-06T01:16:59.931931",
+  "updated": "2026-01-06T08:24:04.333134",
   "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.88.183.100",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "未知 VLESS-104 | free-nodes",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.88.183.100",
+      "type": "trojan",
+      "address": "216.10.243.159",
+      "port": "443",
+      "password": "5a2c16f9",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "trojan://5a2c16f9@216.10.243.159:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#trojan-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "216.10.243.159",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "trojan://5a2c16f9@216.10.243.159:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#trojan-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "ss",
@@ -23,7 +22,7 @@
       "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-104 | free-nodes",
+      "name": "未知 VLESS-112 | free-nodes",
       "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
       "ip": "45.88.183.100",
       "country": "IN",
@@ -35,7 +34,7 @@
       "address": "98.70.151.163",
       "port": "443",
       "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
-      "name": "美国(yudou789.top 玉豆免费节点)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "ws",
       "sni": "kuangbao.xiejiang.dpdns.org",
       "host": "kuangbao.xiejiang.dpdns.org",
@@ -47,16 +46,16 @@
     },
     {
       "type": "ss",
-      "address": "103.97.203.227",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4",
-      "ip": "103.97.203.227",
+      "address": "98.70.151.163",
+      "port": "443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "98.70.151.163",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+      "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4"
     }
   ]
 }

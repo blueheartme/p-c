@@ -1,21 +1,77 @@
 {
-  "updated": "2026-01-06T01:16:59.943145",
-  "count": 1,
+  "updated": "2026-01-06T08:24:04.335958",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.80.108.236",
+      "port": "2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-1",
+      "ip": "45.80.108.236",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "tbankru.outlinekeys.net",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-59 | free-nodes",
+      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2",
+      "ip": "144.31.178.168",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "ee.skytunnel.pw",
+      "port": "443",
+      "id": "51c89ac3-ea33-4832-9a59-2505d33f4c84",
+      "name": "未知 VLESS-26 | free-nodes",
+      "network": "tcp",
+      "sni": "bunny.net",
+      "host": "",
+      "original": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@ee.skytunnel.pw:443?security=reality&type=tcp&sni=bunny.net&fp=chrome&flow=xtls-rprx-vision&pbk=CNkAFTW9giSVXiW68A9OqlSKy9HJ0pLmgEL4X4PzrHQ&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-3",
+      "ip": "5.181.202.222",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@ee.skytunnel.pw:443?security=reality&type=tcp&sni=bunny.net&fp=chrome&flow=xtls-rprx-vision&pbk=CNkAFTW9giSVXiW68A9OqlSKy9HJ0pLmgEL4X4PzrHQ&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-3"
+    },
     {
       "type": "vless",
       "address": "tbankru.outlinekeys.net",
       "port": "443",
       "id": "eb162ab1-a006-4931-b1b3-8fc88a22b10e",
-      "name": "未知 VLESS-30 | free-nodes",
+      "name": "未知 VLESS-59 | free-nodes",
       "network": "tcp",
       "sni": "tbankru.outlinekeys.net",
       "host": "",
-      "original": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
+      "original": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-4",
       "ip": "144.31.178.168",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vless",
+      "address": "45.80.108.236",
+      "port": "2096",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-5",
+      "ip": "45.80.108.236",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-5"
     }
   ]
 }

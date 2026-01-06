@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-06T01:16:59.947039",
-  "count": 2,
+  "updated": "2026-01-06T08:24:04.330657",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "8.215.18.213",
       "port": "443",
       "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
-      "name": "未知 VLESS-146 | free-nodes",
+      "name": "未知 VLESS-147 | free-nodes",
       "network": "tcp",
       "sni": "u709014u3330s628.okgfwbackxyz.xyz",
       "host": "s628.okgfwbackxyz.xyz",
@@ -19,16 +19,46 @@
     },
     {
       "type": "ss",
-      "address": "8.215.18.213",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
+      "address": "43.218.77.16",
+      "port": "443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-146 | free-nodes",
-      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2",
+      "name": "新加坡(yudou789.top 玉豆免费节点)",
+      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-ID%F0%9F%8C%90-2",
+      "ip": "43.218.77.16",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-ID%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "s626.okgfwbackxyz.xyz",
+      "port": "443",
+      "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
+      "name": "未知 VLESS-186 | free-nodes",
+      "network": "tcp",
+      "sni": "u709014ubea3s626.okgfwbackxyz.xyz",
+      "host": "s626.okgfwbackxyz.xyz",
+      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3",
       "ip": "8.215.18.213",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-2"
+      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "43.218.77.16",
+      "port": "443",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "新加坡(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-ID%F0%9F%8C%90-4",
+      "ip": "43.218.77.16",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-ID%F0%9F%8C%90-4"
     }
   ]
 }

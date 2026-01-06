@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-06T01:16:59.914943",
-  "count": 6,
+  "updated": "2026-01-06T08:24:04.326289",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s609.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubc79s609.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-177 | free-nodes",
+      "name": "未知 VLESS-178 | free-nodes",
       "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.213.194.31:443?encryption=none&type=tcp&headerType=none&fp=random&host=s609.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubc79s609.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1",
       "ip": "8.213.194.31",
       "country": "TH",
@@ -17,18 +17,18 @@
     },
     {
       "type": "vless",
-      "address": "8.213.194.31",
+      "address": "s606.okgfwbackxyz.xyz",
       "port": "443",
       "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
-      "name": "未知 VLESS-177 | free-nodes",
+      "name": "未知 VLESS-187 | free-nodes",
       "network": "tcp",
-      "sni": "u709014ubc79s609.okgfwbackxyz.xyz",
-      "host": "s609.okgfwbackxyz.xyz",
-      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.213.194.31:443?encryption=none&type=tcp&headerType=none&fp=random&host=s609.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubc79s609.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2",
+      "sni": "u709014u1790s606.okgfwbackxyz.xyz",
+      "host": "s606.okgfwbackxyz.xyz",
+      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2",
       "ip": "8.213.194.31",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.213.194.31:443?encryption=none&type=tcp&headerType=none&fp=random&host=s609.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubc79s609.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2"
+      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -36,7 +36,7 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇹🇭TH-119.59.98.58-0278",
+      "name": "🇹🇭TH-119.59.98.58-0350",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3",
       "ip": "119.59.98.58",
       "country": "TH",
@@ -49,7 +49,7 @@
       "port": "31348",
       "method": "chacha20-ietf-poly1305",
       "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
-      "name": "未知 SS-123 | free-nodes",
+      "name": "未知 SS-122 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-4",
       "ip": "103.253.74.94",
       "country": "TH",
@@ -62,27 +62,12 @@
       "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-186 | free-nodes",
+      "name": "未知 VLESS-187 | free-nodes",
       "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-5",
       "ip": "8.213.194.31",
       "country": "TH",
       "cdn": null,
       "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-5"
-    },
-    {
-      "type": "vless",
-      "address": "s606.okgfwbackxyz.xyz",
-      "port": "443",
-      "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
-      "name": "未知 VLESS-186 | free-nodes",
-      "network": "tcp",
-      "sni": "u709014u1790s606.okgfwbackxyz.xyz",
-      "host": "s606.okgfwbackxyz.xyz",
-      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-6",
-      "ip": "8.213.194.31",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s606.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s606.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u1790s606.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-6"
     }
   ]
 }
