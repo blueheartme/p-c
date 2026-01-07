@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-06T08:24:04.333134",
-  "count": 4,
+  "updated": "2026-01-07T01:17:22.251825",
+  "count": 5,
   "configs": [
     {
       "type": "trojan",
@@ -18,31 +18,31 @@
     },
     {
       "type": "ss",
-      "address": "45.88.183.100",
-      "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-112 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "45.88.183.100",
+      "address": "134.209.147.198",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇳IN-134.209.147.198-4731",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "134.209.147.198",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
       "type": "vless",
-      "address": "98.70.151.163",
-      "port": "443",
-      "id": "5aba5b77-48eb-4ae2-b60d-5bfee7ac169e",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "kuangbao.xiejiang.dpdns.org",
-      "host": "kuangbao.xiejiang.dpdns.org",
-      "original": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "98.70.151.163",
+      "address": "45.88.183.100",
+      "port": "8443",
+      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
+      "name": "未知 VLESS-112 | free-nodes",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "45.88.183.100",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     },
     {
       "type": "ss",
@@ -56,6 +56,19 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "ss://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-4"
+    },
+    {
+      "type": "ss",
+      "address": "45.88.183.100",
+      "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-112 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-5",
+      "ip": "45.88.183.100",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-IN%F0%9F%87%AE%F0%9F%87%B3-5"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-01-06T08:24:04.330657",
-  "count": 4,
+  "updated": "2026-01-07T01:17:22.266630",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "154.205.159.100",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇮🇩ID-154.205.159.100-4798",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-1",
+      "ip": "154.205.159.100",
+      "country": "ID",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ss-chacha20-ietf-poly1305-ID%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "8.215.18.213",
@@ -11,54 +24,24 @@
       "network": "tcp",
       "sni": "u709014u3330s628.okgfwbackxyz.xyz",
       "host": "s628.okgfwbackxyz.xyz",
-      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-1",
+      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-2",
       "ip": "8.215.18.213",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-1"
+      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "43.218.77.16",
-      "port": "443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
+      "address": "8.215.18.213",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=",
       "method": "",
       "password": "",
-      "name": "新加坡(yudou789.top 玉豆免费节点)",
-      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-ID%F0%9F%8C%90-2",
-      "ip": "43.218.77.16",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-ID%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "s626.okgfwbackxyz.xyz",
-      "port": "443",
-      "id": "1112352c-3a6d-3581-8260-24e8d8104bba",
-      "name": "未知 VLESS-186 | free-nodes",
-      "network": "tcp",
-      "sni": "u709014ubea3s626.okgfwbackxyz.xyz",
-      "host": "s626.okgfwbackxyz.xyz",
-      "original": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3",
+      "name": "未知 VLESS-147 | free-nodes",
+      "original": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-3",
       "ip": "8.215.18.213",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://1112352c-3a6d-3581-8260-24e8d8104bba@s626.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s626.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ubea3s626.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-ID%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "43.218.77.16",
-      "port": "443",
-      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
-      "name": "新加坡(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "snippets.kkii.eu.org",
-      "host": "snippets.kkii.eu.org",
-      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-ID%F0%9F%8C%90-4",
-      "ip": "43.218.77.16",
-      "country": "ID",
-      "cdn": null,
-      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@43.218.77.16:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-ID%F0%9F%8C%90-4"
+      "rebuilt": "ss://1112352c-3a6d-3581-8260-24e8d8104bba@8.215.18.213:443?encryption=none&type=tcp&headerType=none&fp=random&host=s628.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014u3330s628.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#ss-ID%F0%9F%8C%90-3"
     }
   ]
 }

@@ -1,21 +1,32 @@
 {
-  "updated": "2026-01-06T08:24:04.332273",
-  "count": 1,
+  "updated": "2026-01-07T01:17:22.257844",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "216.238.87.47",
-      "port": "27502",
-      "id": "b8155ce4-7e08-4c40-800f-8671312b7124",
-      "name": "🇺🇸 US_188",
-      "network": "none",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwidiI6IjIiLCJwcyI6InZtZXNzLW5vbmUtTVjwn4ey8J+HvS0xIiwicG9ydCI6Mjc1MDIsImlkIjoiYjgxNTVjZTQtN2UwOC00YzQwLTgwMGYtODY3MTMxMmI3MTI0IiwiYWlkIjoiMCIsIm5ldCI6Im5vbmUiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=",
-      "ip": "216.238.87.47",
+      "type": "ss",
+      "address": "147.78.1.230",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇲🇽MX-147.78.1.230-4925",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "147.78.1.230",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwidiI6IjIiLCJwcyI6InZtZXNzLW5vbmUtTVjwn4ey8J+HvS0xIiwicG9ydCI6Mjc1MDIsImlkIjoiYjgxNTVjZTQtN2UwOC00YzQwLTgwMGYtODY3MTMxMmI3MTI0IiwiYWlkIjoiMCIsIm5ldCI6Im5vbmUiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0="
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
+    {
+      "type": "ss",
+      "address": "147.78.1.230",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇲🇽MX-147.78.1.230-4926",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2",
+      "ip": "147.78.1.230",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2"
     }
   ]
 }
