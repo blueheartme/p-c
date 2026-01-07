@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-07T01:17:22.262123",
-  "count": 9,
+  "updated": "2026-01-07T08:24:03.365119",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
-      "name": "🇧🇬BG-95.164.116.33-0350",
+      "name": "🇧🇬BG-95.164.116.33-0298",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "95.164.116.33",
       "country": "TR",
@@ -16,45 +16,32 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "ss",
-      "address": "mailru.ookcdn.ru",
-      "port": "443?note=---Telegram---",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "77.83.245.220",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
       "type": "vless",
-      "address": "mailru.ookcdn.ru",
+      "address": "45.89.52.9",
       "port": "443",
-      "id": "eb162ab1-a006-4931-b1b3-8fc88a22b10e",
-      "name": "TR VLESS-72 | free-nodes",
-      "network": "tcp",
-      "sni": "mailru.ookcdn.ru",
-      "host": "",
-      "original": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "77.83.245.220",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "KR韩国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.89.52.9",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
-      "address": "198.105.123.152",
-      "port": "51065?security=reality&encryption=none&pbk=WXFRU0P2nkI5AcYIdCWZmxonsqm9aD07wnFYWp7O4SY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=0bc95177",
+      "address": "45.81.113.60",
+      "port": "4656?security=&encryption=none&headerType=none&type=tcp",
       "method": "",
       "password": "",
-      "name": "TR VLESS-35 | free-nodes",
-      "original": "ss://5695e906-fd40-45e7-b261-7bc605af614c@198.105.123.152:51065?security=reality&encryption=none&pbk=WXFRU0P2nkI5AcYIdCWZmxonsqm9aD07wnFYWp7O4SY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=0bc95177#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "198.105.123.152",
+      "name": "TR VLESS-110 | free-nodes",
+      "original": "ss://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "45.81.113.60",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://5695e906-fd40-45e7-b261-7bc605af614c@198.105.123.152:51065?security=reality&encryption=none&pbk=WXFRU0P2nkI5AcYIdCWZmxonsqm9aD07wnFYWp7O4SY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=0bc95177#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656?security=&encryption=none&headerType=none&type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
@@ -62,67 +49,12 @@
       "port": "2376",
       "method": "aes-256-gcm",
       "password": "faBAoD54k87UJG7",
-      "name": "TR SS-101 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "name": "TR SS-120 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "185.123.101.64",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-5"
-    },
-    {
-      "type": "ss",
-      "address": "45.89.52.9",
-      "port": "443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
-      "method": "",
-      "password": "",
-      "name": "土耳其(yudou789.top 玉豆免费节点)",
-      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
-      "ip": "45.89.52.9",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
-    },
-    {
-      "type": "ss",
-      "address": "mailru.ookcdn.ru",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mailru.ookcdn.ru",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&amp;encryption=none&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mailru.ookcdn.ru#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7",
-      "ip": "77.83.245.220",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&amp;encryption=none&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mailru.ookcdn.ru#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7"
-    },
-    {
-      "type": "trojan",
-      "address": "trunker.cc",
-      "port": "8080",
-      "password": "nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN",
-      "name": "TR TROJAN-58 | free-nodes",
-      "sni": "wikipedia.org",
-      "host": "",
-      "original": "trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#trojan-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-8",
-      "ip": "62.3.12.114",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#trojan-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-8"
-    },
-    {
-      "type": "vless",
-      "address": "45.89.52.9",
-      "port": "443",
-      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
-      "name": "土耳其(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "snippets.kkii.eu.org",
-      "host": "snippets.kkii.eu.org",
-      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-9",
-      "ip": "45.89.52.9",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.89.52.9:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-9"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

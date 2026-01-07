@@ -1,34 +1,47 @@
 {
-  "updated": "2026-01-05T01:23:16.466004",
-  "count": 2,
+  "updated": "2026-01-07T08:24:03.394539",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "62.72.166.238",
+      "address": "5.10.244.101",
       "port": "2096",
-      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.cc.cd#vless-tcp-tls-CW%F0%9F%8C%90-1",
-      "ip": "62.72.166.238",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "name": "澳洲(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@5.10.244.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CW%F0%9F%8C%90-1",
+      "ip": "5.10.244.101",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.cc.cd#vless-tcp-tls-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@5.10.244.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CW%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
-      "address": "62.72.166.238",
-      "port": "2096?security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.cc.cd",
+      "address": "5.10.244.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.cc.cd#ss-CW%F0%9F%8C%90-2",
-      "ip": "62.72.166.238",
+      "name": "澳洲(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@5.10.244.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CW%F0%9F%8C%90-2",
+      "ip": "5.10.244.101",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.cc.cd#ss-CW%F0%9F%8C%90-2"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@5.10.244.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CW%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.146.201.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@45.146.201.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CW%F0%9F%8C%90-3",
+      "ip": "45.146.201.101",
+      "country": "CW",
+      "cdn": null,
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@45.146.201.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CW%F0%9F%8C%90-3"
     }
   ]
 }

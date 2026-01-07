@@ -1,7 +1,20 @@
 {
-  "updated": "2026-01-07T01:17:22.258641",
-  "count": 2,
+  "updated": "2026-01-07T08:24:03.384538",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "74.49.214.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "加拿大(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@74.49.214.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1",
+      "ip": "74.49.214.101",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@74.49.214.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "217.13.104.154",
@@ -11,11 +24,26 @@
       "network": "tcp",
       "sni": "travel.yandex.ru",
       "host": "",
-      "original": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
+      "original": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2",
       "ip": "217.13.104.154",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "141.11.203.101",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "name": "法国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-3",
+      "ip": "141.11.203.101",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -24,11 +52,24 @@
       "method": "",
       "password": "",
       "name": "匈牙利",
-      "original": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-2",
+      "original": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-4",
       "ip": "217.13.104.154",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-2"
+      "rebuilt": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "217.13.104.154",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "匈牙利",
+      "original": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-5",
+      "ip": "217.13.104.154",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#ss-HU%F0%9F%8C%90-5"
     }
   ]
 }

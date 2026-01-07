@@ -1,19 +1,47 @@
 {
-  "updated": "2026-01-07T01:17:22.271889",
-  "count": 1,
+  "updated": "2026-01-07T08:24:03.378908",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
       "address": "ro1.instavpn.ru",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tradingview.com&amp;sid=868419504747f6de",
+      "port": "443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de",
       "method": "",
       "password": "",
-      "name": "RU VLESS-38 | free-nodes",
-      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tradingview.com&amp;sid=868419504747f6de#ss-RO%F0%9F%8C%90-1",
+      "name": "RU VLESS-59 | free-nodes",
+      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#ss-RO%F0%9F%8C%90-1",
       "ip": "45.67.34.55",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tradingview.com&amp;sid=868419504747f6de#ss-RO%F0%9F%8C%90-1"
+      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#ss-RO%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "ro1.instavpn.ru",
+      "port": "443",
+      "id": "854eea7a-c834-4f62-9e17-ae63d1086f36",
+      "name": "RU VLESS-59 | free-nodes",
+      "network": "tcp",
+      "sni": "tradingview.com",
+      "host": "",
+      "original": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#vless-tcp-reality-chrome-RO%F0%9F%8C%90-2",
+      "ip": "45.67.34.55",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#vless-tcp-reality-chrome-RO%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "185.126.237.38",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇷🇴RO-185.126.237.38-0354",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-3",
+      "ip": "185.126.237.38",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-3"
     }
   ]
 }

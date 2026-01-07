@@ -1,21 +1,49 @@
 {
-  "updated": "2026-01-07T01:17:22.257057",
-  "count": 1,
+  "updated": "2026-01-07T08:24:03.353870",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.15.185.69",
+      "port": "8443",
+      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
+      "name": "未知 VLESS-131 | free-nodes",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "45.15.185.69",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.15.185.69",
+      "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-131 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "45.15.185.69",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+    },
     {
       "type": "vmess",
       "address": "54.206.192.9",
       "port": "16407",
       "id": "08f45028-1db6-4e93-bf51-d344b6c71e19",
-      "name": "telegram 🚀 dailyv2ry",
+      "name": "telegram 🍊 dailyv2ry",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0zIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
       "ip": "54.206.192.9",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0zIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
     }
   ]
 }
