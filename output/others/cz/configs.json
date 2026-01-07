@@ -1,7 +1,33 @@
 {
-  "updated": "2026-01-07T08:24:03.390504",
+  "updated": "2026-01-07T16:24:01.649251",
   "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "185.149.135.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-1",
+      "ip": "185.149.135.101",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "195.181.160.6",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇨🇿CZ-195.181.160.6-0297",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2",
+      "ip": "195.181.160.6",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-2"
+    },
     {
       "type": "vless",
       "address": "185.149.135.101",
@@ -11,39 +37,11 @@
       "network": "ws",
       "sni": "spdf.qzz.io",
       "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-1",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-3",
       "ip": "185.149.135.101",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "185.149.135.101",
-      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-2",
-      "ip": "185.149.135.101",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-CZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "78.159.247.136",
-      "port": "3443",
-      "id": "55d5c995-b3c7-4055-98d2-af263d7ba8f1",
-      "name": "阿爾巴尼亞",
-      "network": "tcp",
-      "sni": "max.ru",
-      "host": "",
-      "original": "vless://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-3",
-      "ip": "78.159.247.136",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://55d5c995-b3c7-4055-98d2-af263d7ba8f1@78.159.247.136:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@185.149.135.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-CZ%F0%9F%8C%90-3"
     }
   ]
 }

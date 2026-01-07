@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-07T08:24:03.378091",
+  "updated": "2026-01-07T16:24:01.688563",
   "count": 3,
   "configs": [
     {
@@ -19,30 +19,29 @@
     },
     {
       "type": "ss",
+      "address": "108.165.152.101",
+      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "108.165.152.101",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@108.165.152.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+    },
+    {
+      "type": "ss",
       "address": "103.97.203.227",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3",
       "ip": "103.97.203.227",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
-    {
-      "type": "trojan",
-      "address": "45.88.183.130",
-      "port": "443",
-      "password": "5a2c16f9",
-      "name": "CA加拿大(mibei77.com 米贝节点分享)",
-      "sni": "snippets.kkii.eu.org",
-      "host": "snippets.kkii.eu.org",
-      "original": "trojan://5a2c16f9@45.88.183.130:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#trojan-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3",
-      "ip": "45.88.183.130",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "trojan://5a2c16f9@45.88.183.130:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#trojan-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
