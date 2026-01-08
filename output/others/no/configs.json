@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-08T08:24:17.693396",
-  "count": 1,
+  "updated": "2026-01-08T16:23:41.935198",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇳🇴NO-185.213.23.63-0369",
+      "name": "🇳🇴NO-185.213.23.63-0313",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1",
       "ip": "185.213.23.63",
       "country": "NO",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "107.174.114.71",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D",
+      "name": "🇳🇴NO-107.174.114.71-4928",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-2",
+      "ip": "107.174.114.71",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-2"
     }
   ]
 }

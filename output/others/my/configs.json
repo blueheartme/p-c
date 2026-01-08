@@ -1,62 +1,19 @@
 {
-  "updated": "2026-01-08T08:24:17.696574",
-  "count": 6,
+  "updated": "2026-01-08T16:23:41.963584",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "43063",
-      "id": "c77f48f5-4be3-4461-b52b-49998e7b897b",
-      "name": "🇲🇾MY-47.250.45.234-4928",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "47.250.45.234",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
-    },
-    {
       "type": "ss",
-      "address": "s447.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-148 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2",
-      "ip": "47.250.13.203",
+      "address": "163.171.115.28",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f1584199f4cb3ca6",
+      "name": "未知 SS-11 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTU4NDE5OWY0Y2IzY2E2@163.171.115.28:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-1",
+      "ip": "163.171.115.28",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "s448.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-150 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3",
-      "ip": "47.250.13.203",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "8613",
-      "id": "80039b4d-bac0-4f89-82c7-54fad3b0a1ea",
-      "name": "🇲🇾MY-47.250.45.234-4929",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC00IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "47.250.45.234",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC00IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTU4NDE5OWY0Y2IzY2E2@163.171.115.28:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -65,24 +22,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "46d46fd902d485e8",
       "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-5",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-2",
       "ip": "202.122.145.125",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
-      "address": "s446.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-162 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-6",
-      "ip": "47.250.13.203",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-6"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-2"
     }
   ]
 }

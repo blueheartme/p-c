@@ -1,19 +1,60 @@
 {
-  "updated": "2026-01-08T08:24:17.694191",
-  "count": 4,
+  "updated": "2026-01-08T16:23:41.944088",
+  "count": 12,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.83.143.28",
+      "port": "443",
+      "id": "ad475ad1-e80f-4e63-89e6-4120a3387377",
+      "name": "未知 VLESS-37 | free-nodes",
+      "network": "tcp",
+      "sni": "teamdocs.su",
+      "host": "",
+      "original": "vless://ad475ad1-e80f-4e63-89e6-4120a3387377@45.83.143.28:443?security=reality&encryption=none&pbk=WfEk0nBnQWMGXLVnQuOuL6k_nMA8CFngSpUioIclo24&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=c87aa6d3d9be1df0#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1",
+      "ip": "45.83.143.28",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "vless://ad475ad1-e80f-4e63-89e6-4120a3387377@45.83.143.28:443?security=reality&encryption=none&pbk=WfEk0nBnQWMGXLVnQuOuL6k_nMA8CFngSpUioIclo24&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=c87aa6d3d9be1df0#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.234.57.169",
+      "port": "443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-36 | free-nodes",
+      "original": "ss://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#ss-AM%F0%9F%8C%90-2",
+      "ip": "185.234.57.169",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#ss-AM%F0%9F%8C%90-2"
+    },
     {
       "type": "ss",
       "address": "api.dark-coffe.com",
-      "port": "2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F",
+      "port": "2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F",
       "method": "",
       "password": "",
       "name": "德国(yudou789.top 玉豆免费节点)",
-      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-1",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-3",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-1"
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "213.159.76.21",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
+      "name": "🇲🇩MD-213.159.76.21-0316",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-4",
+      "ip": "213.159.76.21",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -24,11 +65,80 @@
       "network": "ws",
       "sni": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
       "host": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
-      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-2",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-5",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-2"
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-5"
+    },
+    {
+      "type": "ss",
+      "address": "api.dark-coffe.com",
+      "port": "2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-6",
+      "ip": "5.10.214.5",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-6"
+    },
+    {
+      "type": "vless",
+      "address": "api.dark-coffe.com",
+      "port": "8443",
+      "id": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&amp;type=ws&amp;allowInsecure=1&amp;sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo#vless-tcp-AM%F0%9F%8C%90-7",
+      "ip": "5.10.214.5",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&amp;type=ws&amp;allowInsecure=1&amp;sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo#vless-tcp-AM%F0%9F%8C%90-7"
+    },
+    {
+      "type": "ss",
+      "address": "api.dark-coffe.com",
+      "port": "8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&amp;type=ws&amp;allowInsecure=1&amp;sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&amp;type=ws&amp;allowInsecure=1&amp;sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo#ss-AM%F0%9F%8C%90-8",
+      "ip": "5.10.214.5",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&amp;type=ws&amp;allowInsecure=1&amp;sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo#ss-AM%F0%9F%8C%90-8"
+    },
+    {
+      "type": "ss",
+      "address": "85.90.207.104",
+      "port": "18793",
+      "method": "chacha20-ietf-poly1305",
+      "password": "e716d7bbae4bdd14",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-9",
+      "ip": "85.90.207.104",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#ss-chacha20-ietf-poly1305-AM%F0%9F%8C%90-9"
+    },
+    {
+      "type": "vless",
+      "address": "185.234.57.169",
+      "port": "443",
+      "id": "c7fd7017-71cf-4bfa-bc4f-bff8534c250b",
+      "name": "未知 VLESS-36 | free-nodes",
+      "network": "tcp",
+      "sni": "wikiportal.su",
+      "host": "",
+      "original": "vless://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-10",
+      "ip": "185.234.57.169",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "vless://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-10"
     },
     {
       "type": "vless",
@@ -39,11 +149,11 @@
       "network": "ws",
       "sni": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
       "host": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
-      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-3",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-11",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-3"
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-11"
     },
     {
       "type": "vless",
@@ -54,11 +164,11 @@
       "network": "ws",
       "sni": "GfV5t2331T.sMaRtTeChZaAl.InFo",
       "host": "GfV5t2331T.sMaRtTeChZaAl.InFo",
-      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-4",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-12",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-4"
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-12"
     }
   ]
 }
