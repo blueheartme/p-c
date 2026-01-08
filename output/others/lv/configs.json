@@ -1,34 +1,21 @@
 {
-  "updated": "2026-01-08T01:17:40.705128",
-  "count": 4,
+  "updated": "2026-01-08T08:24:17.706051",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
-      "address": "185.77.231.80",
-      "port": "28298",
-      "id": "3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba",
-      "name": "未知 VLESS-103 | free-nodes",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba@185.77.231.80:28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
-      "ip": "185.77.231.80",
+      "address": "62.192.174.228",
+      "port": "2053",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@62.192.174.228:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-LV%F0%9F%8C%90-1",
+      "ip": "62.192.174.228",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba@185.77.231.80:28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.104.147",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6VAcll4P8xPTUVVtHeST3onRmLoVIBSU",
-      "name": "🇲🇩MD-94.131.104.147-0306",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2",
-      "ip": "94.131.104.147",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@62.192.174.228:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-LV%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -37,24 +24,65 @@
       "method": "",
       "password": "",
       "name": "Latvia Sia Veesp</pre></div>",
-      "original": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-3",
+      "original": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-3"
+      "rebuilt": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp</pre></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-3",
+      "ip": "195.135.252.28",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
-      "address": "46.183.217.204",
-      "port": "990",
+      "address": "94.131.104.147",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-0352",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-4",
-      "ip": "46.183.217.204",
+      "password": "6VAcll4P8xPTUVVtHeST3onRmLoVIBSU",
+      "name": "🇲🇩MD-94.131.104.147-0306",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-4",
+      "ip": "94.131.104.147",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "185.77.231.80",
+      "port": "28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-103 | free-nodes",
+      "original": "ss://3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba@185.77.231.80:28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1#ss-LV%F0%9F%8C%90-5",
+      "ip": "185.77.231.80",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba@185.77.231.80:28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1#ss-LV%F0%9F%8C%90-5"
+    },
+    {
+      "type": "ss",
+      "address": "62.192.174.228",
+      "port": "2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
+      "method": "",
+      "password": "",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@62.192.174.228:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-LV%F0%9F%8C%90-6",
+      "ip": "62.192.174.228",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@62.192.174.228:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-LV%F0%9F%8C%90-6"
     }
   ]
 }
