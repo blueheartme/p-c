@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-07T16:24:01.641854",
-  "count": 6,
+  "updated": "2026-01-08T01:17:40.698292",
+  "count": 7,
   "configs": [
     {
-      "type": "ss",
-      "address": "74.49.214.101",
-      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "加拿大(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@74.49.214.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1",
-      "ip": "74.49.214.101",
+      "type": "vless",
+      "address": "141.11.203.101",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "name": "法国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-1",
+      "ip": "141.11.203.101",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@74.49.214.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -30,21 +32,6 @@
     },
     {
       "type": "vless",
-      "address": "141.11.203.101",
-      "port": "2096",
-      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
-      "name": "法国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "spdf.qzz.io",
-      "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-3",
-      "ip": "141.11.203.101",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "217.13.104.154",
       "port": "443",
       "id": "64bc8910-bc0f-453e-b3f3-a101a5dce03e",
@@ -52,11 +39,11 @@
       "network": "tcp",
       "sni": "travel.yandex.ru",
       "host": "",
-      "original": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-4",
+      "original": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-3",
       "ip": "217.13.104.154",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-4"
+      "rebuilt": "vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -65,11 +52,24 @@
       "method": "",
       "password": "",
       "name": "法国(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-5",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-4",
       "ip": "141.11.203.101",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-5"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@141.11.203.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-HU%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "grinoree.ru",
+      "port": "8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=random&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=2715592069f36fe7",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://fcb10c88-c3c3-4981-99c4-0d5d7272a7c1@grinoree.ru:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=random&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=2715592069f36fe7#ss-HU%F0%9F%8C%90-5",
+      "ip": "79.127.133.79",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://fcb10c88-c3c3-4981-99c4-0d5d7272a7c1@grinoree.ru:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=random&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=2715592069f36fe7#ss-HU%F0%9F%8C%90-5"
     },
     {
       "type": "vless",
@@ -85,6 +85,21 @@
       "country": "HU",
       "cdn": null,
       "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@74.49.214.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-HU%F0%9F%8C%90-6"
+    },
+    {
+      "type": "vless",
+      "address": "grinoree.ru",
+      "port": "8443",
+      "id": "fcb10c88-c3c3-4981-99c4-0d5d7272a7c1",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://fcb10c88-c3c3-4981-99c4-0d5d7272a7c1@grinoree.ru:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=random&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=2715592069f36fe7#vless-tcp-reality-HU%F0%9F%8C%90-7",
+      "ip": "79.127.133.79",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://fcb10c88-c3c3-4981-99c4-0d5d7272a7c1@grinoree.ru:8443?security=reality&amp;encryption=none&amp;pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&amp;headerType=none&amp;fp=random&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=2715592069f36fe7#vless-tcp-reality-HU%F0%9F%8C%90-7"
     }
   ]
 }

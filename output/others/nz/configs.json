@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-07T08:24:03.387920",
-  "count": 1,
+  "updated": "2026-01-08T01:17:40.703437",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "114.129.43.236",
+      "port": "2096",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-NZ%F0%9F%8C%90-1",
+      "ip": "114.129.43.236",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-NZ%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "114.129.43.236",
@@ -9,11 +24,11 @@
       "method": "",
       "password": "",
       "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-NZ%F0%9F%8C%90-1",
+      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-NZ%F0%9F%8C%90-2",
       "ip": "114.129.43.236",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-NZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@114.129.43.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-NZ%F0%9F%8C%90-2"
     }
   ]
 }

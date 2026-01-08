@@ -1,34 +1,45 @@
 {
-  "updated": "2026-01-07T16:24:01.624399",
-  "count": 9,
+  "updated": "2026-01-08T01:17:40.671531",
+  "count": 8,
   "configs": [
     {
-      "type": "vless",
-      "address": "194.59.5.101",
-      "port": "2096",
-      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
-      "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "spdf.qzz.io",
-      "host": "spdf.qzz.io",
-      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-1",
-      "ip": "194.59.5.101",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-1"
-    },
-    {
       "type": "ss",
-      "address": "194.59.5.101",
+      "address": "31.43.179.101",
       "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
       "method": "",
       "password": "",
-      "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-2",
-      "ip": "194.59.5.101",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-1",
+      "ip": "31.43.179.101",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-2"
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "109.61.39.28",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇰🇿KZ-109.61.39.28-0358",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
+      "ip": "109.61.39.28",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "kz.skytunnel.pw",
+      "port": "8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-47 | free-nodes",
+      "original": "ss://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#ss-KZ%F0%9F%8C%90-3",
+      "ip": "91.224.74.231",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#ss-KZ%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
@@ -39,24 +50,11 @@
       "network": "tcp",
       "sni": "bunny.net",
       "host": "",
-      "original": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3",
+      "original": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4",
       "ip": "91.224.74.231",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "194.76.18.101",
-      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.76.18.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-4",
-      "ip": "194.76.18.101",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.76.18.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -73,55 +71,46 @@
     },
     {
       "type": "ss",
-      "address": "109.61.39.28",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-109.61.39.28-0358",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-6",
-      "ip": "109.61.39.28",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-6"
-    },
-    {
-      "type": "ss",
-      "address": "kz.skytunnel.pw",
-      "port": "8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-47 | free-nodes",
-      "original": "ss://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#ss-KZ%F0%9F%8C%90-7",
-      "ip": "91.224.74.231",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#ss-KZ%F0%9F%8C%90-7"
-    },
-    {
-      "type": "ss",
-      "address": "31.43.179.101",
+      "address": "194.59.5.101",
       "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
       "method": "",
       "password": "",
+      "name": "西班牙(yudou789.top 玉豆免费节点)",
+      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-6",
+      "ip": "194.59.5.101",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@194.59.5.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-6"
+    },
+    {
+      "type": "vless",
+      "address": "194.76.18.101",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
       "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-8",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@194.76.18.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-7",
+      "ip": "194.76.18.101",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@194.76.18.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-7"
+    },
+    {
+      "type": "vless",
+      "address": "31.43.179.101",
+      "port": "2096",
+      "id": "502524df-bb02-4a14-8362-d84caf2b0a76",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "spdf.qzz.io",
+      "host": "spdf.qzz.io",
+      "original": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-8",
       "ip": "31.43.179.101",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-KZ%F0%9F%8C%90-8"
-    },
-    {
-      "type": "ss",
-      "address": "45.159.250.190",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-45.159.250.190-0400",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-9",
-      "ip": "45.159.250.190",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-9"
+      "rebuilt": "vless://502524df-bb02-4a14-8362-d84caf2b0a76@31.43.179.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#vless-ws-tls-KZ%F0%9F%8C%90-8"
     }
   ]
 }

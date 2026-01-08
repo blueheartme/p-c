@@ -1,34 +1,60 @@
 {
-  "updated": "2026-01-07T16:24:01.659863",
-  "count": 2,
+  "updated": "2026-01-08T01:17:40.684517",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "server.ultra-irancell.com",
-      "port": "80?path=%2Fed%3D2056&amp;security=&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#ss-IT%F0%9F%8C%90-1",
-      "ip": "146.75.55.82",
+      "address": "38.180.195.193",
+      "port": "443?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SwTShXYSQd404FISs8NFeJ",
+      "name": "telegram ☂️ dailyv2ry<br/>vle983aaabb-27e2-4e15-bbef-b553f23ec8cf",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443?#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
+      "ip": "38.180.195.193",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443?#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
-      "address": "server.ultra-irancell.com",
-      "port": "80",
-      "id": "telegram-turboo-server",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2",
-      "ip": "146.75.55.82",
+      "address": "188.213.168.52",
+      "port": "443",
+      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "name": "SG新加坡(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "sni": "snippets.kkii.eu.org",
+      "host": "snippets.kkii.eu.org",
+      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@188.213.168.52:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-IT%F0%9F%8C%90-2",
+      "ip": "188.213.168.52",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@188.213.168.52:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "212.102.54.45",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇮🇹IT-212.102.54.45-0312",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-3",
+      "ip": "212.102.54.45",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "188.213.168.52",
+      "port": "443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
+      "method": "",
+      "password": "",
+      "name": "SG新加坡(mibei77.com 米贝节点分享)",
+      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@188.213.168.52:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-IT%F0%9F%8C%90-4",
+      "ip": "188.213.168.52",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@188.213.168.52:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-IT%F0%9F%8C%90-4"
     }
   ]
 }

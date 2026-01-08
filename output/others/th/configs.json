@@ -1,19 +1,32 @@
 {
-  "updated": "2026-01-07T16:24:01.679754",
-  "count": 1,
+  "updated": "2026-01-08T01:17:40.664478",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "s462.ccgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s462.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u89f3s462.ccgfw.top&serviceName=&mode=&alpn=",
+      "address": "s464.ccgfw.top",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s464.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u6a9ds464.ccgfw.top&serviceName=&mode=&alpn=",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-165 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s462.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s462.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u89f3s462.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1",
+      "name": "未知 VLESS-166 | free-nodes",
+      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s464.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s464.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u6a9ds464.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1",
       "ip": "47.81.13.25",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s462.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s462.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u89f3s462.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1"
+      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s464.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s464.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759u6a9ds464.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.253.74.94",
+      "port": "31348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
+      "name": "🇹🇭TH-103.253.74.94-4958",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
+      "ip": "103.253.74.94",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
     }
   ]
 }
