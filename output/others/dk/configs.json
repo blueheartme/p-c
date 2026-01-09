@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-09T08:24:06.579241",
-  "count": 1,
+  "updated": "2026-01-09T16:21:08.652618",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,40 @@
       "port": "989",
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇩🇰DK-192.36.27.94-0391",
+      "name": "🇩🇰DK-192.36.27.94-0376",
       "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1",
       "ip": "192.36.27.94",
       "country": "DK",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "External-Net.fast199.hosting-ip.com",
+      "port": "80?path=%2F%3Fed%3D2052%3F---",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80?path=%2F%3Fed%3D2052%3F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;security=none&amp;encryption=none&amp;host=norbert-team-free1.global.ssl.fastly.net&amp;type=ws#ss-DK%F0%9F%8C%90-2",
+      "ip": "199.232.40.47",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "ss://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80?path=%2F%3Fed%3D2052%3F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;security=none&amp;encryption=none&amp;host=norbert-team-free1.global.ssl.fastly.net&amp;type=ws#ss-DK%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "External-Net.fast199.hosting-ip.com",
+      "port": "80",
+      "id": "3ff60b54-f6d6-467f-9189-df1a0567c647",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80?path=%2F%3Fed%3D2052%3F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;security=none&amp;encryption=none&amp;host=norbert-team-free1.global.ssl.fastly.net&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-3",
+      "ip": "199.232.40.47",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "vless://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80?path=%2F%3Fed%3D2052%3F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;security=none&amp;encryption=none&amp;host=norbert-team-free1.global.ssl.fastly.net&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-3"
     }
   ]
 }

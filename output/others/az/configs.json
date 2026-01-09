@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-09T01:18:06.630724",
+  "updated": "2026-01-09T16:21:08.631655",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "180.149.44.106",
-      "port": "4655",
-      "id": "1602a406-a38e-4211-bbdc-3f75c890303d",
-      "name": "未知 VLESS-130 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AZ%F0%9F%8C%90-1",
-      "ip": "180.149.44.106",
+      "type": "ss",
+      "address": "92.223.62.214",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6134494027689bbb",
+      "name": "未知 SS-17 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTM0NDk0MDI3Njg5YmJi@92.223.62.214:11201#ss-chacha20-ietf-poly1305-AZ%F0%9F%8C%90-1",
+      "ip": "92.223.62.214",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTM0NDk0MDI3Njg5YmJi@92.223.62.214:11201#ss-chacha20-ietf-poly1305-AZ%F0%9F%8C%90-1"
     }
   ]
 }

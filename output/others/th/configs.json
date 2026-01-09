@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-09T08:24:06.577591",
-  "count": 2,
+  "updated": "2026-01-09T16:21:08.674976",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇹🇭TH-119.59.98.58-0371",
+      "name": "🇹🇭TH-119.59.98.58-0378",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-1",
       "ip": "119.59.98.58",
       "country": "TH",
@@ -17,16 +17,29 @@
     },
     {
       "type": "ss",
+      "address": "103.253.74.94",
+      "port": "31348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
+      "name": "🇹🇭TH-103.253.74.94-0358",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
+      "ip": "103.253.74.94",
+      "country": "TH",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
       "address": "163.171.148.71",
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "312ee9bcc9570095",
       "name": "未知 SS-86 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3",
       "ip": "163.171.148.71",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-3"
     }
   ]
 }
