@@ -1,75 +1,34 @@
 {
-  "updated": "2026-01-08T08:24:17.710209",
-  "count": 5,
+  "updated": "2026-01-09T01:18:06.617516",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "45.80.108.236",
-      "port": "2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-1",
-      "ip": "45.80.108.236",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "5.101.180.145",
-      "port": "443",
-      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "snippets.kkii.eu.org",
-      "host": "snippets.kkii.eu.org",
-      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@5.101.180.145:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-2",
-      "ip": "5.101.180.145",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@5.101.180.145:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "5.101.180.145",
-      "port": "443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2",
-      "method": "",
-      "password": "",
-      "name": "TW台湾(mibei77.com 米贝节点分享)",
-      "original": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@5.101.180.145:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-3",
-      "ip": "5.101.180.145",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://5a2c16f9-e365-4080-8d38-6924c3835586@5.101.180.145:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#ss-EE%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "45.80.108.236",
-      "port": "2096",
-      "id": "5a2c16f9-e365-4080-8d38-6924c3835586",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "snippets.kkii.eu.org",
-      "host": "snippets.kkii.eu.org",
-      "original": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-4",
-      "ip": "45.80.108.236",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://5a2c16f9-e365-4080-8d38-6924c3835586@45.80.108.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#vless-ws-tls-EE%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
       "address": "tbankru.outlinekeys.net",
-      "port": "443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-79 | free-nodes",
-      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#ss-EE%F0%9F%8C%90-5",
+      "name": "未知 VLESS-121 | free-nodes",
+      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-1",
       "ip": "144.31.178.168",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#ss-EE%F0%9F%8C%90-5"
+      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "tbankru.outlinekeys.net",
+      "port": "443",
+      "id": "eb162ab1-a006-4931-b1b3-8fc88a22b10e",
+      "name": "未知 VLESS-121 | free-nodes",
+      "network": "tcp",
+      "sni": "tbankru.outlinekeys.net",
+      "host": "",
+      "original": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2",
+      "ip": "144.31.178.168",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2"
     }
   ]
 }

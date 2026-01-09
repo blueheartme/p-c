@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-08T16:23:41.961939",
-  "count": 1,
+  "updated": "2026-01-09T01:18:06.628472",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,21 @@
       "country": "AL",
       "cdn": null,
       "rebuilt": "ss://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?security=reality&encryption=none&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6449#ss-AL%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "87.121.162.241",
+      "port": "443",
+      "id": "23b70080-d496-4429-8025-7ebbecd13a72",
+      "name": "未知 VLESS-106 | free-nodes",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "original": "vless://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?security=reality&encryption=none&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6449#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-2",
+      "ip": "87.121.162.241",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "vless://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?security=reality&encryption=none&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6449#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-2"
     }
   ]
 }

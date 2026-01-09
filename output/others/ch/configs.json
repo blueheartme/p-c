@@ -1,65 +1,7 @@
 {
-  "updated": "2026-01-08T16:23:41.941252",
-  "count": 6,
+  "updated": "2026-01-09T01:18:06.615153",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ch.svdualvpn.ru",
-      "port": "8443",
-      "id": "a6bdce65-2ec9-47e3-9814-bc281cffadcd",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://a6bdce65-2ec9-47e3-9814-bc281cffadcd@ch.svdualvpn.ru:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steamcommunity.com#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "179.43.140.27",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://a6bdce65-2ec9-47e3-9814-bc281cffadcd@ch.svdualvpn.ru:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steamcommunity.com#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "ch.svdualvpn.ru",
-      "port": "8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steamcommunity.com",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://a6bdce65-2ec9-47e3-9814-bc281cffadcd@ch.svdualvpn.ru:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steamcommunity.com#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "179.43.140.27",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://a6bdce65-2ec9-47e3-9814-bc281cffadcd@ch.svdualvpn.ru:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steamcommunity.com#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "sw1.krasivovpn.ru",
-      "port": "443",
-      "id": "854eea7a-c834-4f62-9e17-ae63d1086f36",
-      "name": "RU VLESS-107 | free-nodes",
-      "network": "tcp",
-      "sni": "deepl.com",
-      "host": "",
-      "original": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "2.59.219.204",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "vless",
-      "address": "208.69.78.5",
-      "port": "443",
-      "id": "0a21d713-6e6f-4274-8b84-464019325513",
-      "name": "🇺🇸_US_美国",
-      "network": "grpc",
-      "sni": "www.microsoft.com",
-      "host": "",
-      "original": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "208.69.78.5",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
-    },
     {
       "type": "ss",
       "address": "sw1.krasivovpn.ru",
@@ -67,11 +9,11 @@
       "method": "",
       "password": "",
       "name": "RU VLESS-107 | free-nodes",
-      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "2.59.219.204",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5"
+      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "ss",
@@ -80,11 +22,26 @@
       "method": "",
       "password": "",
       "name": "🇺🇸_US_美国",
-      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-6",
+      "original": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "208.69.78.5",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-6"
+      "rebuilt": "ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "5.182.36.56",
+      "port": "45886",
+      "id": "8338171d-2ea7-4015-bdea-492f3d5d4e60",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "5.182.36.56",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&amp;encryption=none&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;headerType=none&amp;fp=chrome&amp;spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;type=tcp&amp;sni=yahoo.com&amp;sid=94f9#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
