@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-09T01:18:06.623138",
-  "count": 3,
+  "updated": "2026-01-09T08:24:06.559201",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -8,40 +8,12 @@
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "d27faed8a9b98bd0",
-      "name": "未知 SS-08 | free-nodes",
+      "name": "未知 SS-51 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1",
       "ip": "163.171.137.72",
       "country": "UA",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "okr.westirooni.ir",
-      "port": "3838",
-      "id": "cc5fff47-133f-4c4b-bf53-a6783b55232a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&amp;type=tcp&amp;sni=refersion.com&amp;fp=chrome&amp;sid=1efd473460f73d68&amp;pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&amp;encryption=none#vless-tcp-reality-UA%F0%9F%87%BA%F0%9F%87%A6-2",
-      "ip": "91.239.65.96",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&amp;type=tcp&amp;sni=refersion.com&amp;fp=chrome&amp;sid=1efd473460f73d68&amp;pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&amp;encryption=none#vless-tcp-reality-UA%F0%9F%87%BA%F0%9F%87%A6-2"
-    },
-    {
-      "type": "ss",
-      "address": "okr.westirooni.ir",
-      "port": "3838?security=reality&amp;type=tcp&amp;sni=refersion.com&amp;fp=chrome&amp;sid=1efd473460f73d68&amp;pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&amp;type=tcp&amp;sni=refersion.com&amp;fp=chrome&amp;sid=1efd473460f73d68&amp;pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&amp;encryption=none#ss-UA%F0%9F%87%BA%F0%9F%87%A6-3",
-      "ip": "91.239.65.96",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&amp;type=tcp&amp;sni=refersion.com&amp;fp=chrome&amp;sid=1efd473460f73d68&amp;pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&amp;encryption=none#ss-UA%F0%9F%87%BA%F0%9F%87%A6-3"
     }
   ]
 }

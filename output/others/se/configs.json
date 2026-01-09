@@ -1,17 +1,21 @@
 {
-  "updated": "2026-01-09T01:18:06.622522",
+  "updated": "2026-01-09T08:24:06.583791",
   "count": 1,
   "configs": [
     {
-      "type": "hysteria2",
-      "address": "dd.openaccessnode.com",
-      "port": "989",
-      "name": "瑞典",
-      "original": "hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "81.229.3.124",
+      "type": "vless",
+      "address": "192.71.82.2",
+      "port": "443",
+      "id": "a5c05c1e-aa68-443f-8598-09800244bd4b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;insecure=0&amp;host=kingmethode.bIack.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=kingmethode.bIack.ir#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1#hysteria2-udp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;insecure=0&amp;host=kingmethode.bIack.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=kingmethode.bIack.ir#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }

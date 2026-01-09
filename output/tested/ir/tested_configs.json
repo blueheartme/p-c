@@ -1,23 +1,23 @@
 {
-  "updated": "2026-01-09T01:18:06.631424",
-  "count": 4,
+  "updated": "2026-01-09T08:24:06.589487",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
-      "address": "188.114.98.112",
-      "port": "80",
-      "id": "0991a0c4-0ee5-4213-af89-7ad589f853f3",
-      "name": "🇧🇷_BR_巴西",
+      "address": "188.114.96.2",
+      "port": "443",
+      "id": "b2744521-78b7-4c24-86f2-4f751d1cb7bf",
+      "name": "美国",
       "network": "ws",
-      "sni": "",
-      "host": "elenaaaaaaaaaa.cloudns.pro.",
-      "original": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
-      "ip": "188.114.98.112",
+      "sni": "private.digikala.lat",
+      "host": "",
+      "original": "vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@188.114.96.2:443?encryption=none&security=tls&sni=private.digikala.lat&fp=chrome&type=ws&path=%2F#vless-ws-tls-chrome-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "ip": "188.114.96.2",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
+      "rebuilt": "vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@188.114.96.2:443?encryption=none&security=tls&sni=private.digikala.lat&fp=chrome&type=ws&path=%2F#vless-ws-tls-chrome-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -38,20 +38,20 @@
     },
     {
       "type": "vless",
-      "address": "www.parspack.com",
-      "port": "2095",
-      "id": "DIGIV2Ray",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
+      "address": "188.114.98.112",
+      "port": "80",
+      "id": "0991a0c4-0ee5-4213-af89-7ad589f853f3",
+      "name": "🇧🇷_BR_巴西",
+      "network": "ws",
       "sni": "",
-      "host": "",
-      "original": "vless://DIGIV2Ray@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.ååºæ¥å°±è¢«å.website.&amp;type=ws#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "45.139.11.243",
+      "host": "elenaaaaaaaaaa.cloudns.pro.",
+      "original": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "ip": "188.114.98.112",
       "country": "IR",
-      "cdn": null,
+      "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://DIGIV2Ray@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.ååºæ¥å°±è¢«å.website.&amp;type=ws#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -69,6 +69,40 @@
       "tested": true,
       "working": true,
       "rebuilt": "vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@188.114.97.3:80?encryption=none&security=none&sni=188.114.97.3&type=ws&host=024.electrocellco-cf-024.workers.dev&path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "oon.visaups.ir",
+      "port": "80",
+      "id": "087d8602-503b-4091-9f05-44c20792083c",
+      "name": "DE VLESS-02 | free-nodes",
+      "network": "ws",
+      "sni": "",
+      "host": "oon.visaups.ir",
+      "original": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "185.143.233.235",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+    },
+    {
+      "type": "vless",
+      "address": "85.133.204.144",
+      "port": "443",
+      "id": "e783beb2-327f-466b-8f6c-8e0f7b672cb9",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e783beb2-327f-466b-8f6c-8e0f7b672cb9@85.133.204.144:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "ip": "85.133.204.144",
+      "country": "IR",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://e783beb2-327f-466b-8f6c-8e0f7b672cb9@85.133.204.144:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }

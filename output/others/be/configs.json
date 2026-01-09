@@ -1,19 +1,32 @@
 {
-  "updated": "2026-01-09T01:18:06.630167",
-  "count": 1,
+  "updated": "2026-01-09T08:24:06.579986",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.83.20.206",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "g5RQoxQuVtnFv3Xxsa8edPisXNPnyWKy",
+      "name": "🇨🇾CY-45.83.20.206-0339",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-1",
+      "ip": "45.83.20.206",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "192.71.249.78",
       "port": "989",
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇪BE-192.71.249.78-0375",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1",
+      "name": "🇧🇪BE-192.71.249.78-4619",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2",
       "ip": "192.71.249.78",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2"
     }
   ]
 }
