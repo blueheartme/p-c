@@ -1,19 +1,34 @@
 {
-  "updated": "2026-01-10T08:20:58.334317",
-  "count": 1,
+  "updated": "2026-01-10T16:18:42.238800",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "5.182.36.56",
-      "port": "45886?flow=&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;sid=94f9&amp;spx=/",
+      "address": "sw1.krasivovpn.ru",
+      "port": "443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?flow=&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;sid=94f9&amp;spx=/#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "5.182.36.56",
+      "name": "RU VLESS-114 | free-nodes",
+      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "2.59.219.204",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?flow=&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&amp;sid=94f9&amp;spx=/#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "sw1.krasivovpn.ru",
+      "port": "443",
+      "id": "854eea7a-c834-4f62-9e17-ae63d1086f36",
+      "name": "RU VLESS-114 | free-nodes",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "original": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "2.59.219.204",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

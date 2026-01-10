@@ -1,88 +1,19 @@
 {
-  "updated": "2026-01-10T08:20:58.320219",
-  "count": 7,
+  "updated": "2026-01-10T16:18:42.233094",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "server.ultra-irancell.com",
-      "port": "80",
-      "id": "telegram-turboo-server",
-      "name": "DE VLESS-137 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "jone-turboo-server.com",
-      "original": "vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#vless-ws-IT%F0%9F%8C%90-1",
-      "ip": "146.75.55.82",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#vless-ws-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "146.75.55.82",
-      "port": "80?security=none&amp;type=ws&amp;path=%2Fed%3D2056&amp;host=jone-turboo-server.com&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://telegram-turboo-server@146.75.55.82:80?security=none&amp;type=ws&amp;path=%2Fed%3D2056&amp;host=jone-turboo-server.com&amp;encryption=none#ss-IT%F0%9F%8C%90-2",
-      "ip": "146.75.55.82",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://telegram-turboo-server@146.75.55.82:80?security=none&amp;type=ws&amp;path=%2Fed%3D2056&amp;host=jone-turboo-server.com&amp;encryption=none#ss-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "server.ultra-irancell.com",
-      "port": "80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=turboo-server.io&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=turboo-server.io&amp;type=ws#ss-IT%F0%9F%8C%90-3",
-      "ip": "146.75.55.82",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=turboo-server.io&amp;type=ws#ss-IT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "server.ultra-irancell.com",
-      "port": "80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws",
-      "method": "",
-      "password": "",
-      "name": "DE VLESS-137 | free-nodes",
-      "original": "ss://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#ss-IT%F0%9F%8C%90-4",
-      "ip": "146.75.55.82",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#ss-IT%F0%9F%8C%90-4"
-    },
     {
       "type": "ss",
       "address": "212.102.54.45",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇮🇹IT-212.102.54.45-0275",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-5",
+      "name": "🇮🇹IT-212.102.54.45-0282",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1",
       "ip": "212.102.54.45",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-5"
-    },
-    {
-      "type": "vless",
-      "address": "146.75.55.82",
-      "port": "80",
-      "id": "telegram-turboo-server",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://telegram-turboo-server@146.75.55.82:80?security=none&amp;type=ws&amp;path=%2Fed%3D2056&amp;host=jone-turboo-server.com&amp;encryption=none#vless-tcp-IT%F0%9F%8C%90-6",
-      "ip": "146.75.55.82",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://telegram-turboo-server@146.75.55.82:80?security=none&amp;type=ws&amp;path=%2Fed%3D2056&amp;host=jone-turboo-server.com&amp;encryption=none#vless-tcp-IT%F0%9F%8C%90-6"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#ss-chacha20-ietf-poly1305-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -91,11 +22,11 @@
       "method": "",
       "password": "",
       "name": "🇸🇪_SE_瑞典",
-      "original": "ss://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#ss-IT%F0%9F%8C%90-7",
+      "original": "ss://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#ss-IT%F0%9F%8C%90-2",
       "ip": "146.75.55.82",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#ss-IT%F0%9F%8C%90-7"
+      "rebuilt": "ss://telegram-turboo-server@server.ultra-irancell.com:80?host=jone-turboo-server.com&path=%2Fed%3D2056&type=ws#ss-IT%F0%9F%8C%90-2"
     }
   ]
 }
