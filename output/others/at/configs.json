@@ -1,19 +1,47 @@
 {
-  "updated": "2026-01-10T01:15:02.049196",
-  "count": 1,
+  "updated": "2026-01-10T08:20:58.299156",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "test.fast199.hosting-ip.com",
-      "port": "80?mode=auto&amp;security=&amp;encryption=none&amp;host=mopd.global.ssl.fastly.net&amp;type=xhttp",
+      "address": "dfg.octopusss.net",
+      "port": "22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://EXPRESSVPN_420@test.fast199.hosting-ip.com:80?mode=auto&amp;security=&amp;encryption=none&amp;host=mopd.global.ssl.fastly.net&amp;type=xhttp#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "199.232.19.9",
+      "name": "DE VLESS-17 | free-nodes",
+      "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.49.130",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://EXPRESSVPN_420@test.fast199.hosting-ip.com:80?mode=auto&amp;security=&amp;encryption=none&amp;host=mopd.global.ssl.fastly.net&amp;type=xhttp#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "dfg.octopusss.net",
+      "port": "22955",
+      "id": "63f92f3c-447c-4283-80b9-0af8e164cdad",
+      "name": "DE VLESS-17 | free-nodes",
+      "network": "grpc",
+      "sni": "one-piece.com",
+      "host": "",
+      "original": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.49.130",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+    },
+    {
+      "type": "ss",
+      "address": "dfg.octopusss.net",
+      "port": "22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2",
+      "method": "",
+      "password": "",
+      "name": "DE VLESS-17 | free-nodes",
+      "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3",
+      "ip": "152.53.49.130",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3"
     }
   ]
 }

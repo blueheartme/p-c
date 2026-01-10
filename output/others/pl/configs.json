@@ -1,46 +1,7 @@
 {
-  "updated": "2026-01-10T01:15:02.023483",
-  "count": 6,
+  "updated": "2026-01-10T08:20:58.292803",
+  "count": 7,
   "configs": [
-    {
-      "type": "ss",
-      "address": "51.83.249.182",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "a1f740989a878073",
-      "name": "未知 SS-68 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "51.83.249.182",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.126.19",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0302",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "45.15.126.19",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "ss",
-      "address": "89.223.93.176",
-      "port": "41348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "89.223.93.176",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
     {
       "type": "ss",
       "address": "51.68.146.248",
@@ -48,11 +9,26 @@
       "method": "chacha20-ietf-poly1305",
       "password": "a792ff4b517fdf1c",
       "name": "未知 SS-70 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "51.68.146.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "vless",
+      "address": "145.239.29.93",
+      "port": "48217",
+      "id": "f43fa45b-e9d5-4cea-9550-0b60a837bc55",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "145.239.29.93",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://f43fa45b-e9d5-4cea-9550-0b60a837bc55@145.239.29.93:48217?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "ss",
@@ -60,27 +36,68 @@
       "port": "443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "144.31.1.121",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "ss",
+      "address": "aneta.kosmolet.xyz",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "波蘭",
+      "original": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "45.144.51.14",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     },
     {
       "type": "vless",
       "address": "plcdn17.suio.me",
       "port": "443",
       "id": "21f8d9aa-8ec7-4340-aa0a-7ce19f244adc",
-      "name": "美国(yudou789.top 玉豆免费节点)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "tcp",
       "sni": "plcdn17.suio.me",
       "host": "",
-      "original": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "original": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5",
       "ip": "144.31.1.121",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "ss",
+      "address": "51.83.249.182",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "a1f740989a878073",
+      "name": "未知 SS-68 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "51.83.249.182",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+    },
+    {
+      "type": "vless",
+      "address": "aneta.kosmolet.xyz",
+      "port": "443",
+      "id": "613725ab-ca86-4d54-852e-a0bf45e812de",
+      "name": "波蘭",
+      "network": "tcp",
+      "sni": "aneta.kosmolet.xyz",
+      "host": "",
+      "original": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "45.144.51.14",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@aneta.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     }
   ]
 }

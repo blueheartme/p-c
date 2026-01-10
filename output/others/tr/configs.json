@@ -1,32 +1,34 @@
 {
-  "updated": "2026-01-10T01:15:02.007428",
-  "count": 3,
+  "updated": "2026-01-10T08:20:58.273392",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "38.180.113.194",
-      "port": "8119",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "TR SS-117 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "38.180.113.194",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "93.114.98.102",
+      "address": "154.205.148.202",
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
-      "password": "bed61f51dfec961a",
-      "name": "TR SS-52 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "93.114.98.102",
+      "password": "71807718f593d3e6",
+      "name": "TR SS-85 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "154.205.148.202",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "tr.mizbanandata.com",
+      "port": "443",
+      "id": "ffffa6b1-276b-4a77-bcf2-c7ffec099420",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://ffffa6b1-276b-4a77-bcf2-c7ffec099420@tr.mizbanandata.com:443?security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=jetbrains.com&amp;sid=fd1dff03520d8f56#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "94.131.123.182",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://ffffa6b1-276b-4a77-bcf2-c7ffec099420@tr.mizbanandata.com:443?security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=jetbrains.com&amp;sid=fd1dff03520d8f56#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -40,6 +42,32 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "93.114.98.102",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bed61f51dfec961a",
+      "name": "TR SS-52 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "93.114.98.102",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "ss",
+      "address": "38.180.113.194",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "TR SS-93 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "38.180.113.194",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }
