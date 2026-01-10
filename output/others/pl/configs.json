@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-09T16:21:08.671533",
+  "updated": "2026-01-10T01:15:02.023483",
   "count": 6,
   "configs": [
     {
-      "type": "vless",
-      "address": "plcdn17.suio.me",
-      "port": "443",
-      "id": "21f8d9aa-8ec7-4340-aa0a-7ce19f244adc",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "network": "tcp",
-      "sni": "plcdn17.suio.me",
-      "host": "",
-      "original": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "144.31.1.121",
+      "type": "ss",
+      "address": "51.83.249.182",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "a1f740989a878073",
+      "name": "未知 SS-68 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "51.83.249.182",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -32,29 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "145.239.29.93",
-      "port": "48218?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "145.239.29.93",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "ss",
-      "address": "51.83.249.182",
-      "port": "11201",
+      "address": "89.223.93.176",
+      "port": "41348",
       "method": "chacha20-ietf-poly1305",
-      "password": "a1f740989a878073",
-      "name": "未知 SS-68 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "51.83.249.182",
+      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "89.223.93.176",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
@@ -63,26 +48,39 @@
       "method": "chacha20-ietf-poly1305",
       "password": "a792ff4b517fdf1c",
       "name": "未知 SS-70 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "51.68.146.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "plcdn17.suio.me",
+      "port": "443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "144.31.1.121",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "vless",
-      "address": "145.239.29.93",
-      "port": "48218",
-      "id": "4c6a8514-a3ff-46c6-960b-d06599cb5cac",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
+      "address": "plcdn17.suio.me",
+      "port": "443",
+      "id": "21f8d9aa-8ec7-4340-aa0a-7ce19f244adc",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "network": "tcp",
+      "sni": "plcdn17.suio.me",
       "host": "",
-      "original": "vless://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "145.239.29.93",
+      "original": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6",
+      "ip": "144.31.1.121",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://4c6a8514-a3ff-46c6-960b-d06599cb5cac@145.239.29.93:48218?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@plcdn17.suio.me:443?encryption=none&security=tls&sni=plcdn17.suio.me&type=tcp&headerType=none#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     }
   ]
 }

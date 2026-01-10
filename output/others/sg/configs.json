@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-09T16:21:08.650863",
+  "updated": "2026-01-10T01:15:02.026229",
   "count": 4,
   "configs": [
     {
@@ -17,29 +17,16 @@
     },
     {
       "type": "ss",
-      "address": "45.135.228.135",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ce1dfbefd0addc9c",
-      "name": "SG SS-31 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "45.135.228.135",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "ss",
       "address": "167.150.100.115",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pJtDFXMfdW9VNdJpaf4e2LfFkXdWgxrz",
       "name": "🇸🇬SG-167.150.100.115-0343",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "167.150.100.115",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "ss",
@@ -48,11 +35,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "7afa39016d5a409c",
       "name": "SG SS-53 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "194.233.73.51",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "ss",
+      "address": "45.135.228.135",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ce1dfbefd0addc9c",
+      "name": "SG SS-31 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "45.135.228.135",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4"
     }
   ]
 }

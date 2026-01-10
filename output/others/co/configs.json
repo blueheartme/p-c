@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-09T16:21:08.656118",
-  "count": 1,
+  "updated": "2026-01-10T01:15:02.056158",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "80.93.215.62",
+      "port": "443",
+      "id": "4352f2a7-d620-474e-9249-e866774a2c81",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&amp;sni=gcore.com&amp;type=ws&amp;host=ebnada.com&amp;path=%2Fhgffg#vless-tcp-tls-CO%F0%9F%8C%90-1",
+      "ip": "80.93.215.62",
+      "country": "CO",
+      "cdn": null,
+      "rebuilt": "vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&amp;sni=gcore.com&amp;type=ws&amp;host=ebnada.com&amp;path=%2Fhgffg#vless-tcp-tls-CO%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "154.223.16.212",
@@ -9,11 +24,24 @@
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇨🇴CO-154.223.16.212-0404",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#ss-aes-256-cfb-CO%F0%9F%8C%90-1",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#ss-aes-256-cfb-CO%F0%9F%8C%90-2",
       "ip": "154.223.16.212",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#ss-aes-256-cfb-CO%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#ss-aes-256-cfb-CO%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "80.93.215.62",
+      "port": "443?security=tls&amp;sni=gcore.com&amp;type=ws&amp;host=ebnada.com&amp;path=%2Fhgffg",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&amp;sni=gcore.com&amp;type=ws&amp;host=ebnada.com&amp;path=%2Fhgffg#ss-CO%F0%9F%8C%90-3",
+      "ip": "80.93.215.62",
+      "country": "CO",
+      "cdn": null,
+      "rebuilt": "ss://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&amp;sni=gcore.com&amp;type=ws&amp;host=ebnada.com&amp;path=%2Fhgffg#ss-CO%F0%9F%8C%90-3"
     }
   ]
 }

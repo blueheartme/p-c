@@ -1,45 +1,21 @@
 {
-  "updated": "2026-01-09T16:21:08.606391",
+  "updated": "2026-01-10T01:15:02.005227",
   "count": 5,
   "configs": [
     {
-      "type": "ss",
-      "address": "141.227.134.118",
-      "port": "18925?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://d3f74fb2-9c47-4689-bfec-aabdf7612582@141.227.134.118:18925?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-1",
-      "ip": "141.227.134.118",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://d3f74fb2-9c47-4689-bfec-aabdf7612582@141.227.134.118:18925?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
+      "type": "vless",
       "address": "78.159.247.74",
-      "port": "5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
+      "port": "3443",
+      "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
       "name": "荷蘭",
-      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2",
+      "network": "tcp",
+      "sni": "max.ru",
+      "host": "",
+      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1",
       "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "78.159.247.74",
-      "port": "3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-126 | free-nodes",
-      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-3",
-      "ip": "78.159.247.74",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -48,11 +24,26 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-126 | free-nodes",
-      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-4",
+      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2",
       "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-4"
+      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "78.159.247.74",
+      "port": "5444",
+      "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
+      "name": "荷蘭",
+      "network": "tcp",
+      "sni": "max.ru",
+      "host": "",
+      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-3",
+      "ip": "78.159.247.74",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -61,11 +52,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇨🇿CZ-195.181.160.6-0280",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-5",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-4",
       "ip": "195.181.160.6",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "78.159.247.74",
+      "port": "5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "荷蘭",
+      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-5",
+      "ip": "78.159.247.74",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-5"
     }
   ]
 }
