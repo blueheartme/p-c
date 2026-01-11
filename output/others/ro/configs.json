@@ -1,47 +1,19 @@
 {
-  "updated": "2026-01-10T16:18:42.226650",
-  "count": 3,
+  "updated": "2026-01-11T01:23:55.719925",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "s5.cloudconvert.top",
-      "port": "443",
-      "id": "c924d667-d2da-40fe-bbb5-52e3eeef6c48",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality&amp;encryption=none&amp;pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s5.cloudconvert.top&amp;sid=abc82912#vless-tcp-reality-RO%F0%9F%8C%90-1",
-      "ip": "93.114.194.72",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vless://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality&amp;encryption=none&amp;pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s5.cloudconvert.top&amp;sid=abc82912#vless-tcp-reality-RO%F0%9F%8C%90-1"
-    },
-    {
       "type": "ss",
-      "address": "5.182.37.87",
-      "port": "443",
+      "address": "45.82.102.245",
+      "port": "11201",
       "method": "chacha20-ietf-poly1305",
-      "password": "Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-2",
-      "ip": "5.182.37.87",
+      "password": "a02fb60d5cf400c6",
+      "name": "未知 SS-53 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1",
+      "ip": "45.82.102.245",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "s5.cloudconvert.top",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s5.cloudconvert.top&amp;sid=abc82912",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality&amp;encryption=none&amp;pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s5.cloudconvert.top&amp;sid=abc82912#ss-RO%F0%9F%8C%90-3",
-      "ip": "93.114.194.72",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality&amp;encryption=none&amp;pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s5.cloudconvert.top&amp;sid=abc82912#ss-RO%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1"
     }
   ]
 }
