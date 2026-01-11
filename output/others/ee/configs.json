@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-11T01:23:55.737801",
-  "count": 2,
+  "updated": "2026-01-11T08:21:05.320527",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,19 +16,6 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "tbankru.outlinekeys.net",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-125 | free-nodes",
-      "original": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2",
-      "ip": "144.31.178.168",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2"
     }
   ]
 }

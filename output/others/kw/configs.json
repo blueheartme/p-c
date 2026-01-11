@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-11T01:23:55.745043",
-  "count": 1,
+  "updated": "2026-01-11T08:21:05.328190",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,19 @@
       "country": "KW",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#ss-chacha20-ietf-poly1305-KW%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "163.171.181.29",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bddd79c7386646d6",
+      "name": "未知 SS-118 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZGRkNzljNzM4NjY0NmQ2@163.171.181.29:11201#ss-chacha20-ietf-poly1305-KW%F0%9F%8C%90-2",
+      "ip": "163.171.181.29",
+      "country": "KW",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZGRkNzljNzM4NjY0NmQ2@163.171.181.29:11201#ss-chacha20-ietf-poly1305-KW%F0%9F%8C%90-2"
     }
   ]
 }

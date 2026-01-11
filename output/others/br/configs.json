@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-11T01:23:55.711002",
-  "count": 3,
+  "updated": "2026-01-11T08:21:05.317980",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -19,29 +19,42 @@
     },
     {
       "type": "ss",
+      "address": "185.133.35.61",
+      "port": "2096?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;host=vless.hubp.de&amp;path=%2Fsnippets",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://12345678-1234-1234-1234-123456789123@185.133.35.61:2096?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;host=vless.hubp.de&amp;path=%2Fsnippets#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "185.133.35.61",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://12345678-1234-1234-1234-123456789123@185.133.35.61:2096?encryption=none&amp;security=tls&amp;sni=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;host=vless.hubp.de&amp;path=%2Fsnippets#ss-BR%F0%9F%87%A7%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "185.192.124.188",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇧🇷BR-185.192.124.188-0373",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "ip": "185.192.124.188",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
       "address": "38.54.57.90",
       "port": "989",
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇧🇷BR-38.54.57.90-4894",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-4",
       "ip": "38.54.57.90",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "213.159.66.206",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0333",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
-      "ip": "213.159.66.206",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-4"
     }
   ]
 }

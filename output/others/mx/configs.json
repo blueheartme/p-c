@@ -1,19 +1,45 @@
 {
-  "updated": "2026-01-11T01:23:55.740006",
-  "count": 1,
+  "updated": "2026-01-11T08:21:05.318664",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "147.78.1.230",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇲🇽MX-147.78.1.230-5043",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "147.78.1.230",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
     {
       "type": "ss",
       "address": "154.205.152.64",
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "315eb3e160cf2432",
-      "name": "未知 SS-05 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "name": "未知 SS-24 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2",
       "ip": "154.205.152.64",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2"
+    },
+    {
+      "type": "ss",
+      "address": "38.60.224.37",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "651df5dc8fd08d0c",
+      "name": "未知 SS-46 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-3",
+      "ip": "38.60.224.37",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-3"
     }
   ]
 }

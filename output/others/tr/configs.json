@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-11T01:23:55.733424",
-  "count": 3,
+  "updated": "2026-01-11T08:21:05.323877",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -16,19 +16,6 @@
       "rebuilt": "ss://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-75 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "154.205.148.202",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
       "type": "vless",
       "address": "TURKIYE.TORPROSPEED.IR",
       "port": "223",
@@ -37,11 +24,37 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "193.187.132.145",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "154.205.148.202",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "71807718f593d3e6",
+      "name": "TR SS-114 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "154.205.148.202",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "93.114.98.102",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bed61f51dfec961a",
+      "name": "TR SS-85 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "93.114.98.102",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

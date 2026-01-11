@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-11T01:23:55.730506",
-  "count": 1,
+  "updated": "2026-01-11T08:21:05.333794",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "sw1.krasivovpn.ru",
+      "port": "443",
+      "id": "854eea7a-c834-4f62-9e17-ae63d1086f36",
+      "name": "RU VLESS-114 | free-nodes",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "original": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "2.59.219.204",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "ss",
       "address": "sw1.krasivovpn.ru",
@@ -9,11 +24,11 @@
       "method": "",
       "password": "",
       "name": "RU VLESS-114 | free-nodes",
-      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "2.59.219.204",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

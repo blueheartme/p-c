@@ -1,45 +1,32 @@
 {
-  "updated": "2026-01-11T01:23:55.728168",
+  "updated": "2026-01-11T08:21:05.316498",
   "count": 9,
   "configs": [
-    {
-      "type": "ss",
-      "address": "45.159.250.190",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-45.159.250.190-0383",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
-      "ip": "45.159.250.190",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "109.61.39.150",
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "01dc0d7cbb650bc3",
-      "name": "未知 SS-64 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
+      "name": "TG@wz2023jd 卢森堡 01",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
       "ip": "109.61.39.150",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
-      "address": "109.61.39.28",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-109.61.39.28-0351",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3",
-      "ip": "109.61.39.28",
+      "address": "194.76.18.189",
+      "port": "443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#ss-KZ%F0%9F%8C%90-2",
+      "ip": "194.76.18.189",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3"
+      "rebuilt": "ss://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#ss-KZ%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -50,24 +37,24 @@
       "network": "tcp",
       "sni": "aigul.kosmolet.xyz",
       "host": "",
-      "original": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4",
+      "original": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3",
       "ip": "91.217.10.233",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
-      "address": "aigul.kosmolet.xyz",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "哈薩克",
-      "original": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-5",
-      "ip": "91.217.10.233",
+      "address": "109.61.39.28",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇰🇿KZ-109.61.39.28-0351",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-4",
+      "ip": "109.61.39.28",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -76,11 +63,39 @@
       "method": "",
       "password": "",
       "name": "GB",
-      "original": "ss://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-6",
+      "original": "ss://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-5",
       "ip": "5.39.253.14",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-6"
+      "rebuilt": "ss://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vless",
+      "address": "aigul.kosmolet.xyz",
+      "port": "443",
+      "id": "613725ab-ca86-4d54-852e-a0bf45e812de",
+      "name": "哈薩克",
+      "network": "tcp",
+      "sni": "aigul.kosmolet.xyz",
+      "host": "",
+      "original": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-6",
+      "ip": "91.217.10.233",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-6"
+    },
+    {
+      "type": "ss",
+      "address": "aigul.kosmolet.xyz",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "哈薩克",
+      "original": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-7",
+      "ip": "91.217.10.233",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@aigul.kosmolet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-7"
     },
     {
       "type": "vless",
@@ -91,24 +106,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#vless-tcp-tls-KZ%F0%9F%8C%90-7",
+      "original": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#vless-tcp-tls-KZ%F0%9F%8C%90-8",
       "ip": "194.76.18.189",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#vless-tcp-tls-KZ%F0%9F%8C%90-7"
-    },
-    {
-      "type": "ss",
-      "address": "91.217.10.233",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "哈薩克",
-      "original": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-8",
-      "ip": "91.217.10.233",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://613725ab-ca86-4d54-852e-a0bf45e812de@91.217.10.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aigul.kosmolet.xyz&fp=chrome&pbk=4tgpfnEvkdOoG1jGnODdaIglbQqGDauXokKhFBEvJxk&sid=8133508795292229&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-8"
+      "rebuilt": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&amp;sni=yx.ylks.xyz&amp;type=ws&amp;path=%2F#vless-tcp-tls-KZ%F0%9F%8C%90-8"
     },
     {
       "type": "vless",
