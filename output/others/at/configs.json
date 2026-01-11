@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-11T08:21:05.335333",
-  "count": 2,
+  "updated": "2026-01-11T16:18:49.415985",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "trial.axo.foundation",
-      "port": "443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls",
-      "method": "",
-      "password": "",
-      "name": "DE VLESS-01 | free-nodes",
-      "original": "ss://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "89.58.63.217",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "ss://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "trial.axo.foundation",
@@ -24,11 +11,11 @@
       "network": "",
       "sni": "trial.axo.foundation",
       "host": "",
-      "original": "vless://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#vless-xtls-rprx-vision-udp443-tcp-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#vless-xtls-rprx-vision-udp443-tcp-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "89.58.63.217",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#vless-xtls-rprx-vision-udp443-tcp-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://8f9ef160-7a47-4bde-918a-7ef36d4f2579@trial.axo.foundation:443?allowInsecure=0&sni=trial.axo.foundation&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#vless-xtls-rprx-vision-udp443-tcp-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

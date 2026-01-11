@@ -1,60 +1,19 @@
 {
-  "updated": "2026-01-11T08:21:05.323877",
-  "count": 4,
+  "updated": "2026-01-11T16:18:49.424387",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "TURKIYE.TORPROSPEED.IR",
-      "port": "223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "193.187.132.145",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "TURKIYE.TORPROSPEED.IR",
-      "port": "223",
-      "id": "9c45c382-9b8d-4c55-80b0-889e95f95dbd",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "193.187.132.145",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://9c45c382-9b8d-4c55-80b0-889e95f95dbd@TURKIYE.TORPROSPEED.IR:223?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=excoino.com&amp;fp=firefox&amp;pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&amp;sid=c7f175a94bd79f8d&amp;spx=%2F#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
+      "address": "95.164.116.33",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-114 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "154.205.148.202",
+      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
+      "name": "🇧🇬BG-95.164.116.33-0307",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "95.164.116.33",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "93.114.98.102",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "bed61f51dfec961a",
-      "name": "TR SS-85 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "93.114.98.102",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }
