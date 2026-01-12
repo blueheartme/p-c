@@ -1,34 +1,49 @@
 {
-  "updated": "2026-01-12T08:25:33.362020",
-  "count": 3,
+  "updated": "2026-01-12T16:22:00.939367",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "163.171.115.28",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f1584199f4cb3ca6",
-      "name": "未知 SS-87 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTU4NDE5OWY0Y2IzY2E2@163.171.115.28:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-1",
-      "ip": "163.171.115.28",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTU4NDE5OWY0Y2IzY2E2@163.171.115.28:11201#ss-chacha20-ietf-poly1305-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "s447.okgfw.top",
-      "port": "443",
-      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
-      "name": "未知 VLESS-165 | free-nodes",
-      "network": "tcp",
-      "sni": "u726759ufbf1s447.okgfw.top",
-      "host": "s447.okgfw.top",
-      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-2",
+      "address": "s448.okgfw.top",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-166 | free-nodes",
+      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-1",
       "ip": "47.250.13.203",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-2"
+      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "s446.okgfw.top",
+      "port": "443",
+      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
+      "name": "未知 VLESS-175 | free-nodes",
+      "network": "tcp",
+      "sni": "u726759uaed6s446.okgfw.top",
+      "host": "s446.okgfw.top",
+      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-2",
+      "ip": "47.250.13.203",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vmess",
+      "address": "47.250.45.234",
+      "port": "43063",
+      "id": "c77f48f5-4be3-4461-b52b-49998e7b897b",
+      "name": "🇲🇾MY-47.250.45.234-5057",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "47.250.45.234",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
     },
     {
       "type": "ss",
@@ -36,12 +51,25 @@
       "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-165 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3",
+      "name": "未知 VLESS-163 | free-nodes",
+      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-4",
       "ip": "47.250.13.203",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3"
+      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s447.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s447.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ufbf1s447.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "s446.okgfw.top",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-175 | free-nodes",
+      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-5",
+      "ip": "47.250.13.203",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-5"
     }
   ]
 }

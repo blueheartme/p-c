@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-12T08:25:33.366993",
-  "count": 2,
+  "updated": "2026-01-12T16:22:00.946328",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0337",
+      "name": "🇲🇩MD-213.159.66.206-0294",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "213.159.66.206",
       "country": "BR",
@@ -21,12 +21,27 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-185.192.124.188-0386",
+      "name": "🇧🇷BR-185.192.124.188-0336",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
       "ip": "185.192.124.188",
       "country": "BR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vmess",
+      "address": "95.164.4.88",
+      "port": "80",
+      "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+      "name": "🇧🇷Brazil -> 🇧🇷Brazil ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1CUvCfh6fwn4e3LTMiLCJhZGQiOiI5NS4xNjQuNC44OCIsInBvcnQiOiI4MCIsImlkIjoiYzA0YzNiMzQtNzBmZC00ZmVjLTk2M2UtYzEyZDA5ZjM2YmVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIn0=",
+      "ip": "95.164.4.88",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1CUvCfh6fwn4e3LTMiLCJhZGQiOiI5NS4xNjQuNC44OCIsInBvcnQiOiI4MCIsImlkIjoiYzA0YzNiMzQtNzBmZC00ZmVjLTk2M2UtYzEyZDA5ZjM2YmVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIn0="
     }
   ]
 }

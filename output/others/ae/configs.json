@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-12T08:25:33.385110",
-  "count": 1,
+  "updated": "2026-01-12T16:22:00.945422",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,23 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇦🇪AE-147.78.0.182-0355",
+      "name": "🇦🇪AE-147.78.0.182-0318",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "147.78.0.182",
       "country": "AE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "hysteria2",
+      "address": "193.123.76.84",
+      "port": "443",
+      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "193.123.76.84",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
