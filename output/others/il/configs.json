@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-12T01:20:58.765312",
+  "updated": "2026-01-12T08:25:33.378860",
   "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "89.221.225.15",
+      "type": "vless",
+      "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "yCbQ4bry4otfifK7oel71NaXpPL9pYJb",
-      "name": "🇲🇩MD-89.221.225.15-0306",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1",
-      "ip": "89.221.225.15",
+      "id": "0e8a6896-ad90-4a3b-89a3-77d64aa409e2",
+      "name": "美國",
+      "network": "tcp",
+      "sni": "i2pd.website",
+      "host": "",
+      "original": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1",
+      "ip": "20.217.80.211",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1"
+      "rebuilt": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1"
     },
     {
       "type": "ss",

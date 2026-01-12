@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-12T01:20:58.764517",
+  "updated": "2026-01-12T08:25:33.373002",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "s459.okgg.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
       "name": "TR VLESS-179 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#ss-PH%F0%9F%8C%90-1",
+      "network": "tcp",
+      "sni": "u726759ucfb5s459.okgg.top",
+      "host": "s459.okgg.top",
+      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-PH%F0%9F%8C%90-1",
       "ip": "8.212.173.154",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#ss-PH%F0%9F%8C%90-1"
+      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s459.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s459.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ucfb5s459.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-PH%F0%9F%8C%90-1"
     }
   ]
 }
