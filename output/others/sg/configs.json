@@ -1,7 +1,59 @@
 {
-  "updated": "2026-01-11T16:18:49.399885",
+  "updated": "2026-01-12T01:20:58.752561",
   "count": 6,
   "configs": [
+    {
+      "type": "ss",
+      "address": "s420.okgfw.top",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
+      "name": "SG VLESS-185 | free-nodes",
+      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "47.84.17.214",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "ss",
+      "address": "68.183.227.4",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇸🇬SG-68.183.227.4-0323",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "68.183.227.4",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.135.228.135",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ce1dfbefd0addc9c",
+      "name": "SG SS-61 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "45.135.228.135",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "ss",
+      "address": "167.150.100.115",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pJtDFXMfdW9VNdJpaf4e2LfFkXdWgxrz",
+      "name": "🇸🇬SG-167.150.100.115-0353",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "ip": "167.150.100.115",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+    },
     {
       "type": "ss",
       "address": "194.233.73.51",
@@ -9,11 +61,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "7afa39016d5a409c",
       "name": "SG SS-86 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-5",
       "ip": "194.233.73.51",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "vless",
@@ -24,65 +76,11 @@
       "network": "grpc",
       "sni": "u726759ue461s689.okgfwbackxyz.xyz",
       "host": "s689.okgfwbackxyz.xyz",
-      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-SG%F0%9F%87%B8%F0%9F%87%AC-6",
       "ip": "103.72.62.218",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "ss",
-      "address": "s689.okgfwbackxyz.xyz",
-      "port": "443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=",
-      "method": "",
-      "password": "",
-      "name": "DE VLESS-154 | free-nodes",
-      "original": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "103.72.62.218",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "ss",
-      "address": "68.183.227.4",
-      "port": "8080",
-      "method": "rc4-md5",
-      "password": "14fFPrbezE3HDZzsMOr6",
-      "name": "🇸🇬SG-68.183.227.4-0323",
-      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-4",
-      "ip": "68.183.227.4",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
-    {
-      "type": "ss",
-      "address": "45.135.228.135",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ce1dfbefd0addc9c",
-      "name": "SG SS-61 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "45.135.228.135",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-5"
-    },
-    {
-      "type": "vless",
-      "address": "s420.okgfw.top",
-      "port": "443",
-      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
-      "name": "SG VLESS-185 | free-nodes",
-      "network": "tcp",
-      "sni": "u726759ubca3s420.okgfw.top",
-      "host": "s420.okgfw.top",
-      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-6",
-      "ip": "47.84.17.214",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-6"
+      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-SG%F0%9F%87%B8%F0%9F%87%AC-6"
     }
   ]
 }

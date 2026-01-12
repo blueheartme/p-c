@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-11T16:18:49.413492",
-  "count": 2,
+  "updated": "2026-01-12T01:20:58.723819",
+  "count": 3,
   "configs": [
     {
       "type": "vmess",
@@ -29,6 +29,19 @@
       "country": "AU",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+    },
+    {
+      "type": "ss",
+      "address": "154.26.156.99",
+      "port": "47386",
+      "method": "chacha20-ietf-poly1305",
+      "password": "78322e4b934870b6",
+      "name": "未知 SS-127 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3",
+      "ip": "154.26.156.99",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }
