@@ -1,35 +1,7 @@
 {
-  "updated": "2026-01-13T01:13:59.521187",
-  "count": 5,
+  "updated": "2026-01-13T08:24:14.286283",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-109 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "154.205.148.202",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "198.105.123.182",
-      "port": "2080",
-      "id": "684ead3d-43b1-4707-904a-24e3e9e91fb1",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=722ee6b369#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "198.105.123.182",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=722ee6b369#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
     {
       "type": "ss",
       "address": "93.114.98.102",
@@ -37,11 +9,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "bed61f51dfec961a",
       "name": "未知 SS-81 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "93.114.98.102",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "95.164.116.33",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
+      "name": "🇧🇬BG-95.164.116.33-0327",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "95.164.116.33",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -50,24 +35,24 @@
       "method": "aes-256-gcm",
       "password": "cdBIDV42DCwnfIN",
       "name": "TR SS-138 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "38.180.113.194",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#ss-aes-256-gcm-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
-      "address": "tr.thepon.xyz",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anygo.info",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://46221cac-0d9f-4280-8d6b-12e7f3e58b0c@tr.thepon.xyz:443?security=reality&amp;encryption=none&amp;pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anygo.info#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "62.133.63.229",
+      "address": "154.205.148.202",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "71807718f593d3e6",
+      "name": "TR SS-109 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "154.205.148.202",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://46221cac-0d9f-4280-8d6b-12e7f3e58b0c@tr.thepon.xyz:443?security=reality&amp;encryption=none&amp;pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anygo.info#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

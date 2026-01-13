@@ -1,34 +1,19 @@
 {
-  "updated": "2026-01-13T01:13:59.549403",
-  "count": 2,
+  "updated": "2026-01-13T08:24:14.315099",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "148.135.195.220",
-      "port": "443",
-      "id": "1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e",
-      "name": "未知 VLESS-23 | free-nodes",
-      "network": "tcp",
-      "sni": "msn.com",
-      "host": "",
-      "original": "vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1",
-      "ip": "148.135.195.220",
-      "country": "NO",
-      "cdn": null,
-      "rebuilt": "vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1"
-    },
-    {
       "type": "ss",
-      "address": "148.135.195.220",
-      "port": "443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-23 | free-nodes",
-      "original": "ss://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#ss-NO%F0%9F%8C%90-2",
-      "ip": "148.135.195.220",
+      "address": "107.174.114.71",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D",
+      "name": "🇳🇴NO-107.174.114.71-5105",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1",
+      "ip": "107.174.114.71",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "ss://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#ss-NO%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1"
     }
   ]
 }

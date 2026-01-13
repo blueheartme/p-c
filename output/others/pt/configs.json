@@ -1,34 +1,19 @@
 {
-  "updated": "2026-01-13T01:13:59.540911",
-  "count": 2,
+  "updated": "2026-01-13T08:24:14.308204",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "ip-range.coin.name.ng",
-      "port": "8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-PT%F0%9F%8C%90-1",
-      "ip": "156.243.83.167",
+      "address": "185.113.143.186",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇵🇹PT-185.113.143.186-0342",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.113.143.186:990#ss-chacha20-ietf-poly1305-PT%F0%9F%8C%90-1",
+      "ip": "185.113.143.186",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-PT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "ip-range.coin.name.ng",
-      "port": "8443",
-      "id": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "nexovh09.sepiol.name.NG",
-      "host": "nexovh09.sepiol.name.NG",
-      "original": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#vless-ws-tls-PT%F0%9F%8C%90-2",
-      "ip": "156.243.83.167",
-      "country": "PT",
-      "cdn": null,
-      "rebuilt": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#vless-ws-tls-PT%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.113.143.186:990#ss-chacha20-ietf-poly1305-PT%F0%9F%8C%90-1"
     }
   ]
 }
