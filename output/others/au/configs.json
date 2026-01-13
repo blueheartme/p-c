@@ -1,7 +1,20 @@
 {
-  "updated": "2026-01-12T16:22:00.926093",
-  "count": 1,
+  "updated": "2026-01-13T01:13:59.535269",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "95.111.222.113",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
+      "name": "🇦🇺AU-95.111.222.113-0300",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "95.111.222.113",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
     {
       "type": "vmess",
       "address": "54.206.192.9",
@@ -11,11 +24,11 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0yIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
       "ip": "54.206.192.9",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0yIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
     }
   ]
 }
