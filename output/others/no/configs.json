@@ -1,19 +1,47 @@
 {
-  "updated": "2026-01-13T08:24:14.315099",
-  "count": 1,
+  "updated": "2026-01-13T16:25:16.514527",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "148.135.195.220",
+      "port": "443",
+      "id": "1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e",
+      "name": "未知 VLESS-31 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com#vless-tcp-reality-NO%F0%9F%8C%90-1",
+      "ip": "148.135.195.220",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com#vless-tcp-reality-NO%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "107.174.114.71",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D",
-      "name": "🇳🇴NO-107.174.114.71-5105",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1",
+      "name": "🇳🇴NO-107.174.114.71-5296",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-2",
       "ip": "107.174.114.71",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "148.135.195.220",
+      "port": "443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-31 | free-nodes",
+      "original": "ss://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com#ss-NO%F0%9F%8C%90-3",
+      "ip": "148.135.195.220",
+      "country": "NO",
+      "cdn": null,
+      "rebuilt": "ss://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com#ss-NO%F0%9F%8C%90-3"
     }
   ]
 }
