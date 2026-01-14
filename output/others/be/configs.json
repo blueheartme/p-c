@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-14T01:20:07.785253",
-  "count": 1,
+  "updated": "2026-01-14T08:23:42.886578",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,19 @@
       "country": "BE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "192.71.249.78",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇧🇪BE-192.71.249.78-4975",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2",
+      "ip": "192.71.249.78",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-2"
     }
   ]
 }

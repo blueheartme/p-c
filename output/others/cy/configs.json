@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-12T08:25:33.383728",
+  "updated": "2026-01-14T08:23:42.914486",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "134.255.210.49",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇾CY-134.255.210.49-0404",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1",
-      "ip": "134.255.210.49",
+      "type": "vless",
+      "address": "154.92.9.28",
+      "port": "8443",
+      "id": "a13df940-020c-465f-bc89-ee5279b5cd6a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.28:8443?security=tls&amp;sni=hkh.ylks.xyz&amp;type=ws&amp;path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#vless-tcp-tls-CY%F0%9F%8C%90-1",
+      "ip": "154.92.9.28",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1"
+      "rebuilt": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.28:8443?security=tls&amp;sni=hkh.ylks.xyz&amp;type=ws&amp;path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#vless-tcp-tls-CY%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-14T01:20:07.756448",
-  "count": 4,
+  "updated": "2026-01-14T08:23:42.903646",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇵🇹PT-185.113.143.186-0327",
+      "name": "🇵🇹PT-185.113.143.186-0358",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.113.143.186:990#ss-chacha20-ietf-poly1305-PT%F0%9F%8C%90-1",
       "ip": "185.113.143.186",
       "country": "PT",
@@ -17,44 +17,16 @@
     },
     {
       "type": "ss",
-      "address": "ip-range.coin.name.ng",
-      "port": "8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-PT%F0%9F%8C%90-2",
-      "ip": "156.243.83.167",
-      "country": "PT",
-      "cdn": null,
-      "rebuilt": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-PT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "ip-range.coin.name.ng",
-      "port": "8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nexovh21.sepiol.name.NG&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=nexovh21.sepiol.name.NG",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nexovh21.sepiol.name.NG&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=nexovh21.sepiol.name.NG#ss-PT%F0%9F%8C%90-3",
-      "ip": "156.243.83.167",
-      "country": "PT",
-      "cdn": null,
-      "rebuilt": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nexovh21.sepiol.name.NG&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=nexovh21.sepiol.name.NG#ss-PT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "156.243.83.167",
-      "port": "443",
-      "id": "telegram-id-Arfilter",
+      "port": "443?path=%2F-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn-alman2.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-alman2.arfilter2.blog",
+      "method": "",
+      "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn-alman2.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-alman2.arfilter2.blog#vless-tcp-PT%F0%9F%8C%90-4",
+      "original": "ss://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn-alman2.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-alman2.arfilter2.blog#ss-PT%F0%9F%8C%90-2",
       "ip": "156.243.83.167",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn-alman2.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-alman2.arfilter2.blog#vless-tcp-PT%F0%9F%8C%90-4"
+      "rebuilt": "ss://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn-alman2.arfilter2.blog&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-alman2.arfilter2.blog#ss-PT%F0%9F%8C%90-2"
     }
   ]
 }
