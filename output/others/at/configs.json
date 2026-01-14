@@ -1,22 +1,7 @@
 {
-  "updated": "2026-01-13T16:25:16.556205",
+  "updated": "2026-01-14T01:20:07.751050",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "212.183.88.232",
-      "port": "443",
-      "id": "a13df940-020c-465f-bc89-ee5279b5cd6a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.232:443?security=tls&amp;sni=hkf.ylks.xyz&amp;type=ws&amp;path=/?proxyip#vless-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "212.183.88.232",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.232:443?security=tls&amp;sni=hkf.ylks.xyz&amp;type=ws&amp;path=/?proxyip#vless-tcp-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "dfg.octopusss.net",
@@ -26,11 +11,24 @@
       "network": "grpc",
       "sni": "one-piece.com",
       "host": "",
-      "original": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "152.53.48.237",
+      "original": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "152.53.49.144",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "212.183.88.158",
+      "port": "2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;security=tls&amp;encryption=none&amp;host=sni.111000.de5.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.de5.net",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;security=tls&amp;encryption=none&amp;host=sni.111000.de5.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.de5.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "212.183.88.158",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;security=tls&amp;encryption=none&amp;host=sni.111000.de5.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.de5.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     },
     {
       "type": "ss",
@@ -40,7 +38,7 @@
       "password": "",
       "name": "DE VLESS-17 | free-nodes",
       "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3",
-      "ip": "152.53.48.237",
+      "ip": "152.53.49.144",
       "country": "AT",
       "cdn": null,
       "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-3"
@@ -51,9 +49,9 @@
       "port": "22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2",
       "method": "",
       "password": "",
-      "name": "DE VLESS-23 | free-nodes",
+      "name": "未知 VLESS-36 | free-nodes",
       "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4",
-      "ip": "152.53.48.237",
+      "ip": "152.53.49.144",
       "country": "AT",
       "cdn": null,
       "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#ss-AT%F0%9F%87%A6%F0%9F%87%B9-4"
