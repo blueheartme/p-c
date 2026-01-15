@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-14T16:24:16.919947",
-  "count": 5,
+  "updated": "2026-01-15T01:15:47.332679",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,23 @@
     },
     {
       "type": "vless",
+      "address": "188.114.96.2",
+      "port": "2083",
+      "id": "db4ecb27-6f0e-428a-b716-9f0344f53095",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://db4ecb27-6f0e-428a-b716-9f0344f53095@188.114.96.2:2083?security=tls&amp;sni=join20.maznet.cfd&amp;type=ws&amp;host=join20.maznet.cfd.&amp;path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&amp;fp=chrome&amp;alpn=h3,h2,http/1.1#vless-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "ip": "188.114.96.2",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://db4ecb27-6f0e-428a-b716-9f0344f53095@188.114.96.2:2083?security=tls&amp;sni=join20.maznet.cfd&amp;type=ws&amp;host=join20.maznet.cfd.&amp;path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&amp;fp=chrome&amp;alpn=h3,h2,http/1.1#vless-tcp-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
       "address": "188.114.98.112",
       "port": "80",
       "id": "0991a0c4-0ee5-4213-af89-7ad589f853f3",
@@ -28,30 +45,13 @@
       "network": "ws",
       "sni": "",
       "host": "elenaaaaaaaaaa.cloudns.pro.",
-      "original": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
+      "original": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "188.114.98.112",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "188.114.98.224",
-      "port": "2087",
-      "id": "8443822d-6b68-4af2-d096-c03207ed880d",
-      "name": "FR VLESS-34 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&amp;security=tls&amp;encryption=none&amp;host=vds.rahedarro.com&amp;type=ws&amp;sni=vds.rahedarro.com#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
-      "ip": "188.114.98.224",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&amp;security=tls&amp;encryption=none&amp;host=vds.rahedarro.com&amp;type=ws&amp;sni=vds.rahedarro.com#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -72,6 +72,23 @@
     },
     {
       "type": "vless",
+      "address": "188.114.98.224",
+      "port": "2087",
+      "id": "8443822d-6b68-4af2-d096-c03207ed880d",
+      "name": "FR VLESS-34 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&amp;security=tls&amp;encryption=none&amp;host=vds.rahedarro.com&amp;type=ws&amp;sni=vds.rahedarro.com#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "ip": "188.114.98.224",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&amp;security=tls&amp;encryption=none&amp;host=vds.rahedarro.com&amp;type=ws&amp;sni=vds.rahedarro.com#vless-tcp-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+    },
+    {
+      "type": "vless",
       "address": "oon.visaups.ir",
       "port": "80",
       "id": "087d8602-503b-4091-9f05-44c20792083c",
@@ -79,13 +96,13 @@
       "network": "ws",
       "sni": "",
       "host": "oon.visaups.ir",
-      "original": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "original": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
       "ip": "185.143.233.235",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "rebuilt": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#vless-ws-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }

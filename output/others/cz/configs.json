@@ -1,19 +1,19 @@
 {
-  "updated": "2026-01-14T16:24:16.890866",
-  "count": 6,
+  "updated": "2026-01-15T01:15:47.306451",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "cze01-vlr01.tcp-reset-club.net",
-      "port": "443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=86e999a2cdc2",
+      "address": "78.159.247.74",
+      "port": "3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://0a8998f4-0642-4408-9f74-ac40593efb28@cze01-vlr01.tcp-reset-club.net:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=86e999a2cdc2#ss-CZ%F0%9F%8C%90-1",
-      "ip": "45.15.162.34",
+      "name": "未知 VLESS-141 | free-nodes",
+      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-1",
+      "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://0a8998f4-0642-4408-9f74-ac40593efb28@cze01-vlr01.tcp-reset-club.net:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=86e999a2cdc2#ss-CZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -44,43 +44,32 @@
     {
       "type": "vless",
       "address": "78.159.247.74",
-      "port": "3443",
+      "port": "5444",
       "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
-      "name": "未知 VLESS-126 | free-nodes",
+      "name": "荷蘭",
       "network": "tcp",
       "sni": "max.ru",
       "host": "",
-      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4",
+      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4",
       "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4"
     },
     {
-      "type": "ss",
+      "type": "vless",
       "address": "78.159.247.74",
-      "port": "3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2",
-      "method": "",
-      "password": "",
+      "port": "3443",
+      "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
       "name": "未知 VLESS-141 | free-nodes",
-      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-5",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#vless-tcp-reality-CZ%F0%9F%8C%90-5",
       "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#ss-CZ%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
-      "address": "195.181.160.6",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇿CZ-195.181.160.6-0287",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-6",
-      "ip": "195.181.160.6",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-6"
+      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#vless-tcp-reality-CZ%F0%9F%8C%90-5"
     }
   ]
 }
