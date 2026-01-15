@@ -1,33 +1,7 @@
 {
-  "updated": "2026-01-15T08:24:49.461459",
-  "count": 7,
+  "updated": "2026-01-15T16:29:00.915412",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "217.30.10.18",
-      "port": "9033",
-      "method": "aes-256-cfb",
-      "password": "UTJA57ypk2XKQpnm",
-      "name": "🇵🇱PL-217.30.10.18-4953",
-      "original": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "217.30.10.18",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "51.83.249.182",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "a1f740989a878073",
-      "name": "未知 SS-114 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "51.83.249.182",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
     {
       "type": "ss",
       "address": "51.68.146.248",
@@ -35,11 +9,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "a792ff4b517fdf1c",
       "name": "未知 SS-115 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "51.68.146.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -48,11 +22,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
       "name": "🇵🇱PL-89.223.93.176-0365",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "89.223.93.176",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "51.83.249.182",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "a1f740989a878073",
+      "name": "未知 SS-114 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "51.83.249.182",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "vless",
@@ -63,37 +50,11 @@
       "network": "tcp",
       "sni": "github.com",
       "host": "",
-      "original": "vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "original": "vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4",
       "ip": "45.144.51.22",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-5"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.126.19",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0352",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "45.15.126.19",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6"
-    },
-    {
-      "type": "ss",
-      "address": "45.144.51.22",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "波兰",
-      "original": "ss://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-7",
-      "ip": "45.144.51.22",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }

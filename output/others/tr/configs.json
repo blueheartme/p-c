@@ -1,47 +1,32 @@
 {
-  "updated": "2026-01-15T08:24:49.462452",
-  "count": 6,
+  "updated": "2026-01-15T16:29:00.936610",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-126 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "154.205.148.202",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
       "address": "92.60.70.36",
-      "port": "2053",
-      "id": "08c7f096-d057-4d53-82fd-c739d372887b",
-      "name": "土耳其",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "port": "2053?allowInsecure=0",
+      "method": "",
+      "password": "",
+      "name": "TR VLESS-01 | free-nodes",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?allowInsecure=0#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?allowInsecure=0#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
-      "address": "93.114.98.102",
-      "port": "11201",
+      "address": "45.89.52.98",
+      "port": "10826",
       "method": "chacha20-ietf-poly1305",
-      "password": "bed61f51dfec961a",
-      "name": "TR SS-99 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "93.114.98.102",
+      "password": "LuRLif1Ptivft1GWn3JPWq",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.89.52.98",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -50,37 +35,26 @@
       "method": "",
       "password": "",
       "name": "TR VLESS-01 | free-nodes",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
-      "type": "ss",
-      "address": "95.164.116.33",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
-      "name": "🇧🇬BG-95.164.116.33-0357",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "95.164.116.33",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-5"
-    },
-    {
-      "type": "ss",
+      "type": "vless",
       "address": "92.60.70.36",
-      "port": "2053?allowInsecure=0",
-      "method": "",
-      "password": "",
-      "name": "TR VLESS-01 | free-nodes",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?allowInsecure=0#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "port": "2053",
+      "id": "08c7f096-d057-4d53-82fd-c739d372887b",
+      "name": "DE德国(mibei77.com 米贝节点分享)",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?allowInsecure=0#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
