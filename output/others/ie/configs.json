@@ -1,33 +1,36 @@
 {
-  "updated": "2026-01-15T16:29:00.930468",
-  "count": 3,
+  "updated": "2026-01-16T01:18:03.986227",
+  "count": 5,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "34.254.224.37",
-      "port": "48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=www.bing.com&mode=gun",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=www.bing.com&mode=gun#ss-IE%F0%9F%8C%90-1",
+      "port": "48056",
+      "id": "d811ecf9-4029-4794-a43e-3611c3575b9e",
+      "name": "愛爾蘭",
+      "network": "grpc",
+      "sni": "34.254.224.37",
+      "host": "",
+      "original": "vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=www.bing.com&mode=gun#vless-grpc-tls-chrome-IE%F0%9F%8C%90-1",
       "ip": "34.254.224.37",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=www.bing.com&mode=gun#ss-IE%F0%9F%8C%90-1"
+      "rebuilt": "vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=www.bing.com&mode=gun#vless-grpc-tls-chrome-IE%F0%9F%8C%90-1"
     },
     {
-      "type": "trojan",
-      "address": "34.240.245.22",
-      "port": "22222",
-      "password": "telegram-id-directvpn",
+      "type": "vless",
+      "address": "n-vip.hulkirani1.ir",
+      "port": "80",
+      "id": "b9c20ba9-da82-4082-a97a-977b4fbed67b",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
       "sni": "",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@34.240.245.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2",
-      "ip": "34.240.245.22",
+      "original": "vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=greencp3.global.ssl.fastly.net&amp;type=ws#vless-tcp-IE%F0%9F%8C%90-2",
+      "ip": "199.232.25.242",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://telegram-id-directvpn@34.240.245.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#trojan-tcp-tls-IE%F0%9F%8C%90-2"
+      "rebuilt": "vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=greencp3.global.ssl.fastly.net&amp;type=ws#vless-tcp-IE%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -41,6 +44,34 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=www.bing.com&mode=gun#ss-IE%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "199.232.24.2",
+      "port": "80?mode=auto&amp;path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&amp;security=none&amp;encryption=none&amp;host=Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net&amp;type=xhttp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://Parsashonam-337@199.232.24.2:80?mode=auto&amp;path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&amp;security=none&amp;encryption=none&amp;host=Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net&amp;type=xhttp#ss-IE%F0%9F%8C%90-4",
+      "ip": "199.232.24.2",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Parsashonam-337@199.232.24.2:80?mode=auto&amp;path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&amp;security=none&amp;encryption=none&amp;host=Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net&amp;type=xhttp#ss-IE%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vless",
+      "address": "199.232.24.2",
+      "port": "80",
+      "id": "Parsashonam-337",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://Parsashonam-337@199.232.24.2:80?mode=auto&amp;path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&amp;security=none&amp;encryption=none&amp;host=Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IE%F0%9F%8C%90-5",
+      "ip": "199.232.24.2",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "vless://Parsashonam-337@199.232.24.2:80?mode=auto&amp;path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&amp;security=none&amp;encryption=none&amp;host=Free-V2ray-Bot-Parsashonam3.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-IE%F0%9F%8C%90-5"
     }
   ]
 }
