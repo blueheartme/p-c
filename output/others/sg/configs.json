@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-16T01:18:03.963045",
-  "count": 7,
+  "updated": "2026-01-16T08:23:28.426092",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -8,7 +8,7 @@
       "port": "16922",
       "method": "chacha20-ietf-poly1305",
       "password": "42d2b47181a32de7",
-      "name": "SG SS-63 | free-nodes",
+      "name": "SG SS-42 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "154.26.132.38",
       "country": "SG",
@@ -16,39 +16,39 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
+      "type": "vless",
+      "address": "s420.okgfw.top",
+      "port": "443",
+      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
+      "name": "SG VLESS-181 | free-nodes",
+      "network": "tcp",
+      "sni": "u726759ubca3s420.okgfw.top",
+      "host": "s420.okgfw.top",
+      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "47.84.17.214",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
       "type": "ss",
       "address": "45.135.228.135",
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "ce1dfbefd0addc9c",
-      "name": "SG SS-80 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "name": "SG SS-58 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3",
       "ip": "45.135.228.135",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "vless",
-      "address": "167.172.83.42",
-      "port": "11441",
-      "id": "d7a84b8a-66c3-4b9c-b1b7-d576058c489f",
-      "name": "SG VLESS-11 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "zoom.us",
-      "original": "vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "167.172.83.42",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     },
     {
       "type": "vless",
       "address": "s689.okgfwbackxyz.xyz",
       "port": "443",
       "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
-      "name": "DE VLESS-152 | free-nodes",
+      "name": "DE VLESS-150 | free-nodes",
       "network": "grpc",
       "sni": "u726759ue461s689.okgfwbackxyz.xyz",
       "host": "s689.okgfwbackxyz.xyz",
@@ -57,47 +57,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s689.okgfwbackxyz.xyz:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s689.okgfwbackxyz.xyz&path=&flow=&security=tls&sni=u726759ue461s689.okgfwbackxyz.xyz&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-SG%F0%9F%87%B8%F0%9F%87%AC-4"
-    },
-    {
-      "type": "ss",
-      "address": "167.172.83.42",
-      "port": "11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws",
-      "method": "",
-      "password": "",
-      "name": "SG VLESS-11 | free-nodes",
-      "original": "ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5",
-      "ip": "167.172.83.42",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5"
-    },
-    {
-      "type": "vless",
-      "address": "s420.okgfw.top",
-      "port": "443",
-      "id": "7ea4c8e3-0f76-3231-b5c8-27fed8bbe326",
-      "name": "SG VLESS-183 | free-nodes",
-      "network": "tcp",
-      "sni": "u726759ubca3s420.okgfw.top",
-      "host": "s420.okgfw.top",
-      "original": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-6",
-      "ip": "47.84.17.214",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-6"
-    },
-    {
-      "type": "ss",
-      "address": "194.233.73.51",
-      "port": "48803",
-      "method": "chacha20-ietf-poly1305",
-      "password": "7afa39016d5a409c",
-      "name": "SG SS-100 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-7",
-      "ip": "194.233.73.51",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "updated": "2026-01-15T16:29:00.910331",
+  "updated": "2026-01-16T08:23:28.440282",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "31.14.135.127",
-      "port": "7035",
-      "id": "7d27c544-135d-41a2-bd84-713b8af4f3c2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-1",
-      "ip": "31.14.135.127",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-1"
-    },
-    {
       "type": "ss",
-      "address": "31.14.135.127",
+      "address": "pizaitaliano.gojustore.site",
       "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-2",
+      "original": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-1",
       "ip": "31.14.135.127",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "pizaitaliano.gojustore.site",
+      "port": "7035",
+      "id": "e265fc78-e269-46b2-9b6a-85f573dab3d5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2",
+      "ip": "31.14.135.127",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-2"
     }
   ]
 }

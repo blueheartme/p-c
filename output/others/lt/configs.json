@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-16T01:18:03.987094",
+  "updated": "2026-01-16T08:23:28.444476",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "ns.piche.pw",
-      "port": "8080",
-      "id": "7d591a13-9828-417c-aef9-63859280bb16",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://7d591a13-9828-417c-aef9-63859280bb16@ns.piche.pw:8080?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=BrEw.X-Zula.iR.&amp;type=httpupgrade#vless-tcp-LT%F0%9F%8C%90-1",
-      "ip": "86.38.214.150",
+      "type": "ss",
+      "address": "45.12.136.170",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "l668XHPejoSNNuD66BYzyehaCpZexiF7",
+      "name": "🇨🇾CY-45.12.136.170-0361",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-1",
+      "ip": "45.12.136.170",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://7d591a13-9828-417c-aef9-63859280bb16@ns.piche.pw:8080?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=BrEw.X-Zula.iR.&amp;type=httpupgrade#vless-tcp-LT%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-1"
     }
   ]
 }
