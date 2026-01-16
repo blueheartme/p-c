@@ -1,21 +1,21 @@
 {
-  "updated": "2026-01-16T08:23:28.421452",
-  "count": 4,
+  "updated": "2026-01-16T16:22:18.518609",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "78.159.247.74",
-      "port": "3443",
-      "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
-      "name": "未知 VLESS-136 | free-nodes",
+      "address": "194.182.79.163",
+      "port": "45153",
+      "id": "15efde17-96f5-4cc5-b4d5-1d0ef1e03b6e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#vless-tcp-reality-CZ%F0%9F%8C%90-1",
-      "ip": "78.159.247.74",
+      "original": "vless://15efde17-96f5-4cc5-b4d5-1d0ef1e03b6e@194.182.79.163:45153?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-1",
+      "ip": "194.182.79.163",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru&amp;sid=6ba85179e30d4fc2#vless-tcp-reality-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://15efde17-96f5-4cc5-b4d5-1d0ef1e03b6e@194.182.79.163:45153?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-CZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -32,31 +32,16 @@
     },
     {
       "type": "ss",
-      "address": "195.181.160.6",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇿CZ-195.181.160.6-0345",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-3",
-      "ip": "195.181.160.6",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "78.159.247.74",
-      "port": "5444",
-      "id": "9c4dd65a-7158-4db7-bcef-4b44fb9941f0",
+      "port": "5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
       "name": "俄羅斯",
-      "network": "tcp",
-      "sni": "max.ru",
-      "host": "",
-      "original": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4",
+      "original": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-3",
       "ip": "78.159.247.74",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-4"
+      "rebuilt": "ss://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ss-CZ%F0%9F%8C%90-3"
     }
   ]
 }
