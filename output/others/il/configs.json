@@ -1,19 +1,45 @@
 {
-  "updated": "2026-01-17T08:20:28.248238",
-  "count": 1,
+  "updated": "2026-01-17T16:18:00.229676",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "163.171.213.46",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "d121385f700a6915",
+      "name": "未知 SS-66 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1",
+      "ip": "163.171.213.46",
+      "country": "IL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "89.221.225.15",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "yCbQ4bry4otfifK7oel71NaXpPL9pYJb",
-      "name": "🇲🇩MD-89.221.225.15-0321",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1",
+      "name": "🇲🇩MD-89.221.225.15-0331",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-2",
       "ip": "89.221.225.15",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "5.188.227.18",
+      "port": "11205",
+      "method": "chacha20-ietf-poly1305",
+      "password": "317f13c5c2ebdea3",
+      "name": "未知 SS-69 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11205#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-3",
+      "ip": "5.188.227.18",
+      "country": "IL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11205#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-3"
     }
   ]
 }
