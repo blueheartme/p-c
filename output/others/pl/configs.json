@@ -1,7 +1,74 @@
 {
-  "updated": "2026-01-16T16:22:18.497203",
-  "count": 7,
+  "updated": "2026-01-17T01:14:31.089861",
+  "count": 11,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.15.126.19",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
+      "name": "🇵🇱PL-45.15.126.19-0328",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "45.15.126.19",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9020",
+      "method": "aes-256-cfb",
+      "password": "BNmAXXxAHYpTRdzu",
+      "name": "🇵🇱PL-217.30.10.70-5003",
+      "original": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "145.239.29.93",
+      "port": "48215",
+      "id": "f594396e-0381-474e-b9d7-5c7fb98c6220",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://f594396e-0381-474e-b9d7-5c7fb98c6220@145.239.29.93:48215?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "145.239.29.93",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://f594396e-0381-474e-b9d7-5c7fb98c6220@145.239.29.93:48215?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "ss",
+      "address": "51.83.249.182",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "a1f740989a878073",
+      "name": "未知 SS-92 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "51.83.249.182",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9093",
+      "method": "aes-256-cfb",
+      "password": "wfLC2y7rzZyCmuyt",
+      "name": "🇵🇱PL-217.30.10.70-5006",
+      "original": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
     {
       "type": "vless",
       "address": "185.138.90.31",
@@ -11,11 +78,24 @@
       "network": "tcp",
       "sni": "api-maps.yandex.ru",
       "host": "",
-      "original": "vless://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "vless://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6",
       "ip": "185.138.90.31",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "vless://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9073",
+      "method": "aes-256-cfb",
+      "password": "daFYagqDdBdA6VTX",
+      "name": "🇵🇱PL-217.30.10.70-5013",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
     },
     {
       "type": "ss",
@@ -24,24 +104,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "a792ff4b517fdf1c",
       "name": "未知 SS-93 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-8",
       "ip": "51.68.146.248",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9024",
-      "method": "aes-256-cfb",
-      "password": "BejrQvtu9sqUeNuZ",
-      "name": "🇵🇱PL-217.30.10.70-5009",
-      "original": "ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-8"
     },
     {
       "type": "ss",
@@ -50,50 +117,37 @@
       "method": "",
       "password": "",
       "name": "俄羅斯",
-      "original": "ss://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-9",
       "ip": "185.138.90.31",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://a2affe9a-685f-4063-b22a-27c615a83e74@185.138.90.31:47030?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&headerType=none#ss-PL%F0%9F%87%B5%F0%9F%87%B1-9"
     },
     {
       "type": "ss",
-      "address": "45.15.126.19",
-      "port": "443",
+      "address": "89.223.93.176",
+      "port": "41348",
       "method": "chacha20-ietf-poly1305",
-      "password": "6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t",
-      "name": "🇵🇱PL-45.15.126.19-0328",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "45.15.126.19",
+      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
+      "name": "🇵🇱PL-89.223.93.176-0342",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-10",
+      "ip": "89.223.93.176",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-5"
-    },
-    {
-      "type": "ss",
-      "address": "51.83.249.182",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "a1f740989a878073",
-      "name": "未知 SS-92 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6",
-      "ip": "51.83.249.182",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-6"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-10"
     },
     {
       "type": "ss",
       "address": "217.30.10.70",
-      "port": "9010",
+      "port": "9025",
       "method": "aes-256-cfb",
-      "password": "f63gg8EruDnUrmz4",
-      "name": "🇵🇱PL-217.30.10.70-5002",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7",
+      "password": "XPtzA9sCug3SPR4c",
+      "name": "🇵🇱PL-217.30.10.70-5005",
+      "original": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-11",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-7"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-11"
     }
   ]
 }

@@ -1,33 +1,7 @@
 {
-  "updated": "2026-01-16T16:22:18.516877",
-  "count": 3,
+  "updated": "2026-01-17T01:14:31.111658",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "103.111.115.161",
-      "port": "443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "103.111.115.161",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "ss",
-      "address": "134.209.147.198",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇮🇳IN-134.209.147.198-4775",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "134.209.147.198",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-2"
-    },
     {
       "type": "vless",
       "address": "103.111.115.161",
@@ -37,11 +11,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "original": "vless://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "103.111.115.161",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-3"
+      "rebuilt": "vless://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#vless-tcp-reality-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.111.115.161",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "103.111.115.161",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443?security=reality&amp;encryption=none&amp;pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=1e28103829cd69b6#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
