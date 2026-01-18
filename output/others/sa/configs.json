@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-18T08:21:05.623088",
-  "count": 4,
+  "updated": "2026-01-18T16:18:51.743286",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "81.208.170.142",
-      "port": "1500",
-      "id": "sGLzG6kUwBpZd73sW0nq",
-      "name": "未知 VLESS-46 | free-nodes",
-      "network": "grpc",
-      "sni": "www.ebay.com",
-      "host": "",
-      "original": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1",
-      "ip": "81.208.170.142",
+      "type": "ss",
+      "address": "163.171.207.11",
+      "port": "19688",
+      "method": "chacha20-ietf-poly1305",
+      "password": "638bb05eab35adec",
+      "name": "未知 SS-29 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1",
+      "ip": "163.171.207.11",
       "country": "SA",
       "cdn": null,
-      "rebuilt": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -42,19 +40,6 @@
       "country": "SA",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YmM4ZWVmZmQwMzI1MTQx@154.205.134.251:11201#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "163.171.207.11",
-      "port": "19688",
-      "method": "chacha20-ietf-poly1305",
-      "password": "638bb05eab35adec",
-      "name": "未知 SS-29 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-4",
-      "ip": "163.171.207.11",
-      "country": "SA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-4"
     }
   ]
 }

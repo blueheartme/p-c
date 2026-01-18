@@ -1,34 +1,21 @@
 {
-  "updated": "2026-01-18T08:21:05.650090",
-  "count": 2,
+  "updated": "2026-01-18T16:18:51.737986",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "45.85.93.204",
       "port": "2345",
       "id": "8a92875e-2a19-43c8-8834-c38dc44e4ba7",
-      "name": "未知 VLESS-07 | free-nodes",
+      "name": "瑞士(mibei77.com 米贝节点分享)",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "45.85.93.204",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.85.93.204",
-      "port": "2345?encryption=none&security=none&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "瑞士(mibei77.com 米贝节点分享)",
-      "original": "ss://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "45.85.93.204",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?encryption=none&security=none&type=tcp&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
