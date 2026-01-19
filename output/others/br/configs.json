@@ -1,19 +1,32 @@
 {
-  "updated": "2026-01-19T08:26:35.504308",
-  "count": 4,
+  "updated": "2026-01-19T16:23:06.315780",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "5.188.4.103",
+      "port": "11205",
+      "method": "chacha20-ietf-poly1305",
+      "password": "a7c205642b302c20",
+      "name": "未知 SS-124 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "5.188.4.103",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
     {
       "type": "ss",
       "address": "185.192.124.188",
       "port": "990",
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇭🇷HR-185.192.124.188-0381",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "name": "🇭🇷HR-185.192.124.188-0350",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
       "ip": "185.192.124.188",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -21,38 +34,12 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0353",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "name": "🇲🇩MD-213.159.66.206-0314",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
       "ip": "213.159.66.206",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.90.60.117",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6f3fdf1a9ce11652",
-      "name": "未知 SS-09 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
-      "ip": "154.90.60.117",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.4.103",
-      "port": "11205",
-      "method": "chacha20-ietf-poly1305",
-      "password": "a7c205642b302c20",
-      "name": "未知 SS-114 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-4",
-      "ip": "5.188.4.103",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
     }
   ]
 }
