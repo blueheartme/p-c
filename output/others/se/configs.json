@@ -1,75 +1,32 @@
 {
-  "updated": "2026-01-18T16:18:51.732910",
-  "count": 5,
+  "updated": "2026-01-19T01:21:42.770429",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "ip-range.coin.name.ng",
-      "port": "8443",
-      "id": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+      "port": "8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F",
+      "method": "",
+      "password": "",
       "name": "美国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "nexovh09.sepiol.name.NG",
-      "host": "nexovh09.sepiol.name.NG",
-      "original": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.245",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "ss",
-      "address": "ip-range.coin.name.ng",
-      "port": "8443?sni=nexovh16.sepiol.name.NG&amp;fp=firefox&amp;host=nexovh16.sepiol.name.NG&amp;type=ws&amp;security=tls&amp;path=%2F&amp;encryption=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?sni=nexovh16.sepiol.name.NG&amp;fp=firefox&amp;host=nexovh16.sepiol.name.NG&amp;type=ws&amp;security=tls&amp;path=%2F&amp;encryption=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "192.71.82.245",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?sni=nexovh16.sepiol.name.NG&amp;fp=firefox&amp;host=nexovh16.sepiol.name.NG&amp;type=ws&amp;security=tls&amp;path=%2F&amp;encryption=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "141.227.160.163",
-      "port": "25535",
-      "id": "48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "141.227.160.163",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?encryption=none&security=tls&sni=nexovh09.sepiol.name.NG&type=ws&host=nexovh09.sepiol.name.NG&path=%2F#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
       "address": "141.227.160.163",
-      "port": "25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+      "port": "25537?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "original": "ss://ee99096b-0f43-484a-bfd1-f7ecd75e809e@141.227.160.163:25537?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "141.227.160.163",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://48e7d51d-5f1e-4fc4-9fd1-44a04c532ef2@141.227.160.163:25535?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4"
-    },
-    {
-      "type": "ss",
-      "address": "n-vip.hulkirani1.ir",
-      "port": "80?path=%2F&amp;security=none&amp;encryption=none&amp;host=greencp3.global.ssl.fastly.net&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=greencp3.global.ssl.fastly.net&amp;type=ws#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5",
-      "ip": "199.232.173.242",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "ss://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=greencp3.global.ssl.fastly.net&amp;type=ws#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "ss://ee99096b-0f43-484a-bfd1-f7ecd75e809e@141.227.160.163:25537?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

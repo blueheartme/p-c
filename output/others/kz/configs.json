@@ -1,33 +1,7 @@
 {
-  "updated": "2026-01-18T16:18:51.737283",
-  "count": 3,
+  "updated": "2026-01-19T01:21:42.780859",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "45.159.250.190",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-45.159.250.190-0419",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
-      "ip": "45.159.250.190",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "103.106.3.82",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4SaCIazlgumYkM8FkPzlmwjpyWBDZFBk",
-      "name": "🇰🇿KZ-103.106.3.82-0411",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
-      "ip": "103.106.3.82",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
-    },
     {
       "type": "vless",
       "address": "kz.fasti.win",
@@ -37,11 +11,50 @@
       "network": "tcp",
       "sni": "kz.fasti.win",
       "host": "",
-      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3",
+      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
       "ip": "91.217.10.68",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "kz.fasti.win",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "哈薩克斯坦",
+      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2",
+      "ip": "91.217.10.68",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.159.250.190",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇰🇿KZ-45.159.250.190-0419",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3",
+      "ip": "45.159.250.190",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "103.106.3.82",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "4SaCIazlgumYkM8FkPzlmwjpyWBDZFBk",
+      "name": "🇰🇿KZ-103.106.3.82-0411",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-4",
+      "ip": "103.106.3.82",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-4"
     }
   ]
 }

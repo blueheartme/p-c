@@ -1,32 +1,58 @@
 {
-  "updated": "2026-01-18T16:18:51.742307",
-  "count": 10,
+  "updated": "2026-01-19T01:21:42.756869",
+  "count": 11,
   "configs": [
     {
       "type": "ss",
       "address": "223.95.183.132",
-      "port": "31091",
+      "port": "39398",
       "method": "aes-128-gcm",
       "password": "b637f2e47b7827b308ebf399008075d2",
-      "name": "美國",
-      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:31091#ss-aes-128-gcm-CN%F0%9F%8C%90-1",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:39398#ss-aes-128-gcm-CN%F0%9F%8C%90-1",
       "ip": "223.95.183.132",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:31091#ss-aes-128-gcm-CN%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:39398#ss-aes-128-gcm-CN%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
       "address": "223.95.183.132",
-      "port": "45295",
+      "port": "26334",
       "method": "aes-128-gcm",
       "password": "b637f2e47b7827b308ebf399008075d2",
-      "name": "美國",
-      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:45295#ss-aes-128-gcm-CN%F0%9F%8C%90-2",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:26334#ss-aes-128-gcm-CN%F0%9F%8C%90-2",
       "ip": "223.95.183.132",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:45295#ss-aes-128-gcm-CN%F0%9F%8C%90-2"
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:26334#ss-aes-128-gcm-CN%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "223.95.183.132",
+      "port": "53596",
+      "method": "aes-128-gcm",
+      "password": "b637f2e47b7827b308ebf399008075d2",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:53596#ss-aes-128-gcm-CN%F0%9F%8C%90-3",
+      "ip": "223.95.183.132",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:53596#ss-aes-128-gcm-CN%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "223.95.183.132",
+      "port": "47116",
+      "method": "aes-128-gcm",
+      "password": "b637f2e47b7827b308ebf399008075d2",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:47116#ss-aes-128-gcm-CN%F0%9F%8C%90-4",
+      "ip": "223.95.183.132",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:47116#ss-aes-128-gcm-CN%F0%9F%8C%90-4"
     },
     {
       "type": "vmess",
@@ -37,91 +63,65 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTMiLCJhZGQiOiJmZml3Lm93d29lZHUuY29tIiwicG9ydCI6IjU5NTAzIiwiaWQiOiIyMjY4MWRlMC04OTg1LTQxNjItYWI0OS0wOTY1NTY5ZDU5YzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTUiLCJhZGQiOiJmZml3Lm93d29lZHUuY29tIiwicG9ydCI6IjU5NTAzIiwiaWQiOiIyMjY4MWRlMC04OTg1LTQxNjItYWI0OS0wOTY1NTY5ZDU5YzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
       "ip": "36.141.116.207",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTMiLCJhZGQiOiJmZml3Lm93d29lZHUuY29tIiwicG9ydCI6IjU5NTAzIiwiaWQiOiIyMjY4MWRlMC04OTg1LTQxNjItYWI0OS0wOTY1NTY5ZDU5YzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTUiLCJhZGQiOiJmZml3Lm93d29lZHUuY29tIiwicG9ydCI6IjU5NTAzIiwiaWQiOiIyMjY4MWRlMC04OTg1LTQxNjItYWI0OS0wOTY1NTY5ZDU5YzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0="
     },
     {
       "type": "ss",
-      "address": "223.95.183.132",
-      "port": "26334",
-      "method": "aes-128-gcm",
-      "password": "b637f2e47b7827b308ebf399008075d2",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:26334#ss-aes-128-gcm-CN%F0%9F%8C%90-4",
-      "ip": "223.95.183.132",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:26334#ss-aes-128-gcm-CN%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "223.95.183.132",
-      "port": "28217",
-      "method": "aes-128-gcm",
-      "password": "b637f2e47b7827b308ebf399008075d2",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:28217#ss-aes-128-gcm-CN%F0%9F%8C%90-5",
-      "ip": "223.95.183.132",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI=@223.95.183.132:28217#ss-aes-128-gcm-CN%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
-      "address": "183.232.163.206",
+      "address": "hk11.network-cdn-gw-yd.net",
       "port": "47711",
       "method": "chacha20-ietf-poly1305",
       "password": "e8911ffe-932a-43f6-b9e8-b59d08e19937",
       "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODkxMWZmZS05MzJhLTQzZjYtYjllOC1iNTlkMDhlMTk5Mzc=@183.232.163.206:47711#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-6",
-      "ip": "183.232.163.206",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODkxMWZmZS05MzJhLTQzZjYtYjllOC1iNTlkMDhlMTk5Mzc=@183.232.163.206:47711#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-6"
-    },
-    {
-      "type": "ss",
-      "address": "hk13.network-cdn-gw-yd.net",
-      "port": "32061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "aed6e687-58a9-4836-ba62-7d8184c94df4",
-      "name": "GB英国(mibei77.com 米贝节点分享)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk13.network-cdn-gw-yd.net:32061#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-7",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODkxMWZmZS05MzJhLTQzZjYtYjllOC1iNTlkMDhlMTk5Mzc=@hk11.network-cdn-gw-yd.net:47711#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-6",
       "ip": "120.233.41.64",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk13.network-cdn-gw-yd.net:32061#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-7"
-    },
-    {
-      "type": "ss",
-      "address": "223.95.183.132",
-      "port": "19279",
-      "method": "aes-128-gcm",
-      "password": "b637f2e47b7827b308ebf399008075d2",
-      "name": "中國",
-      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:19279#ss-aes-128-gcm-CN%F0%9F%8C%90-8",
-      "ip": "223.95.183.132",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:19279#ss-aes-128-gcm-CN%F0%9F%8C%90-8"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODkxMWZmZS05MzJhLTQzZjYtYjllOC1iNTlkMDhlMTk5Mzc=@hk11.network-cdn-gw-yd.net:47711#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-6"
     },
     {
       "type": "vmess",
-      "address": "cees.owwoedu.com",
-      "port": "49312",
-      "id": "c93eebed-cdfd-44f5-bdd0-cde9c33adfee",
+      "address": "tunnel2.qqa678.com",
+      "port": "47083",
+      "id": "bde21c3b-7580-4286-a79c-5dc54cf297e0",
       "name": "美国(yudou789.top 玉豆免费节点)",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTkiLCJhZGQiOiJjZWVzLm93d29lZHUuY29tIiwicG9ydCI6IjQ5MzEyIiwiaWQiOiJjOTNlZWJlZC1jZGZkLTQ0ZjUtYmRkMC1jZGU5YzMzYWRmZWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
-      "ip": "36.141.116.207",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTciLCJhZGQiOiJ0dW5uZWwyLnFxYTY3OC5jb20iLCJwb3J0IjoiNDcwODMiLCJpZCI6ImJkZTIxYzNiLTc1ODAtNDI4Ni1hNzljLTVkYzU0Y2YyOTdlMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
+      "ip": "120.198.71.161",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTkiLCJhZGQiOiJjZWVzLm93d29lZHUuY29tIiwicG9ydCI6IjQ5MzEyIiwiaWQiOiJjOTNlZWJlZC1jZGZkLTQ0ZjUtYmRkMC1jZGU5YzMzYWRmZWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTciLCJhZGQiOiJ0dW5uZWwyLnFxYTY3OC5jb20iLCJwb3J0IjoiNDcwODMiLCJpZCI6ImJkZTIxYzNiLTc1ODAtNDI4Ni1hNzljLTVkYzU0Y2YyOTdlMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "223.95.183.132",
+      "port": "45295",
+      "method": "aes-128-gcm",
+      "password": "b637f2e47b7827b308ebf399008075d2",
+      "name": "美國",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:45295#ss-aes-128-gcm-CN%F0%9F%8C%90-8",
+      "ip": "223.95.183.132",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:45295#ss-aes-128-gcm-CN%F0%9F%8C%90-8"
+    },
+    {
+      "type": "ss",
+      "address": "223.95.183.132",
+      "port": "31091",
+      "method": "aes-128-gcm",
+      "password": "b637f2e47b7827b308ebf399008075d2",
+      "name": "美國",
+      "original": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:31091#ss-aes-128-gcm-CN%F0%9F%8C%90-9",
+      "ip": "223.95.183.132",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:31091#ss-aes-128-gcm-CN%F0%9F%8C%90-9"
     },
     {
       "type": "ss",
@@ -135,6 +135,19 @@
       "country": "CN",
       "cdn": null,
       "rebuilt": "ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:25819#ss-aes-128-gcm-CN%F0%9F%8C%90-10"
+    },
+    {
+      "type": "ss",
+      "address": "103.109.23.165",
+      "port": "33007",
+      "method": "chacha20-ietf-poly1305",
+      "password": "sxnCPKb70DGRo62-goXFVHrjzF-5oMbD",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeG5DUEtiNzBER1JvNjItZ29YRlZIcmp6Ri01b01iRA==@103.109.23.165:33007#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-11",
+      "ip": "103.109.23.165",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeG5DUEtiNzBER1JvNjItZ29YRlZIcmp6Ri01b01iRA==@103.109.23.165:33007#ss-chacha20-ietf-poly1305-CN%F0%9F%8C%90-11"
     }
   ]
 }
