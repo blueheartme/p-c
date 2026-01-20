@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-06T01:16:59.947841",
+  "updated": "2026-01-20T08:25:38.026714",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "45.82.249.129",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "未知 VLESS-107 | free-nodes",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1",
+      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "賽普勒斯",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-1",
       "ip": "45.82.249.129",
       "country": "CL",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-1"
     }
   ]
 }

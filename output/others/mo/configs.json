@@ -1,34 +1,35 @@
 {
-  "updated": "2025-12-20T08:19:57.643882",
+  "updated": "2026-01-20T08:25:38.025114",
   "count": 2,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.64.22.55",
+      "type": "vmess",
+      "address": "45.64.22.22",
       "port": "443",
-      "password": "xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA",
-      "name": "未知 TROJAN-555 | free-nodes",
-      "sni": "yokoha.freetrade.link",
-      "host": "",
-      "original": "trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-1",
-      "ip": "45.64.22.55",
+      "id": "e55ed7b2-ed4f-480c-8b99-08482da1e4c7",
+      "name": "🇲🇴MO-45.64.22.22-0127",
+      "network": "ws",
+      "host": "hkbn.pgypgykmoljklj.xyz",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0NS42NC4yMi4yMiIsImFpZCI6MCwiaG9zdCI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6IiwiaWQiOiJlNTVlZDdiMi1lZDRmLTQ4MGMtOGI5OS0wODQ4MmRhMWU0YzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvT0I3alRNNWNUVHJMIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLU1P8J+MkC0xIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "45.64.22.22",
       "country": "MO",
       "cdn": null,
-      "rebuilt": "trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJhZGQiOiI0NS42NC4yMi4yMiIsImFpZCI6MCwiaG9zdCI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6IiwiaWQiOiJlNTVlZDdiMi1lZDRmLTQ4MGMtOGI5OS0wODQ4MmRhMWU0YzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvT0I3alRNNWNUVHJMIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLU1P8J+MkC0xIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
     },
     {
       "type": "trojan",
-      "address": "45.64.22.55",
+      "address": "45.64.22.41",
       "port": "443",
-      "password": "Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS",
-      "name": "未知 TROJAN-369 | free-nodes",
-      "sni": "reooec.freetrade.link",
+      "password": "f2117e99-9b6e-47fd-b0a9-634a0b15b998",
+      "name": "🇲🇴MO-45.64.22.41-0080",
+      "sni": "jgw2.gaox.ml",
       "host": "",
-      "original": "trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.55:443?security=tls&sni=reooec.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-2",
-      "ip": "45.64.22.55",
+      "original": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml#trojan-tcp-tls-MO%F0%9F%8C%90-2",
+      "ip": "45.64.22.41",
       "country": "MO",
       "cdn": null,
-      "rebuilt": "trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.55:443?security=tls&sni=reooec.freetrade.link#trojan-tcp-tls-MO%F0%9F%8C%90-2"
+      "rebuilt": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml#trojan-tcp-tls-MO%F0%9F%8C%90-2"
     }
   ]
 }

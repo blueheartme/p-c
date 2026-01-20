@@ -1,19 +1,66 @@
 {
-  "updated": "2026-01-20T01:16:50.960233",
-  "count": 1,
+  "updated": "2026-01-20T08:25:38.016018",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "134.255.210.49",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇨🇾CY-134.255.210.49-0394",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1",
-      "ip": "134.255.210.49",
+      "type": "vmess",
+      "address": "203.30.190.192",
+      "port": "443",
+      "id": "17b2a313-37a0-4945-a8e4-e63375506b4a",
+      "name": "🏁RELAY-203.30.190.192-0068",
+      "network": "ws",
+      "host": "lg10.cfcdn1.xyz",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMDMuMzAuMTkwLjE5MiIsImFpZCI6MCwiaG9zdCI6ImxnMTAuY2ZjZG4xLnh5eiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0xIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "203.30.190.192",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ss-chacha20-ietf-poly1305-CY%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMzAuMTkwLjE5MiIsImFpZCI6MCwiaG9zdCI6ImxnMTAuY2ZjZG4xLnh5eiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0xIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "203.30.188.189",
+      "port": "443",
+      "id": "56a2188b-2ab7-402c-b9b8-34847fdf0958",
+      "name": "🏁RELAY-203.30.188.189-0041",
+      "network": "ws",
+      "host": "oplg1.zhujicn2.com",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMDMuMzAuMTg4LjE4OSIsImFpZCI6MCwiaG9zdCI6Im9wbGcxLnpodWppY24yLmNvbSIsImlkIjoiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwibmV0Ijoid3MiLCJwYXRoIjoiLzVRTlJPU1JWIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0yIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "203.30.188.189",
+      "country": "CY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMzAuMTg4LjE4OSIsImFpZCI6MCwiaG9zdCI6Im9wbGcxLnpodWppY24yLmNvbSIsImlkIjoiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwibmV0Ijoid3MiLCJwYXRoIjoiLzVRTlJPU1JWIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0yIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "vmess",
+      "address": "203.24.108.9",
+      "port": "443",
+      "id": "56a2188b-2ab7-402c-b9b8-34847fdf0958",
+      "name": "🏁RELAY-203.24.108.9-0090",
+      "network": "ws",
+      "host": "oplg1.zhujicn2.com",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "203.24.108.9",
+      "country": "CY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+    },
+    {
+      "type": "vmess",
+      "address": "203.24.108.8",
+      "port": "443",
+      "id": "40d496a6-ceeb-4096-baeb-4cc52b205621",
+      "name": "🏁RELAY-203.24.108.8-0099",
+      "network": "ws",
+      "host": "lg1.trump2023.us",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjgiLCJhaWQiOjAsImhvc3QiOiJsZzEudHJ1bXAyMDIzLnVzIiwiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvRUNUQ0owREYiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ1nwn4yQLTQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "203.24.108.8",
+      "country": "CY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjgiLCJhaWQiOjAsImhvc3QiOiJsZzEudHJ1bXAyMDIzLnVzIiwiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvRUNUQ0owREYiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ1nwn4yQLTQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
     }
   ]
 }

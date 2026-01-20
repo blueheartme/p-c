@@ -1,19 +1,32 @@
 {
-  "updated": "2026-01-20T01:16:50.941523",
+  "updated": "2026-01-20T08:25:38.009863",
   "count": 6,
   "configs": [
     {
       "type": "ss",
-      "address": "turkiye.torprospeed.ir",
-      "port": "587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "土耳其",
-      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "193.187.132.145",
+      "address": "83.217.9.17",
+      "port": "25232",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bgvLZUfs8sivoB9A7wkYdm",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "83.217.9.17",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "92.60.70.36",
+      "port": "2053?encryption=none&security=none&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "意大利(mibei77.com 米贝节点分享)",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "92.60.70.36",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -24,24 +37,11 @@
       "network": "tcp",
       "sni": "excoino.com",
       "host": "",
-      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "193.187.132.145",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "92.60.70.36",
-      "port": "2053?&type=tcp&headerType=none&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "TR VLESS-16 | free-nodes",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "92.60.70.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
@@ -57,32 +57,30 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
-      "type": "vless",
+      "type": "ss",
       "address": "92.60.70.36",
-      "port": "2053",
-      "id": "08c7f096-d057-4d53-82fd-c739d372887b",
-      "name": "斯洛文尼亞",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "port": "2053?&type=tcp&headerType=none&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "TR VLESS-16 | free-nodes",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     },
     {
       "type": "ss",
-      "address": "92.60.70.36",
-      "port": "2053?encryption=none&security=none&type=tcp&headerType=none",
+      "address": "turkiye.torprospeed.ir",
+      "port": "587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "TR VLESS-08 | free-nodes",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
-      "ip": "92.60.70.36",
+      "name": "土耳其",
+      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "ip": "193.187.132.145",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
     }
   ]
 }
