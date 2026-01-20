@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-19T16:23:06.304092",
+  "updated": "2026-01-20T01:16:50.943188",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "163.171.207.11",
-      "port": "19688",
-      "method": "chacha20-ietf-poly1305",
-      "password": "638bb05eab35adec",
-      "name": "未知 SS-39 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1",
-      "ip": "163.171.207.11",
-      "country": "SA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "81.208.170.142",
@@ -24,11 +11,24 @@
       "network": "grpc",
       "sni": "www.ebay.com",
       "host": "",
-      "original": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-2",
+      "original": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1",
       "ip": "81.208.170.142",
       "country": "SA",
       "cdn": null,
-      "rebuilt": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-2"
+      "rebuilt": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "163.171.207.11",
+      "port": "19688",
+      "method": "chacha20-ietf-poly1305",
+      "password": "638bb05eab35adec",
+      "name": "未知 SS-39 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-2",
+      "ip": "163.171.207.11",
+      "country": "SA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-2"
     }
   ]
 }

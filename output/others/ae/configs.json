@@ -1,18 +1,7 @@
 {
-  "updated": "2026-01-19T16:23:06.304805",
-  "count": 3,
+  "updated": "2026-01-20T01:16:50.925153",
+  "count": 5,
   "configs": [
-    {
-      "type": "hysteria2",
-      "address": "193.123.76.84",
-      "port": "443",
-      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "193.123.76.84",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
     {
       "type": "ss",
       "address": "95.174.68.33",
@@ -20,11 +9,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
       "name": "🇦🇪AE-95.174.68.33-0402",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "95.174.68.33",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
@@ -33,11 +22,54 @@
       "method": "",
       "password": "",
       "name": "伊朗",
-      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "31.57.228.213",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "uaegaming.gojustore.site",
+      "port": "7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "38.180.26.251",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "uaegaming.gojustore.site",
+      "port": "7035",
+      "id": "7d27c544-135d-41a2-bd84-713b8af4f3c2",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "38.180.26.251",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+    },
+    {
+      "type": "vless",
+      "address": "uae.torprospeed.ir",
+      "port": "587",
+      "id": "65a1e22c-d37e-4b92-b6ca-1d09dcd1d441",
+      "name": "伊朗",
+      "network": "tcp",
+      "sni": "excoino.com",
+      "host": "",
+      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "ip": "31.57.228.213",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-5"
     }
   ]
 }
