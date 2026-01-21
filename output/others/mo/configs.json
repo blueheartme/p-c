@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-21T01:19:31.545326",
-  "count": 1,
+  "updated": "2026-01-21T16:35:51.250937",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
       "address": "45.64.22.22",
       "port": "443",
       "id": "e55ed7b2-ed4f-480c-8b99-08482da1e4c7",
-      "name": "🇲🇴MO-45.64.22.22-0137",
+      "name": "🇲🇴MO-45.64.22.22-0000",
       "network": "ws",
       "host": "hkbn.pgypgykmoljklj.xyz",
       "sni": "",
@@ -16,6 +16,20 @@
       "country": "MO",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI0NS42NC4yMi4yMiIsImFpZCI6MCwiaG9zdCI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6IiwiaWQiOiJlNTVlZDdiMi1lZDRmLTQ4MGMtOGI5OS0wODQ4MmRhMWU0YzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvT0I3alRNNWNUVHJMIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLU1P8J+MkC0xIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "trojan",
+      "address": "45.64.22.41",
+      "port": "443",
+      "password": "f2117e99-9b6e-47fd-b0a9-634a0b15b998",
+      "name": "🇲🇴MO-45.64.22.41-0018",
+      "sni": "jgw2.gaox.ml",
+      "host": "",
+      "original": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml#trojan-tcp-tls-MO%F0%9F%8C%90-2",
+      "ip": "45.64.22.41",
+      "country": "MO",
+      "cdn": null,
+      "rebuilt": "trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml#trojan-tcp-tls-MO%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,20 +1,35 @@
 {
-  "updated": "2026-01-21T08:25:47.758411",
-  "count": 1,
+  "updated": "2026-01-21T16:35:51.245394",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
       "address": "109.234.211.66",
       "port": "2087",
       "password": "trojan",
-      "name": "西班牙(yudou789.top 玉豆免费节点)",
+      "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "store.timimi.dpdns.org",
       "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-1",
+      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1",
       "ip": "109.234.211.66",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-1"
+      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.251.80.238",
+      "port": "2096",
+      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+      "name": "西班牙(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "sni.111000.cc.cd",
+      "host": "sni.111000.cc.cd",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2",
+      "ip": "185.251.80.238",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2"
     }
   ]
 }
