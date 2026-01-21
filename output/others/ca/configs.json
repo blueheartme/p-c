@@ -1,34 +1,35 @@
 {
-  "updated": "2026-01-21T01:19:31.550108",
-  "count": 3,
+  "updated": "2026-01-21T08:25:47.752515",
+  "count": 5,
   "configs": [
     {
-      "type": "ss",
-      "address": "148.113.138.47",
-      "port": "48704",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b27bc0b4fad33e46",
-      "name": "CA SS-84 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "148.113.138.47",
+      "type": "vmess",
+      "address": "23.227.38.100",
+      "port": "443",
+      "id": "7b1b2fa3-e361-48cc-b73d-2c9636c76f4b",
+      "name": "🏁RELAY-23.227.38.100-0252",
+      "network": "ws",
+      "host": "v2ray1.zhujicn2.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoidjJyYXkxLnpodWppY24yLm9yZyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "23.227.38.100",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoidjJyYXkxLnpodWppY24yLm9yZyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
     },
     {
-      "type": "vmess",
-      "address": "23.227.38.39",
+      "type": "trojan",
+      "address": "tuntro006.instconn.com",
       "port": "443",
-      "id": "4612618c-24cd-4379-9924-cfdf3d61fa5a",
-      "name": "🏁RELAY-23.227.38.39-0088",
-      "network": "ws",
-      "host": "opfr1.v2rayfree1.xyz",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtMiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "23.227.38.39",
+      "password": "30077070-596e-48ea-9400-14c8ed07bd97",
+      "name": "CA TROJAN-30 | free-nodes",
+      "sni": "torontorm1.686911.xyz",
+      "host": "",
+      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "140.238.147.72",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtMiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vmess",
@@ -44,6 +45,34 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguNDAiLCJhaWQiOjAsImhvc3QiOiJsZzEwLmNmY2RuMS54eXoiLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BMkRKT1BGVCIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+    },
+    {
+      "type": "ss",
+      "address": "148.113.143.102",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "8d90009fa5023cfa",
+      "name": "未知 SS-105 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "148.113.143.102",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+    },
+    {
+      "type": "vmess",
+      "address": "23.227.38.39",
+      "port": "443",
+      "id": "4612618c-24cd-4379-9924-cfdf3d61fa5a",
+      "name": "🏁RELAY-23.227.38.39-0088",
+      "network": "ws",
+      "host": "opfr1.v2rayfree1.xyz",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtNSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "23.227.38.39",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtNSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
     }
   ]
 }
