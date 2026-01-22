@@ -1,22 +1,7 @@
 {
-  "updated": "2026-01-21T16:35:51.220943",
-  "count": 2,
+  "updated": "2026-01-22T01:19:44.865548",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.82.249.129",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "賽普勒斯",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1",
-      "ip": "45.82.249.129",
-      "country": "CL",
-      "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CL%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "45.82.249.129",
@@ -24,11 +9,11 @@
       "method": "",
       "password": "",
       "name": "賽普勒斯",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-2",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-1",
       "ip": "45.82.249.129",
       "country": "CL",
       "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-2"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-CL%F0%9F%8C%90-1"
     }
   ]
 }
