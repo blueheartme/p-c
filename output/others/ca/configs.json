@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-22T08:25:20.799533",
+  "updated": "2026-01-22T16:28:31.586082",
   "count": 5,
   "configs": [
-    {
-      "type": "ss",
-      "address": "148.113.138.47",
-      "port": "48704",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b27bc0b4fad33e46",
-      "name": "CA SS-79 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "148.113.138.47",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "trojan",
       "address": "tuntro006.instconn.com",
@@ -23,11 +10,37 @@
       "name": "CA TROJAN-16 | free-nodes",
       "sni": "torontorm1.686911.xyz",
       "host": "",
-      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "140.238.147.72",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "ss",
+      "address": "85.208.108.60",
+      "port": "6697",
+      "method": "aes-256-gcm",
+      "password": "TEzjfAYq2IjtuoS",
+      "name": "🇨🇦CA-85.208.108.60-0035",
+      "original": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.60:6697#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "85.208.108.60",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.60:6697#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "85.208.108.60",
+      "port": "7307",
+      "method": "aes-256-gcm",
+      "password": "FoOiGlkAA9yPEGP",
+      "name": "🇨🇦CA-85.208.108.60-0036",
+      "original": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7307#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "85.208.108.60",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7307#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     },
     {
       "type": "ss",
@@ -36,24 +49,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "8d90009fa5023cfa",
       "name": "CA SS-100 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "148.113.143.102",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3"
-    },
-    {
-      "type": "ss",
-      "address": "51.161.80.138",
-      "port": "27797",
-      "method": "chacha20-ietf-poly1305",
-      "password": "9f99180fc9211c40",
-      "name": "CA SS-138 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "51.161.80.138",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
       "type": "trojan",

@@ -1,50 +1,7 @@
 {
-  "updated": "2026-01-22T08:25:20.787839",
-  "count": 6,
+  "updated": "2026-01-22T16:28:31.565058",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "92.60.70.36",
-      "port": "2053",
-      "id": "08c7f096-d057-4d53-82fd-c739d372887b",
-      "name": "TR VLESS-30 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "92.60.70.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "5.180.45.36",
-      "port": "443",
-      "id": "e258977b-e413-4718-a3af-02d75492c349",
-      "name": "NL荷兰(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "ww4.xaniujp1.qzz.io",
-      "host": "ww4.xaniujp1.qzz.io",
-      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "5.180.45.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-117 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "154.205.148.202",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
     {
       "type": "ss",
       "address": "5.180.45.36",
@@ -52,24 +9,11 @@
       "method": "",
       "password": "",
       "name": "NL荷兰(mibei77.com 米贝节点分享)",
-      "original": "ss://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "ss://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "5.180.45.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
-    },
-    {
-      "type": "ss",
-      "address": "92.60.70.36",
-      "port": "2053",
-      "method": "",
-      "password": "",
-      "name": "🇮🇹_IT_意大利",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "92.60.70.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "ss://e258977b-e413-4718-a3af-02d75492c349@5.180.45.36:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
@@ -77,12 +21,53 @@
       "port": "2053?encryption=none&security=none&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "俄羅斯",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "name": "TR VLESS-30 | free-nodes",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "turkiye.torprospeed.ir",
+      "port": "587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "土耳其",
+      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "193.187.132.145",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "92.60.70.36",
+      "port": "2053?&type=tcp&headerType=none&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "TR VLESS-30 | free-nodes",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "92.60.70.36",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "92.60.70.36",
+      "port": "2053",
+      "id": "08c7f096-d057-4d53-82fd-c739d372887b",
+      "name": "俄羅斯",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "92.60.70.36",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }

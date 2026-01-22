@@ -1,57 +1,7 @@
 {
-  "updated": "2026-01-22T08:25:20.796109",
-  "count": 8,
+  "updated": "2026-01-22T16:28:31.578410",
+  "count": 5,
   "configs": [
-    {
-      "type": "hysteria2",
-      "address": "193.123.76.84",
-      "port": "443",
-      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "193.123.76.84",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "806",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0127",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:806#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:806#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
-    {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "809",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0126",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3"
-    },
-    {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "811",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0133",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4"
-    },
     {
       "type": "vless",
       "address": "uae.torprospeed.ir",
@@ -61,37 +11,24 @@
       "network": "tcp",
       "sni": "excoino.com",
       "host": "",
-      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "31.57.228.213",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-5"
+      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
-      "address": "45.66.134.176",
-      "port": "803",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0141",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-6",
-      "ip": "45.66.134.176",
+      "address": "86.106.26.239",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ae.fasti.win&amp;sid=feedbacc",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?security=reality&amp;encryption=none&amp;pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ae.fasti.win&amp;sid=feedbacc#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "86.106.26.239",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-6"
-    },
-    {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "807",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0135",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-7",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-7"
+      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?security=reality&amp;encryption=none&amp;pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ae.fasti.win&amp;sid=feedbacc#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "ss",
@@ -100,11 +37,39 @@
       "method": "",
       "password": "",
       "name": "伊朗",
-      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-8",
+      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
       "ip": "31.57.228.213",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-8"
+      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@uae.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "86.106.26.239",
+      "port": "443",
+      "id": "0d93b787-b66b-4696-a036-a0f549764f69",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?security=reality&amp;encryption=none&amp;pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ae.fasti.win&amp;sid=feedbacc#vless-tcp-reality-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "86.106.26.239",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?security=reality&amp;encryption=none&amp;pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ae.fasti.win&amp;sid=feedbacc#vless-tcp-reality-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+    },
+    {
+      "type": "ss",
+      "address": "45.66.134.176",
+      "port": "809",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G!yBwPWH3Vao",
+      "name": "🇬🇧GB-45.66.134.176-0165",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "ip": "45.66.134.176",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5"
     }
   ]
 }
