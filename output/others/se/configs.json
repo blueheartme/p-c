@@ -1,34 +1,19 @@
 {
-  "updated": "2026-01-22T08:25:20.810899",
-  "count": 2,
+  "updated": "2026-01-23T01:17:31.559733",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.146.173.96",
-      "port": "8880",
-      "id": "57ac8853-e24b-43c6-9c01-bba5b5d968e6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://57ac8853-e24b-43c6-9c01-bba5b5d968e6@185.146.173.96:8880?security=none&amp;type=ws&amp;host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "185.146.173.96",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://57ac8853-e24b-43c6-9c01-bba5b5d968e6@185.146.173.96:8880?security=none&amp;type=ws&amp;host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
       "type": "ss",
-      "address": "185.146.173.96",
-      "port": "8880?security=none&amp;type=ws&amp;host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir",
+      "address": "62.182.192.232",
+      "port": "8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://57ac8853-e24b-43c6-9c01-bba5b5d968e6@185.146.173.96:8880?security=none&amp;type=ws&amp;host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "185.146.173.96",
+      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "original": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "62.182.192.232",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://57ac8853-e24b-43c6-9c01-bba5b5d968e6@185.146.173.96:8880?security=none&amp;type=ws&amp;host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
