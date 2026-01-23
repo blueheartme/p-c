@@ -1,21 +1,32 @@
 {
-  "updated": "2026-01-22T16:28:31.594071",
-  "count": 1,
+  "updated": "2026-01-23T08:24:06.594375",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "81.208.170.142",
-      "port": "1500",
-      "id": "sGLzG6kUwBpZd73sW0nq",
-      "name": "未知 VLESS-62 | free-nodes",
-      "network": "grpc",
-      "sni": "www.ebay.com",
-      "host": "",
-      "original": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1",
+      "port": "1500?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&amp;fp=chrome&amp;type=grpc&amp;sni=www.ebay.com&amp;sid=775eb6408888248e",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&amp;fp=chrome&amp;type=grpc&amp;sni=www.ebay.com&amp;sid=775eb6408888248e#ss-SA%F0%9F%8C%90-1",
       "ip": "81.208.170.142",
       "country": "SA",
       "cdn": null,
-      "rebuilt": "vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1"
+      "rebuilt": "ss://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&amp;fp=chrome&amp;type=grpc&amp;sni=www.ebay.com&amp;sid=775eb6408888248e#ss-SA%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "163.171.207.11",
+      "port": "19688",
+      "method": "chacha20-ietf-poly1305",
+      "password": "638bb05eab35adec",
+      "name": "未知 SS-57 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-2",
+      "ip": "163.171.207.11",
+      "country": "SA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-2"
     }
   ]
 }

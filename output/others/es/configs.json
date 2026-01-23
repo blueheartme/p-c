@@ -1,21 +1,7 @@
 {
-  "updated": "2026-01-23T01:17:31.557323",
-  "count": 3,
+  "updated": "2026-01-23T08:24:06.564495",
+  "count": 4,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "2087",
-      "password": "trojan",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "store.timimi.dpdns.org",
-      "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1",
-      "ip": "109.234.211.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "185.251.80.238",
@@ -25,11 +11,11 @@
       "network": "ws",
       "sni": "sni.111000.cc.cd",
       "host": "sni.111000.cc.cd",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-1",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -38,11 +24,38 @@
       "method": "",
       "password": "",
       "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-3",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-2",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-3"
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "109.234.211.66",
+      "port": "2087",
+      "password": "trojan",
+      "name": "西班牙",
+      "sni": "store.timimi.dpdns.org",
+      "host": "store.timimi.dpdns.org",
+      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-3",
+      "ip": "109.234.211.66",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "145.249.109.144",
+      "port": "15544",
+      "method": "chacha20-ietf-poly1305",
+      "password": "wk6lA4XRnEWfEnDrdm0NY6",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4",
+      "ip": "145.249.109.144",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-4"
     }
   ]
 }

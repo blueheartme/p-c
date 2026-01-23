@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-23T01:17:31.559733",
-  "count": 1,
+  "updated": "2026-01-23T08:24:06.598844",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,21 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "62.182.192.232",
+      "port": "8080",
+      "id": "d44175ee-d3e2-45d3-b16a-ea2705cbfe7b",
+      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "original": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "62.182.192.232",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

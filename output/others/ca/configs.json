@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-23T01:17:31.547175",
-  "count": 5,
+  "updated": "2026-01-23T08:24:06.582094",
+  "count": 4,
   "configs": [
     {
       "type": "vmess",
       "address": "23.227.38.100",
       "port": "443",
       "id": "7b1b2fa3-e361-48cc-b73d-2c9636c76f4b",
-      "name": "🏁RELAY-23.227.38.100-0032",
+      "name": "🏁RELAY-23.227.38.100-0033",
       "network": "ws",
       "host": "v2ray1.zhujicn2.org",
       "sni": "",
@@ -23,7 +23,7 @@
       "port": "6697",
       "method": "aes-256-gcm",
       "password": "TEzjfAYq2IjtuoS",
-      "name": "🇨🇦CA-85.208.108.60-0035",
+      "name": "🇨🇦CA-85.208.108.60-0232",
       "original": "ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.60:6697#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "85.208.108.60",
       "country": "CA",
@@ -32,43 +32,30 @@
     },
     {
       "type": "ss",
-      "address": "148.113.138.47",
-      "port": "48704",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b27bc0b4fad33e46",
-      "name": "CA SS-91 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "148.113.138.47",
+      "address": "85.208.108.60",
+      "port": "5600",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "🇨🇦CA-85.208.108.60-0011",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.60:5600#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "85.208.108.60",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.60:5600#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     },
     {
       "type": "trojan",
       "address": "tuntro006.instconn.com",
       "port": "443",
-      "password": "469c8135-8aea-4c7f-8ec2-c5fdfa980b48",
-      "name": "美国(yudou789.top 玉豆免费节点)",
+      "password": "30077070-596e-48ea-9400-14c8ed07bd97",
+      "name": "CA TROJAN-23 | free-nodes",
       "sni": "torontorm1.686911.xyz",
       "host": "",
-      "original": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "140.238.147.72",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "ss",
-      "address": "85.208.108.60",
-      "port": "7307",
-      "method": "aes-256-gcm",
-      "password": "FoOiGlkAA9yPEGP",
-      "name": "🇨🇦CA-85.208.108.60-0036",
-      "original": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7307#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "85.208.108.60",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7307#ss-aes-256-gcm-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     }
   ]
 }
