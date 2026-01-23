@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-23T08:24:06.595891",
-  "count": 1,
+  "updated": "2026-01-23T16:23:43.441133",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,36 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "ali.solnetseven.top",
+      "port": "8080",
+      "id": "ac26aac6-9833-46e3-9629-ec2a87db2355",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=%2Fvip&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "83.228.225.9",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=%2Fvip&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "83.228.230.175",
+      "port": "8880",
+      "id": "52e7723a-b840-4498-9e44-b8dc89d67e1f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.230.175:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "83.228.230.175",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.230.175:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

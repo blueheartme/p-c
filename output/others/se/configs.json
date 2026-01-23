@@ -1,7 +1,35 @@
 {
-  "updated": "2026-01-23T08:24:06.598844",
-  "count": 2,
+  "updated": "2026-01-23T16:23:43.402483",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "172.232.159.142",
+      "port": "8880",
+      "id": "52e7723a-b840-4498-9e44-b8dc89d67e1f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "172.232.159.142",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "ss",
+      "address": "fro.izumii.ir",
+      "port": "8080?security=reality&amp;encryption=none&amp;pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;sid=98815cc9bcf5b56f",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://7938581a-83fa-4d66-bab8-6077a94da389@fro.izumii.ir:8080?security=reality&amp;encryption=none&amp;pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;sid=98815cc9bcf5b56f#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "109.122.201.64",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://7938581a-83fa-4d66-bab8-6077a94da389@fro.izumii.ir:8080?security=reality&amp;encryption=none&amp;pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&amp;sid=98815cc9bcf5b56f#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
     {
       "type": "ss",
       "address": "62.182.192.232",
@@ -9,26 +37,24 @@
       "method": "",
       "password": "",
       "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "original": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3",
       "ip": "62.182.192.232",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     },
     {
-      "type": "vless",
-      "address": "62.182.192.232",
-      "port": "8080",
-      "id": "d44175ee-d3e2-45d3-b16a-ea2705cbfe7b",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "original": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "62.182.192.232",
+      "type": "ss",
+      "address": "172.232.159.142",
+      "port": "8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "172.232.159.142",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "ss://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }

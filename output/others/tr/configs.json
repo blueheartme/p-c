@@ -1,47 +1,73 @@
 {
-  "updated": "2026-01-23T08:24:06.568876",
-  "count": 9,
+  "updated": "2026-01-23T16:23:43.429029",
+  "count": 11,
   "configs": [
     {
+      "type": "ss",
+      "address": "154.205.148.202",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "71807718f593d3e6",
+      "name": "TR SS-128 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "154.205.148.202",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "tr.speeditest.ir",
+      "port": "81?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=excoino.com",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://b6effac4-2883-47ff-8325-93d0a3d75c22@tr.speeditest.ir:81?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=excoino.com#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "213.156.152.171",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://b6effac4-2883-47ff-8325-93d0a3d75c22@tr.speeditest.ir:81?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=excoino.com#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
       "type": "vless",
-      "address": "107.161.174.155",
-      "port": "8443",
-      "id": "48845b16-2920-467d-ad47-cb897df93e76",
+      "address": "dl1.aparat-content.iwantfun.ir",
+      "port": "4450",
+      "id": "3498a813-4682-791e-c331-4ffe42be9105",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://48845b16-2920-467d-ad47-cb897df93e76@107.161.174.155:8443?security=reality&amp;encryption=none&amp;pbk=JwcYeOFGhlDbhTr44h7L7GCE9lirqgd8qSqsBNnX1Dk&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=05de51b169e897de#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "107.161.174.155",
+      "original": "vless://3498a813-4682-791e-c331-4ffe42be9105@dl1.aparat-content.iwantfun.ir:4450?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=docker.com&amp;fp=firefox&amp;pbk=0BufTIBUe4BgWr26bmqrFvMgXY_OJTmDanPYN9wzUzY#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "95.134.130.131",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://48845b16-2920-467d-ad47-cb897df93e76@107.161.174.155:8443?security=reality&amp;encryption=none&amp;pbk=JwcYeOFGhlDbhTr44h7L7GCE9lirqgd8qSqsBNnX1Dk&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=05de51b169e897de#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://3498a813-4682-791e-c331-4ffe42be9105@dl1.aparat-content.iwantfun.ir:4450?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=docker.com&amp;fp=firefox&amp;pbk=0BufTIBUe4BgWr26bmqrFvMgXY_OJTmDanPYN9wzUzY#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
-      "address": "93.114.98.102",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "bed61f51dfec961a",
-      "name": "TR SS-105 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "93.114.98.102",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "ss",
-      "address": "107.161.174.155",
-      "port": "8443?security=reality&amp;encryption=none&amp;pbk=JwcYeOFGhlDbhTr44h7L7GCE9lirqgd8qSqsBNnX1Dk&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=05de51b169e897de",
+      "address": "t.ariyanln.com",
+      "port": "5448?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://48845b16-2920-467d-ad47-cb897df93e76@107.161.174.155:8443?security=reality&amp;encryption=none&amp;pbk=JwcYeOFGhlDbhTr44h7L7GCE9lirqgd8qSqsBNnX1Dk&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=05de51b169e897de#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "107.161.174.155",
+      "original": "ss://0c06cea4-5d42-4697-9be0-b92d45be3c3f@t.ariyanln.com:5448?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "45.92.219.100",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://48845b16-2920-467d-ad47-cb897df93e76@107.161.174.155:8443?security=reality&amp;encryption=none&amp;pbk=JwcYeOFGhlDbhTr44h7L7GCE9lirqgd8qSqsBNnX1Dk&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=05de51b169e897de#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "ss://0c06cea4-5d42-4697-9be0-b92d45be3c3f@t.ariyanln.com:5448?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "ss",
+      "address": "92.60.70.36",
+      "port": "2053",
+      "method": "",
+      "password": "",
+      "name": "🇮🇹_IT_意大利",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "92.60.70.36",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     },
     {
       "type": "vless",
@@ -52,11 +78,26 @@
       "network": "tcp",
       "sni": "excoino.com",
       "host": "",
-      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-6",
       "ip": "193.187.132.145",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+    },
+    {
+      "type": "vless",
+      "address": "t.ariyanln.com",
+      "port": "5448",
+      "id": "0c06cea4-5d42-4697-9be0-b92d45be3c3f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://0c06cea4-5d42-4697-9be0-b92d45be3c3f@t.ariyanln.com:5448?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-7",
+      "ip": "45.92.219.100",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://0c06cea4-5d42-4697-9be0-b92d45be3c3f@t.ariyanln.com:5448?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-7"
     },
     {
       "type": "ss",
@@ -65,37 +106,11 @@
       "method": "",
       "password": "",
       "name": "土耳其",
-      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-8",
       "ip": "193.187.132.145",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
-    },
-    {
-      "type": "ss",
-      "address": "154.205.148.202",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "71807718f593d3e6",
-      "name": "TR SS-128 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-6",
-      "ip": "154.205.148.202",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-6"
-    },
-    {
-      "type": "ss",
-      "address": "trcloud1.w3bschool.ir",
-      "port": "32016?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;path=%2Fk4livpn&amp;host=s7r.ir&amp;sni=google.com&amp;fp=firefox&amp;pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&amp;sid=2a1dbf3db2f9822e",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://33f5249b-422a-4352-bca5-784f2dadb1f8@trcloud1.w3bschool.ir:32016?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;path=%2Fk4livpn&amp;host=s7r.ir&amp;sni=google.com&amp;fp=firefox&amp;pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&amp;sid=2a1dbf3db2f9822e#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7",
-      "ip": "45.144.214.136",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://33f5249b-422a-4352-bca5-784f2dadb1f8@trcloud1.w3bschool.ir:32016?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;path=%2Fk4livpn&amp;host=s7r.ir&amp;sni=google.com&amp;fp=firefox&amp;pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&amp;sid=2a1dbf3db2f9822e#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7"
+      "rebuilt": "ss://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@turkiye.torprospeed.ir:587?encryption=none&security=reality&sni=excoino.com&fp=firefox&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02&type=tcp&headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-8"
     },
     {
       "type": "trojan",
@@ -105,24 +120,37 @@
       "name": "🇹🇷TR-95.85.76.136-0013",
       "sni": "tr1.digisport.shop",
       "host": "",
-      "original": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-8",
+      "original": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-9",
       "ip": "95.85.76.136",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-8"
+      "rebuilt": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-9"
     },
     {
       "type": "ss",
-      "address": "156.146.52.113",
-      "port": "8443?security=reality&amp;encryption=none&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e57932a42872a362",
+      "address": "dl1.aparat-content.iwantfun.ir",
+      "port": "4450?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=docker.com&amp;fp=firefox&amp;pbk=0BufTIBUe4BgWr26bmqrFvMgXY_OJTmDanPYN9wzUzY",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@156.146.52.113:8443?security=reality&amp;encryption=none&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e57932a42872a362#ss-TR%F0%9F%87%B9%F0%9F%87%B7-9",
-      "ip": "156.146.52.113",
+      "original": "ss://3498a813-4682-791e-c331-4ffe42be9105@dl1.aparat-content.iwantfun.ir:4450?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=docker.com&amp;fp=firefox&amp;pbk=0BufTIBUe4BgWr26bmqrFvMgXY_OJTmDanPYN9wzUzY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-10",
+      "ip": "95.134.130.131",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@156.146.52.113:8443?security=reality&amp;encryption=none&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e57932a42872a362#ss-TR%F0%9F%87%B9%F0%9F%87%B7-9"
+      "rebuilt": "ss://3498a813-4682-791e-c331-4ffe42be9105@dl1.aparat-content.iwantfun.ir:4450?security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=docker.com&amp;fp=firefox&amp;pbk=0BufTIBUe4BgWr26bmqrFvMgXY_OJTmDanPYN9wzUzY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-10"
+    },
+    {
+      "type": "ss",
+      "address": "93.114.98.102",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "bed61f51dfec961a",
+      "name": "TR SS-105 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-11",
+      "ip": "93.114.98.102",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWQ2MWY1MWRmZWM5NjFh@93.114.98.102:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-11"
     }
   ]
 }

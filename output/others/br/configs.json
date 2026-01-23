@@ -1,35 +1,7 @@
 {
-  "updated": "2026-01-23T01:17:31.548100",
-  "count": 3,
+  "updated": "2026-01-23T16:23:43.431880",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "45.82.245.39",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "塞浦路斯",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "45.82.245.39",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ss-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.82.245.39",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "塞浦路斯",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-2",
-      "ip": "45.82.245.39",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
     {
       "type": "ss",
       "address": "154.90.60.117",
@@ -37,11 +9,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "6f3fdf1a9ce11652",
       "name": "未知 SS-37 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "154.90.60.117",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }
