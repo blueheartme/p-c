@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-24T01:15:39.321542",
-  "count": 1,
+  "updated": "2026-01-24T08:21:00.169855",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,19 @@
       "country": "PK",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#ss-chacha20-ietf-poly1305-PK%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.205.145.195",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "4c9d81358346ca7f",
+      "name": "未知 SS-72 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzlkODEzNTgzNDZjYTdm@154.205.145.195:11201#ss-chacha20-ietf-poly1305-PK%F0%9F%8C%90-2",
+      "ip": "154.205.145.195",
+      "country": "PK",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzlkODEzNTgzNDZjYTdm@154.205.145.195:11201#ss-chacha20-ietf-poly1305-PK%F0%9F%8C%90-2"
     }
   ]
 }

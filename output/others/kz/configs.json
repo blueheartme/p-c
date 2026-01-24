@@ -1,34 +1,19 @@
 {
-  "updated": "2026-01-24T01:15:39.296854",
-  "count": 11,
+  "updated": "2026-01-24T08:21:00.137855",
+  "count": 10,
   "configs": [
-    {
-      "type": "vless",
-      "address": "91.217.10.68",
-      "port": "443",
-      "id": "0d93b787-b66b-4696-a036-a0f549764f69",
-      "name": "哈薩克",
-      "network": "tcp",
-      "sni": "kz.fasti.win",
-      "host": "",
-      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
-      "ip": "91.217.10.68",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "91.217.10.68",
       "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none",
       "method": "",
       "password": "",
-      "name": "哈薩克",
-      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2",
+      "name": "🇰🇿KZ_2 | ⬇️ 1.1MB/s",
+      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-1",
       "ip": "91.217.10.68",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2"
+      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -37,54 +22,11 @@
       "method": "",
       "password": "",
       "name": "俄羅斯",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2",
       "ip": "5.101.36.153",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "5.101.36.154",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "美国",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4",
-      "ip": "5.101.36.154",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "5.101.36.154",
-      "port": "443",
-      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
-      "name": "美国",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-5",
-      "ip": "5.101.36.154",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-5"
-    },
-    {
-      "type": "vless",
-      "address": "5.101.36.153",
-      "port": "443",
-      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
-      "name": "俄羅斯",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-6",
-      "ip": "5.101.36.153",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-6"
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -93,26 +35,11 @@
       "method": "",
       "password": "",
       "name": "美国",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-7",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3",
       "ip": "5.101.36.152",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-7"
-    },
-    {
-      "type": "vless",
-      "address": "kz.fasti.win",
-      "port": "443",
-      "id": "0d93b787-b66b-4696-a036-a0f549764f69",
-      "name": "美國",
-      "network": "tcp",
-      "sni": "kz.fasti.win",
-      "host": "",
-      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-8",
-      "ip": "91.217.10.68",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-8"
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
@@ -123,26 +50,69 @@
       "network": "tcp",
       "sni": "kz.fasti.win",
       "host": "",
-      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.224.74.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-9",
+      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.224.74.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4",
       "ip": "91.224.74.91",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.224.74.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-9"
+      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.224.74.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
-      "address": "5.101.36.152",
+      "address": "5.101.36.154",
       "port": "443",
       "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
-      "name": "美国",
+      "name": "🇰🇿KZ_1 | ⬇️ 3.2MB/s",
       "network": "tcp",
       "sni": "apple.com",
       "host": "",
-      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-10",
-      "ip": "5.101.36.152",
+      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-5",
+      "ip": "5.101.36.154",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-10"
+      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-5"
+    },
+    {
+      "type": "ss",
+      "address": "5.101.36.154",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "美国",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-6",
+      "ip": "5.101.36.154",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-6"
+    },
+    {
+      "type": "vless",
+      "address": "91.217.10.68",
+      "port": "443",
+      "id": "0d93b787-b66b-4696-a036-a0f549764f69",
+      "name": "🇰🇿KZ_2 | ⬇️ 1.1MB/s",
+      "network": "tcp",
+      "sni": "kz.fasti.win",
+      "host": "",
+      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-7",
+      "ip": "91.217.10.68",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@91.217.10.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-7"
+    },
+    {
+      "type": "vless",
+      "address": "5.101.36.153",
+      "port": "443",
+      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
+      "name": "俄羅斯",
+      "network": "tcp",
+      "sni": "apple.com",
+      "host": "",
+      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-8",
+      "ip": "5.101.36.153",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-8"
     },
     {
       "type": "ss",
@@ -151,11 +121,26 @@
       "method": "",
       "password": "",
       "name": "美國",
-      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-11",
+      "original": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-9",
       "ip": "91.217.10.68",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-11"
+      "rebuilt": "ss://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-9"
+    },
+    {
+      "type": "vless",
+      "address": "kz.fasti.win",
+      "port": "443",
+      "id": "0d93b787-b66b-4696-a036-a0f549764f69",
+      "name": "🇰🇿KZ_3 | ⬇️ 2.4MB/s",
+      "network": "tcp",
+      "sni": "kz.fasti.win",
+      "host": "",
+      "original": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-10",
+      "ip": "91.217.10.68",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://0d93b787-b66b-4696-a036-a0f549764f69@kz.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.fasti.win&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-10"
     }
   ]
 }
