@@ -1,21 +1,34 @@
 {
-  "updated": "2026-01-23T16:23:43.420021",
-  "count": 1,
+  "updated": "2026-01-24T01:15:39.319264",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.15.185.70",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "45.15.185.70",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
     {
       "type": "vmess",
       "address": "54.206.192.9",
       "port": "16407",
       "id": "08f45028-1db6-4e93-bf51-d344b6c71e19",
-      "name": "telegram 🍊 dailyv2ry",
+      "name": "telegram 🎪 dailyv2ry",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0yIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==",
       "ip": "54.206.192.9",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0xIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQVXwn4em8J+Hui0yIiwiYWRkIjoiNTQuMjA2LjE5Mi45IiwicG9ydCI6IjE2NDA3IiwiaWQiOiIwOGY0NTAyOC0xZGI2LTRlOTMtYmY1MS1kMzQ0YjZjNzFlMTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ=="
     }
   ]
 }

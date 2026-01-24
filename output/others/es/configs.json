@@ -1,7 +1,21 @@
 {
-  "updated": "2026-01-23T16:23:43.403437",
+  "updated": "2026-01-24T01:15:39.311797",
   "count": 6,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "109.234.211.66",
+      "port": "2087",
+      "password": "trojan",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "store.timimi.dpdns.org",
+      "host": "store.timimi.dpdns.org",
+      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1",
+      "ip": "109.234.211.66",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "185.251.80.238",
@@ -11,38 +25,39 @@
       "network": "ws",
       "sni": "sni.111000.cc.cd",
       "host": "sni.111000.cc.cd",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-1",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "2087",
-      "password": "trojan",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "store.timimi.dpdns.org",
-      "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-2",
-      "ip": "109.234.211.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
-      "address": "5.22.219.57",
-      "port": "30704?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
+      "address": "imap.roomyinmita.name",
+      "port": "40565",
+      "method": "chacha20-ietf-poly1305",
+      "password": "akvJQzZCaTdisSyuSy3aRmyvKC53X1d3PaAsb9xU8n5TY9hSB1DK5e6SPm921igHcRsCTCvf1pWufTJ5Li8PiiQG4vYdyyM7",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#ss-ES%F0%9F%8C%90-3",
-      "ip": "5.22.219.57",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha3ZKUXpaQ2FUZGlzU3l1U3kzYVJteXZLQzUzWDFkM1BhQXNiOXhVOG41VFk5aFNCMURLNWU2U1BtOTIxaWdIY1JzQ1RDdmYxcFd1ZlRKNUxpOFBpaVFHNHZZZHl5TTc=@imap.roomyinmita.name:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
+      "ip": "94.131.22.134",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#ss-ES%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha3ZKUXpaQ2FUZGlzU3l1U3kzYVJteXZLQzUzWDFkM1BhQXNiOXhVOG41VFk5aFNCMURLNWU2U1BtOTIxaWdIY1JzQ1RDdmYxcFd1ZlRKNUxpOFBpaVFHNHZZZHl5TTc=@imap.roomyinmita.name:40565#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "es.marzxo.biz",
+      "port": "8086",
+      "id": "887c4487-5a14-426c-9c1b-f0b857d6ae06",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://887c4487-5a14-426c-9c1b-f0b857d6ae06@es.marzxo.biz:8086?security=reality&amp;encryption=none&amp;pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=e8ef8df79e4a6343#vless-tcp-reality-ES%F0%9F%8C%90-4",
+      "ip": "37.143.130.49",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://887c4487-5a14-426c-9c1b-f0b857d6ae06@es.marzxo.biz:8086?security=reality&amp;encryption=none&amp;pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=e8ef8df79e4a6343#vless-tcp-reality-ES%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -51,11 +66,11 @@
       "method": "",
       "password": "",
       "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-4",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-5",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-4"
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-5"
     },
     {
       "type": "trojan",
@@ -65,26 +80,11 @@
       "name": "俄罗斯(yudou789.top 玉豆免费节点)",
       "sni": "store.timimi.dpdns.org",
       "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-5",
+      "original": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-6",
       "ip": "109.234.211.66",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-5"
-    },
-    {
-      "type": "vless",
-      "address": "5.22.219.57",
-      "port": "30704",
-      "id": "8658dc4f-2b4e-46d7-831d-17a3def93c00",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#vless-tcp-ES%F0%9F%8C%90-6",
-      "ip": "5.22.219.57",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#vless-tcp-ES%F0%9F%8C%90-6"
+      "rebuilt": "trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-6"
     }
   ]
 }
