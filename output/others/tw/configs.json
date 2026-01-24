@@ -1,34 +1,48 @@
 {
-  "updated": "2026-01-24T08:21:00.153845",
-  "count": 11,
+  "updated": "2026-01-24T16:18:51.890807",
+  "count": 12,
   "configs": [
     {
       "type": "trojan",
       "address": "green2.cdntencentmusic.com",
-      "port": "31101",
-      "password": "91f1ea30-394c-43cf-b407-d0987bcab9af",
-      "name": "美国(yudou789.top 玉豆免费节点)",
+      "port": "31103",
+      "password": "808b5ae2-7b94-43e7-8632-c639c3f72415",
+      "name": "香港",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://91f1ea30-394c-43cf-b407-d0987bcab9af@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "original": "trojan://808b5ae2-7b94-43e7-8632-c639c3f72415@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://91f1ea30-394c-43cf-b407-d0987bcab9af@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "trojan://808b5ae2-7b94-43e7-8632-c639c3f72415@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     },
     {
       "type": "trojan",
       "address": "green2.cdntencentmusic.com",
-      "port": "31101",
-      "password": "040faa11-3aeb-4408-b590-dca4f947705a",
-      "name": "美国(yudou789.top 玉豆免费节点)",
+      "port": "31103",
+      "password": "f016b304-f6cf-4199-b4eb-1f6b4b48f169",
+      "name": "台湾(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://040faa11-3aeb-4408-b590-dca4f947705a@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "original": "trojan://f016b304-f6cf-4199-b4eb-1f6b4b48f169@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://040faa11-3aeb-4408-b590-dca4f947705a@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "trojan://f016b304-f6cf-4199-b4eb-1f6b4b48f169@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+    },
+    {
+      "type": "trojan",
+      "address": "220.130.58.136",
+      "port": "31101",
+      "password": "f847b823-5874-4eaf-9ccc-2307a3f0ca22",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "ip": "220.130.58.136",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
     },
     {
       "type": "trojan",
@@ -38,25 +52,11 @@
       "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://439a4ee0-4103-494a-8323-75a1d6df9aae@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "original": "trojan://439a4ee0-4103-494a-8323-75a1d6df9aae@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://439a4ee0-4103-494a-8323-75a1d6df9aae@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
-    },
-    {
-      "type": "trojan",
-      "address": "green2.cdntencentmusic.com",
-      "port": "31101",
-      "password": "bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
-      "ip": "220.130.58.136",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
+      "rebuilt": "trojan://439a4ee0-4103-494a-8323-75a1d6df9aae@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     },
     {
       "type": "trojan",
@@ -102,17 +102,31 @@
     },
     {
       "type": "trojan",
-      "address": "tuntro011.instconn.com",
-      "port": "40130",
-      "password": "30077070-596e-48ea-9400-14c8ed07bd97",
-      "name": "TW TROJAN-08 | free-nodes",
-      "sni": "cntwbta.686911.xyz",
+      "address": "green2.cdntencentmusic.com",
+      "port": "31101",
+      "password": "040faa11-3aeb-4408-b590-dca4f947705a",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-8",
-      "ip": "111.243.96.31",
+      "original": "trojan://040faa11-3aeb-4408-b590-dca4f947705a@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-8",
+      "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-8"
+      "rebuilt": "trojan://040faa11-3aeb-4408-b590-dca4f947705a@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-8"
+    },
+    {
+      "type": "trojan",
+      "address": "green2.cdntencentmusic.com",
+      "port": "31101",
+      "password": "bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-9",
+      "ip": "220.130.58.136",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-9"
     },
     {
       "type": "trojan",
@@ -122,39 +136,39 @@
       "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://cf92e075-0787-497c-809f-cfd4820bb949@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-9",
+      "original": "trojan://cf92e075-0787-497c-809f-cfd4820bb949@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-10",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://cf92e075-0787-497c-809f-cfd4820bb949@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-9"
+      "rebuilt": "trojan://cf92e075-0787-497c-809f-cfd4820bb949@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-10"
     },
     {
       "type": "trojan",
-      "address": "green2.cdntencentmusic.com",
-      "port": "35501",
-      "password": "9450ab5e-f86f-40c1-89b0-92dfa6679553",
+      "address": "220.130.58.136",
+      "port": "35502",
+      "password": "bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8",
       "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-10",
+      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-11",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-10"
+      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-11"
     },
     {
       "type": "trojan",
       "address": "green2.cdntencentmusic.com",
       "port": "31103",
-      "password": "808b5ae2-7b94-43e7-8632-c639c3f72415",
-      "name": "香港",
+      "password": "a77233e9-abe2-4246-972e-48802c4c04fa",
+      "name": "台湾(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://808b5ae2-7b94-43e7-8632-c639c3f72415@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-11",
+      "original": "trojan://a77233e9-abe2-4246-972e-48802c4c04fa@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-12",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://808b5ae2-7b94-43e7-8632-c639c3f72415@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-11"
+      "rebuilt": "trojan://a77233e9-abe2-4246-972e-48802c4c04fa@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-12"
     }
   ]
 }

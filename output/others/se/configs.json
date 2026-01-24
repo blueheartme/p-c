@@ -1,34 +1,34 @@
 {
-  "updated": "2026-01-24T08:21:00.171712",
+  "updated": "2026-01-24T16:18:51.903147",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "62.182.192.232",
-      "port": "8080",
-      "id": "d44175ee-d3e2-45d3-b16a-ea2705cbfe7b",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "original": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "62.182.192.232",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
     {
       "type": "ss",
       "address": "62.182.192.232",
       "port": "8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun",
       "method": "",
       "password": "",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "original": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "name": "俄罗斯(yudou789.top 玉豆免费节点)",
+      "original": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "62.182.192.232",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "ss://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "62.182.192.232",
+      "port": "8080",
+      "id": "d44175ee-d3e2-45d3-b16a-ea2705cbfe7b",
+      "name": "俄罗斯(yudou789.top 玉豆免费节点)",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "original": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "62.182.192.232",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d44175ee-d3e2-45d3-b16a-ea2705cbfe7b@62.182.192.232:8080?encryption=none&security=none&type=grpc&serviceName=max.ru&mode=gun#vless-grpc-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-24T08:21:00.174142",
-  "count": 1,
+  "updated": "2026-01-24T16:18:51.907757",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "315eb3e160cf2432",
-      "name": "未知 SS-59 | free-nodes",
+      "name": "未知 SS-74 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1",
       "ip": "154.205.152.64",
       "country": "MX",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
+    {
+      "type": "ss",
+      "address": "38.60.224.37",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "651df5dc8fd08d0c",
+      "name": "未知 SS-85 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2",
+      "ip": "38.60.224.37",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2"
     }
   ]
 }
