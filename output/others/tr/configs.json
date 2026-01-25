@@ -1,21 +1,7 @@
 {
-  "updated": "2026-01-25T01:24:55.434816",
-  "count": 5,
+  "updated": "2026-01-25T08:21:32.437089",
+  "count": 7,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "95.85.76.136",
-      "port": "56810",
-      "password": "fEDTdp8Sy1",
-      "name": "🇹🇷TR-95.85.76.136-0046",
-      "sni": "tr1.digisport.shop",
-      "host": "",
-      "original": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "95.85.76.136",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "france.specialmajor2.com",
@@ -25,37 +11,67 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "45.92.219.220",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
-      "address": "france.specialmajor2.com",
-      "port": "5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp",
+      "address": "tr.tcp.shopforkids.ir",
+      "port": "2444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "45.92.219.220",
+      "original": "ss://2ea1c510-9a99-42a2-a89c-e152746dc179@tr.tcp.shopforkids.ir:2444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.141.148.241",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "ss://2ea1c510-9a99-42a2-a89c-e152746dc179@tr.tcp.shopforkids.ir:2444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
-      "type": "ss",
-      "address": "62.133.63.176",
-      "port": "20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "62.133.63.176",
+      "type": "vless",
+      "address": "tr.tcp.shopforkids.ir",
+      "port": "2444",
+      "id": "2ea1c510-9a99-42a2-a89c-e152746dc179",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://2ea1c510-9a99-42a2-a89c-e152746dc179@tr.tcp.shopforkids.ir:2444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "45.141.148.241",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://2ea1c510-9a99-42a2-a89c-e152746dc179@tr.tcp.shopforkids.ir:2444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "trojan",
+      "address": "tr-1.stunnel.cc",
+      "port": "8441",
+      "password": "tunnel-freepersianet",
+      "name": "美國",
+      "sni": "creativecommons.org",
+      "host": "",
+      "original": "trojan://tunnel-freepersianet@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "193.124.46.134",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "trojan://tunnel-freepersianet@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "trojan",
+      "address": "95.85.76.136",
+      "port": "56810",
+      "password": "fEDTdp8Sy1",
+      "name": "🇹🇷TR-95.85.76.136-0046",
+      "sni": "tr1.digisport.shop",
+      "host": "",
+      "original": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "95.85.76.136",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     },
     {
       "type": "vless",
@@ -66,11 +82,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "vless://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-6",
       "ip": "62.133.63.176",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "vless://47cb652e-d31f-4951-87bf-184305c8d964@62.133.63.176:20908?security=reality&amp;encryption=none&amp;pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=divar.ir&amp;sid=eb336182f8c7705d#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+    },
+    {
+      "type": "ss",
+      "address": "france.specialmajor2.com",
+      "port": "5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7",
+      "ip": "45.92.219.220",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://2c118006-a825-416a-9622-740769ca1a11@france.specialmajor2.com:5489?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-7"
     }
   ]
 }
