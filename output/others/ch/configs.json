@@ -1,62 +1,47 @@
 {
-  "updated": "2026-01-25T08:21:32.452161",
-  "count": 4,
+  "updated": "2026-01-25T16:19:56.902452",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ivar.ivarshop.ir",
-      "port": "44521",
-      "id": "7a55b2ba-f03e-4473-843a-15f9e5e097a2",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "195.15.202.129",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "ss",
       "address": "185.126.116.125",
       "port": "9098",
       "method": "aes-256-cfb",
       "password": "aLpQtfEZe445QyHk",
-      "name": "🇨🇭CH-185.126.116.125-0135",
-      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "name": "🇨🇭CH-185.126.116.125-0119",
+      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "185.126.116.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "107.189.31.214",
-      "port": "4443",
-      "id": "9d817aab-913d-427c-a627-270826f7caad",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://9d817aab-913d-427c-a627-270826f7caad@107.189.31.214:4443?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;pbk=-iE1Jni3N2G1FxpUi-C9zvpI8MEgGMLpYeKkVUOvZCQ&amp;sid=492730ada51ce8c2#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "107.189.31.214",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://9d817aab-913d-427c-a627-270826f7caad@107.189.31.214:4443?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;pbk=-iE1Jni3N2G1FxpUi-C9zvpI8MEgGMLpYeKkVUOvZCQ&amp;sid=492730ada51ce8c2#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "ss",
-      "address": "ivar.ivarshop.ir",
-      "port": "44521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp",
+      "address": "spark.persiaserverco.com",
+      "port": "2087?type=tcp&amp;path=%2F&amp;host=iranserver.com&amp;headerType=http&amp;security=none",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "195.15.202.129",
+      "original": "ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&amp;path=%2F&amp;host=iranserver.com&amp;headerType=http&amp;security=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "107.189.10.132",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&amp;path=%2F&amp;host=iranserver.com&amp;headerType=http&amp;security=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "spark.persiaserverco.com",
+      "port": "2087",
+      "id": "23aa242f-09f1-4f7e-8fcc-9d819fd95798",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "original": "vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&amp;path=%2F&amp;host=iranserver.com&amp;headerType=http&amp;security=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "107.189.10.132",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&amp;path=%2F&amp;host=iranserver.com&amp;headerType=http&amp;security=none#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

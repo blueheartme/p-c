@@ -1,32 +1,21 @@
 {
-  "updated": "2026-01-24T08:21:00.172497",
-  "count": 2,
+  "updated": "2026-01-25T16:19:56.907909",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.82.102.204",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "11e520ccbe7365eb",
-      "name": "未知 SS-130 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1",
-      "ip": "45.82.102.204",
+      "type": "vmess",
+      "address": "146.70.157.5",
+      "port": "8880",
+      "id": "7f579426-5a20-4cf6-cc54-943568ccf148",
+      "name": "🇷🇴RO-146.70.157.5-0040",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDYuNzAuMTU3LjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjdmNTc5NDI2LTVhMjAtNGNmNi1jYzU0LTk0MzU2OGNjZjE0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODgwLCJwcyI6InZtZXNzLXdzLWF1dG8tUk/wn4yQLTEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "ip": "146.70.157.5",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ss-chacha20-ietf-poly1305-RO%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "ro.marzxo.biz",
-      "port": "8081?security=reality&amp;encryption=none&amp;pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=e8ef8df79e4a6343",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&amp;encryption=none&amp;pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=e8ef8df79e4a6343#ss-RO%F0%9F%8C%90-2",
-      "ip": "185.126.237.45",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "ss://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&amp;encryption=none&amp;pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=e8ef8df79e4a6343#ss-RO%F0%9F%8C%90-2"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNzAuMTU3LjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjdmNTc5NDI2LTVhMjAtNGNmNi1jYzU0LTk0MzU2OGNjZjE0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODgwLCJwcyI6InZtZXNzLXdzLWF1dG8tUk/wn4yQLTEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
     }
   ]
 }
