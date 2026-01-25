@@ -1,19 +1,34 @@
 {
-  "updated": "2026-01-23T08:24:06.587554",
-  "count": 1,
+  "updated": "2026-01-25T01:24:55.446683",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "154.205.147.105",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4f53937e66f3d673",
+      "address": "canada1.pmcooo.com",
+      "port": "461?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=uptvs.com&amp;type=xhttp",
+      "method": "",
+      "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjUzOTM3ZTY2ZjNkNjcz@154.205.147.105:11201#ss-chacha20-ietf-poly1305-OM%F0%9F%8C%90-1",
-      "ip": "154.205.147.105",
+      "original": "ss://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=uptvs.com&amp;type=xhttp#ss-OM%F0%9F%8C%90-1",
+      "ip": "38.54.116.113",
       "country": "OM",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjUzOTM3ZTY2ZjNkNjcz@154.205.147.105:11201#ss-chacha20-ietf-poly1305-OM%F0%9F%8C%90-1"
+      "rebuilt": "ss://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=uptvs.com&amp;type=xhttp#ss-OM%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "canada1.pmcooo.com",
+      "port": "461",
+      "id": "dd326466-0d62-40b6-9958-72ca35cf0a99",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=uptvs.com&amp;type=xhttp#vless-tcp-OM%F0%9F%8C%90-2",
+      "ip": "38.54.116.113",
+      "country": "OM",
+      "cdn": null,
+      "rebuilt": "vless://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=uptvs.com&amp;type=xhttp#vless-tcp-OM%F0%9F%8C%90-2"
     }
   ]
 }

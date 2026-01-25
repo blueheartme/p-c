@@ -1,36 +1,19 @@
 {
-  "updated": "2026-01-24T16:18:51.901527",
-  "count": 3,
+  "updated": "2026-01-25T01:24:55.443902",
+  "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "italy.aparat-movies-download.ir",
-      "port": "42538",
-      "id": "962575c4-26de-4bd5-bac2-59b863dcdca3",
-      "name": "未知 VLESS-07 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "excoino.com",
-      "original": "vless://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IT%F0%9F%8C%90-1",
-      "ip": "195.231.39.207",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
+      "type": "ss",
       "address": "151.101.241.242",
-      "port": "80",
-      "id": "c82e1b65-8d23-4d2b-9b2d-e1458160466b",
+      "port": "80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws",
+      "method": "",
+      "password": "",
       "name": "🇮🇹_IT_意大利",
-      "network": "ws",
-      "sni": "",
-      "host": "hamrahfor2.global.ssl.fastly.net",
-      "original": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-2",
+      "original": "ss://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#ss-IT%F0%9F%8C%90-1",
       "ip": "151.101.241.242",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#ss-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -39,11 +22,39 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-07 | free-nodes",
-      "original": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-3",
+      "original": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-2",
       "ip": "195.231.39.207",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-3"
+      "rebuilt": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "italy.aparat-movies-download.ir",
+      "port": "42538",
+      "id": "5a76fdef-97a2-43cd-93b9-e9646a7d6a6c",
+      "name": "telegram ☂️ dailyv2ry<br/>vless://e4987084-86c4-428f-82f5-a0516b30a978@g1.sinapp1.com:2099?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#telegram 🍊 dailyv2ry<br/>vless://a4a40e2c-0c8f-4ce4-8e0f-20255464cb6c@ua.whatsmyspeed.ir:42537?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#telegram 🌟 dailyv2ry<br/>vless://79e88c56-dab1-4234-a58c-5d8a3b371b8e@mos-xt.aminv.ir:25443?security=reality&amp;encryption=none&amp;pbk=qhPqPQWDUVniw45FbisKM3MpvbNLhNlGorPhOPF1hC8&amp;headerType=none&amp;fp=firefox&amp;spx=/questions/11227809&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=a567664b1676a3e4#telegram 🚀 dailyv2ry<br/>vless://5050caf4-5814-44ed-a81b-26db0abfabf3@hield.ru:3389?security=reality&amp;encryption=none&amp;pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&amp;headerType=none&amp;fp=ios&amp;spx=/&amp;type=tcp&amp;sni=google.com&amp;sid=0274c94d298e#telegram ⚡️ dailyv2ry<br/>vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@france.novaads.shop:42541?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#telegram 🎯 dailyv2ry<br/>vless://e28ed329-bee3-421a-92f4-683c9293c4f6@ger-ny2.digitalcity1.com:443?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#telegram 🎪 dailyv2ry<br/><br/></pre><br/><br/><a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-IT%F0%9F%8C%90-3",
+      "ip": "195.231.39.207",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#vless-tcp-IT%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "italy.aparat-movies-download.ir",
+      "port": "42538?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
+      "name": "telegram ☂️ dailyv2ry<br/>vlee4987084-86c4-428f-82f5-a0516b30a978",
+      "original": "ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-IT%F0%9F%8C%90-4",
+      "ip": "195.231.39.207",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?security=&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#ss-IT%F0%9F%8C%90-4"
     }
   ]
 }
