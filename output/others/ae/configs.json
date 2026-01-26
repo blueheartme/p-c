@@ -1,19 +1,17 @@
 {
-  "updated": "2026-01-26T08:25:58.057735",
-  "count": 8,
+  "updated": "2026-01-26T16:27:39.819138",
+  "count": 10,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "806",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0142",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:806#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "45.66.134.176",
+      "type": "hysteria2",
+      "address": "193.123.76.84",
+      "port": "443",
+      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
+      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "193.123.76.84",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:806#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
@@ -21,7 +19,7 @@
       "port": "802",
       "method": "chacha20-ietf-poly1305",
       "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0149",
+      "name": "🇬🇧GB-45.66.134.176-0132",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "45.66.134.176",
       "country": "AE",
@@ -29,32 +27,45 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
-      "type": "ss",
-      "address": "cb-uae1.connectbaash.info",
-      "port": "6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "109.61.18.232",
+      "type": "vless",
+      "address": "db.minoosell.ir",
+      "port": "80",
+      "id": "efd90743-5f99-4c63-b0c8-8ee84cf30150",
+      "name": "未知 VLESS-38 | free-nodes",
+      "network": "ws",
+      "sni": "",
+      "host": "minoomizban.ir",
+      "original": "vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?type=ws&path=%2Fws&host=minoomizban.ir&security=none#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "31.57.228.162",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?type=ws&path=%2Fws&host=minoomizban.ir&security=none#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     },
     {
-      "type": "vless",
-      "address": "cb-uae1.connectbaash.info",
-      "port": "6064",
-      "id": "b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "109.61.18.232",
+      "type": "ss",
+      "address": "45.66.134.176",
+      "port": "807",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G!yBwPWH3Vao",
+      "name": "🇬🇧GB-45.66.134.176-0133",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "45.66.134.176",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+    },
+    {
+      "type": "ss",
+      "address": "45.66.134.176",
+      "port": "805",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G!yBwPWH3Vao",
+      "name": "🇬🇧GB-45.66.134.176-0136",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "ip": "45.66.134.176",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5"
     },
     {
       "type": "ss",
@@ -62,23 +73,25 @@
       "port": "801",
       "method": "chacha20-ietf-poly1305",
       "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0152",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5",
+      "name": "🇬🇧GB-45.66.134.176-0135",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-6",
       "ip": "45.66.134.176",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-6"
     },
     {
-      "type": "hysteria2",
-      "address": "193.123.76.84",
-      "port": "443",
-      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-6",
-      "ip": "193.123.76.84",
+      "type": "ss",
+      "address": "db.minoosell.ir",
+      "port": "80?type=ws&path=%2Fws&host=minoomizban.ir&security=none",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-38 | free-nodes",
+      "original": "ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?type=ws&path=%2Fws&host=minoomizban.ir&security=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-7",
+      "ip": "31.57.228.162",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-6"
+      "rebuilt": "ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?type=ws&path=%2Fws&host=minoomizban.ir&security=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-7"
     },
     {
       "type": "ss",
@@ -86,12 +99,12 @@
       "port": "803",
       "method": "chacha20-ietf-poly1305",
       "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0156",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-7",
+      "name": "🇬🇧GB-45.66.134.176-0139",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-8",
       "ip": "45.66.134.176",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-7"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-8"
     },
     {
       "type": "ss",
@@ -99,12 +112,25 @@
       "port": "811",
       "method": "chacha20-ietf-poly1305",
       "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0148",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-8",
+      "name": "🇬🇧GB-45.66.134.176-0131",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-9",
       "ip": "45.66.134.176",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-8"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:811#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-9"
+    },
+    {
+      "type": "ss",
+      "address": "45.66.134.176",
+      "port": "809",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G!yBwPWH3Vao",
+      "name": "🇬🇧GB-45.66.134.176-0124",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-10",
+      "ip": "45.66.134.176",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:809#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-10"
     }
   ]
 }

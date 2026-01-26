@@ -1,47 +1,32 @@
 {
-  "updated": "2026-01-26T08:25:58.097564",
-  "count": 3,
+  "updated": "2026-01-26T16:27:39.839869",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top",
+      "port": "443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-34 | free-nodes",
+      "original": "ss://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.227.202",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "ss",
       "address": "185.126.116.125",
       "port": "9098",
       "method": "aes-256-cfb",
       "password": "aLpQtfEZe445QyHk",
-      "name": "🇨🇭CH-185.126.116.125-0119",
-      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "name": "🇨🇭CH-185.126.116.125-0102",
+      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "185.126.116.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "kapak.primenet4.shop",
-      "port": "12525?encryption=none&amp;security=none&amp;type=ws&amp;host=excoino.com&amp;path=%2Fadmin",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://adb6f254-727e-46c3-a99e-00db460c0e9a@kapak.primenet4.shop:12525?encryption=none&amp;security=none&amp;type=ws&amp;host=excoino.com&amp;path=%2Fadmin#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "83.228.216.125",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://adb6f254-727e-46c3-a99e-00db460c0e9a@kapak.primenet4.shop:12525?encryption=none&amp;security=none&amp;type=ws&amp;host=excoino.com&amp;path=%2Fadmin#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "kapak.primenet4.shop",
-      "port": "12525",
-      "id": "adb6f254-727e-46c3-a99e-00db460c0e9a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://adb6f254-727e-46c3-a99e-00db460c0e9a@kapak.primenet4.shop:12525?encryption=none&amp;security=none&amp;type=ws&amp;host=excoino.com&amp;path=%2Fadmin#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "83.228.216.125",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://adb6f254-727e-46c3-a99e-00db460c0e9a@kapak.primenet4.shop:12525?encryption=none&amp;security=none&amp;type=ws&amp;host=excoino.com&amp;path=%2Fadmin#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

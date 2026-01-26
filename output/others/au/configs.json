@@ -1,19 +1,34 @@
 {
-  "updated": "2026-01-26T08:25:58.104112",
-  "count": 1,
+  "updated": "2026-01-26T16:27:39.844090",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "95.111.222.113",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "95.111.222.113",
+      "address": "162.250.99.21",
+      "port": "30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "162.250.99.21",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "vless",
+      "address": "162.250.99.21",
+      "port": "30654",
+      "id": "15bcfb32-933c-4068-b6af-80932294c9e1",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "162.250.99.21",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }
