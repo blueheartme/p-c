@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-26T01:23:44.222542",
-  "count": 3,
+  "updated": "2026-01-26T08:25:58.094417",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "italy.aparat-movies-download.ir",
-      "port": "42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-07 | free-nodes",
-      "original": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-1",
-      "ip": "195.231.39.207",
+      "type": "vless",
+      "address": "151.101.241.242",
+      "port": "80",
+      "id": "c82e1b65-8d23-4d2b-9b2d-e1458160466b",
+      "name": "🇮🇹_IT_意大利",
+      "network": "ws",
+      "sni": "",
+      "host": "hamrahfor2.global.ssl.fastly.net",
+      "original": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1",
+      "ip": "151.101.241.242",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -29,19 +31,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "151.101.241.242",
-      "port": "80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws",
-      "method": "",
-      "password": "",
-      "name": "🇮🇹_IT_意大利",
-      "original": "ss://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#ss-IT%F0%9F%8C%90-3",
-      "ip": "151.101.241.242",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#ss-IT%F0%9F%8C%90-3"
     }
   ]
 }

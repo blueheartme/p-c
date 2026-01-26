@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-26T01:23:44.219448",
-  "count": 5,
+  "updated": "2026-01-26T08:25:58.092690",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -46,32 +46,17 @@
       "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoidjJyYXkxLnpodWppY24yLm9yZyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1VNVzM2MjYyIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtMyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
     },
     {
-      "type": "vmess",
-      "address": "knd.balouliangzhimao.xyz",
-      "port": "10151",
-      "id": "d744bb69-3ef6-3d90-8695-87b59ac22a02",
-      "name": "✅سرورها بیشتردرکانال:prrofile_purple@✅",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJrbmQuYmFsb3VsaWFuZ3poaW1hby54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDc0NGJiNjktM2VmNi0zZDkwLTg2OTUtODdiNTlhYzIyYTAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDE1MSIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "103.98.215.72",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJrbmQuYmFsb3VsaWFuZ3poaW1hby54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDc0NGJiNjktM2VmNi0zZDkwLTg2OTUtODdiNTlhYzIyYTAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDE1MSIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-    },
-    {
       "type": "ss",
-      "address": "148.113.143.102",
-      "port": "11201",
+      "address": "148.113.138.47",
+      "port": "48704",
       "method": "chacha20-ietf-poly1305",
-      "password": "8d90009fa5023cfa",
-      "name": "CA SS-120 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "148.113.143.102",
+      "password": "b27bc0b4fad33e46",
+      "name": "CA SS-101 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "148.113.138.47",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     }
   ]
 }
