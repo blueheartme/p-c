@@ -1,34 +1,77 @@
 {
-  "updated": "2026-01-27T01:23:01.695356",
-  "count": 3,
+  "updated": "2026-01-27T08:26:44.053103",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.59.117.126",
-      "port": "53436?path=%2F&security=none&encryption=none&type=ws",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-20 | free-nodes",
-      "original": "ss://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "45.59.117.126",
+      "type": "vless",
+      "address": "83.228.230.175",
+      "port": "8880",
+      "id": "4a92cbd1-39c7-4818-9236-dbbb18630c9e",
+      "name": "未知 VLESS-13 | free-nodes",
+      "network": "tcp",
+      "sni": "",
+      "host": "varzesh3.com",
+      "original": "vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.230.175",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "84.234.28.13",
+      "port": "8880",
+      "id": "4a92cbd1-39c7-4818-9236-dbbb18630c9e",
+      "name": "未知 VLESS-05 | free-nodes",
+      "network": "tcp",
+      "sni": "",
+      "host": "varzesh3.com",
+      "original": "vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "84.234.28.13",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
       "address": "45.59.117.126",
       "port": "53436",
       "id": "eade8c20-208a-4d66-b4b1-02c0b65e5c21",
-      "name": "未知 VLESS-20 | free-nodes",
+      "name": "未知 VLESS-47 | free-nodes",
       "network": "ws",
       "sni": "",
       "host": "",
-      "original": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=/&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "45.59.117.126",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=/&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "ss",
+      "address": "83.228.230.175",
+      "port": "8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-13 | free-nodes",
+      "original": "ss://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "83.228.230.175",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
+    {
+      "type": "ss",
+      "address": "84.234.28.13",
+      "port": "8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-05 | free-nodes",
+      "original": "ss://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "84.234.28.13",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     },
     {
       "type": "ss",
@@ -37,11 +80,11 @@
       "method": "aes-256-cfb",
       "password": "aLpQtfEZe445QyHk",
       "name": "🇨🇭CH-185.126.116.125-0102",
-      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-6",
       "ip": "185.126.116.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-6"
     }
   ]
 }

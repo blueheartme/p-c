@@ -1,35 +1,48 @@
 {
-  "updated": "2026-01-27T01:23:01.675844",
-  "count": 5,
+  "updated": "2026-01-27T08:26:44.041682",
+  "count": 6,
   "configs": [
     {
-      "type": "trojan",
-      "address": "tr-1.stunnel.cc",
-      "port": "8441",
-      "password": "tunnel-freepersianet",
-      "name": "土耳其",
-      "sni": "creativecommons.org",
+      "type": "vless",
+      "address": "45.141.148.251",
+      "port": "2083",
+      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
+      "name": "TR VLESS-58 | free-nodes",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "trojan://tunnel-freepersianet@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "193.124.46.134",
+      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "45.141.148.251",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "trojan://tunnel-freepersianet@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
-      "address": "185.212.113.56",
-      "port": "2050",
-      "id": "00000000-0000-4000-8000-000000000000",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)-clone",
-      "network": "ws",
-      "sni": "ennyfe.zipgd3vx91o.ddns-ip.net",
-      "host": "ennyfe.zipgd3vx91o.ddns-ip.net",
-      "original": "vless://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "185.212.113.56",
+      "type": "ss",
+      "address": "154.205.148.202",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "71807718f593d3e6",
+      "name": "TR SS-116 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "154.205.148.202",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#vless-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "trojan",
+      "address": "45.89.52.247",
+      "port": "443",
+      "password": "42bbf526-5530-470a-aeec-3b919b21c58d",
+      "name": "俄羅斯",
+      "sni": "0000.hkvip.ip-ddns.com",
+      "host": "0000.hkvip.ip-ddns.com",
+      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@45.89.52.247:443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "45.89.52.247",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@45.89.52.247:443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
@@ -37,25 +50,26 @@
       "port": "2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38",
       "method": "",
       "password": "",
-      "name": "TR VLESS-35 | free-nodes",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "name": "TR VLESS-58 | free-nodes",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "45.141.148.251",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
-      "type": "ss",
-      "address": "185.212.113.56",
-      "port": "2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi",
-      "method": "",
-      "password": "",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)-clone",
-      "original": "ss://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "185.212.113.56",
+      "type": "trojan",
+      "address": "node-tr-1.v2sv.top",
+      "port": "2083",
+      "password": "nodes-b211f28a",
+      "name": "TR TROJAN-26 | free-nodes",
+      "sni": "node-tr-1.v2sv.top",
+      "host": "",
+      "original": "trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "ip": "185.181.208.21",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://00000000-0000-4000-8000-000000000000@185.212.113.56:2050?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=%2F%40Marisa_kristi#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#trojan-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     },
     {
       "type": "ss",
@@ -64,11 +78,11 @@
       "method": "",
       "password": "",
       "name": "🇮🇹_IT_意大利",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6",
       "ip": "92.60.70.36",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-6"
     }
   ]
 }

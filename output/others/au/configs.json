@@ -1,34 +1,34 @@
 {
-  "updated": "2026-01-26T16:27:39.844090",
+  "updated": "2026-01-27T08:26:44.045725",
   "count": 2,
   "configs": [
     {
       "type": "ss",
       "address": "162.250.99.21",
-      "port": "30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none",
+      "port": "30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "name": "未知 VLESS-24 | free-nodes",
+      "original": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "162.250.99.21",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
       "type": "vless",
       "address": "162.250.99.21",
       "port": "30654",
       "id": "15bcfb32-933c-4068-b6af-80932294c9e1",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
+      "name": "未知 VLESS-24 | free-nodes",
+      "network": "tcp",
       "sni": "",
-      "host": "",
-      "original": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "host": "skyroom.online",
+      "original": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-2",
       "ip": "162.250.99.21",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

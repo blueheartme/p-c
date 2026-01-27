@@ -1,19 +1,34 @@
 {
-  "updated": "2026-01-20T01:16:50.958763",
-  "count": 1,
+  "updated": "2026-01-27T08:26:44.047434",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "176.123.5.253",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇩MD-176.123.5.253-0312",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1",
-      "ip": "176.123.5.253",
+      "type": "vless",
+      "address": "45.86.86.2",
+      "port": "8443",
+      "id": "b6b5fd0d-06de-4a4c-a437-20842c1570de",
+      "name": "未知 VLESS-23 | free-nodes",
+      "network": "tcp",
+      "sni": "tradingview.com",
+      "host": "",
+      "original": "vless://b6b5fd0d-06de-4a4c-a437-20842c1570de@45.86.86.2:8443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=642cc5f1d1585e5e#vless-xtls-rprx-vision-tcp-reality-chrome-MD%F0%9F%8C%90-1",
+      "ip": "45.86.86.2",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1"
+      "rebuilt": "vless://b6b5fd0d-06de-4a4c-a437-20842c1570de@45.86.86.2:8443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=642cc5f1d1585e5e#vless-xtls-rprx-vision-tcp-reality-chrome-MD%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "45.86.86.2",
+      "port": "8443?security=reality&serviseName=",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://b6b5fd0d-06de-4a4c-a437-20842c1570de@45.86.86.2:8443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=642cc5f1d1585e5e#ss-MD%F0%9F%8C%90-2",
+      "ip": "45.86.86.2",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "ss://b6b5fd0d-06de-4a4c-a437-20842c1570de@45.86.86.2:8443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=UcXxe5DhOXmvSidTApgFLPIR6RM9aVGk4LaNrjUFeHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=642cc5f1d1585e5e#ss-MD%F0%9F%8C%90-2"
     }
   ]
 }
