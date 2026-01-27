@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-26T16:27:39.835320",
-  "count": 1,
+  "updated": "2026-01-27T01:23:01.705703",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,21 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vless",
+      "address": "india.novaads.shop",
+      "port": "42537",
+      "id": "5a76fdef-97a2-43cd-93b9-e9646a7d6a6c",
+      "name": "未知 VLESS-74 | free-nodes",
+      "network": "tcp",
+      "sni": "",
+      "host": "excoino.com",
+      "original": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "65.20.71.254",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }

@@ -1,47 +1,21 @@
 {
-  "updated": "2026-01-26T16:27:39.807278",
-  "count": 9,
+  "updated": "2026-01-27T01:23:01.678597",
+  "count": 8,
   "configs": [
     {
       "type": "vless",
       "address": "78.153.139.68",
       "port": "8443",
       "id": "fd8972d7-cf5e-11f0-9970-45e1d80c4039",
-      "name": "芬蘭",
+      "name": "TG@wz2023jd 芬兰 03",
       "network": "tcp",
       "sni": "images.apple.com",
       "host": "",
-      "original": "vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "original": "vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-1",
       "ip": "78.153.139.68",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "ss",
-      "address": "144.31.19.193",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "美國",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "144.31.19.193",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2"
-    },
-    {
-      "type": "ss",
-      "address": "f8.lalash.click",
-      "port": "27732?type=tcp&security=none&headerType=http&host=speedtest.net",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-32 | free-nodes",
-      "original": "ss://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "94.237.16.129",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "ss",
@@ -50,39 +24,11 @@
       "method": "",
       "password": "",
       "name": "芬蘭",
-      "original": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "original": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "78.153.139.68",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4"
-    },
-    {
-      "type": "ss",
-      "address": "78.153.139.68",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "TG@wz2023jd 芬兰 03",
-      "original": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "78.153.139.68",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5"
-    },
-    {
-      "type": "vless",
-      "address": "144.31.19.193",
-      "port": "443",
-      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
-      "name": "美國",
-      "network": "tcp",
-      "sni": "st.ozone.ru",
-      "host": "",
-      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6",
-      "ip": "144.31.19.193",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "ss",
@@ -91,11 +37,37 @@
       "method": "",
       "password": "",
       "name": "Cyprus WorkTitans</pre></div>",
-      "original": "ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#ss-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "original": "ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#ss-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+      "rebuilt": "ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#ss-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+    },
+    {
+      "type": "ss",
+      "address": "f8.lalash.click",
+      "port": "27732?type=tcp&security=none&headerType=http&host=speedtest.net",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-32 | free-nodes",
+      "original": "ss://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "94.237.16.129",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "ss://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#ss-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+    },
+    {
+      "type": "ss",
+      "address": "78.153.139.68",
+      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "芬蘭",
+      "original": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "ip": "78.153.139.68",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     },
     {
       "type": "vless",
@@ -106,11 +78,11 @@
       "network": "tcp",
       "sni": "",
       "host": "speedtest.net",
-      "original": "vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-8",
+      "original": "vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-6",
       "ip": "94.237.16.129",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+      "rebuilt": "vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?type=tcp&security=none&headerType=http&host=speedtest.net#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-6"
     },
     {
       "type": "vless",
@@ -121,11 +93,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-9",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-9"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+    },
+    {
+      "type": "ss",
+      "address": "144.31.19.193",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "美國",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-8",
+      "ip": "144.31.19.193",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#ss-FI%F0%9F%87%AB%F0%9F%87%AE-8"
     }
   ]
 }

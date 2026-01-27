@@ -1,19 +1,34 @@
 {
-  "updated": "2026-01-26T16:27:39.839869",
-  "count": 2,
+  "updated": "2026-01-27T01:23:01.695356",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top",
-      "port": "443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top",
+      "address": "45.59.117.126",
+      "port": "53436?path=%2F&security=none&encryption=none&type=ws",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-34 | free-nodes",
-      "original": "ss://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.227.202",
+      "name": "未知 VLESS-20 | free-nodes",
+      "original": "ss://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.59.117.126",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?type=ws&security=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "ss://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.59.117.126",
+      "port": "53436",
+      "id": "eade8c20-208a-4d66-b4b1-02c0b65e5c21",
+      "name": "未知 VLESS-20 | free-nodes",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "original": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "45.59.117.126",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#vless-ws-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "ss",
@@ -22,11 +37,11 @@
       "method": "aes-256-cfb",
       "password": "aLpQtfEZe445QyHk",
       "name": "🇨🇭CH-185.126.116.125-0102",
-      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "185.126.116.125",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#ss-aes-256-cfb-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

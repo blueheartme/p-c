@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-26T16:27:39.833301",
+  "updated": "2026-01-27T01:23:01.704193",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "154.205.154.200",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4f26d8bb593a5fc5",
-      "name": "未知 SS-118 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1",
-      "ip": "154.205.154.200",
-      "country": "AR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "154.205.154.184",
@@ -22,11 +9,24 @@
       "method": "chacha20-ietf-poly1305",
       "password": "5b978047b47f7eab",
       "name": "未知 SS-79 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1",
       "ip": "154.205.154.184",
       "country": "AR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.205.154.200",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "4f26d8bb593a5fc5",
+      "name": "未知 SS-118 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2",
+      "ip": "154.205.154.200",
+      "country": "AR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2"
     }
   ]
 }
