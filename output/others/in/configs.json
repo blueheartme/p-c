@@ -1,34 +1,19 @@
 {
-  "updated": "2026-01-27T01:23:01.705703",
-  "count": 2,
+  "updated": "2026-01-28T16:29:57.308868",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "india.novaads.shop",
-      "port": "42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-74 | free-nodes",
-      "original": "ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "65.20.71.254",
+      "address": "103.97.203.227",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇮🇳IN-103.97.203.227-4935",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "103.97.203.227",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ss-IN%F0%9F%87%AE%F0%9F%87%B3-1"
-    },
-    {
-      "type": "vless",
-      "address": "india.novaads.shop",
-      "port": "42537",
-      "id": "5a76fdef-97a2-43cd-93b9-e9646a7d6a6c",
-      "name": "未知 VLESS-74 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "excoino.com",
-      "original": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "65.20.71.254",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
