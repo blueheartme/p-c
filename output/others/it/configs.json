@@ -1,36 +1,47 @@
 {
-  "updated": "2026-01-26T08:25:58.094417",
-  "count": 2,
+  "updated": "2026-01-28T08:25:35.190181",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "151.101.241.242",
-      "port": "80",
-      "id": "c82e1b65-8d23-4d2b-9b2d-e1458160466b",
-      "name": "🇮🇹_IT_意大利",
+      "address": "91.201.65.220",
+      "port": "10004",
+      "id": "343cc844-f964-11f0-9840-00163e0951db",
+      "name": "未知 VLESS-62 | free-nodes",
       "network": "ws",
       "sni": "",
-      "host": "hamrahfor2.global.ssl.fastly.net",
-      "original": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1",
-      "ip": "151.101.241.242",
+      "host": "",
+      "original": "vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1",
+      "ip": "91.201.65.220",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://c82e1b65-8d23-4d2b-9b2d-e1458160466b@151.101.241.242:80?path=%2FUpload&security=none&encryption=none&host=hamrahfor2.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "italy.aparat-movies-download.ir",
-      "port": "42538",
-      "id": "962575c4-26de-4bd5-bac2-59b863dcdca3",
-      "name": "未知 VLESS-07 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "excoino.com",
-      "original": "vless://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IT%F0%9F%8C%90-2",
-      "ip": "195.231.39.207",
+      "type": "ss",
+      "address": "91.201.65.220",
+      "port": "10004?path=/vpnjantit&security=none&encryption=none&type=ws",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-62 | free-nodes",
+      "original": "ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#ss-IT%F0%9F%8C%90-2",
+      "ip": "91.201.65.220",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://962575c4-26de-4bd5-bac2-59b863dcdca3@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#ss-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "217.12.219.51",
+      "port": "443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=65ce6cee3941af69",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-107 | free-nodes",
+      "original": "ss://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.51:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=65ce6cee3941af69#ss-IT%F0%9F%8C%90-3",
+      "ip": "217.12.219.51",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.51:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=65ce6cee3941af69#ss-IT%F0%9F%8C%90-3"
     }
   ]
 }

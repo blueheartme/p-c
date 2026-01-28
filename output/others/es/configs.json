@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-28T01:18:58.196433",
-  "count": 6,
+  "updated": "2026-01-28T08:25:35.242200",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "5.22.219.57",
+      "port": "30704",
+      "id": "8658dc4f-2b4e-46d7-831d-17a3def93c00",
+      "name": "未知 VLESS-89 | free-nodes",
+      "network": "tcp",
+      "sni": "",
+      "host": "soft98.ir",
+      "original": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#vless-tcp-http-ES%F0%9F%8C%90-1",
+      "ip": "5.22.219.57",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#vless-tcp-http-ES%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "185.251.80.238",
@@ -9,53 +24,25 @@
       "method": "",
       "password": "",
       "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-1",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-2",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-2"
     },
     {
       "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "2087",
-      "password": "trojan",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "store.timimi.dpdns.org",
-      "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-2",
-      "ip": "109.234.211.66",
+      "address": "193.17.183.157",
+      "port": "2053",
+      "password": "42bbf526-5530-470a-aeec-3b919b21c58d",
+      "name": "西班牙",
+      "sni": "0000.hkvip.ip-ddns.com",
+      "host": "0000.hkvip.ip-ddns.com",
+      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@193.17.183.157:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-ES%F0%9F%8C%90-3",
+      "ip": "193.17.183.157",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "5.22.219.57",
-      "port": "30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-65 | free-nodes",
-      "original": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#ss-ES%F0%9F%8C%90-3",
-      "ip": "5.22.219.57",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#ss-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "5.22.219.57",
-      "port": "30704",
-      "id": "8658dc4f-2b4e-46d7-831d-17a3def93c00",
-      "name": "未知 VLESS-65 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "soft98.ir",
-      "original": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#vless-tcp-http-ES%F0%9F%8C%90-4",
-      "ip": "5.22.219.57",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#vless-tcp-http-ES%F0%9F%8C%90-4"
+      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@193.17.183.157:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-ES%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
@@ -66,25 +53,24 @@
       "network": "ws",
       "sni": "sni.111000.cc.cd",
       "host": "sni.111000.cc.cd",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-5",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-4",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-5"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-4"
     },
     {
-      "type": "trojan",
-      "address": "193.17.183.157",
-      "port": "8443",
-      "password": "42bbf526-5530-470a-aeec-3b919b21c58d",
-      "name": "西班牙",
-      "sni": "0000.hkvip.ip-ddns.com",
-      "host": "0000.hkvip.ip-ddns.com",
-      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@193.17.183.157:8443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-ES%F0%9F%8C%90-6",
-      "ip": "193.17.183.157",
+      "type": "ss",
+      "address": "5.22.219.57",
+      "port": "30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-65 | free-nodes",
+      "original": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#ss-ES%F0%9F%8C%90-5",
+      "ip": "5.22.219.57",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@193.17.183.157:8443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-ES%F0%9F%8C%90-6"
+      "rebuilt": "ss://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#ss-ES%F0%9F%8C%90-5"
     }
   ]
 }

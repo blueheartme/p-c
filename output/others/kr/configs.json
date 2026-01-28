@@ -1,21 +1,47 @@
 {
-  "updated": "2026-01-28T01:18:58.214337",
-  "count": 4,
+  "updated": "2026-01-28T08:25:35.238688",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
-      "address": "152.70.253.84",
-      "port": "8443",
-      "id": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@152.70.253.84:8443?encryption=none&amp;amp;security=tls&amp;amp;sni=sni.111000.cc.cd&amp;amp;type=ws&amp;amp;host=sni.111000.cc.cd&amp;amp;path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "152.70.253.84",
+      "address": "s456.okgg.top",
+      "port": "443",
+      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
+      "name": "HK VLESS-159 | free-nodes",
+      "network": "tcp",
+      "sni": "u730537ufae3s456.okgg.top",
+      "host": "s456.okgg.top",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "47.80.8.8",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@152.70.253.84:8443?encryption=none&amp;amp;security=tls&amp;amp;sni=sni.111000.cc.cd&amp;amp;type=ws&amp;amp;host=sni.111000.cc.cd&amp;amp;path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
+    {
+      "type": "hysteria2",
+      "address": "kr2.miyazono-kaori.com",
+      "port": "42382",
+      "name": "🇰🇷KR_1 | ⬇️ 5.4MB/s",
+      "original": "hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@kr2.miyazono-kaori.com:42382?sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc&insecure=0#hysteria2-udp-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "158.180.87.202",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@kr2.miyazono-kaori.com:42382?sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc&insecure=0#hysteria2-udp-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "s458.okgg.top",
+      "port": "443",
+      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
+      "name": "HK VLESS-157 | free-nodes",
+      "network": "tcp",
+      "sni": "u730537ua7f6s458.okgg.top",
+      "host": "s458.okgg.top",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s458.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s458.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ua7f6s458.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-3",
+      "ip": "47.80.8.8",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s458.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s458.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ua7f6s458.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-3"
     },
     {
       "type": "ss",
@@ -24,39 +50,37 @@
       "method": "",
       "password": "",
       "name": "HK VLESS-166 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-4",
       "ip": "47.80.8.8",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s456.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s456.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufae3s456.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-4"
     },
     {
       "type": "ss",
-      "address": "s458.okgg.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s458.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ua7f6s458.okgg.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "HK VLESS-157 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s458.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s458.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ua7f6s458.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-3",
-      "ip": "47.80.8.8",
+      "address": "154.90.62.145",
+      "port": "46577",
+      "method": "chacha20-ietf-poly1305",
+      "password": "907e91edf84826c3",
+      "name": "KR SS-14 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#ss-chacha20-ietf-poly1305-KR%F0%9F%87%B0%F0%9F%87%B7-5",
+      "ip": "154.90.62.145",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s458.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s458.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ua7f6s458.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#ss-chacha20-ietf-poly1305-KR%F0%9F%87%B0%F0%9F%87%B7-5"
     },
     {
-      "type": "vless",
+      "type": "ss",
       "address": "s457.okgg.top",
-      "port": "443",
-      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
+      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s457.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2dcas457.okgg.top&serviceName=&mode=&alpn=",
+      "method": "",
+      "password": "",
       "name": "HK VLESS-155 | free-nodes",
-      "network": "tcp",
-      "sni": "u730537u2dcas457.okgg.top",
-      "host": "s457.okgg.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s457.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s457.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2dcas457.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-4",
+      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s457.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s457.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2dcas457.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-6",
       "ip": "47.80.8.8",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s457.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s457.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2dcas457.okgg.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-KR%F0%9F%87%B0%F0%9F%87%B7-4"
+      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s457.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s457.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2dcas457.okgg.top&serviceName=&mode=&alpn=#ss-KR%F0%9F%87%B0%F0%9F%87%B7-6"
     }
   ]
 }
