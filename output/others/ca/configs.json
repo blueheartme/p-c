@@ -1,7 +1,22 @@
 {
-  "updated": "2026-01-27T16:24:03.046679",
-  "count": 3,
+  "updated": "2026-01-28T01:18:58.224053",
+  "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "23.227.38.100",
+      "port": "443",
+      "id": "7b1b2fa3-e361-48cc-b73d-2c9636c76f4b",
+      "name": "🏁RELAY-23.227.38.100-0056",
+      "network": "ws",
+      "host": "v2ray1.zhujicn2.org",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoidjJyYXkxLnpodWppY24yLm9yZyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1VNVzM2MjYyIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "23.227.38.100",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoidjJyYXkxLnpodWppY24yLm9yZyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1VNVzM2MjYyIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNB8J+HqPCfh6YtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+    },
     {
       "type": "trojan",
       "address": "tuntro006.instconn.com",
@@ -10,25 +25,26 @@
       "name": "加拿大",
       "sni": "torontorm1.686911.xyz",
       "host": "",
-      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "original": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "132.145.97.52",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
-      "type": "trojan",
-      "address": "tuntro006.instconn.com",
-      "port": "443",
-      "password": "469c8135-8aea-4c7f-8ec2-c5fdfa980b48",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "torontorm1.686911.xyz",
+      "type": "vmess",
+      "address": "knd.balouliangzhimao.xyz",
+      "port": "10151",
+      "id": "d744bb69-3ef6-3d90-8695-87b59ac22a02",
+      "name": "🇨🇦Canada ⚡@DeamNet_Proxy",
+      "network": "raw",
       "host": "",
-      "original": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "132.145.97.52",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQ0Hwn4eo8J+Hpi0zIiwiYWRkIjoia25kLmJhbG91bGlhbmd6aGltYW8ueHl6IiwicG9ydCI6IjEwMTUxIiwiaWQiOiJkNzQ0YmI2OS0zZWY2LTNkOTAtODY5NS04N2I1OWFjMjJhMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=",
+      "ip": "103.98.215.72",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by1yYXctQ0Hwn4eo8J+Hpi0zIiwiYWRkIjoia25kLmJhbG91bGlhbmd6aGltYW8ueHl6IiwicG9ydCI6IjEwMTUxIiwiaWQiOiJkNzQ0YmI2OS0zZWY2LTNkOTAtODY5NS04N2I1OWFjMjJhMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0="
     },
     {
       "type": "vmess",
@@ -39,11 +55,25 @@
       "network": "ws",
       "host": "oplg1.zhujicn2.com",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
       "ip": "23.227.38.39",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DQfCfh6jwn4emLTQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+    },
+    {
+      "type": "trojan",
+      "address": "tuntro006.instconn.com",
+      "port": "443",
+      "password": "469c8135-8aea-4c7f-8ec2-c5fdfa980b48",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "torontorm1.686911.xyz",
+      "host": "",
+      "original": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "132.145.97.52",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }

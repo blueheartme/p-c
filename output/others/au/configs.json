@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-27T08:26:44.045725",
-  "count": 2,
+  "updated": "2026-01-28T01:18:58.230252",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -14,21 +14,6 @@
       "country": "AU",
       "cdn": null,
       "rebuilt": "ss://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
-      "type": "vless",
-      "address": "162.250.99.21",
-      "port": "30654",
-      "id": "15bcfb32-933c-4068-b6af-80932294c9e1",
-      "name": "未知 VLESS-24 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "skyroom.online",
-      "original": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "162.250.99.21",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "vless://15bcfb32-933c-4068-b6af-80932294c9e1@162.250.99.21:30654?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

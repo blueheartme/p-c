@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-27T16:24:03.045763",
-  "count": 2,
+  "updated": "2026-01-28T01:18:58.227232",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -16,17 +16,47 @@
       "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#ss-LT%F0%9F%8C%90-1"
     },
     {
+      "type": "vless",
+      "address": "5.199.173.116",
+      "port": "443",
+      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
+      "name": "未知 VLESS-89 | free-nodes",
+      "network": "tcp",
+      "sni": "apple.com",
+      "host": "",
+      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
+      "ip": "5.199.173.116",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "5.199.162.232",
+      "port": "2083",
+      "id": "95abaefc-7861-417a-81b7-166cb788ce1a",
+      "name": "未知 VLESS-44 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#vless-tcp-LT%F0%9F%8C%90-3",
+      "ip": "5.199.162.232",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#vless-tcp-LT%F0%9F%8C%90-3"
+    },
+    {
       "type": "ss",
       "address": "5.199.162.232",
       "port": "2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38",
       "method": "",
       "password": "",
       "name": "未知 VLESS-44 | free-nodes",
-      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-LT%F0%9F%8C%90-2",
+      "original": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-LT%F0%9F%8C%90-4",
       "ip": "5.199.162.232",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-LT%F0%9F%8C%90-2"
+      "rebuilt": "ss://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#ss-LT%F0%9F%8C%90-4"
     }
   ]
 }
