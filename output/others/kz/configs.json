@@ -1,7 +1,91 @@
 {
-  "updated": "2026-01-28T16:29:57.296015",
-  "count": 2,
+  "updated": "2026-01-29T01:28:45.990209",
+  "count": 7,
   "configs": [
+    {
+      "type": "vless",
+      "address": "api.dark-coffe.com",
+      "port": "2087",
+      "id": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
+      "host": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN#vless-ws-tls-KZ%F0%9F%8C%90-1",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN#vless-ws-tls-KZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "api.dark-coffe.com",
+      "port": "2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-2",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "api.dark-coffe.com",
+      "port": "443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-3",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "api.dark-coffe.com",
+      "port": "8443?encryption=none&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&type=ws&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?encryption=none&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&type=ws&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-4",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?encryption=none&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&type=ws&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F#ss-KZ%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vless",
+      "address": "api.dark-coffe.com",
+      "port": "2096",
+      "id": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
+      "host": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN#vless-ws-tls-KZ%F0%9F%8C%90-5",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN#vless-ws-tls-KZ%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vless",
+      "address": "api.dark-coffe.com",
+      "port": "443",
+      "id": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "network": "ws",
+      "sni": "GfV5t2331T.sMaRtTeChZaAl.InFo",
+      "host": "GfV5t2331T.sMaRtTeChZaAl.InFo",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-KZ%F0%9F%8C%90-6",
+      "ip": "194.76.18.174",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-KZ%F0%9F%8C%90-6"
+    },
     {
       "type": "ss",
       "address": "109.61.39.28",
@@ -9,26 +93,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "🇰🇿KZ-109.61.39.28-4690",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-7",
       "ip": "109.61.39.28",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "mcioo.frss.ir",
-      "port": "443",
-      "id": "e68f082d-975e-4c7b-98bd-ed310db4e0c0",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://e68f082d-975e-4c7b-98bd-ed310db4e0c0@mcioo.frss.ir:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=1111.22539dd5-9360-4b30-98b8-528c84af0007.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=1111.22539dd5-9360-4b30-98b8-528c84af0007.workers.dev#vless-tcp-KZ%F0%9F%8C%90-2",
-      "ip": "194.76.18.174",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://e68f082d-975e-4c7b-98bd-ed310db4e0c0@mcioo.frss.ir:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=1111.22539dd5-9360-4b30-98b8-528c84af0007.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=1111.22539dd5-9360-4b30-98b8-528c84af0007.workers.dev#vless-tcp-KZ%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-7"
     }
   ]
 }
