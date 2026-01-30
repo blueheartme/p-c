@@ -1,21 +1,19 @@
 {
-  "updated": "2026-01-29T16:37:41.977696",
-  "count": 9,
+  "updated": "2026-01-30T01:28:20.570861",
+  "count": 8,
   "configs": [
     {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp</pre></div>",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-1",
-      "ip": "195.135.252.28",
+      "type": "ss",
+      "address": "lv.vpnsparta.pro",
+      "port": "57456",
+      "method": "chacha20-ietf-poly1305",
+      "password": "8afc633eb63227e9",
+      "name": "🇱🇻LV-46.183.216.206-0291",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-1",
+      "ip": "46.183.217.234",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -33,19 +31,6 @@
       "rebuilt": "vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-LV%F0%9F%8C%90-2"
     },
     {
-      "type": "ss",
-      "address": "188.253.16.31",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "拉脫維亞",
-      "original": "ss://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-3",
-      "ip": "188.253.16.31",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-3"
-    },
-    {
       "type": "trojan",
       "address": "5.34.209.139",
       "port": "2053",
@@ -53,53 +38,11 @@
       "name": "拉脫維亞",
       "sni": "0000.hkvip.ip-ddns.com",
       "host": "0000.hkvip.ip-ddns.com",
-      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@5.34.209.139:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-4",
+      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@5.34.209.139:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-3",
       "ip": "5.34.209.139",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@5.34.209.139:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "46.183.217.204",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-4771",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-5",
-      "ip": "46.183.217.204",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-5"
-    },
-    {
-      "type": "trojan",
-      "address": "195.135.253.29",
-      "port": "443",
-      "password": "42bbf526-5530-470a-aeec-3b919b21c58d",
-      "name": "拉脫維亞",
-      "sni": "0000.hkvip.ip-ddns.com",
-      "host": "0000.hkvip.ip-ddns.com",
-      "original": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@195.135.253.29:443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-6",
-      "ip": "195.135.253.29",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@195.135.253.29:443?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-6"
-    },
-    {
-      "type": "vless",
-      "address": "lv.fastdbn.com",
-      "port": "5001",
-      "id": "ec7f2b6a-d627-40ea-a017-36052c4ba426",
-      "name": "🇪🇸_ES_西班牙",
-      "network": "grpc",
-      "sni": "services.3cx.com",
-      "host": "",
-      "original": "vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#vless-grpc-reality-chrome-LV%F0%9F%8C%90-7",
-      "ip": "185.145.245.31",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#vless-grpc-reality-chrome-LV%F0%9F%8C%90-7"
+      "rebuilt": "trojan://42bbf526-5530-470a-aeec-3b919b21c58d@5.34.209.139:2053?security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#trojan-ws-tls-LV%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -107,12 +50,40 @@
       "port": "5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-120 | free-nodes",
-      "original": "ss://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#ss-LV%F0%9F%8C%90-8",
+      "name": "未知 VLESS-122 | free-nodes",
+      "original": "ss://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#ss-LV%F0%9F%8C%90-4",
       "ip": "185.145.245.31",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "ss://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#ss-LV%F0%9F%8C%90-8"
+      "rebuilt": "ss://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#ss-LV%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "188.253.16.31",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "拉脫維亞",
+      "original": "ss://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-5",
+      "ip": "188.253.16.31",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ss-LV%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vless",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp</pre></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-6",
+      "ip": "195.135.252.28",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-6"
     },
     {
       "type": "vless",
@@ -123,11 +94,24 @@
       "network": "tcp",
       "sni": "yahoo.com",
       "host": "",
-      "original": "vless://b79ba265-aff0-4d16-9322-7b124465dc38@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-LV%F0%9F%8C%90-9",
+      "original": "vless://b79ba265-aff0-4d16-9322-7b124465dc38@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-LV%F0%9F%8C%90-7",
       "ip": "188.253.16.31",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://b79ba265-aff0-4d16-9322-7b124465dc38@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-LV%F0%9F%8C%90-9"
+      "rebuilt": "vless://b79ba265-aff0-4d16-9322-7b124465dc38@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-LV%F0%9F%8C%90-7"
+    },
+    {
+      "type": "ss",
+      "address": "46.183.217.204",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇱🇻LV-46.183.217.204-4771",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-8",
+      "ip": "46.183.217.204",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-8"
     }
   ]
 }

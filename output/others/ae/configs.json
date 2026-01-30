@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-29T16:37:41.979513",
+  "updated": "2026-01-30T01:28:20.577293",
   "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "cb-uae1.connectbaash.info",
-      "port": "6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-100 | free-nodes",
-      "original": "ss://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "109.61.18.232",
+      "type": "vless",
+      "address": "85.237.211.139",
+      "port": "8009",
+      "id": "49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48",
+      "name": "未知 VLESS-71 | free-nodes",
+      "network": "tcp",
+      "sni": "refersion.com",
+      "host": "",
+      "original": "vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "85.237.211.139",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "hysteria2",
@@ -27,19 +29,17 @@
       "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
-      "type": "vless",
-      "address": "cb-uae1.connectbaash.info",
-      "port": "6064",
-      "id": "b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c",
-      "name": "未知 VLESS-100 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "109.61.18.232",
+      "type": "ss",
+      "address": "95.174.68.33",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
+      "name": "🇦🇪AE-95.174.68.33-0362",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "95.174.68.33",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://b3ef8e88-a458-4fe7-b9d8-376e2e38dc2c@cb-uae1.connectbaash.info:6064?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }
