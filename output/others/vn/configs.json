@@ -1,62 +1,21 @@
 {
-  "updated": "2026-01-30T08:31:52.796952",
-  "count": 6,
+  "updated": "2026-01-30T16:32:44.518837",
+  "count": 4,
   "configs": [
     {
-      "type": "ss",
-      "address": "s256.okgfw.top",
-      "port": "443?encryption=none&type=grpc&headerType=none&fp=ios&host=s256.okgfw.top&path=&flow=&security=tls&sni=u730537u049ds256.okgfw.top&serviceName=ssp&mode=gun&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-160 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s256.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s256.okgfw.top&path=&flow=&security=tls&sni=u730537u049ds256.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-1",
-      "ip": "103.81.86.158",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s256.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s256.okgfw.top&path=&flow=&security=tls&sni=u730537u049ds256.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-1"
-    },
-    {
       "type": "vless",
-      "address": "103.81.86.158",
+      "address": "s249.okgfw.top",
       "port": "443",
       "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
-      "name": "未知 VLESS-153 | free-nodes",
+      "name": "未知 VLESS-174 | free-nodes",
       "network": "grpc",
-      "sni": "u730537u5cd8s276.okgfw.top",
-      "host": "s276.okgfw.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-2",
+      "sni": "u730537u3374s249.okgfw.top",
+      "host": "s249.okgfw.top",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s249.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s249.okgfw.top&path=&flow=&security=tls&sni=u730537u3374s249.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-1",
       "ip": "103.81.86.158",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "s256.okgfw.top",
-      "port": "443",
-      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
-      "name": "未知 VLESS-160 | free-nodes",
-      "network": "grpc",
-      "sni": "u730537u049ds256.okgfw.top",
-      "host": "s256.okgfw.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s256.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s256.okgfw.top&path=&flow=&security=tls&sni=u730537u049ds256.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-3",
-      "ip": "103.81.86.158",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s256.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s256.okgfw.top&path=&flow=&security=tls&sni=u730537u049ds256.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "s321.okgfw.top",
-      "port": "443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-143 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s321.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-4",
-      "ip": "103.81.86.158",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s321.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-4"
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s249.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s249.okgfw.top&path=&flow=&security=tls&sni=u730537u3374s249.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -65,24 +24,39 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-153 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-5",
+      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-2",
       "ip": "103.81.86.158",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-5"
+      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@103.81.86.158:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s276.okgfw.top&path=&flow=&security=tls&sni=u730537u5cd8s276.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "s321.okgfw.top",
+      "port": "443",
+      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
+      "name": "未知 VLESS-143 | free-nodes",
+      "network": "grpc",
+      "sni": "u730537ube10s321.okgfw.top",
+      "host": "s321.okgfw.top",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s321.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-3",
+      "ip": "103.81.86.158",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s321.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=#vless-grpc-tls-ios-VN%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
-      "address": "s249.okgfw.top",
-      "port": "443?encryption=none&type=grpc&headerType=none&fp=ios&host=s249.okgfw.top&path=&flow=&security=tls&sni=u730537u3374s249.okgfw.top&serviceName=ssp&mode=gun&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-174 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s249.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s249.okgfw.top&path=&flow=&security=tls&sni=u730537u3374s249.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-6",
-      "ip": "103.81.86.158",
+      "address": "112.197.26.106",
+      "port": "45312",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ca5a5efae00a832b",
+      "name": "未知 SS-27 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4",
+      "ip": "112.197.26.106",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s249.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s249.okgfw.top&path=&flow=&security=tls&sni=u730537u3374s249.okgfw.top&serviceName=ssp&mode=gun&alpn=#ss-VN%F0%9F%8C%90-6"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4"
     }
   ]
 }

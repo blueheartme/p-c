@@ -1,7 +1,20 @@
 {
-  "updated": "2026-01-30T08:31:52.790050",
+  "updated": "2026-01-30T16:32:44.512239",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "tiuvanm.amki.ir",
+      "port": "8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-94 | free-nodes",
+      "original": "ss://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#ss-LT%F0%9F%8C%90-1",
+      "ip": "195.238.126.169",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#ss-LT%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "tiuvanm.amki.ir",
@@ -11,24 +24,11 @@
       "network": "tcp",
       "sni": "JouRNaloFbIgdATA.SpRinGeropEn.coM",
       "host": "",
-      "original": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#vless-tcp-reality-firefox-LT%F0%9F%8C%90-1",
+      "original": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#vless-tcp-reality-firefox-LT%F0%9F%8C%90-2",
       "ip": "195.238.126.169",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#vless-tcp-reality-firefox-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.12.136.170",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "l668XHPejoSNNuD66BYzyehaCpZexiF7",
-      "name": "🇨🇾CY-45.12.136.170-0316",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-2",
-      "ip": "45.12.136.170",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-2"
+      "rebuilt": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#vless-tcp-reality-firefox-LT%F0%9F%8C%90-2"
     }
   ]
 }
