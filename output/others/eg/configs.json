@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-30T01:28:20.595804",
-  "count": 1,
+  "updated": "2026-01-30T08:31:52.779734",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "11201",
       "method": "chacha20-ietf-poly1305",
       "password": "6ff1423f61ffe673",
-      "name": "未知 SS-11 | free-nodes",
+      "name": "未知 SS-14 | free-nodes",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#ss-chacha20-ietf-poly1305-EG%F0%9F%87%AA%F0%9F%87%AC-1",
       "ip": "38.54.59.16",
       "country": "EG",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#ss-chacha20-ietf-poly1305-EG%F0%9F%87%AA%F0%9F%87%AC-1"
+    },
+    {
+      "type": "ss",
+      "address": "38.54.59.180",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇪🇬EG-38.54.59.180-0397",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#ss-chacha20-ietf-poly1305-EG%F0%9F%87%AA%F0%9F%87%AC-2",
+      "ip": "38.54.59.180",
+      "country": "EG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#ss-chacha20-ietf-poly1305-EG%F0%9F%87%AA%F0%9F%87%AC-2"
     }
   ]
 }

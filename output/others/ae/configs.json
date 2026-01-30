@@ -1,45 +1,34 @@
 {
-  "updated": "2026-01-30T01:28:20.577293",
-  "count": 3,
+  "updated": "2026-01-30T08:31:52.801184",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "85.237.211.139",
-      "port": "8009",
-      "id": "49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48",
-      "name": "未知 VLESS-71 | free-nodes",
-      "network": "tcp",
-      "sni": "refersion.com",
-      "host": "",
-      "original": "vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "85.237.211.139",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#vless-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "hysteria2",
-      "address": "193.123.76.84",
+      "address": "api.steamsale.ir",
       "port": "443",
-      "name": "KV 4 (@Outline_Vpn) free<br/>vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=france-paris.hostinger.kcartik-vps.com&amp;type=ws#KV 5 (@Outline_Vpn) free</code><br/><br/><tg-emoji",
-      "original": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "193.123.76.84",
+      "id": "3a4ddfac-e7da-48c9-9648-4a366109fc3a",
+      "name": "未知 VLESS-67 | free-nodes",
+      "network": "ws",
+      "sni": "cdn.vpsmee.ir",
+      "host": "mtn.vpsmee.ir",
+      "original": "vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=/X0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.0",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=www.apple.com#hysteria2-udp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=/X0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
-      "address": "95.174.68.33",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8",
-      "name": "🇦🇪AE-95.174.68.33-0362",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "95.174.68.33",
+      "address": "api.steamsale.ir",
+      "port": "443?path=/X0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-67 | free-nodes",
+      "original": "ss://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=/X0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "94.140.0.0",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "ss://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=/X0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }

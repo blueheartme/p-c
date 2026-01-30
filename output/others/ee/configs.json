@@ -1,21 +1,21 @@
 {
-  "updated": "2026-01-11T08:21:05.320527",
+  "updated": "2026-01-30T08:31:52.810582",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "tbankru.outlinekeys.net",
+      "address": "185.215.186.115",
       "port": "443",
-      "id": "eb162ab1-a006-4931-b1b3-8fc88a22b10e",
-      "name": "未知 VLESS-125 | free-nodes",
+      "id": "45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3",
+      "name": "🇪🇪 Estonia",
       "network": "tcp",
-      "sni": "tbankru.outlinekeys.net",
+      "sni": "hls-svod.itunes.apple.com",
       "host": "",
-      "original": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "144.31.178.168",
+      "original": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
+      "ip": "185.215.186.115",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
     }
   ]
 }
