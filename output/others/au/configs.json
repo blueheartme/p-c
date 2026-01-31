@@ -1,76 +1,7 @@
 {
-  "updated": "2026-01-30T16:32:44.510341",
-  "count": 6,
+  "updated": "2026-01-31T01:25:35.730603",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "lord.kokopit.info",
-      "port": "443",
-      "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "host": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "2.58.107.30",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
-    },
-    {
-      "type": "ss",
-      "address": "192.65.217.230",
-      "port": "443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg@zdyz2#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "192.65.217.230",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg@zdyz2#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
-    },
-    {
-      "type": "vless",
-      "address": "192.65.217.230",
-      "port": "443",
-      "id": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg@zdyz2#vless-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "192.65.217.230",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg@zdyz2#vless-tcp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
-    },
-    {
-      "type": "ss",
-      "address": "lord.kokopit.info",
-      "port": "443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
-      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4",
-      "ip": "2.58.107.30",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4"
-    },
-    {
-      "type": "ss",
-      "address": "lord.kokopit.info",
-      "port": "2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
-      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-5",
-      "ip": "2.58.107.30",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-5"
-    },
     {
       "type": "vless",
       "address": "lord.kokopit.info",
@@ -78,13 +9,39 @@
       "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
       "name": "韩国(yudou789.top 玉豆免费节点)",
       "network": "ws",
-      "sni": "YdHxR987jY.bAsErTy.InFo",
-      "host": "YdHxR987jY.bAsErTy.InFo",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-6",
+      "sni": "18XaCgNj9C.bAsErTy.InFo",
+      "host": "18XaCgNj9C.bAsErTy.InFo",
+      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "2.58.107.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-6"
+      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "ss",
+      "address": "lord.kokopit.info",
+      "port": "2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "韩国(yudou789.top 玉豆免费节点)",
+      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "2.58.107.30",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+    },
+    {
+      "type": "ss",
+      "address": "95.111.222.113",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
+      "name": "🇦🇺AU-95.111.222.113-0324",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3",
+      "ip": "95.111.222.113",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     }
   ]
 }

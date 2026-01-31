@@ -1,6 +1,6 @@
 {
-  "updated": "2026-01-30T16:32:44.519730",
-  "count": 2,
+  "updated": "2026-01-31T01:25:35.735853",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,19 +16,6 @@
       "country": "TH",
       "cdn": null,
       "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "s482.ccgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-176 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-2",
-      "ip": "8.213.206.47",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-2"
     }
   ]
 }
