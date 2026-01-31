@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T08:23:17.376707",
+  "updated": "2026-01-31T16:21:30.166360",
   "count": 2,
   "configs": [
     {
@@ -7,14 +7,14 @@
       "address": "80.173.231.254",
       "port": "12420",
       "password": "wp9IsiY82uQhcmgNC1eoBM",
-      "name": "TR TROJAN-44 | free-nodes",
+      "name": "TR TROJAN-48 | free-nodes",
       "sni": "www.semanticstaplegun.click",
       "host": "",
-      "original": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1",
+      "original": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1",
       "ip": "80.173.231.254",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1"
+      "rebuilt": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -22,7 +22,7 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D",
-      "name": "🇳🇴NO-107.174.114.71-0368",
+      "name": "🇳🇴NO-107.174.114.71-0274",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ss-chacha20-ietf-poly1305-NO%F0%9F%8C%90-2",
       "ip": "107.174.114.71",
       "country": "NO",

@@ -1,19 +1,19 @@
 {
-  "updated": "2026-01-31T08:23:17.377550",
+  "updated": "2026-01-31T16:21:30.181582",
   "count": 3,
   "configs": [
     {
       "type": "ss",
-      "address": "45.83.20.206",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "g5RQoxQuVtnFv3Xxsa8edPisXNPnyWKy",
-      "name": "🇨🇾CY-45.83.20.206-0311",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-1",
-      "ip": "45.83.20.206",
+      "address": "194.87.240.67",
+      "port": "443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560",
+      "method": "",
+      "password": "",
+      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
+      "original": "ss://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@194.87.240.67:443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560#ss-BE%F0%9F%8C%90-1",
+      "ip": "194.87.240.67",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-1"
+      "rebuilt": "ss://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@194.87.240.67:443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560#ss-BE%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -32,16 +32,16 @@
     },
     {
       "type": "ss",
-      "address": "194.87.240.67",
-      "port": "443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "RU俄罗斯(mibei77.com 米贝节点分享)",
-      "original": "ss://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@194.87.240.67:443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560#ss-BE%F0%9F%8C%90-3",
-      "ip": "194.87.240.67",
+      "address": "45.83.20.206",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "g5RQoxQuVtnFv3Xxsa8edPisXNPnyWKy",
+      "name": "🇨🇾CY-45.83.20.206-4905",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-3",
+      "ip": "45.83.20.206",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "ss://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@194.87.240.67:443?encryption=none&security=tls&sni=snippet.fgfw.cc.cd&alpn=http%2F1.1&type=ws&host=snippet.fgfw.cc.cd&path=%2Fdanfeng%3Fed%3D2560#ss-BE%F0%9F%8C%90-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#ss-chacha20-ietf-poly1305-BE%F0%9F%8C%90-3"
     }
   ]
 }

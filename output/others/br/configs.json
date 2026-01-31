@@ -1,19 +1,19 @@
 {
-  "updated": "2026-01-31T08:23:17.358590",
-  "count": 2,
+  "updated": "2026-01-31T16:21:30.187935",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "154.90.60.117",
-      "port": "11201",
+      "address": "5.188.4.103",
+      "port": "11205",
       "method": "chacha20-ietf-poly1305",
-      "password": "6f3fdf1a9ce11652",
-      "name": "未知 SS-13 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "154.90.60.117",
+      "password": "a7c205642b302c20",
+      "name": "未知 SS-19 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "5.188.4.103",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     },
     {
       "type": "ss",
@@ -21,12 +21,40 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu",
-      "name": "🇲🇩MD-213.159.66.206-0330",
+      "name": "🇲🇩MD-213.159.66.206-0245",
       "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
       "ip": "213.159.66.206",
       "country": "BR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "fsl.narton.ir",
+      "port": "443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mitivpn3.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn3.global.ssl.fastly.net",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mitivpn3.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn3.global.ssl.fastly.net#ss-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "ip": "151.101.93.194",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mitivpn3.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn3.global.ssl.fastly.net#ss-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "fsl.narton.ir",
+      "port": "443",
+      "id": "dd0cfef0-fda9-47ec-8a65-49d7bc004f82",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mitivpn3.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn3.global.ssl.fastly.net#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-4",
+      "ip": "151.101.93.194",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=mitivpn3.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=mitivpn3.global.ssl.fastly.net#vless-tcp-BR%F0%9F%87%A7%F0%9F%87%B7-4"
     }
   ]
 }

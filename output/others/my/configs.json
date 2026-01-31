@@ -1,47 +1,34 @@
 {
-  "updated": "2026-01-29T16:37:41.992729",
-  "count": 3,
+  "updated": "2026-01-31T16:21:30.205502",
+  "count": 2,
   "configs": [
     {
+      "type": "ss",
+      "address": "45.89.107.200",
+      "port": "8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-63 | free-nodes",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-MY%F0%9F%8C%90-1",
+      "ip": "45.89.107.200",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ss-MY%F0%9F%8C%90-1"
+    },
+    {
       "type": "vless",
-      "address": "s446.okgfw.top",
-      "port": "443",
-      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
-      "name": "未知 VLESS-157 | free-nodes",
+      "address": "45.89.107.200",
+      "port": "8443",
+      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
+      "name": "未知 VLESS-63 | free-nodes",
       "network": "tcp",
-      "sni": "u730537uaed6s446.okgfw.top",
-      "host": "s446.okgfw.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537uaed6s446.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-1",
-      "ip": "47.250.13.203",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-MY%F0%9F%8C%90-2",
+      "ip": "45.89.107.200",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537uaed6s446.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "s446.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537uaed6s446.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-157 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2",
-      "ip": "47.250.13.203",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s446.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s446.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537uaed6s446.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "s448.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufa3ds448.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-149 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3",
-      "ip": "47.250.13.203",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-3"
+      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#vless-xtls-rprx-vision-tcp-reality-chrome-MY%F0%9F%8C%90-2"
     }
   ]
 }
