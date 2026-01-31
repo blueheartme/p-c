@@ -1,33 +1,7 @@
 {
-  "updated": "2026-01-31T01:25:35.695674",
-  "count": 5,
+  "updated": "2026-01-31T08:23:17.359407",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "103.106.3.82",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4SaCIazlgumYkM8FkPzlmwjpyWBDZFBk",
-      "name": "🇰🇿KZ-103.106.3.82-0390",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
-      "ip": "103.106.3.82",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "194.110.55.21",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "🇰🇿KZ_1 | ⬇️ 1.8MB/s",
-      "original": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2",
-      "ip": "194.110.55.21",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-2"
-    },
     {
       "type": "vless",
       "address": "194.110.55.21",
@@ -37,37 +11,26 @@
       "network": "tcp",
       "sni": "hls-svod.itunes.apple.com",
       "host": "",
-      "original": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3",
+      "original": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
       "ip": "194.110.55.21",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@194.110.55.21:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
+      "type": "vless",
       "address": "82.115.43.39",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3",
       "name": "德國",
-      "original": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@82.115.43.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4",
+      "network": "tcp",
+      "sni": "hls-svod.itunes.apple.com",
+      "host": "",
+      "original": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@82.115.43.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-2",
       "ip": "82.115.43.39",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@82.115.43.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#ss-KZ%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "109.61.39.28",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-109.61.39.28-0292",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-5",
-      "ip": "109.61.39.28",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-5"
+      "rebuilt": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@82.115.43.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,7 +1,33 @@
 {
-  "updated": "2026-01-31T01:25:35.730603",
-  "count": 3,
+  "updated": "2026-01-31T08:23:17.365092",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.15.185.70",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "45.15.185.70",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+    },
+    {
+      "type": "ss",
+      "address": "95.111.222.113",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
+      "name": "🇦🇺AU-95.111.222.113-0339",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "95.111.222.113",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+    },
     {
       "type": "vless",
       "address": "lord.kokopit.info",
@@ -9,13 +35,13 @@
       "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
       "name": "韩国(yudou789.top 玉豆免费节点)",
       "network": "ws",
-      "sni": "18XaCgNj9C.bAsErTy.InFo",
-      "host": "18XaCgNj9C.bAsErTy.InFo",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "sni": "YdHxR987jY.bAsErTy.InFo",
+      "host": "YdHxR987jY.bAsErTy.InFo",
+      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3",
       "ip": "2.58.107.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-3"
     },
     {
       "type": "ss",
@@ -24,24 +50,11 @@
       "method": "",
       "password": "",
       "name": "韩国(yudou789.top 玉豆免费节点)",
-      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4",
       "ip": "2.58.107.30",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-2"
-    },
-    {
-      "type": "ss",
-      "address": "95.111.222.113",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa",
-      "name": "🇦🇺AU-95.111.222.113-0324",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "95.111.222.113",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4"
     }
   ]
 }

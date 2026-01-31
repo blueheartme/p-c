@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-31T01:25:35.718832",
+  "updated": "2026-01-31T08:23:17.384697",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "85.235.149.184",
-      "port": "500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "德國",
-      "original": "ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-1",
-      "ip": "85.235.149.184",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "85.235.149.184",
@@ -24,11 +11,24 @@
       "network": "tcp",
       "sni": "stackoverflow.com",
       "host": "",
-      "original": "vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#vless-tcp-reality-firefox-IT%F0%9F%8C%90-2",
+      "original": "vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#vless-tcp-reality-firefox-IT%F0%9F%8C%90-1",
       "ip": "85.235.149.184",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#vless-tcp-reality-firefox-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#vless-tcp-reality-firefox-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "85.235.149.184",
+      "port": "500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "德國",
+      "original": "ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-2",
+      "ip": "85.235.149.184",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-2"
     }
   ]
 }
