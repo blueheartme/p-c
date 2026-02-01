@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-01T08:26:20.358653",
-  "count": 4,
+  "updated": "2026-02-01T16:23:12.603782",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "gody.xrayshop.store",
-      "port": "54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-72 | free-nodes",
-      "original": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "45.92.219.146",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "45.12.143.84",
@@ -22,39 +9,11 @@
       "method": "",
       "password": "",
       "name": "TR VLESS-60 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "45.12.143.84",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "gody.xrayshop.store",
-      "port": "54230",
-      "id": "4ed0f31f-a400-4012-be63-b7104ce1bb1e",
-      "name": "未知 VLESS-72 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "45.92.219.146",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "ss",
-      "address": "92.60.70.36",
-      "port": "2053",
-      "method": "",
-      "password": "",
-      "name": "🇮🇹_IT_意大利",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "92.60.70.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }
