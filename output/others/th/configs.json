@@ -1,20 +1,7 @@
 {
-  "updated": "2026-01-31T16:21:30.203207",
-  "count": 2,
+  "updated": "2026-02-01T08:26:20.416380",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "s482.ccgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-167 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1",
-      "ip": "8.213.206.47",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "s480.ccgfw.top",
@@ -24,11 +11,11 @@
       "network": "tcp",
       "sni": "u730537ue6f4s480.ccgfw.top",
       "host": "s480.ccgfw.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-1",
       "ip": "8.213.206.47",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-2"
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-1"
     }
   ]
 }
