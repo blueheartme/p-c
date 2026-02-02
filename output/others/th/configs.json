@@ -1,48 +1,7 @@
 {
-  "updated": "2026-02-01T16:23:12.602884",
-  "count": 5,
+  "updated": "2026-02-02T01:45:50.264552",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "s482.ccgfw.top",
-      "port": "443",
-      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
-      "name": "未知 VLESS-167 | free-nodes",
-      "network": "tcp",
-      "sni": "u730537u2a30s482.ccgfw.top",
-      "host": "s482.ccgfw.top",
-      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-1",
-      "ip": "8.213.206.47",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-TH%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "103.253.74.94",
-      "port": "31348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2",
-      "ip": "103.253.74.94",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#ss-chacha20-ietf-poly1305-TH%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "s480.ccgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-166 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-3",
-      "ip": "8.213.206.47",
-      "country": "TH",
-      "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s480.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s480.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ue6f4s480.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-3"
-    },
     {
       "type": "ss",
       "address": "th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org",
@@ -50,11 +9,11 @@
       "method": "2022-blake3-aes-256-gcm",
       "password": "mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=",
       "name": "🇹🇭 泰国",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-TH%F0%9F%8C%90-4",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-TH%F0%9F%8C%90-1",
       "ip": "45.136.238.245",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-TH%F0%9F%8C%90-4"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-TH%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -63,11 +22,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-167 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-5",
+      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-2",
       "ip": "8.213.206.47",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-5"
+      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s482.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s482.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u2a30s482.ccgfw.top&serviceName=&mode=&alpn=#ss-TH%F0%9F%8C%90-2"
     }
   ]
 }

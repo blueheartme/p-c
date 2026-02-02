@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-01T16:23:12.591325",
-  "count": 6,
+  "updated": "2026-02-02T01:45:50.250724",
+  "count": 7,
   "configs": [
     {
       "type": "vless",
@@ -19,59 +19,61 @@
     },
     {
       "type": "vless",
-      "address": "bf.branly23.cloud",
-      "port": "2087",
-      "id": "9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea",
-      "name": "SG VLESS-96 | free-nodes",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "original": "vless://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "5.199.166.123",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "ss",
-      "address": "154.26.132.38",
-      "port": "16922",
-      "method": "chacha20-ietf-poly1305",
-      "password": "42d2b47181a32de7",
-      "name": "SG SS-01 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "154.26.132.38",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#ss-chacha20-ietf-poly1305-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "vmess",
-      "address": "singapore02.zgjok.com",
-      "port": "443",
-      "id": "780c7671-e8c8-45ab-922b-4fdfc4310aa0",
-      "name": "🇸🇬SG-158.178.230.34-4907",
-      "network": "ws",
-      "host": "singapore02.zgjok.com",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJzaW5nYXBvcmUwMi56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJzaW5nYXBvcmUwMi56Z2pvay5jb20iLCJpZCI6Ijc4MGM3NjcxLWU4YzgtNDVhYi05MjJiLTRmZGZjNDMxMGFhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtU0fwn4e48J+HrC00IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "158.178.230.34",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJzaW5nYXBvcmUwMi56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJzaW5nYXBvcmUwMi56Z2pvay5jb20iLCJpZCI6Ijc4MGM3NjcxLWU4YzgtNDVhYi05MjJiLTRmZGZjNDMxMGFhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtU0fwn4e48J+HrC00IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
-    },
-    {
-      "type": "ss",
       "address": "s469.ccgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "e32f9c43-b141-3d58-b879-15c6a402e119",
       "name": "SG VLESS-154 | free-nodes",
-      "original": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s469.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "network": "tcp",
+      "sni": "u730537u5821s469.ccgfw.top",
+      "host": "s469.ccgfw.top",
+      "original": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s469.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "47.84.22.20",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://e32f9c43-b141-3d58-b879-15c6a402e119@s469.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=#ss-SG%F0%9F%87%B8%F0%9F%87%AC-5"
+      "rebuilt": "vless://e32f9c43-b141-3d58-b879-15c6a402e119@s469.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vless",
+      "address": "18.143.189.226",
+      "port": "27775",
+      "id": "309c4bd0-7430-b8aa-2238-1075e9e29370",
+      "name": "Server 36 Group 5<br/>vless://309c4bd0-7430-b8aa-2238-1075e9e29370@54.216.127.183:27775?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Server 3 Group 1<br/>vless://309c4bd0-7430-b8aa-2238-1075e9e29370@15.223.39.80:27775?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Server 40 Group 5</code></div>",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.143.189.226:27775?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "18.143.189.226",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.143.189.226:27775?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+    },
+    {
+      "type": "vmess",
+      "address": "180.215.130.123",
+      "port": "11584",
+      "id": "181472ed-0bb7-43be-dccb-74aca2b33ed5",
+      "name": "🇸🇬SG-180.215.130.123-0229",
+      "network": "ws",
+      "host": "180.215.130.123",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxODAuMjE1LjEzMC4xMjMiLCJhaWQiOjAsImhvc3QiOiIxODAuMjE1LjEzMC4xMjMiLCJpZCI6IjE4MTQ3MmVkLTBiYjctNDNiZS1kY2NiLTc0YWNhMmIzM2VkNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoxMTU4NCwicHMiOiJ2bWVzcy13cy1hdXRvLVNH8J+HuPCfh6wtNCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "180.215.130.123",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxODAuMjE1LjEzMC4xMjMiLCJhaWQiOjAsImhvc3QiOiIxODAuMjE1LjEzMC4xMjMiLCJpZCI6IjE4MTQ3MmVkLTBiYjctNDNiZS1kY2NiLTc0YWNhMmIzM2VkNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoxMTU4NCwicHMiOiJ2bWVzcy13cy1hdXRvLVNH8J+HuPCfh6wtNCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+    },
+    {
+      "type": "ss",
+      "address": "68.183.227.4",
+      "port": "8080",
+      "method": "rc4-md5",
+      "password": "14fFPrbezE3HDZzsMOr6",
+      "name": "🇸🇬SG-68.183.227.4-0301",
+      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-5",
+      "ip": "68.183.227.4",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#ss-rc4-md5-SG%F0%9F%87%B8%F0%9F%87%AC-5"
     },
     {
       "type": "ss",
@@ -85,6 +87,20 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?security=none&encryption=none&headerType=none&type=tcp#ss-SG%F0%9F%87%B8%F0%9F%87%AC-6"
+    },
+    {
+      "type": "trojan",
+      "address": "18.141.8.87",
+      "port": "443",
+      "password": "iyinglong",
+      "name": "🇸🇬SG-18.141.8.87-5911",
+      "sni": "",
+      "host": "",
+      "original": "trojan://iyinglong@18.141.8.87:443?security=tls#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7",
+      "ip": "18.141.8.87",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "trojan://iyinglong@18.141.8.87:443?security=tls#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-7"
     }
   ]
 }

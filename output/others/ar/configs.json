@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-01T16:23:12.608824",
+  "updated": "2026-02-02T01:45:50.266862",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "154.205.154.184",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "5b978047b47f7eab",
-      "name": "未知 SS-03 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1",
-      "ip": "154.205.154.184",
-      "country": "AR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "ar1.07c06051-81fd-4aa4-a94e-a0860315df8f.org",
@@ -22,11 +9,24 @@
       "method": "2022-blake3-aes-256-gcm",
       "password": "mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=",
       "name": "🇦🇷 阿根廷",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@ar1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-AR%F0%9F%87%A6%F0%9F%87%B7-2",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@ar1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-AR%F0%9F%87%A6%F0%9F%87%B7-1",
       "ip": "38.180.185.250",
       "country": "AR",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@ar1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-AR%F0%9F%87%A6%F0%9F%87%B7-2"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06NlllYkdSZWNkcUtvSW5SZjRpOFNacWxBZXZPVjEzVnROdytvTmVjcldQUT0@ar1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#ss-2022-blake3-aes-256-gcm-AR%F0%9F%87%A6%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.205.154.184",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "5b978047b47f7eab",
+      "name": "未知 SS-03 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2",
+      "ip": "154.205.154.184",
+      "country": "AR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#ss-chacha20-ietf-poly1305-AR%F0%9F%87%A6%F0%9F%87%B7-2"
     },
     {
       "type": "ss",

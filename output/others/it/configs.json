@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-01T08:26:20.418848",
-  "count": 2,
+  "updated": "2026-02-02T01:45:50.268485",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,19 +16,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "91.201.65.220",
-      "port": "10004?path=%2Fvpnjantit&amp;security=none&amp;encryption=none&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-65 | free-nodes",
-      "original": "ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&amp;security=none&amp;encryption=none&amp;type=ws#ss-IT%F0%9F%8C%90-2",
-      "ip": "91.201.65.220",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&amp;security=none&amp;encryption=none&amp;type=ws#ss-IT%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-01T16:23:12.610414",
+  "updated": "2026-02-02T01:45:50.274029",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "212.183.88.29",
-      "port": "443?path=/",
-      "method": "",
-      "password": "",
-      "name": "",
-      "original": "ss://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "port": "443",
+      "id": "85f9e89d-3298-4c2c-9a03-8ab71be0f986",
+      "name": "TR VLESS-89 | free-nodes",
+      "network": "ws",
+      "sni": "free.aliamini.net",
+      "host": "free.aliamini.net",
+      "original": "vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "212.183.88.29",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
