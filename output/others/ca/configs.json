@@ -1,49 +1,21 @@
 {
-  "updated": "2026-02-02T01:45:50.248590",
-  "count": 7,
+  "updated": "2026-02-02T08:36:45.809385",
+  "count": 6,
   "configs": [
     {
       "type": "vmess",
-      "address": "15.235.85.147",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦Canada -> 🇨🇦Canada ⚡@DeamNet_Proxy",
+      "address": "51.79.102.253",
+      "port": "80",
+      "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "name": "🇨🇦CA-51.79.102.253-0852",
       "network": "ws",
-      "host": "pelang.org",
+      "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0xIiwiYWRkIjoiMTUuMjM1Ljg1LjE0NyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicGVsYW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0=",
-      "ip": "15.235.85.147",
+      "original": "vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOjgwLCJwcyI6InZtZXNzLXdzLWF1dG8tQ0Hwn4eo8J+Hpi0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "51.79.102.253",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0xIiwiYWRkIjoiMTUuMjM1Ljg1LjE0NyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicGVsYW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "15.235.85.156",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦Canada -> 🇨🇦Canada ⚡@DeamNet_Proxy",
-      "network": "ws",
-      "host": "kampong.org",
-      "sni": "kampong.org",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0yIiwiYWRkIjoiMTUuMjM1Ljg1LjE1NiIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyNUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpVE0gKEBBWkFSQkFZSkFCMSkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyJ9",
-      "ip": "15.235.85.156",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0yIiwiYWRkIjoiMTUuMjM1Ljg1LjE1NiIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJwYXRoIjoibGlua3Z3cyNUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpVE0gKEBBWkFSQkFZSkFCMSkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyJ9"
-    },
-    {
-      "type": "ss",
-      "address": "79.127.200.169",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇨🇦CA-79.127.200.169-0238",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3",
-      "ip": "79.127.200.169",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOjgwLCJwcyI6InZtZXNzLXdzLWF1dG8tQ0Hwn4eo8J+Hpi0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
     },
     {
       "type": "vless",
@@ -54,40 +26,52 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "198.50.119.86",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "trojan",
-      "address": "tuntro006.instconn.com",
-      "port": "443",
-      "password": "63b21d86-a49c-4936-a634-0b5af3e30433",
-      "name": "美国-CU+|+US",
-      "sni": "torontorm1.686911.xyz",
-      "host": "",
-      "original": "trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "132.145.97.52",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz&type=tcp&headerType=none#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "vmess",
-      "address": "23.162.200.227",
+      "address": "134.195.198.147",
       "port": "443",
       "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "🇨🇦CA-23.162.200.227-7333",
+      "name": "🇨🇦CA-134.195.198.147-7059",
       "network": "ws",
-      "host": "",
+      "host": "inna.cfd",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi02IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "23.162.200.227",
+      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi0zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "134.195.198.147",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi02IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3Mtd3MtYXV0by10bHMtQ0Hwn4eo8J+Hpi0zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "ss",
+      "address": "3.98.186.92",
+      "port": "22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.186.92:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "3.98.186.92",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.186.92:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#ss-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+    },
+    {
+      "type": "ss",
+      "address": "198.50.119.86",
+      "port": "8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "CA VLESS-116 | free-nodes",
+      "original": "ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#ss-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "198.50.119.86",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#ss-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     },
     {
       "type": "ss",
@@ -96,11 +80,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm",
       "name": "CA SS-16 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-7",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-6",
       "ip": "193.203.203.66",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-7"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#ss-chacha20-ietf-poly1305-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     }
   ]
 }

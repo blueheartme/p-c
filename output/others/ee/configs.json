@@ -1,34 +1,20 @@
 {
-  "updated": "2026-01-31T08:23:17.374703",
-  "count": 2,
+  "updated": "2026-02-02T08:36:45.822347",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.215.186.115",
+      "type": "trojan",
+      "address": "ee-1.kamediorg.com",
       "port": "443",
-      "id": "45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3",
-      "name": "🇪🇪 Estonia",
-      "network": "tcp",
-      "sni": "hls-svod.itunes.apple.com",
+      "password": "R8ufkVqwRZAgtwjyrA",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "sni": "",
       "host": "",
-      "original": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "185.215.186.115",
+      "original": "trojan://R8ufkVqwRZAgtwjyrA@ee-1.kamediorg.com:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=raw&amp;headertype=none#trojan-tcp-tls-EE%F0%9F%8C%90-1",
+      "ip": "45.139.194.80",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "185.215.186.115",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "🇪🇪 Estonia",
-      "original": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2",
-      "ip": "185.215.186.115",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.215.186.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&type=tcp&headerType=none#ss-EE%F0%9F%8C%90-2"
+      "rebuilt": "trojan://R8ufkVqwRZAgtwjyrA@ee-1.kamediorg.com:443?encryption=none&amp;security=tls&amp;fp=chrome&amp;type=raw&amp;headertype=none#trojan-tcp-tls-EE%F0%9F%8C%90-1"
     }
   ]
 }

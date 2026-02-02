@@ -1,21 +1,34 @@
 {
-  "updated": "2026-02-02T01:45:50.274029",
-  "count": 1,
+  "updated": "2026-02-02T08:36:45.828918",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "212.183.88.29",
-      "port": "443",
-      "id": "85f9e89d-3298-4c2c-9a03-8ab71be0f986",
-      "name": "TR VLESS-89 | free-nodes",
-      "network": "ws",
-      "sni": "free.aliamini.net",
-      "host": "free.aliamini.net",
-      "original": "vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "port": "443?path=/",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "212.183.88.29",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "ss://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "152.53.51.24",
+      "port": "22955",
+      "id": "63f92f3c-447c-4283-80b9-0af8e164cdad",
+      "name": "德國",
+      "network": "grpc",
+      "sni": "one-piece.com",
+      "host": "",
+      "original": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "152.53.51.24",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
