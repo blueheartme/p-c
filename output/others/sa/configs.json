@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-02T08:36:45.832898",
+  "updated": "2026-02-02T16:33:10.505662",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "163.171.207.11",
-      "port": "19688",
-      "method": "chacha20-ietf-poly1305",
-      "password": "638bb05eab35adec",
-      "name": "未知 SS-04 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1",
-      "ip": "163.171.207.11",
+      "type": "vless",
+      "address": "81.208.170.142",
+      "port": "1500",
+      "id": "e332f028-d343-5b44-8016-b3130f39e133",
+      "name": "未知 VLESS-107 | free-nodes",
+      "network": "grpc",
+      "sni": "www.ebay.com",
+      "host": "",
+      "original": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1",
+      "ip": "81.208.170.142",
       "country": "SA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#ss-chacha20-ietf-poly1305-SA%F0%9F%8C%90-1"
+      "rebuilt": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1"
     }
   ]
 }

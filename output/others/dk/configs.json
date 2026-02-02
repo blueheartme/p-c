@@ -1,19 +1,32 @@
 {
-  "updated": "2026-02-02T01:45:50.252933",
-  "count": 1,
+  "updated": "2026-02-02T16:33:10.498393",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
+      "address": "192.36.27.94",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇩🇰DK-192.36.27.94-4106",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1",
+      "ip": "192.36.27.94",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
       "address": "45.148.31.0",
-      "port": "15855?type=ws&security=none&path=%2F",
+      "port": "15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-117 | free-nodes",
-      "original": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=%2F#ss-DK%F0%9F%8C%90-1",
+      "name": "未知 VLESS-109 | free-nodes",
+      "original": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-DK%F0%9F%8C%90-2",
       "ip": "45.148.31.0",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=%2F#ss-DK%F0%9F%8C%90-1"
+      "rebuilt": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-DK%F0%9F%8C%90-2"
     }
   ]
 }

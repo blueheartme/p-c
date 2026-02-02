@@ -1,32 +1,21 @@
 {
-  "updated": "2026-02-02T01:45:50.269248",
-  "count": 2,
+  "updated": "2026-02-02T16:33:10.502468",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "109.61.39.28",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-109.61.39.28-0307",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1",
-      "ip": "109.61.39.28",
+      "type": "vless",
+      "address": "kazakhstan13.yourbot.biz",
+      "port": "443",
+      "id": "fdb239e1-d6b1-4b04-84c8-52a124ca0bf7",
+      "name": "未知 VLESS-121 | free-nodes",
+      "network": "tcp",
+      "sni": "kazakhstan13.yourbot.biz",
+      "host": "",
+      "original": "vless://fdb239e1-d6b1-4b04-84c8-52a124ca0bf7@kazakhstan13.yourbot.biz:443?security=reality&encryption=none&pbk=3jjLvTnB7NtUoXI9hSuhM2Aru5kuGN2yal1I5uDoenY&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan13.yourbot.biz&sid=5231#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
+      "ip": "91.217.11.21",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.159.250.190",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇰🇿KZ-45.159.250.190-4964",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
-      "ip": "45.159.250.190",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://fdb239e1-d6b1-4b04-84c8-52a124ca0bf7@kazakhstan13.yourbot.biz:443?security=reality&encryption=none&pbk=3jjLvTnB7NtUoXI9hSuhM2Aru5kuGN2yal1I5uDoenY&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan13.yourbot.biz&sid=5231#vless-xtls-rprx-vision-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,47 +1,34 @@
 {
-  "updated": "2026-02-02T08:36:45.824147",
-  "count": 3,
+  "updated": "2026-02-02T16:33:10.495975",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.12.143.84",
-      "port": "8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
-      "method": "",
-      "password": "",
-      "name": "TR VLESS-60 | free-nodes",
-      "original": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "45.12.143.84",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "92.60.70.36",
-      "port": "2053",
-      "method": "",
-      "password": "",
-      "name": "🇮🇹_IT_意大利",
-      "original": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "92.60.70.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
       "type": "vless",
-      "address": "45.12.143.84",
-      "port": "8443",
-      "id": "309fa273-6579-4cb2-9143-7cad50401eba",
-      "name": "TR VLESS-60 | free-nodes",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "address": "gody.xrayshop.store",
+      "port": "54230",
+      "id": "4ed0f31f-a400-4012-be63-b7104ce1bb1e",
+      "name": "TR VLESS-56 | free-nodes",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "45.12.143.84",
+      "original": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "45.92.219.146",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "turkey17.zentrolamia.xyz",
+      "port": "443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz",
+      "method": "",
+      "password": "",
+      "name": "TR VLESS-36 | free-nodes",
+      "original": "ss://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.12.143.236",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
