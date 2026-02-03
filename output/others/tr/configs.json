@@ -1,49 +1,36 @@
 {
-  "updated": "2026-02-03T08:31:21.700664",
-  "count": 3,
+  "updated": "2026-02-03T16:45:41.367484",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "test.country-17.eu-ffast.com",
-      "port": "443",
-      "id": "a23ebab9-6158-4c98-a1eb-267428894f1e",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://a23ebab9-6158-4c98-a1eb-267428894f1e@test.country-17.eu-ffast.com:443?security=reality&amp;encryption=none&amp;pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tr.eu-ffast.com&amp;sid=50#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "62.60.233.58",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://a23ebab9-6158-4c98-a1eb-267428894f1e@test.country-17.eu-ffast.com:443?security=reality&amp;encryption=none&amp;pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tr.eu-ffast.com&amp;sid=50#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "gody.xrayshop.store",
       "port": "54230",
       "id": "4ed0f31f-a400-4012-be63-b7104ce1bb1e",
-      "name": "TR VLESS-56 | free-nodes",
+      "name": "TR VLESS-44 | free-nodes",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "45.92.219.146",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "ss",
-      "address": "gody.xrayshop.store",
-      "port": "54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp",
-      "method": "",
-      "password": "",
-      "name": "TR VLESS-56 | free-nodes",
-      "original": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "45.92.219.146",
+      "type": "vless",
+      "address": "turkey17.zentrolamia.xyz",
+      "port": "443",
+      "id": "09d2212c-1757-4e34-82d5-b738c393fcc0",
+      "name": "TR VLESS-22 | free-nodes",
+      "network": "tcp",
+      "sni": "turkey17.zentrolamia.xyz",
+      "host": "",
+      "original": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.12.143.236",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
