@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-02T16:33:10.493545",
-  "count": 1,
+  "updated": "2026-02-03T01:45:20.144819",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,21 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#ss-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "nodec.azurka.org",
+      "port": "443",
+      "id": "0d12578e-50da-41b9-a913-6c1d8c0dd713",
+      "name": "🇪🇪EE_1 | ⬇️ 1.5MB/s",
+      "network": "grpc",
+      "sni": "nodec.azurka.org",
+      "host": "",
+      "original": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#vless-grpc-tls-chrome-EE%F0%9F%8C%90-2",
+      "ip": "196.196.249.55",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#vless-grpc-tls-chrome-EE%F0%9F%8C%90-2"
     }
   ]
 }

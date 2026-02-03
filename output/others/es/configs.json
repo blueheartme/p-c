@@ -1,7 +1,34 @@
 {
-  "updated": "2026-02-02T16:33:10.483184",
+  "updated": "2026-02-03T01:45:20.156346",
   "count": 6,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "109.234.211.66",
+      "port": "2087",
+      "password": "trojan",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "store.timimi.dpdns.org",
+      "host": "store.timimi.dpdns.org",
+      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1",
+      "ip": "109.234.211.66",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#trojan-ws-tls-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "188.214.157.58",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇲🇦MA-188.214.157.58-0404",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2",
+      "ip": "188.214.157.58",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-2"
+    },
     {
       "type": "ss",
       "address": "37.143.130.203",
@@ -9,11 +36,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
       "name": "🇪🇸ES-37.143.130.203-0289",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3",
       "ip": "37.143.130.203",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
@@ -24,11 +51,11 @@
       "network": "ws",
       "sni": "sni.111000.cc.cd",
       "host": "sni.111000.cc.cd",
-      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2",
+      "original": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-4",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-ES%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -37,25 +64,11 @@
       "method": "",
       "password": "",
       "name": "西班牙(yudou789.top 玉豆免费节点)",
-      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-3",
+      "original": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-5",
       "ip": "185.251.80.238",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "trojan",
-      "address": "109.234.211.66",
-      "port": "2087",
-      "password": "trojan",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "store.timimi.dpdns.org",
-      "host": "store.timimi.dpdns.org",
-      "original": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-4",
-      "ip": "109.234.211.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#trojan-ws-tls-ES%F0%9F%8C%90-4"
+      "rebuilt": "ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-ES%F0%9F%8C%90-5"
     },
     {
       "type": "ss",
@@ -64,24 +77,11 @@
       "method": "aes-256-cfb",
       "password": "BwcAUZk8hUFAkDGN",
       "name": "🇪🇸ES-5.188.181.201-8502",
-      "original": "ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ss-aes-256-cfb-ES%F0%9F%8C%90-5",
+      "original": "ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ss-aes-256-cfb-ES%F0%9F%8C%90-6",
       "ip": "5.188.181.201",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ss-aes-256-cfb-ES%F0%9F%8C%90-5"
-    },
-    {
-      "type": "ss",
-      "address": "188.214.157.58",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇲🇦MA-188.214.157.58-0404",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-6",
-      "ip": "188.214.157.58",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#ss-chacha20-ietf-poly1305-ES%F0%9F%8C%90-6"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#ss-aes-256-cfb-ES%F0%9F%8C%90-6"
     }
   ]
 }

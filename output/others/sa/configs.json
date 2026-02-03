@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-02T16:33:10.505662",
-  "count": 1,
+  "updated": "2026-02-03T01:45:20.166408",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,6 +16,19 @@
       "country": "SA",
       "cdn": null,
       "rebuilt": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#vless-grpc-reality-chrome-SA%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "81.208.170.142",
+      "port": "1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-107 | free-nodes",
+      "original": "ss://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#ss-SA%F0%9F%8C%90-2",
+      "ip": "81.208.170.142",
+      "country": "SA",
+      "cdn": null,
+      "rebuilt": "ss://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#ss-SA%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-02T08:36:45.834060",
-  "count": 2,
+  "updated": "2026-02-03T01:45:20.122903",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -8,25 +8,12 @@
       "port": "989",
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇧🇷BR-38.54.57.90-0364",
+      "name": "🇧🇷BR-38.54.57.90-0396",
       "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "38.54.57.90",
       "country": "BR",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "5.188.4.103",
-      "port": "11205",
-      "method": "chacha20-ietf-poly1305",
-      "password": "a7c205642b302c20",
-      "name": "未知 SS-19 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
-      "ip": "5.188.4.103",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }
