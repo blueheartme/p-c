@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-03T01:45:20.158728",
-  "count": 2,
+  "updated": "2026-02-03T08:31:21.664701",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "158.58.172.189",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "🇮🇹IT_1 | ⬇️ 8.6MB/s",
-      "original": "ss://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-1",
-      "ip": "158.58.172.189",
+      "type": "vless",
+      "address": "185.247.184.44",
+      "port": "443",
+      "id": "6b1c3308-9bb4-45bc-8387-25c969a8c8f9",
+      "name": "未知 VLESS-67 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?security=reality&amp;encryption=none&amp;pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wikiportal.su&amp;sid=6bce68ada2c8d581#vless-tcp-reality-IT%F0%9F%8C%90-1",
+      "ip": "185.247.184.44",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?security=reality&amp;encryption=none&amp;pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wikiportal.su&amp;sid=6bce68ada2c8d581#vless-tcp-reality-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -27,6 +29,19 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?security=reality&amp;encryption=none&amp;pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wikiportal.su&amp;sid=6bce68ada2c8d581#ss-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "158.58.172.189",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "🇮🇹IT_1 | ⬇️ 8.6MB/s",
+      "original": "ss://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-3",
+      "ip": "158.58.172.189",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ss-IT%F0%9F%8C%90-3"
     }
   ]
 }

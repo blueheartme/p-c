@@ -1,21 +1,19 @@
 {
-  "updated": "2026-02-03T01:45:20.163198",
+  "updated": "2026-02-03T08:31:21.679418",
   "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.148.31.0",
-      "port": "15855",
-      "id": "e4fc4761-154f-490e-bbaa-b4fa193f1073",
-      "name": "未知 VLESS-109 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-1",
-      "ip": "45.148.31.0",
+      "type": "ss",
+      "address": "192.36.27.94",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇩🇰DK-192.36.27.94-0350",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1",
+      "ip": "192.36.27.94",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -23,7 +21,7 @@
       "port": "15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-109 | free-nodes",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "original": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-DK%F0%9F%8C%90-2",
       "ip": "45.148.31.0",
       "country": "DK",
@@ -31,17 +29,19 @@
       "rebuilt": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-DK%F0%9F%8C%90-2"
     },
     {
-      "type": "ss",
-      "address": "192.36.27.94",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇩🇰DK-192.36.27.94-4106",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-3",
-      "ip": "192.36.27.94",
+      "type": "vless",
+      "address": "45.148.31.0",
+      "port": "15855",
+      "id": "e4fc4761-154f-490e-bbaa-b4fa193f1073",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-3",
+      "ip": "45.148.31.0",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#ss-aes-256-cfb-DK%F0%9F%8C%90-3"
+      "rebuilt": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-DK%F0%9F%8C%90-3"
     }
   ]
 }
