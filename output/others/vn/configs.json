@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-03T16:45:41.354899",
-  "count": 3,
+  "updated": "2026-02-04T01:28:42.162119",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -32,16 +32,29 @@
     },
     {
       "type": "ss",
+      "address": "112.197.26.106",
+      "port": "45312",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ca5a5efae00a832b",
+      "name": "未知 SS-04 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-3",
+      "ip": "112.197.26.106",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
       "address": "103.186.155.81",
       "port": "38388",
       "method": "aes-256-cfb",
       "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
       "name": "🇻🇳 越南|@stairnode",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-3",
+      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-4",
       "ip": "103.186.155.81",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-4"
     }
   ]
 }

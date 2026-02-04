@@ -1,21 +1,19 @@
 {
-  "updated": "2026-02-03T16:45:41.361031",
+  "updated": "2026-02-04T01:28:42.149333",
   "count": 6,
   "configs": [
     {
-      "type": "vless",
-      "address": "pol.fasti.win",
+      "type": "ss",
+      "address": "54.36.174.140",
       "port": "443",
-      "id": "2b76609f-2132-42ac-a8fd-89635f73c85a",
-      "name": "未知 VLESS-34 | free-nodes",
-      "network": "tcp",
-      "sni": "pl.fasti.win",
-      "host": "",
-      "original": "vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "45.144.51.87",
+      "method": "chacha20-ietf-poly1305",
+      "password": "pvgz9pq",
+      "name": "未知 SS-10 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "54.36.174.140",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -32,16 +30,31 @@
     },
     {
       "type": "ss",
-      "address": "54.36.174.140",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "pvgz9pq",
-      "name": "未知 SS-10 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "54.36.174.140",
+      "address": "217.30.10.70",
+      "port": "9044",
+      "method": "aes-256-cfb",
+      "password": "KBGjZYcy4SyRShmA",
+      "name": "🇵🇱PL-217.30.10.70-8421",
+      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "vless",
+      "address": "pol.fasti.win",
+      "port": "443",
+      "id": "2b76609f-2132-42ac-a8fd-89635f73c85a",
+      "name": "未知 VLESS-34 | free-nodes",
+      "network": "tcp",
+      "sni": "pl.fasti.win",
+      "host": "",
+      "original": "vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "45.144.51.99",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     },
     {
       "type": "ss",
@@ -50,24 +63,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-34 | free-nodes",
-      "original": "ss://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "45.144.51.87",
+      "original": "ss://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "45.144.51.99",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9044",
-      "method": "aes-256-cfb",
-      "password": "KBGjZYcy4SyRShmA",
-      "name": "🇵🇱PL-217.30.10.70-8421",
-      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "ss://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.fasti.win&sid=feedbacc#ss-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "ss",

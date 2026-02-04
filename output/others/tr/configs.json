@@ -1,21 +1,32 @@
 {
-  "updated": "2026-02-03T16:45:41.367484",
-  "count": 2,
+  "updated": "2026-02-04T01:28:42.174169",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "gody.xrayshop.store",
-      "port": "54230",
-      "id": "4ed0f31f-a400-4012-be63-b7104ce1bb1e",
+      "port": "54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp",
+      "method": "",
+      "password": "",
       "name": "TR VLESS-44 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "45.92.219.146",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "ss://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&amp;encryption=none&amp;host=tamin.ir&amp;headerType=http&amp;type=tcp#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "turkey17.zentrolamia.xyz",
+      "port": "443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz",
+      "method": "",
+      "password": "",
+      "name": "TR VLESS-22 | free-nodes",
+      "original": "ss://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.12.143.236",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -26,11 +37,11 @@
       "network": "tcp",
       "sni": "turkey17.zentrolamia.xyz",
       "host": "",
-      "original": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "45.12.143.236",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://09d2212c-1757-4e34-82d5-b738c393fcc0@turkey17.zentrolamia.xyz:443?security=reality&encryption=none&pbk=OtkE4LWAvYWWIaBD_RbAHg0bMoFIHJTcs0eXMuV17FY&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey17.zentrolamia.xyz#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
