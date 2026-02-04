@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-04T01:28:42.162119",
+  "updated": "2026-02-04T08:35:00.526392",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "103.186.155.81",
+      "port": "38388",
+      "method": "aes-256-cfb",
+      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
+      "name": "🇻🇳 越南|@stairnode",
+      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-1",
+      "ip": "103.186.155.81",
+      "country": "VN",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "103.163.218.2",
@@ -9,26 +22,11 @@
       "method": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
       "name": "🇻🇳VN-103.163.218.2-0371",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-1",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-2",
       "ip": "103.163.218.2",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vmess",
-      "address": "160.191.245.48",
-      "port": "58623",
-      "id": "8d74803e-aa74-47ef-e3ae-23eeaa96f89d",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4yQLTIiLCJhZGQiOiIxNjAuMTkxLjI0NS40OCIsInBvcnQiOiI1ODYyMyIsImlkIjoiOGQ3NDgwM2UtYWE3NC00N2VmLWUzYWUtMjNlZWFhOTZmODlkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
-      "ip": "160.191.245.48",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4yQLTIiLCJhZGQiOiIxNjAuMTkxLjI0NS40OCIsInBvcnQiOiI1ODYyMyIsImlkIjoiOGQ3NDgwM2UtYWE3NC00N2VmLWUzYWUtMjNlZWFhOTZmODlkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -45,16 +43,16 @@
     },
     {
       "type": "ss",
-      "address": "103.186.155.81",
-      "port": "38388",
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV",
-      "name": "🇻🇳 越南|@stairnode",
-      "original": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-4",
-      "ip": "103.186.155.81",
+      "address": "112.197.26.106",
+      "port": "45310",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ca5a5efae00a832b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4",
+      "ip": "112.197.26.106",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#ss-aes-256-cfb-VN%F0%9F%8C%90-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#ss-chacha20-ietf-poly1305-VN%F0%9F%8C%90-4"
     }
   ]
 }

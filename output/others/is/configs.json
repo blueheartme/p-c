@@ -1,21 +1,19 @@
 {
-  "updated": "2026-02-04T01:28:42.160552",
+  "updated": "2026-02-04T08:35:00.529100",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "45.83.21.88",
-      "port": "443",
-      "id": "1679af35-6dd6-4c09-ae3b-18f239217f3e",
+      "port": "443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560",
+      "method": "",
+      "password": "",
       "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "rAyAn-007.pArViN.DpDnS.OrG",
-      "host": "rAyAn-007.pArViN.DpDnS.OrG",
-      "original": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#vless-ws-tls-IS%F0%9F%8C%90-1",
+      "original": "ss://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#ss-IS%F0%9F%8C%90-1",
       "ip": "45.83.21.88",
       "country": "IS",
       "cdn": null,
-      "rebuilt": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#vless-ws-tls-IS%F0%9F%8C%90-1"
+      "rebuilt": "ss://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#ss-IS%F0%9F%8C%90-1"
     }
   ]
 }
