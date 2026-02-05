@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-05T01:29:26.025386",
-  "count": 4,
+  "updated": "2026-02-05T08:36:55.717534",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -16,19 +16,6 @@
       "rebuilt": "ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#ss-LV%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
-      "address": "46.183.217.204",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇱🇻LV-46.183.217.204-0249",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2",
-      "ip": "46.183.217.204",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-2"
-    },
-    {
       "type": "vless",
       "address": "195.135.252.28",
       "port": "443",
@@ -37,26 +24,24 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-3",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-2"
     },
     {
-      "type": "vless",
-      "address": "185.73.125.42",
-      "port": "2053",
-      "id": "943c4137-e92e-4fd8-a3a1-b101f41f8f62",
-      "name": "未知 VLESS-82 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://943c4137-e92e-4fd8-a3a1-b101f41f8f62@185.73.125.42:2053?security=reality&amp;encryption=none&amp;pbk=14CYRxjc3_NTNZPpIEWL3GiIxGX42Cgdtt4KLN8RoFs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=cdn.yektanet.com&amp;sid=194ac11b09b5#vless-tcp-reality-LV%F0%9F%8C%90-4",
-      "ip": "185.73.125.42",
+      "type": "ss",
+      "address": "46.183.217.204",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇱🇻LV-46.183.217.204-0261",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3",
+      "ip": "46.183.217.204",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://943c4137-e92e-4fd8-a3a1-b101f41f8f62@185.73.125.42:2053?security=reality&amp;encryption=none&amp;pbk=14CYRxjc3_NTNZPpIEWL3GiIxGX42Cgdtt4KLN8RoFs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=cdn.yektanet.com&amp;sid=194ac11b09b5#vless-tcp-reality-LV%F0%9F%8C%90-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#ss-chacha20-ietf-poly1305-LV%F0%9F%8C%90-3"
     }
   ]
 }
