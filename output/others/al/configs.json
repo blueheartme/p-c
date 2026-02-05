@@ -1,21 +1,34 @@
 {
-  "updated": "2026-02-02T01:45:50.271750",
-  "count": 1,
+  "updated": "2026-02-05T01:29:26.038665",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "alb.cdnvkaudio.com",
-      "port": "443",
-      "id": "51d68902-063d-43c4-a29a-63b5561b4c96",
-      "name": "GB VLESS-74 | free-nodes",
-      "network": "tcp",
-      "sni": "alb.cdnvkaudio.com",
+      "address": "pq-albania1.09vpn.com",
+      "port": "80",
+      "id": "8910cbb3-33b1-4266-a243-ac780ac63394",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
       "host": "",
-      "original": "vless://51d68902-063d-43c4-a29a-63b5561b4c96@alb.cdnvkaudio.com:443?security=reality&type=tcp&sni=alb.cdnvkaudio.com&fp=chrome&flow=xtls-rprx-vision&sid=b42e9ba003a8f95d&pbk=tTAg7K4oBAECfT5tmaABiQ0pj3yuR07WMXqjnQhUDHI&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1",
-      "ip": "84.54.48.223",
+      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-1",
+      "ip": "45.15.170.237",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://51d68902-063d-43c4-a29a-63b5561b4c96@alb.cdnvkaudio.com:443?security=reality&type=tcp&sni=alb.cdnvkaudio.com&fp=chrome&flow=xtls-rprx-vision&sid=b42e9ba003a8f95d&pbk=tTAg7K4oBAECfT5tmaABiQ0pj3yuR07WMXqjnQhUDHI&encryption=none#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1"
+      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "pq-albania1.09vpn.com",
+      "port": "80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-2",
+      "ip": "45.15.170.237",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-2"
     }
   ]
 }

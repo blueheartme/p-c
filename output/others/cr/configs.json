@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-04T16:40:21.780635",
+  "updated": "2026-02-05T01:29:26.012399",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "190.93.245.102",
-      "port": "443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws",
-      "method": "",
-      "password": "",
-      "name": "🇺🇸_US_美国_5",
-      "original": "ss://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#ss-CR%F0%9F%8C%90-1",
-      "ip": "190.93.245.102",
-      "country": "CR",
-      "cdn": null,
-      "rebuilt": "ss://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#ss-CR%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "190.93.245.102",
@@ -24,11 +11,24 @@
       "network": "ws",
       "sni": "rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg",
       "host": "rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg",
-      "original": "vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#vless-ws-tls-chrome-CR%F0%9F%8C%90-2",
+      "original": "vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#vless-ws-tls-chrome-CR%F0%9F%8C%90-1",
       "ip": "190.93.245.102",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#vless-ws-tls-chrome-CR%F0%9F%8C%90-2"
+      "rebuilt": "vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#vless-ws-tls-chrome-CR%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "190.93.245.102",
+      "port": "443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws",
+      "method": "",
+      "password": "",
+      "name": "🇺🇸_US_美国_5",
+      "original": "ss://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#ss-CR%F0%9F%8C%90-2",
+      "ip": "190.93.245.102",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "ss://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@190.93.245.102:443?fp=chrome&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&type=ws#ss-CR%F0%9F%8C%90-2"
     }
   ]
 }
