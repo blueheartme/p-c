@@ -1,51 +1,21 @@
 {
-  "updated": "2026-01-28T08:25:35.225737",
-  "count": 3,
+  "updated": "2026-02-05T16:40:50.084515",
+  "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "203.30.188.188",
-      "port": "443",
-      "id": "40d496a6-ceeb-4096-baeb-4cc52b205621",
-      "name": "🏁RELAY-203.30.188.188-0094",
+      "type": "vless",
+      "address": "77.75.199.138",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "GB英国(mibei77.com 米贝节点分享)",
       "network": "ws",
-      "host": "lg1.trump2023.us",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMDMuMzAuMTg4LjE4OCIsImFpZCI6MCwiaG9zdCI6ImxnMS50cnVtcDIwMjMudXMiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "203.30.188.188",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-CY%F0%9F%8C%90-1",
+      "ip": "77.75.199.138",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMzAuMTg4LjE4OCIsImFpZCI6MCwiaG9zdCI6ImxnMS50cnVtcDIwMjMudXMiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "203.30.190.190",
-      "port": "443",
-      "id": "40d496a6-ceeb-4096-baeb-4cc52b205621",
-      "name": "🏁RELAY-203.30.190.190-0110",
-      "network": "ws",
-      "host": "lg1.trump2023.us",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMDMuMzAuMTkwLjE5MCIsImFpZCI6MCwiaG9zdCI6ImxnMS50cnVtcDIwMjMudXMiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "203.30.190.190",
-      "country": "CY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMzAuMTkwLjE5MCIsImFpZCI6MCwiaG9zdCI6ImxnMS50cnVtcDIwMjMudXMiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1DWfCfjJAtMiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
-    },
-    {
-      "type": "vmess",
-      "address": "203.30.191.193",
-      "port": "443",
-      "id": "17b2a313-37a0-4945-a8e4-e63375506b4a",
-      "name": "🏁RELAY-203.30.191.193-0058",
-      "network": "ws",
-      "host": "lg10.cfcdn1.xyz",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMDMuMzAuMTkxLjE5MyIsImFpZCI6MCwiaG9zdCI6ImxnMTAuY2ZjZG4xLnh5eiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "203.30.191.193",
-      "country": "CY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMDMuMzAuMTkxLjE5MyIsImFpZCI6MCwiaG9zdCI6ImxnMTAuY2ZjZG4xLnh5eiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUNZ8J+MkC0zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-CY%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-03T08:31:21.705022",
+  "updated": "2026-02-05T16:40:50.088086",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "Turkey1.bio4cdn.com",
-      "port": "443?path=%2Fwebcdn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tr.bio4cdn.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=tr.bio4cdn.com",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://fac7209e-6da0-4489-9566-0bd13aeb0c3d@Turkey1.bio4cdn.com:443?path=%2Fwebcdn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tr.bio4cdn.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=tr.bio4cdn.com#ss-CW%F0%9F%8C%90-1",
-      "ip": "5.10.245.161",
+      "type": "vless",
+      "address": "5.10.247.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🇺🇸US_326",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CW%F0%9F%8C%90-1",
+      "ip": "5.10.247.238",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "ss://fac7209e-6da0-4489-9566-0bd13aeb0c3d@Turkey1.bio4cdn.com:443?path=%2Fwebcdn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tr.bio4cdn.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=tr.bio4cdn.com#ss-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CW%F0%9F%8C%90-1"
     }
   ]
 }
