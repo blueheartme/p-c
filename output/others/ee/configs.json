@@ -1,34 +1,47 @@
 {
-  "updated": "2026-02-03T08:31:21.699885",
-  "count": 2,
+  "updated": "2026-02-06T08:35:18.273560",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "nodec.azurka.org",
-      "port": "443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun",
-      "method": "",
-      "password": "",
-      "name": "🇪🇪EE_1 | ⬇️ 1.5MB/s",
-      "original": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#ss-EE%F0%9F%8C%90-1",
-      "ip": "196.196.249.55",
+      "type": "vless",
+      "address": "est01-vlr01.tcp-reset-club.net",
+      "port": "443",
+      "id": "e108f3eb-4d3a-4e20-a09b-7008e333bc23",
+      "name": "未知 VLESS-117 | free-nodes",
+      "network": "tcp",
+      "sni": "hls-svod.itunes.apple.com",
+      "host": "",
+      "original": "vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
+      "ip": "185.155.96.154",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#ss-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "nodec.azurka.org",
-      "port": "443",
-      "id": "0d12578e-50da-41b9-a913-6c1d8c0dd713",
-      "name": "🇪🇪EE_1 | ⬇️ 1.5MB/s",
-      "network": "grpc",
-      "sni": "nodec.azurka.org",
-      "host": "",
-      "original": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#vless-grpc-tls-chrome-EE%F0%9F%8C%90-2",
-      "ip": "196.196.249.55",
+      "type": "ss",
+      "address": "38.180.216.114",
+      "port": "7307",
+      "method": "aes-256-gcm",
+      "password": "FoOiGlkAA9yPEGP",
+      "name": "未知 SS-22 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-2",
+      "ip": "38.180.216.114",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?encryption=none&security=tls&sni=nodec.azurka.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=api&mode=gun#vless-grpc-tls-chrome-EE%F0%9F%8C%90-2"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "est01-vlr01.tcp-reset-club.net",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-116 | free-nodes",
+      "original": "ss://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#ss-EE%F0%9F%8C%90-3",
+      "ip": "185.155.96.154",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#ss-EE%F0%9F%8C%90-3"
     }
   ]
 }

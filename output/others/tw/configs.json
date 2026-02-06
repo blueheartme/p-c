@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-06T01:29:52.686079",
-  "count": 2,
+  "updated": "2026-02-06T08:35:18.266691",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
@@ -16,6 +16,21 @@
       "rebuilt": "ss://a2d12dc9-c111-45ac-b803-87e48f3484d8@hinet4.gzcloud.shop:20280?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735&type=tcp&headerType=none#ss-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     },
     {
+      "type": "vless",
+      "address": "hinet4.gzcloud.shop",
+      "port": "20280",
+      "id": "a2d12dc9-c111-45ac-b803-87e48f3484d8",
+      "name": "台灣",
+      "network": "tcp",
+      "sni": "buylite.music.apple.com",
+      "host": "",
+      "original": "vless://a2d12dc9-c111-45ac-b803-87e48f3484d8@hinet4.gzcloud.shop:20280?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "ip": "114.43.5.22",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "vless://a2d12dc9-c111-45ac-b803-87e48f3484d8@hinet4.gzcloud.shop:20280?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+    },
+    {
       "type": "trojan",
       "address": "220.130.58.136",
       "port": "35502",
@@ -23,11 +38,25 @@
       "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+    },
+    {
+      "type": "trojan",
+      "address": "220.130.58.136",
+      "port": "31101",
+      "password": "f847b823-5874-4eaf-9ccc-2307a3f0ca22",
+      "name": "美国(yudou789.top 玉豆免费节点)",
+      "sni": "green2.cdntencentmusic.com",
+      "host": "",
+      "original": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4",
+      "ip": "220.130.58.136",
+      "country": "TW",
+      "cdn": null,
+      "rebuilt": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-4"
     }
   ]
 }
