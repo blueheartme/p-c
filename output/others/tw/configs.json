@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-05T16:40:50.074671",
-  "count": 3,
+  "updated": "2026-02-06T01:29:52.686079",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -18,30 +18,16 @@
     {
       "type": "trojan",
       "address": "220.130.58.136",
-      "port": "31101",
-      "password": "f847b823-5874-4eaf-9ccc-2307a3f0ca22",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "sni": "green2.cdntencentmusic.com",
-      "host": "",
-      "original": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
-      "ip": "220.130.58.136",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "trojan://f847b823-5874-4eaf-9ccc-2307a3f0ca22@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
-    },
-    {
-      "type": "trojan",
-      "address": "220.130.58.136",
       "port": "35502",
       "password": "bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8",
       "name": "美国(yudou789.top 玉豆免费节点)",
       "sni": "green2.cdntencentmusic.com",
       "host": "",
-      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3",
+      "original": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2",
       "ip": "220.130.58.136",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-3"
+      "rebuilt": "trojan://bb64f482-0dcb-46a4-b3b5-ec34bbdeeca8@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#trojan-tcp-tls-TW%F0%9F%87%B9%F0%9F%87%BC-2"
     }
   ]
 }

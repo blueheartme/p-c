@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-05T16:40:50.073089",
-  "count": 3,
+  "updated": "2026-02-06T01:29:52.674627",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -16,34 +16,17 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
+      "type": "ss",
       "address": "trcdn1.suio.me",
-      "port": "443",
-      "id": "ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1",
+      "port": "443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/",
+      "method": "",
+      "password": "",
       "name": "TR VLESS-101 | free-nodes",
-      "network": "tcp",
-      "sni": "trcdn1.suio.me",
-      "host": "",
-      "original": "vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#vless-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "ss://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "103.231.75.108",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#vless-tcp-tls-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vmess",
-      "address": "tr1-smart.adelping.com",
-      "port": "80",
-      "id": "68c8f462-8468-4931-90a8-680c3d6cb3c1",
-      "name": "@NETMelliAnti : چنل کانفیگ",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY4YzhmNDYyLTg0NjgtNDkzMS05MGE4LTY4MGMzZDZjYjNjMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "ip": "185.104.189.38",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY4YzhmNDYyLTg0NjgtNDkzMS05MGE4LTY4MGMzZDZjYjNjMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+      "rebuilt": "ss://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443?security=tls&encryption=none&sni=trcdn1.suio.me&type=tcp&path=/#ss-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }

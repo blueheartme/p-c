@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-05T16:40:50.092786",
+  "updated": "2026-02-06T01:29:52.677724",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "152.53.51.24",
-      "port": "22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun",
-      "method": "",
-      "password": "",
+      "port": "22955",
+      "id": "63f92f3c-447c-4283-80b9-0af8e164cdad",
       "name": "德國",
-      "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "network": "grpc",
+      "sni": "one-piece.com",
+      "host": "",
+      "original": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "152.53.51.24",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
