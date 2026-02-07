@@ -1,34 +1,19 @@
 {
-  "updated": "2026-02-07T01:27:56.818848",
-  "count": 2,
+  "updated": "2026-02-07T16:23:56.908468",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
       "address": "163.171.137.76",
-      "port": "48436",
+      "port": "47394",
       "method": "chacha20-ietf-poly1305",
-      "password": "6d0084c6e4502ab7",
-      "name": "未知 SS-01 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "password": "eafad96826c79ddd",
+      "name": "未知 SS-12 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1",
       "ip": "163.171.137.76",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "89.116.180.138",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2",
-      "ip": "89.116.180.138",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }

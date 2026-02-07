@@ -1,21 +1,21 @@
 {
-  "updated": "2026-01-27T08:26:44.054923",
+  "updated": "2026-02-07T16:23:56.906851",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "146.70.157.5",
-      "port": "8880",
-      "id": "7f579426-5a20-4cf6-cc54-943568ccf148",
-      "name": "🇷🇴RO-146.70.157.5-0237",
-      "network": "ws",
+      "type": "vless",
+      "address": "rou01-vlr01.tcp-reset-club.net",
+      "port": "443",
+      "id": "e108f3eb-4d3a-4e20-a09b-7008e333bc23",
+      "name": "未知 VLESS-110 | free-nodes",
+      "network": "tcp",
+      "sni": "hls-svod.itunes.apple.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDYuNzAuMTU3LjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjdmNTc5NDI2LTVhMjAtNGNmNi1jYzU0LTk0MzU2OGNjZjE0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODgwLCJwcyI6InZtZXNzLXdzLWF1dG8tUk/wn4yQLTEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9",
-      "ip": "146.70.157.5",
+      "original": "vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@rou01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1",
+      "ip": "81.180.93.45",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDYuNzAuMTU3LjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjdmNTc5NDI2LTVhMjAtNGNmNi1jYzU0LTk0MzU2OGNjZjE0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODgwLCJwcyI6InZtZXNzLXdzLWF1dG8tUk/wn4yQLTEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9"
+      "rebuilt": "vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@rou01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1"
     }
   ]
 }
