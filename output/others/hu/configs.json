@@ -1,34 +1,21 @@
 {
-  "updated": "2026-02-07T01:27:56.825672",
-  "count": 2,
+  "updated": "2026-02-08T16:24:19.219301",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "141.11.203.238",
+      "address": "141.11.202.238",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "ws",
       "sni": "sni.jpmj.dev",
       "host": "sni.jpmj.dev",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1",
-      "ip": "141.11.203.238",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1",
+      "ip": "141.11.202.238",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "141.11.203.238",
-      "port": "2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "HK香港(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-HU%F0%9F%8C%90-2",
-      "ip": "141.11.203.238",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-HU%F0%9F%8C%90-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-1"
     }
   ]
 }

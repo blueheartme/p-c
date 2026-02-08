@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-06T08:35:18.285064",
+  "updated": "2026-02-08T16:24:19.214157",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "pq-albania1.09vpn.com",
-      "port": "80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-1",
+      "port": "80",
+      "id": "8910cbb3-33b1-4266-a243-ac780ac63394",
+      "name": "未知 VLESS-81 | free-nodes",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#vless-ws-AL%F0%9F%8C%90-1",
       "ip": "45.15.170.237",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-1"
+      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#vless-ws-AL%F0%9F%8C%90-1"
     }
   ]
 }

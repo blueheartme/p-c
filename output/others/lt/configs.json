@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-08T08:27:30.235786",
+  "updated": "2026-02-08T16:24:19.193961",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "89.116.250.138",
+      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "JP日本(mibei77.com 米贝节点分享)",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-1",
+      "ip": "89.116.250.138",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "89.116.250.138",
@@ -11,24 +24,11 @@
       "network": "ws",
       "sni": "sni.111000.indevs.in",
       "host": "sni.111000.indevs.in",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-2",
       "ip": "89.116.250.138",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "89.116.250.138",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "JP日本(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-2",
-      "ip": "89.116.250.138",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-2"
     }
   ]
 }

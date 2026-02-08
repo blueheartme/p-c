@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-08T08:27:30.245398",
-  "count": 4,
+  "updated": "2026-02-08T16:24:19.208141",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
@@ -32,16 +32,16 @@
       "type": "vless",
       "address": "194.76.18.25",
       "port": "443",
-      "id": "258bad91-733a-4e6a-96f4-11568b97c04a",
-      "name": "🇩🇪DE_13 | ⬇️ 5.6MB/s",
+      "id": "8388434b-bbc8-4e00-b497-69a7f56f6e24",
+      "name": "🇮🇹IT_3 | ⬇️ 3.7MB/s",
       "network": "ws",
-      "sni": "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg",
-      "host": "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg",
-      "original": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3",
+      "sni": "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg",
+      "host": "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg",
+      "original": "vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3",
       "ip": "194.76.18.25",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -55,6 +55,21 @@
       "country": "KZ",
       "cdn": null,
       "rebuilt": "ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vmess",
+      "address": "38.107.234.57",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+      "name": "🇰🇿Kazakhstan -> 🇰🇿Kazakhstan ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "google.com",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfjJAtNSIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIn0=",
+      "ip": "38.107.234.57",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfjJAtNSIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIn0="
     }
   ]
 }
