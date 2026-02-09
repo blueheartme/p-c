@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-09T01:47:47.960008",
-  "count": 5,
+  "updated": "2026-02-09T08:43:40.521299",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -18,6 +18,19 @@
       "rebuilt": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-1"
     },
     {
+      "type": "ss",
+      "address": "94.198.220.183",
+      "port": "64674",
+      "method": "chacha20-ietf-poly1305",
+      "password": "s8LbJCgUiGXeCKVc63tHJP",
+      "name": "🇷🇺RU-94.198.220.183-4955",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2",
+      "ip": "94.198.220.183",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#ss-chacha20-ietf-poly1305-KZ%F0%9F%8C%90-2"
+    },
+    {
       "type": "vless",
       "address": "194.76.18.25",
       "port": "443",
@@ -26,11 +39,24 @@
       "network": "ws",
       "sni": "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg",
       "host": "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg",
-      "original": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-2",
+      "original": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3",
       "ip": "194.76.18.25",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "194.76.18.25",
+      "port": "443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws",
+      "method": "",
+      "password": "",
+      "name": "🇩🇪DE_13 | ⬇️ 5.6MB/s",
+      "original": "ss://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-4",
+      "ip": "194.76.18.25",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
@@ -39,11 +65,11 @@
       "method": "",
       "password": "",
       "name": "🇫🇷FR_7 | ⬇️ 3.3MB/s",
-      "original": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-3",
+      "original": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-5",
       "ip": "194.76.18.25",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-3"
+      "rebuilt": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-5"
     },
     {
       "type": "ss",
@@ -52,24 +78,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-99 | free-nodes",
-      "original": "ss://c805b05e-339d-40e0-8787-432d97a27345@1.kkcweb.ir:2083?encryption=none&security=tls&sni=hajames.amirconfigpaanelllll.com&type=ws&host=hajames.amirconfigpaanelllll.com&path=%2F#ss-KZ%F0%9F%8C%90-4",
+      "original": "ss://c805b05e-339d-40e0-8787-432d97a27345@1.kkcweb.ir:2083?encryption=none&security=tls&sni=hajames.amirconfigpaanelllll.com&type=ws&host=hajames.amirconfigpaanelllll.com&path=%2F#ss-KZ%F0%9F%8C%90-6",
       "ip": "194.76.18.13",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://c805b05e-339d-40e0-8787-432d97a27345@1.kkcweb.ir:2083?encryption=none&security=tls&sni=hajames.amirconfigpaanelllll.com&type=ws&host=hajames.amirconfigpaanelllll.com&path=%2F#ss-KZ%F0%9F%8C%90-4"
-    },
-    {
-      "type": "ss",
-      "address": "194.76.18.25",
-      "port": "443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-72 | free-nodes",
-      "original": "ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-5",
-      "ip": "194.76.18.25",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-5"
+      "rebuilt": "ss://c805b05e-339d-40e0-8787-432d97a27345@1.kkcweb.ir:2083?encryption=none&security=tls&sni=hajames.amirconfigpaanelllll.com&type=ws&host=hajames.amirconfigpaanelllll.com&path=%2F#ss-KZ%F0%9F%8C%90-6"
     }
   ]
 }
