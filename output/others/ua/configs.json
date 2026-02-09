@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-08T16:24:19.204444",
+  "updated": "2026-02-09T01:47:47.981676",
   "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "89.116.180.138",
+      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "89.116.180.138",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+    },
     {
       "type": "vless",
       "address": "89.116.180.138",
@@ -11,11 +24,11 @@
       "network": "ws",
       "sni": "sni.111000.indevs.in",
       "host": "sni.111000.indevs.in",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2",
       "ip": "89.116.180.138",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-2"
     },
     {
       "type": "ss",
@@ -24,24 +37,11 @@
       "method": "chacha20-ietf-poly1305",
       "password": "6d0084c6e4502ab7",
       "name": "未知 SS-03 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-3",
       "ip": "163.171.137.76",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-2"
-    },
-    {
-      "type": "ss",
-      "address": "89.116.180.138",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-3",
-      "ip": "89.116.180.138",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-3"
     }
   ]
 }

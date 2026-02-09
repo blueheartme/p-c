@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-08T16:24:19.218541",
-  "count": 3,
+  "updated": "2026-02-09T01:47:47.987173",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -16,19 +16,6 @@
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#ss-aes-256-cfb-VN%F0%9F%8C%90-1"
     },
     {
-      "type": "ss",
-      "address": "s534.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-180 | free-nodes",
-      "original": "ss://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-2",
-      "ip": "103.173.155.212",
-      "country": "VN",
-      "cdn": null,
-      "rebuilt": "ss://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#ss-VN%F0%9F%8C%90-2"
-    },
-    {
       "type": "vless",
       "address": "s534.okgfw.top",
       "port": "443",
@@ -37,11 +24,11 @@
       "network": "tcp",
       "sni": "u729804uce41s534.okgfw.top",
       "host": "s534.okgfw.top",
-      "original": "vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-3",
+      "original": "vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-2",
       "ip": "103.173.155.212",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-3"
+      "rebuilt": "vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s534.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s534.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804uce41s534.okgfw.top&serviceName=&mode=&alpn=#vless-xtls-rprx-vision-tcp-tls-random-VN%F0%9F%8C%90-2"
     }
   ]
 }
