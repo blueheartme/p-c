@@ -1,47 +1,21 @@
 {
-  "updated": "2026-02-10T08:44:27.206501",
-  "count": 3,
+  "updated": "2026-02-10T16:59:06.433904",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "just-server.ru",
-      "port": "4443?security=reality&encryption=none&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com",
-      "method": "",
-      "password": "",
-      "name": "RU VLESS-103 | free-nodes",
-      "original": "ss://c580e6f8-96d5-4b81-a958-d309cda653ff@just-server.ru:4443?security=reality&encryption=none&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#ss-LT%F0%9F%8C%90-1",
-      "ip": "138.124.65.99",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://c580e6f8-96d5-4b81-a958-d309cda653ff@just-server.ru:4443?security=reality&encryption=none&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#ss-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
+      "type": "vless",
       "address": "89.116.250.138",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "NL荷兰(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-2",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-1",
       "ip": "89.116.250.138",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "2.59.162.100",
-      "port": "443",
-      "id": "1004c163-26ea-5662-b5b2-40df01176f8b",
-      "name": "未知 VLESS-49 | free-nodes",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://1004c163-26ea-5662-b5b2-40df01176f8b@2.59.162.100:443?security=reality&encryption=none&pbk=eH6HWGKJUtp4VmC9KxtdcyxtLI0O52vhAmZx1ybOtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-3",
-      "ip": "2.59.162.100",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://1004c163-26ea-5662-b5b2-40df01176f8b@2.59.162.100:443?security=reality&encryption=none&pbk=eH6HWGKJUtp4VmC9KxtdcyxtLI0O52vhAmZx1ybOtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-3"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-1"
     }
   ]
 }
