@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-10T01:58:43.453421",
-  "count": 2,
+  "updated": "2026-02-10T08:44:27.220542",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "89.223.93.176",
+      "port": "41348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
+      "name": "🇵🇱PL-89.223.93.176-0330",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "89.223.93.176",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
     {
       "type": "ss",
       "address": "pl134.vpnbook.com",
@@ -9,24 +22,54 @@
       "method": "chacha20-ietf-poly1305",
       "password": "pvgz9pq",
       "name": "未知 SS-27 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@pl134.vpnbook.com:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@pl134.vpnbook.com:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "54.36.174.134",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@pl134.vpnbook.com:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@pl134.vpnbook.com:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "144.31.248.157",
+      "port": "443",
+      "id": "e6ec1d89-17fc-4de7-af89-81cd51022526",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "apple.com",
+      "host": "",
+      "original": "vless://e6ec1d89-17fc-4de7-af89-81cd51022526@144.31.248.157:443?sni=apple.com&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=chrome&amp;type=tcp&amp;pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&amp;flow=xtls-rprx-vision#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "144.31.248.157",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://e6ec1d89-17fc-4de7-af89-81cd51022526@144.31.248.157:443?sni=apple.com&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=chrome&amp;type=tcp&amp;pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&amp;flow=xtls-rprx-vision#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     },
     {
       "type": "ss",
-      "address": "57.128.214.100",
-      "port": "12000",
-      "method": "aes-256-gcm",
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "name": "DE SS-29 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "57.128.214.100",
+      "address": "144.31.248.157",
+      "port": "443?sni=apple.com&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=chrome&amp;type=tcp&amp;pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&amp;flow=xtls-rprx-vision",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://e6ec1d89-17fc-4de7-af89-81cd51022526@144.31.248.157:443?sni=apple.com&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=chrome&amp;type=tcp&amp;pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&amp;flow=xtls-rprx-vision#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "144.31.248.157",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://e6ec1d89-17fc-4de7-af89-81cd51022526@144.31.248.157:443?sni=apple.com&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=chrome&amp;type=tcp&amp;pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&amp;flow=xtls-rprx-vision#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+    },
+    {
+      "type": "vmess",
+      "address": "146.59.55.50",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "🇵🇱Poland -> 🇵🇱Poland ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "o.metuji.com",
+      "sni": "o.metuji.com",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtUEzwn4e18J+HsS01IiwiYWRkIjoiMTQ2LjU5LjU1LjUwIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvLm1ldHVqaS5jb20iLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMSJ9",
+      "ip": "146.59.55.50",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtUEzwn4e18J+HsS01IiwiYWRkIjoiMTQ2LjU5LjU1LjUwIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvLm1ldHVqaS5jb20iLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMSJ9"
     }
   ]
 }

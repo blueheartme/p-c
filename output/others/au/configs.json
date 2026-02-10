@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-10T01:58:43.444613",
-  "count": 3,
+  "updated": "2026-02-10T08:44:27.219627",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -19,18 +19,18 @@
     },
     {
       "type": "vless",
-      "address": "lord.kokopit.info",
-      "port": "443",
-      "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
+      "address": "185.207.199.138",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "AU澳大利亚(mibei77.com 米贝节点分享)",
       "network": "ws",
-      "sni": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "host": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "2.58.104.11",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "185.207.199.138",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     },
     {
       "type": "ss",
@@ -44,6 +44,19 @@
       "country": "AU",
       "cdn": null,
       "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+    },
+    {
+      "type": "ss",
+      "address": "lord.kokopit.info",
+      "port": "443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "韩国(yudou789.top 玉豆免费节点)",
+      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4",
+      "ip": "2.58.104.11",
+      "country": "AU",
+      "cdn": null,
+      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#ss-AU%F0%9F%87%A6%F0%9F%87%BA-4"
     }
   ]
 }

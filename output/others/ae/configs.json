@@ -1,60 +1,34 @@
 {
-  "updated": "2026-02-10T01:58:43.416737",
-  "count": 4,
+  "updated": "2026-02-10T08:44:27.222166",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "807",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0162",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
       "type": "vless",
-      "address": "94.140.0.1",
-      "port": "443",
-      "id": "73f15c26-5545-492f-bb67-a4ef3737a060",
-      "name": "🇮🇷 IR 26 @Outline_Vpn<br/>vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?security=reality&amp;encryption=none&amp;pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=6ac998b514#🇮🇷 IR 27 @Outline_Vpn<br/>vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?path=/&amp;security=none&amp;encryption=none&amp;host=blog.zanborak-shop.ir&amp;type=ws#🇮🇷 IR 28 @Outline_Vpn<br/>vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&amp;security=none&amp;encryption=none&amp;type=ws#🇮🇷 IR 29 @Outline_Vpn<br/>vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6IvCfh67wn4e3IElSIDMwIEBPdXRsaW5lX1ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=</code><br/><br/><tg-emoji",
+      "address": "b.Mehfa.site",
+      "port": "80",
+      "id": "10d915a7-4835-4337-979b-7bf220001b22",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.1",
+      "original": "vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=Mehfa.site&amp;type=xhttp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "98.98.242.142",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=Mehfa.site&amp;type=xhttp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
-      "address": "45.66.134.176",
-      "port": "801",
+      "address": "147.78.0.182",
+      "port": "990",
       "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0164",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "45.66.134.176",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇦🇪AE-147.78.0.182-0295",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "147.78.0.182",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-3"
-    },
-    {
-      "type": "ss",
-      "address": "45.66.134.176",
-      "port": "802",
-      "method": "chacha20-ietf-poly1305",
-      "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0161",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "45.66.134.176",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:802#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
