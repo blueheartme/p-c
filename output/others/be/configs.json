@@ -1,21 +1,19 @@
 {
-  "updated": "2026-02-09T08:43:40.496323",
+  "updated": "2026-02-10T01:58:43.457288",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "151.101.9.80",
-      "port": "80",
-      "id": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
-      "name": "未知 VLESS-69 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "adspeedx23.global.ssl.fastly.net",
-      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#vless-ws-BE%F0%9F%8C%90-1",
+      "port": "80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#ss-BE%F0%9F%8C%90-1",
       "ip": "151.101.9.80",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#vless-ws-BE%F0%9F%8C%90-1"
+      "rebuilt": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#ss-BE%F0%9F%8C%90-1"
     }
   ]
 }

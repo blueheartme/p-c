@@ -1,21 +1,19 @@
 {
-  "updated": "2026-02-09T08:43:40.529475",
+  "updated": "2026-02-10T01:58:43.450516",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "ss",
       "address": "45.148.31.0",
-      "port": "15855",
-      "id": "e4fc4761-154f-490e-bbaa-b4fa193f1073",
+      "port": "15855?path=/&security=none&encryption=none&type=ws",
+      "method": "",
+      "password": "",
       "name": "未知 VLESS-112 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "original": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#vless-ws-DK%F0%9F%8C%90-1",
+      "original": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#ss-DK%F0%9F%8C%90-1",
       "ip": "45.148.31.0",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#vless-ws-DK%F0%9F%8C%90-1"
+      "rebuilt": "ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#ss-DK%F0%9F%8C%90-1"
     }
   ]
 }
