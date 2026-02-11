@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-10T16:59:06.429090",
+  "updated": "2026-02-11T01:54:45.077051",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "n3.byp.cx",
-      "port": "1235?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp",
-      "method": "",
-      "password": "",
+      "port": "1235",
+      "id": "66bf09dc-d86e-4c2b-9fc8-b98ca7126318",
       "name": "GB VLESS-71 | free-nodes",
-      "original": "ss://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "190.211.254.147",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

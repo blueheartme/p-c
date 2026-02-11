@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-10T16:59:06.421611",
+  "updated": "2026-02-11T01:54:45.051228",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "147.78.1.230",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇲🇽MX-147.78.1.230-0308",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "147.78.1.230",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
     {
       "type": "vmess",
       "address": "131.196.252.59",
@@ -11,24 +24,11 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIxLCJwcyI6InZtZXNzLXdzLWF1dG8tTVjwn4ey8J+HvS0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "original": "vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIxLCJwcyI6InZtZXNzLXdzLWF1dG8tTVjwn4ey8J+HvS0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
       "ip": "131.196.252.59",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIxLCJwcyI6InZtZXNzLXdzLWF1dG8tTVjwn4ey8J+HvS0xIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
-    },
-    {
-      "type": "ss",
-      "address": "147.78.1.230",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇲🇽MX-147.78.1.230-0308",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-2",
-      "ip": "147.78.1.230",
-      "country": "MX",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-2"
+      "rebuilt": "vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTIxLCJwcyI6InZtZXNzLXdzLWF1dG8tTVjwn4ey8J+HvS0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
     }
   ]
 }

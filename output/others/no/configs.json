@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-10T16:59:06.418611",
-  "count": 2,
+  "updated": "2026-02-11T01:54:45.103319",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "217.170.206.157",
-      "port": "443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-109 | free-nodes",
-      "original": "ss://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#ss-NO%F0%9F%8C%90-1",
-      "ip": "217.170.206.157",
-      "country": "NO",
-      "cdn": null,
-      "rebuilt": "ss://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#ss-NO%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "217.170.206.157",
@@ -24,11 +11,11 @@
       "network": "tcp",
       "sni": "azure.com",
       "host": "",
-      "original": "vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-2",
+      "original": "vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1",
       "ip": "217.170.206.157",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-2"
+      "rebuilt": "vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1"
     }
   ]
 }

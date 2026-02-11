@@ -1,46 +1,7 @@
 {
-  "updated": "2026-02-10T16:59:06.387023",
-  "count": 4,
+  "updated": "2026-02-11T01:54:45.097358",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "89.116.180.238",
-      "port": "2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.238",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1"
-    },
-    {
-      "type": "ss",
-      "address": "89.116.180.138",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-2",
-      "ip": "89.116.180.138",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-UA%F0%9F%87%BA%F0%9F%87%A6-2"
-    },
-    {
-      "type": "ss",
-      "address": "163.171.137.76",
-      "port": "47394",
-      "method": "chacha20-ietf-poly1305",
-      "password": "eafad96826c79ddd",
-      "name": "未知 SS-18 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-3",
-      "ip": "163.171.137.76",
-      "country": "UA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-3"
-    },
     {
       "type": "vless",
       "address": "89.116.180.238",
@@ -50,11 +11,24 @@
       "network": "ws",
       "sni": "sni.jpmj.dev",
       "host": "sni.jpmj.dev",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-4",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
       "ip": "89.116.180.238",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-4"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+    },
+    {
+      "type": "ss",
+      "address": "163.171.137.76",
+      "port": "47394",
+      "method": "chacha20-ietf-poly1305",
+      "password": "eafad96826c79ddd",
+      "name": "未知 SS-18 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-2",
+      "ip": "163.171.137.76",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-2"
     }
   ]
 }
