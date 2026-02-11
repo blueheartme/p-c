@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-11T01:54:45.056520",
-  "count": 4,
+  "updated": "2026-02-11T08:42:28.143652",
+  "count": 6,
   "configs": [
-    {
-      "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9044",
-      "method": "aes-256-cfb",
-      "password": "KBGjZYcy4SyRShmA",
-      "name": "🇵🇱PL-217.30.10.70-8353",
-      "original": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "217.30.10.70",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
     {
       "type": "ss",
       "address": "54.36.174.140",
@@ -22,24 +9,67 @@
       "method": "chacha20-ietf-poly1305",
       "password": "pvgz9pq",
       "name": "🇧🇷@vpn_ioss ♻️ عضو شو</div>",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
       "ip": "54.36.174.140",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
       "address": "217.30.10.70",
-      "port": "9094",
+      "port": "9057",
       "method": "aes-256-cfb",
-      "password": "rpgbNnU9rDDU4aWZ",
-      "name": "🇵🇱PL-217.30.10.70-4951",
-      "original": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "password": "wjTugX3ZtHMB9c3Z",
+      "name": "🇵🇱PL-217.30.10.70-4932",
+      "original": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "217.30.10.70",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.128.214.100",
+      "port": "12000",
+      "method": "aes-256-gcm",
+      "password": "8JCsPssfgS8tiRwiMlhARg==",
+      "name": "DE SS-31 | free-nodes",
+      "original": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "57.128.214.100",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#ss-aes-256-gcm-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "vmess",
+      "address": "147.135.211.61",
+      "port": "8080",
+      "id": "cdc27880-ac2b-591f-b677-fcb02fcb428a",
+      "name": "t.me/entryNET",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtY2hhY2hhMjAtcG9seTEzMDUtdGNwLVBM8J+HtfCfh7EtNCIsImFkZCI6IjE0Ny4xMzUuMjExLjYxIiwicG9ydCI6IjgwODAiLCJpZCI6ImNkYzI3ODgwLWFjMmItNTkxZi1iNjc3LWZjYjAyZmNiNDI4YSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxOSJ9",
+      "ip": "147.135.211.61",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtY2hhY2hhMjAtcG9seTEzMDUtdGNwLVBM8J+HtfCfh7EtNCIsImFkZCI6IjE0Ny4xMzUuMjExLjYxIiwicG9ydCI6IjgwODAiLCJpZCI6ImNkYzI3ODgwLWFjMmItNTkxZi1iNjc3LWZjYjAyZmNiNDI4YSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxOSJ9"
+    },
+    {
+      "type": "vless",
+      "address": "144.31.0.58",
+      "port": "443",
+      "id": "71031aa1-067e-425e-97f5-37875f838a10",
+      "name": "未知 VLESS-77 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5",
+      "ip": "144.31.0.58",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5"
     },
     {
       "type": "ss",
@@ -48,11 +78,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-77 | free-nodes",
-      "original": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6",
       "ip": "144.31.0.58",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&amp;encryption=none&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-6"
     }
   ]
 }

@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-11T01:54:45.081341",
+  "updated": "2026-02-11T08:42:28.159891",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "45.202.113.138",
-      "port": "2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "US美国(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-SC%F0%9F%8C%90-1",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-SC%F0%9F%8C%90-1",
       "ip": "45.202.113.138",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-SC%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-SC%F0%9F%8C%90-1"
     }
   ]
 }
