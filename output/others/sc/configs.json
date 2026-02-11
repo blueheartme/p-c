@@ -1,21 +1,34 @@
 {
-  "updated": "2026-02-11T08:42:28.159891",
-  "count": 1,
+  "updated": "2026-02-11T17:00:25.821227",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.202.113.138",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-SC%F0%9F%8C%90-1",
-      "ip": "45.202.113.138",
+      "type": "ss",
+      "address": "45.130.125.160",
+      "port": "8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#ss-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.160",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.202.113.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#vless-ws-tls-SC%F0%9F%8C%90-1"
+      "rebuilt": "ss://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#ss-SC%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.130.125.160",
+      "port": "8443",
+      "id": "1f70e732-e72d-4535-b494-a595d4df4b0b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#vless-tcp-tls-SC%F0%9F%8C%90-2",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#vless-tcp-tls-SC%F0%9F%8C%90-2"
     }
   ]
 }
