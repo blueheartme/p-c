@@ -1,21 +1,21 @@
 {
-  "updated": "2026-02-12T01:47:28.899639",
-  "count": 3,
+  "updated": "2026-02-12T08:39:33.203847",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "switzerland.boot-lee.ru",
-      "port": "8443",
-      "id": "05dc09d5-5c56-454b-a34e-6ef743d91e1a",
-      "name": "RU VLESS-47 | free-nodes",
-      "network": "tcp",
-      "sni": "m.vk.com",
-      "host": "",
-      "original": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "92.119.165.43",
+      "address": "185.18.250.252",
+      "port": "443",
+      "id": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
+      "name": "🇪🇸_ES_西班牙->🏳️_unKnow_未知",
+      "network": "ws",
+      "sni": "dev.twistsparrow.xyz",
+      "host": "dev.twistsparrow.xyz",
+      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "ss",
@@ -29,19 +29,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "ss",
-      "address": "switzerland.boot-lee.ru",
-      "port": "8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "RU VLESS-47 | free-nodes",
-      "original": "ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "92.119.165.43",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#ss-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

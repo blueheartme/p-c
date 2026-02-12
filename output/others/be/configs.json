@@ -1,21 +1,34 @@
 {
-  "updated": "2026-02-12T01:47:28.909420",
-  "count": 1,
+  "updated": "2026-02-12T08:39:33.214318",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "151.101.9.80",
       "port": "80",
       "id": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
-      "name": "未知 VLESS-72 | free-nodes",
+      "name": "未知 VLESS-73 | free-nodes",
       "network": "ws",
       "sni": "",
       "host": "adspeedx23.global.ssl.fastly.net",
-      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?security=none&allowInsecure=0&encryption=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=/?ed=1049#vless-ws-BE%F0%9F%8C%90-1",
+      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1",
       "ip": "151.101.9.80",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?security=none&allowInsecure=0&encryption=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=/?ed=1049#vless-ws-BE%F0%9F%8C%90-1"
+      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "151.101.9.80",
+      "port": "80?security=none&allowInsecure=0&encryption=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=/?ed=1049",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-72 | free-nodes",
+      "original": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?security=none&allowInsecure=0&encryption=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=/?ed=1049#ss-BE%F0%9F%8C%90-2",
+      "ip": "151.101.9.80",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?security=none&allowInsecure=0&encryption=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=/?ed=1049#ss-BE%F0%9F%8C%90-2"
     }
   ]
 }

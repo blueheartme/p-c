@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-12T01:47:28.893017",
-  "count": 1,
+  "updated": "2026-02-12T08:39:33.198389",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,34 @@
       "country": "PE",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#ss-aes-256-cfb-PE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "154.219.5.154",
+      "port": "443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#ss-PE%F0%9F%8C%90-2",
+      "ip": "154.219.5.154",
+      "country": "PE",
+      "cdn": null,
+      "rebuilt": "ss://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#ss-PE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "154.219.5.154",
+      "port": "443",
+      "id": "eae02a50-e329-4647-926e-8439e685f317",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#vless-tcp-tls-PE%F0%9F%8C%90-3",
+      "ip": "154.219.5.154",
+      "country": "PE",
+      "cdn": null,
+      "rebuilt": "vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#vless-tcp-tls-PE%F0%9F%8C%90-3"
     }
   ]
 }

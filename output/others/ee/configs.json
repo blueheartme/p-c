@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-12T01:47:28.914043",
-  "count": 1,
+  "updated": "2026-02-12T08:39:33.208697",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "nodec.azurka.org",
+      "port": "443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org",
+      "method": "",
+      "password": "",
+      "name": "GB VLESS-55 | free-nodes",
+      "original": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#ss-EE%F0%9F%8C%90-1",
+      "ip": "196.196.249.55",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#ss-EE%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "87.121.86.31",
@@ -11,11 +24,11 @@
       "network": "tcp",
       "sni": "google.com",
       "host": "",
-      "original": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
+      "original": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2",
       "ip": "87.121.86.31",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2"
     }
   ]
 }
