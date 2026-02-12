@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-12T08:39:33.188581",
+  "updated": "2026-02-12T16:52:33.843483",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "pq-Hungary1.09vpn.com",
-      "port": "80",
-      "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-      "name": "telegram ☂️ dailyv2ry",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMSIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=",
-      "ip": "45.12.132.183",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMSIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0="
-    },
     {
       "type": "vless",
       "address": "217.13.104.154",
@@ -26,11 +11,26 @@
       "network": "tcp",
       "sni": "travel.yandex.ru",
       "host": "",
-      "original": "vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2",
+      "original": "vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
       "ip": "217.13.104.154",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2"
+      "rebuilt": "vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vmess",
+      "address": "pq-Hungary1.09vpn.com",
+      "port": "80",
+      "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
+      "name": "telegram 🌈 dailyv2ry",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMiIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=",
+      "ip": "45.12.132.183",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMiIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0="
     }
   ]
 }
