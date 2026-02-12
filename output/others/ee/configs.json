@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-11T17:00:25.834629",
-  "count": 2,
+  "updated": "2026-02-12T01:47:28.914043",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,19 +16,6 @@
       "country": "EE",
       "cdn": null,
       "rebuilt": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "87.121.86.31",
-      "port": "57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-118 | free-nodes",
-      "original": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2",
-      "ip": "87.121.86.31",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "updated": "2026-02-11T17:00:25.808600",
+  "updated": "2026-02-12T01:47:28.903803",
   "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "190.93.246.59",
-      "port": "8080?path=%2FeyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3F%26ed%3D2560&amp;security=none&amp;encryption=none&amp;host=billowing-fire-13d7.pakewjwqa586.workers.dev&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://bfc103e0-67e6-4e40-8d09-05d6e9fcefc5@190.93.246.59:8080?path=%2FeyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3F%26ed%3D2560&amp;security=none&amp;encryption=none&amp;host=billowing-fire-13d7.pakewjwqa586.workers.dev&amp;type=ws#ss-CR%F0%9F%8C%90-1",
-      "ip": "190.93.246.59",
-      "country": "CR",
-      "cdn": null,
-      "rebuilt": "ss://bfc103e0-67e6-4e40-8d09-05d6e9fcefc5@190.93.246.59:8080?path=%2FeyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3F%26ed%3D2560&amp;security=none&amp;encryption=none&amp;host=billowing-fire-13d7.pakewjwqa586.workers.dev&amp;type=ws#ss-CR%F0%9F%8C%90-1"
-    },
-    {
       "type": "vless",
-      "address": "190.93.246.59",
-      "port": "8080",
-      "id": "bfc103e0-67e6-4e40-8d09-05d6e9fcefc5",
+      "address": "H3.FASTSPEEDS.IR",
+      "port": "2053",
+      "id": "45d4fcc8-edc5-46d6-a68c-7af6b9b33a72",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://bfc103e0-67e6-4e40-8d09-05d6e9fcefc5@190.93.246.59:8080?path=%2FeyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3F%26ed%3D2560&amp;security=none&amp;encryption=none&amp;host=billowing-fire-13d7.pakewjwqa586.workers.dev&amp;type=ws#vless-tcp-CR%F0%9F%8C%90-2",
-      "ip": "190.93.246.59",
+      "original": "vless://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-ukp1.ip-venzo.com#vless-tcp-CR%F0%9F%8C%90-1",
+      "ip": "190.93.245.187",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://bfc103e0-67e6-4e40-8d09-05d6e9fcefc5@190.93.246.59:8080?path=%2FeyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3F%26ed%3D2560&amp;security=none&amp;encryption=none&amp;host=billowing-fire-13d7.pakewjwqa586.workers.dev&amp;type=ws#vless-tcp-CR%F0%9F%8C%90-2"
+      "rebuilt": "vless://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-ukp1.ip-venzo.com#vless-tcp-CR%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "H3.FASTSPEEDS.IR",
+      "port": "2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-ukp1.ip-venzo.com",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-ukp1.ip-venzo.com#ss-CR%F0%9F%8C%90-2",
+      "ip": "190.93.245.187",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "ss://45d4fcc8-edc5-46d6-a68c-7af6b9b33a72@H3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-ukp1.ip-venzo.com#ss-CR%F0%9F%8C%90-2"
     }
   ]
 }
