@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-12T16:52:33.851949",
-  "count": 3,
+  "updated": "2026-02-13T01:50:04.091720",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -19,16 +19,31 @@
     },
     {
       "type": "ss",
-      "address": "95.85.245.114",
-      "port": "443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com",
+      "address": "nodec.azurka.org",
+      "port": "443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-97 | free-nodes",
-      "original": "ss://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#ss-EE%F0%9F%8C%90-2",
-      "ip": "95.85.245.114",
+      "name": "GB VLESS-55 | free-nodes",
+      "original": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#ss-EE%F0%9F%8C%90-2",
+      "ip": "196.196.249.55",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#ss-EE%F0%9F%8C%90-2"
+      "rebuilt": "ss://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#ss-EE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "nodec.azurka.org",
+      "port": "443",
+      "id": "0d12578e-50da-41b9-a913-6c1d8c0dd713",
+      "name": "GB VLESS-55 | free-nodes",
+      "network": "grpc",
+      "sni": "nodec.azurka.org",
+      "host": "",
+      "original": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#vless-grpc-tls-chrome-EE%F0%9F%8C%90-3",
+      "ip": "196.196.249.55",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#vless-grpc-tls-chrome-EE%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -37,11 +52,11 @@
       "method": "aes-256-gcm",
       "password": "FoOiGlkAA9yPEGP",
       "name": "未知 SS-31 | free-nodes",
-      "original": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-3",
+      "original": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-4",
       "ip": "38.180.216.114",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-3"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#ss-aes-256-gcm-EE%F0%9F%8C%90-4"
     }
   ]
 }

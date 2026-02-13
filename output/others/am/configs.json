@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-12T16:52:33.825813",
-  "count": 9,
+  "updated": "2026-02-13T01:50:04.118153",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -19,100 +19,16 @@
     },
     {
       "type": "ss",
-      "address": "5.10.214.0",
-      "port": "2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "德国(yudou789.top 玉豆免费节点)",
-      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-2",
-      "ip": "5.10.214.0",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "5.10.214.154",
-      "port": "443",
-      "id": "463877de-87e1-4188-8b71-e7f5fc56df62",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=dl98.primenet3.shop#vless-tcp-AM%F0%9F%8C%90-3",
-      "ip": "5.10.214.154",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=dl98.primenet3.shop#vless-tcp-AM%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "185.234.57.207",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none",
-      "method": "",
-      "password": "",
-      "name": "🇬🇷_GR_希腊",
-      "original": "ss://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#ss-AM%F0%9F%8C%90-4",
-      "ip": "185.234.57.207",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "ss://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#ss-AM%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "5.10.214.0",
-      "port": "2096",
-      "id": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
-      "name": "德国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
-      "host": "TzS7v35LfD.sMaRtTeChZaAl.InFo",
-      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-5",
-      "ip": "5.10.214.0",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-5"
-    },
-    {
-      "type": "vless",
-      "address": "185.234.57.207",
-      "port": "443",
-      "id": "dd92c4f8-be88-4c61-84eb-d261f798071e",
-      "name": "🇦🇲AM_1 | ⬇️ 4.3MB/s",
-      "network": "tcp",
-      "sni": "teamdocs.su",
-      "host": "",
-      "original": "vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-6",
-      "ip": "185.234.57.207",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-6"
-    },
-    {
-      "type": "ss",
-      "address": "5.10.214.5",
-      "port": "443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F",
-      "method": "",
-      "password": "",
-      "name": "德国(yudou789.top 玉豆免费节点)",
-      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-7",
-      "ip": "5.10.214.5",
-      "country": "AM",
-      "cdn": null,
-      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-7"
-    },
-    {
-      "type": "ss",
       "address": "5.10.214.5",
       "port": "2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F",
       "method": "",
       "password": "",
       "name": "德国(yudou789.top 玉豆免费节点)",
-      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-8",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-2",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-8"
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#ss-AM%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -123,11 +39,37 @@
       "network": "ws",
       "sni": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
       "host": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
-      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-9",
+      "original": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-3",
       "ip": "5.10.214.5",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-9"
+      "rebuilt": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#vless-ws-tls-AM%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "5.10.214.5",
+      "port": "443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F",
+      "method": "",
+      "password": "",
+      "name": "德国(yudou789.top 玉豆免费节点)",
+      "original": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-4",
+      "ip": "5.10.214.5",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#ss-AM%F0%9F%8C%90-4"
+    },
+    {
+      "type": "ss",
+      "address": "185.234.57.207",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none",
+      "method": "",
+      "password": "",
+      "name": "🇬🇷_GR_希腊",
+      "original": "ss://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#ss-AM%F0%9F%8C%90-5",
+      "ip": "185.234.57.207",
+      "country": "AM",
+      "cdn": null,
+      "rebuilt": "ss://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#ss-AM%F0%9F%8C%90-5"
     }
   ]
 }

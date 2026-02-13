@@ -1,19 +1,49 @@
 {
-  "updated": "2026-02-12T16:52:33.807090",
-  "count": 2,
+  "updated": "2026-02-13T01:50:04.094667",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.18.250.252",
-      "port": "443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws",
-      "method": "",
-      "password": "",
-      "name": "🇪🇸_ES_西班牙->🏳️_unKnow_未知",
-      "original": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "185.18.250.252",
+      "type": "vless",
+      "address": "switzerland.boot-lee.ru",
+      "port": "8443",
+      "id": "05dc09d5-5c56-454b-a34e-6ef743d91e1a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "92.119.165.43",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "ss",
+      "address": "ch-gt-01.com",
+      "port": "8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d515d6cfdfe60b02",
+      "method": "",
+      "password": "",
+      "name": "🇲🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
+      "original": "ss://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d515d6cfdfe60b02#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.85",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d515d6cfdfe60b02#ss-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "vless",
+      "address": "ch-gt-01.com",
+      "port": "8443",
+      "id": "9eac77f6-7813-45ab-9a5f-39d7e7d153c1",
+      "name": "🇲🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d515d6cfdfe60b02#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "208.69.78.85",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d515d6cfdfe60b02#vless-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     },
     {
       "type": "vless",
@@ -24,11 +54,37 @@
       "network": "ws",
       "sni": "dev.twistsparrow.xyz",
       "host": "dev.twistsparrow.xyz",
-      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+    },
+    {
+      "type": "ss",
+      "address": "185.18.250.252",
+      "port": "443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws",
+      "method": "",
+      "password": "",
+      "name": "🇪🇸_ES_西班牙->🏳️_unKnow_未知",
+      "original": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5",
+      "ip": "185.18.250.252",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-CH%F0%9F%87%A8%F0%9F%87%AD-5"
+    },
+    {
+      "type": "ss",
+      "address": "switzerland.boot-lee.ru",
+      "port": "8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51#ss-CH%F0%9F%87%A8%F0%9F%87%AD-6",
+      "ip": "92.119.165.43",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51#ss-CH%F0%9F%87%A8%F0%9F%87%AD-6"
     }
   ]
 }

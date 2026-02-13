@@ -1,7 +1,22 @@
 {
-  "updated": "2026-02-12T08:39:33.213582",
-  "count": 1,
+  "updated": "2026-02-13T01:50:04.077710",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "pq-bosniaandherzegovina1.09vpn.com",
+      "port": "80",
+      "id": "75e1fde7-6bf6-48ef-ba43-400e960e185b",
+      "name": "未知 VLESS-81 | free-nodes",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "original": "vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#vless-ws-BA%F0%9F%8C%90-1",
+      "ip": "45.15.178.124",
+      "country": "BA",
+      "cdn": null,
+      "rebuilt": "vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#vless-ws-BA%F0%9F%8C%90-1"
+    },
     {
       "type": "ss",
       "address": "pq-bosniaandherzegovina1.09vpn.com",
@@ -9,11 +24,11 @@
       "method": "",
       "password": "",
       "name": "未知 VLESS-81 | free-nodes",
-      "original": "ss://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#ss-BA%F0%9F%8C%90-1",
+      "original": "ss://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#ss-BA%F0%9F%8C%90-2",
       "ip": "45.15.178.124",
       "country": "BA",
       "cdn": null,
-      "rebuilt": "ss://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#ss-BA%F0%9F%8C%90-1"
+      "rebuilt": "ss://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#ss-BA%F0%9F%8C%90-2"
     }
   ]
 }

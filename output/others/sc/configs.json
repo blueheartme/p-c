@@ -1,19 +1,62 @@
 {
-  "updated": "2026-02-12T16:52:33.858267",
-  "count": 1,
+  "updated": "2026-02-13T01:50:04.103944",
+  "count": 4,
   "configs": [
     {
       "type": "ss",
-      "address": "hope.zdshop.ir",
-      "port": "2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws",
+      "address": "2sudo.winapp3.ir",
+      "port": "8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de",
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ss-SC%F0%9F%8C%90-1",
-      "ip": "45.130.125.162",
+      "original": "ss://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#ss-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.160",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ss-SC%F0%9F%8C%90-1"
+      "rebuilt": "ss://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#ss-SC%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "2sudo.winapp3.ir",
+      "port": "8443",
+      "id": "1f70e732-e72d-4535-b494-a595d4df4b0b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#vless-tcp-tls-SC%F0%9F%8C%90-2",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=master.red-cow.de#vless-tcp-tls-SC%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "45.130.125.160",
+      "port": "443?path=%2Fv2rayroad&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;sni=hotchoclate.graphapp.ir",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://dbc8b845-5441-4a43-98cb-2e33ecb06f59@45.130.125.160:443?path=%2Fv2rayroad&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;sni=hotchoclate.graphapp.ir#ss-SC%F0%9F%8C%90-3",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "ss://dbc8b845-5441-4a43-98cb-2e33ecb06f59@45.130.125.160:443?path=%2Fv2rayroad&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;sni=hotchoclate.graphapp.ir#ss-SC%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "45.130.125.160",
+      "port": "443",
+      "id": "dbc8b845-5441-4a43-98cb-2e33ecb06f59",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@45.130.125.160:443?path=%2Fv2rayroad&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;sni=hotchoclate.graphapp.ir#vless-tcp-SC%F0%9F%8C%90-4",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@45.130.125.160:443?path=%2Fv2rayroad&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;sni=hotchoclate.graphapp.ir#vless-tcp-SC%F0%9F%8C%90-4"
     }
   ]
 }
