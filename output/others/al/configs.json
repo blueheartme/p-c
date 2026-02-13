@@ -1,7 +1,48 @@
 {
-  "updated": "2026-02-13T01:50:04.108645",
+  "updated": "2026-02-13T08:36:35.824116",
   "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.15.170.237",
+      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F",
+      "method": "",
+      "password": "",
+      "name": "👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 7 dailyv2ry<br/>vlerootface",
+      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-1",
+      "ip": "45.15.170.237",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "pq-albania1.09vpn.com",
+      "port": "80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws",
+      "method": "",
+      "password": "",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
+      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-2",
+      "ip": "45.15.170.237",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "pq-albania1.09vpn.com",
+      "port": "80",
+      "id": "8910cbb3-33b1-4266-a243-ac780ac63394",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-3",
+      "ip": "45.15.170.237",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-3"
+    },
     {
       "type": "vless",
       "address": "45.15.170.237",
@@ -11,52 +52,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-1",
+      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-4",
       "ip": "45.15.170.237",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.170.237",
-      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F",
-      "method": "",
-      "password": "",
-      "name": "👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 7 dailyv2ry<br/>vlerootface",
-      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-2",
-      "ip": "45.15.170.237",
-      "country": "AL",
-      "cdn": null,
-      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "pq-albania1.09vpn.com",
-      "port": "80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws",
-      "method": "",
-      "password": "",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
-      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-3",
-      "ip": "45.15.170.237",
-      "country": "AL",
-      "cdn": null,
-      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#ss-AL%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "pq-albania1.09vpn.com",
-      "port": "80",
-      "id": "8910cbb3-33b1-4266-a243-ac780ac63394",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-4",
-      "ip": "45.15.170.237",
-      "country": "AL",
-      "cdn": null,
-      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#vless-tcp-AL%F0%9F%8C%90-4"
+      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-4"
     }
   ]
 }

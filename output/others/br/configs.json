@@ -1,19 +1,32 @@
 {
-  "updated": "2026-02-13T01:50:04.128047",
-  "count": 1,
+  "updated": "2026-02-13T08:36:35.810811",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
       "address": "157.185.173.60",
-      "port": "18427",
+      "port": "46727",
       "method": "chacha20-ietf-poly1305",
-      "password": "97fe6b07cbfaf7e7",
-      "name": "未知 SS-05 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "password": "29acd960ab8e3408",
+      "name": "未知 SS-08 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "157.185.173.60",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "38.54.57.90",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "38.54.57.90",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#ss-chacha20-ietf-poly1305-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }
