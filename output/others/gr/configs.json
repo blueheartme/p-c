@@ -1,34 +1,19 @@
 {
-  "updated": "2026-02-12T08:39:33.153071",
-  "count": 2,
+  "updated": "2026-02-13T16:39:07.597293",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "94.131.8.19",
-      "port": "45448",
-      "id": "96fcf8cc-535d-46c4-b8f9-76058df48e3b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&amp;sid=958639bf55e679&amp;type=raw&amp;headertype=none#vless-tcp-GR%F0%9F%8C%90-1",
-      "ip": "94.131.8.19",
-      "country": "GR",
-      "cdn": null,
-      "rebuilt": "vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&amp;sid=958639bf55e679&amp;type=raw&amp;headertype=none#vless-tcp-GR%F0%9F%8C%90-1"
-    },
-    {
       "type": "ss",
-      "address": "94.131.8.19",
-      "port": "45448?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&amp;sid=958639bf55e679&amp;type=raw&amp;headertype=none",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&amp;sid=958639bf55e679&amp;type=raw&amp;headertype=none#ss-GR%F0%9F%8C%90-2",
-      "ip": "94.131.8.19",
+      "address": "38.54.29.57",
+      "port": "11201",
+      "method": "chacha20-ietf-poly1305",
+      "password": "cb955c8530320120",
+      "name": "未知 SS-17 | free-nodes",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#ss-chacha20-ietf-poly1305-GR%F0%9F%8C%90-1",
+      "ip": "38.54.29.57",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "ss://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&amp;sid=958639bf55e679&amp;type=raw&amp;headertype=none#ss-GR%F0%9F%8C%90-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#ss-chacha20-ietf-poly1305-GR%F0%9F%8C%90-1"
     }
   ]
 }
