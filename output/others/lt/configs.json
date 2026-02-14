@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-13T16:39:07.589999",
-  "count": 4,
+  "updated": "2026-02-14T01:29:12.702191",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -19,44 +19,29 @@
     },
     {
       "type": "ss",
-      "address": "srv4.outlinekeys.com",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-62 | free-nodes",
-      "original": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-2",
-      "ip": "195.66.25.21",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "lt-cherry-01.com",
-      "port": "8443",
-      "id": "ff6fb512-147d-419a-9672-e131133f7189",
-      "name": "未知 VLESS-127 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-3",
-      "ip": "5.199.163.42",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
       "address": "lt-cherry-01.com",
       "port": "8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615",
       "method": "",
       "password": "",
       "name": "未知 VLESS-127 | free-nodes",
-      "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-4",
-      "ip": "5.199.163.42",
+      "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-2",
+      "ip": "93.115.25.194",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-4"
+      "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "srv4.outlinekeys.com",
+      "port": "8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-62 | free-nodes",
+      "original": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-3",
+      "ip": "195.66.25.21",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-3"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-13T16:39:07.581474",
-  "count": 1,
+  "updated": "2026-02-14T01:29:12.715140",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "45.15.170.237",
+      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F",
+      "method": "",
+      "password": "",
+      "name": "👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 7 dailyv2ry<br/>vlerootface",
+      "original": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-1",
+      "ip": "45.15.170.237",
+      "country": "AL",
+      "cdn": null,
+      "rebuilt": "ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-AL%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "45.15.170.237",
@@ -11,11 +24,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-1",
+      "original": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-2",
       "ip": "45.15.170.237",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-1"
+      "rebuilt": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-AL%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,36 +1,19 @@
 {
-  "updated": "2026-02-13T16:39:07.571166",
-  "count": 6,
+  "updated": "2026-02-14T01:29:12.684580",
+  "count": 9,
   "configs": [
     {
-      "type": "vless",
-      "address": "dd.openaccessnode.com",
-      "port": "504",
-      "id": "31701b5d-ca95-92f9-d684-dae3706161ea",
-      "name": "未知 VLESS-53 | free-nodes",
-      "network": "grpc",
-      "sni": "nobitex.ir",
-      "host": "",
-      "original": "vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "81.227.217.179",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
+      "type": "ss",
       "address": "176.125.240.166",
-      "port": "443",
-      "id": "002accb526534fcab24a72b0ea1cff59",
-      "name": "俄羅斯",
-      "network": "tcp",
-      "sni": "apple.com",
-      "host": "",
-      "original": "vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com",
+      "method": "",
+      "password": "",
+      "name": "瑞典",
+      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "176.125.240.166",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "ss",
@@ -39,11 +22,67 @@
       "method": "",
       "password": "",
       "name": "俄羅斯",
-      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "176.125.240.166",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "ss",
+      "address": "185.146.173.95",
+      "port": "2095?type=ws&amp;host=all5.savagev2ray.site&amp;path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&amp;host=all5.savagev2ray.site&amp;path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "185.146.173.95",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&amp;host=all5.savagev2ray.site&amp;path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy#ss-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "dd.openaccessnode.com",
+      "port": "504",
+      "id": "31701b5d-ca95-92f9-d684-dae3706161ea",
+      "name": "未知 VLESS-49 | free-nodes",
+      "network": "grpc",
+      "sni": "nobitex.ir",
+      "host": "",
+      "original": "vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "90.225.81.171",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "ss",
+      "address": "dd.openaccessnode.com",
+      "port": "504?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&amp;fp=chrome&amp;type=grpc&amp;serviceName=JNIR&amp;sni=nobitex.ir&amp;sid=1d64e9805b4f9ae3",
+      "method": "",
+      "password": "",
+      "name": "🇮🇷 IR 10 @Outline_Vpn<br/>vle6e44b298-a091-4433-af5e-c89afd438c98",
+      "original": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&amp;fp=chrome&amp;type=grpc&amp;serviceName=JNIR&amp;sni=nobitex.ir&amp;sid=1d64e9805b4f9ae3#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "90.225.81.171",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&amp;fp=chrome&amp;type=grpc&amp;serviceName=JNIR&amp;sni=nobitex.ir&amp;sid=1d64e9805b4f9ae3#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+    },
+    {
+      "type": "vless",
+      "address": "176.125.240.166",
+      "port": "443",
+      "id": "002accb526534fcab24a72b0ea1cff59",
+      "name": "瑞典",
+      "network": "tcp",
+      "sni": "apple.com",
+      "host": "apple.com",
+      "original": "vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6",
+      "ip": "176.125.240.166",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-6"
     },
     {
       "type": "ss",
@@ -51,25 +90,27 @@
       "port": "504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-54 | free-nodes",
-      "original": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "81.227.217.179",
+      "name": "未知 VLESS-53 | free-nodes",
+      "original": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-7",
+      "ip": "90.225.81.171",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "ss://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ss-SE%F0%9F%87%B8%F0%9F%87%AA-7"
     },
     {
-      "type": "ss",
-      "address": "176.125.240.166",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com",
-      "method": "",
-      "password": "",
-      "name": "瑞典",
-      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5",
-      "ip": "176.125.240.166",
+      "type": "vless",
+      "address": "185.146.173.95",
+      "port": "2095",
+      "id": "391c3f25-b29e-46df-aea3-5246f1c59162",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "original": "vless://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&amp;host=all5.savagev2ray.site&amp;path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-8",
+      "ip": "185.146.173.95",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none&host=apple.com#ss-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "vless://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&amp;host=all5.savagev2ray.site&amp;path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-8"
     },
     {
       "type": "ss",
@@ -78,11 +119,11 @@
       "method": "",
       "password": "",
       "name": "🇸🇪SE_1 | ⬇️ 2.7MB/s",
-      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-6",
+      "original": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-9",
       "ip": "176.125.240.166",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-6"
+      "rebuilt": "ss://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ss-SE%F0%9F%87%B8%F0%9F%87%AA-9"
     }
   ]
 }
