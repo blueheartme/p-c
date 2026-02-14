@@ -1,36 +1,34 @@
 {
-  "updated": "2026-01-28T08:25:35.247426",
+  "updated": "2026-02-14T08:25:59.067571",
   "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "185.162.228.230",
-      "port": "443",
-      "id": "17b2a313-37a0-4945-a8e4-e63375506b4a",
-      "name": "🏁RELAY-185.162.228.230-0056",
-      "network": "ws",
-      "host": "lg10.cfcdn1.xyz",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxODUuMTYyLjIyOC4yMzAiLCJhaWQiOjAsImhvc3QiOiJsZzEwLmNmY2RuMS54eXoiLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BMkRKT1BGVCIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1JTfCfjJAtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "185.162.228.230",
+      "type": "ss",
+      "address": "185.162.230.66",
+      "port": "2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "🇺🇸US_86",
+      "original": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@185.162.230.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-IM%F0%9F%8C%90-1",
+      "ip": "185.162.230.66",
       "country": "IM",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTYyLjIyOC4yMzAiLCJhaWQiOjAsImhvc3QiOiJsZzEwLmNmY2RuMS54eXoiLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BMkRKT1BGVCIsInBvcnQiOjQ0MywicHMiOiJ2bWVzcy13cy1hdXRvLXRscy1JTfCfjJAtMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+      "rebuilt": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@185.162.230.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-IM%F0%9F%8C%90-1"
     },
     {
-      "type": "vmess",
-      "address": "185.162.228.229",
-      "port": "443",
-      "id": "4612618c-24cd-4379-9924-cfdf3d61fa5a",
-      "name": "🏁RELAY-185.162.228.229-0074",
+      "type": "vless",
+      "address": "185.162.230.66",
+      "port": "2096",
+      "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
+      "name": "🇺🇸US_86",
       "network": "ws",
-      "host": "opfr1.v2rayfree1.xyz",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxODUuMTYyLjIyOC4yMjkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUlN8J+MkC0yIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "185.162.228.229",
+      "sni": "o00o.snip.qzz.io",
+      "host": "o00o.snip.qzz.io",
+      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@185.162.230.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-IM%F0%9F%8C%90-2",
+      "ip": "185.162.230.66",
       "country": "IM",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxODUuMTYyLjIyOC4yMjkiLCJhaWQiOjAsImhvc3QiOiJvcGZyMS52MnJheWZyZWUxLnh5eiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6InZtZXNzLXdzLWF1dG8tdGxzLUlN8J+MkC0yIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@185.162.230.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-IM%F0%9F%8C%90-2"
     }
   ]
 }

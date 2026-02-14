@@ -1,34 +1,34 @@
 {
-  "updated": "2026-02-14T01:29:12.706440",
-  "count": 5,
+  "updated": "2026-02-14T08:25:59.068514",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "139.84.163.149",
       "port": "443",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "未知 VLESS-72 | free-nodes",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "name": "未知 VLESS-71 | free-nodes",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "139.84.163.149",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#vless-tcp-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     },
     {
       "type": "ss",
-      "address": "139.84.163.149",
-      "port": "443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2",
+      "address": "152.70.75.80",
+      "port": "15805?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-71 | free-nodes",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "139.84.163.149",
+      "name": "🇮🇳IN",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.75.80:15805?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "152.70.75.80",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.75.80:15805?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ss-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     },
     {
       "type": "ss",
@@ -44,32 +44,19 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44235#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     },
     {
-      "type": "vmess",
-      "address": "20.193.153.19",
-      "port": "15834",
-      "id": "39a8c374-76b1-4e90-ab85-85cd9a42ded2",
-      "name": "🇮🇷 IR 30 @Outline_Vpn",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "20.193.153.19",
+      "type": "vless",
+      "address": "152.70.75.80",
+      "port": "15805",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🇮🇳IN",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.75.80:15805?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-4",
+      "ip": "152.70.75.80",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
-    },
-    {
-      "type": "ss",
-      "address": "103.97.203.227",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "🇮🇳IN-103.97.203.227-0324",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-5",
-      "ip": "103.97.203.227",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#ss-chacha20-ietf-poly1305-IN%F0%9F%87%AE%F0%9F%87%B3-5"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.75.80:15805?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#vless-ws-tls-IN%F0%9F%87%AE%F0%9F%87%B3-4"
     }
   ]
 }

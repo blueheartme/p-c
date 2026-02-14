@@ -1,19 +1,21 @@
 {
-  "updated": "2026-02-14T01:29:12.707240",
+  "updated": "2026-02-14T08:25:59.089531",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.231.233.112",
-      "port": "989",
-      "method": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
-      "name": "🇵🇹PT-185.231.233.112-4749",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#ss-aes-256-cfb-PT%F0%9F%8C%90-1",
-      "ip": "185.231.233.112",
+      "type": "vless",
+      "address": "156.243.83.66",
+      "port": "2096",
+      "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
+      "name": "🇺🇸US_144",
+      "network": "ws",
+      "sni": "o00o.snip.qzz.io",
+      "host": "o00o.snip.qzz.io",
+      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@156.243.83.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-PT%F0%9F%8C%90-1",
+      "ip": "156.243.83.66",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#ss-aes-256-cfb-PT%F0%9F%8C%90-1"
+      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@156.243.83.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-PT%F0%9F%8C%90-1"
     }
   ]
 }

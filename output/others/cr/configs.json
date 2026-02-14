@@ -1,34 +1,21 @@
 {
-  "updated": "2026-02-13T08:36:35.803040",
-  "count": 2,
+  "updated": "2026-02-14T08:25:59.081521",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "F3.FASTSPEEDS.IR",
-      "port": "2087",
-      "id": "7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ns5.mehrsazi.ir#vless-tcp-CR%F0%9F%8C%90-1",
-      "ip": "190.93.245.187",
+      "address": "190.93.246.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🇺🇸US_56",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CR%F0%9F%8C%90-1",
+      "ip": "190.93.246.238",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ns5.mehrsazi.ir#vless-tcp-CR%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "F3.FASTSPEEDS.IR",
-      "port": "2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ns5.mehrsazi.ir",
-      "method": "",
-      "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ns5.mehrsazi.ir#ss-CR%F0%9F%8C%90-2",
-      "ip": "190.93.245.187",
-      "country": "CR",
-      "cdn": null,
-      "rebuilt": "ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ns5.mehrsazi.ir#ss-CR%F0%9F%8C%90-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CR%F0%9F%8C%90-1"
     }
   ]
 }

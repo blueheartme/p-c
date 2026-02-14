@@ -1,62 +1,19 @@
 {
-  "updated": "2026-02-14T01:29:12.692317",
-  "count": 4,
+  "updated": "2026-02-14T08:25:59.085124",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "5.180.45.245",
-      "port": "443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/dBBhjNjzUgg6m8w&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=a26c",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-86 | free-nodes",
-      "original": "ss://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/dBBhjNjzUgg6m8w&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=a26c#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "5.180.45.245",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/dBBhjNjzUgg6m8w&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=a26c#ss-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "62.60.233.226",
-      "port": "62763",
+      "address": "62.133.63.169",
+      "port": "37096",
       "method": "chacha20-ietf-poly1305",
-      "password": "yRdxvK32gcKq8xxNguwU99",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "62.60.233.226",
+      "password": "Ul0rGyAAed5HRDpvFqr2C0",
+      "name": "🇮🇷 IR 200 @Outline_Vpn</code><br/><br/><tg-emoji",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "62.133.63.169",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "5.180.45.245",
-      "port": "443",
-      "id": "8df8d701-38b4-5175-89ef-7447a1250e67",
-      "name": "未知 VLESS-86 | free-nodes",
-      "network": "tcp",
-      "sni": "www.google.com",
-      "host": "",
-      "original": "vless://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/dBBhjNjzUgg6m8w&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=a26c#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "5.180.45.245",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/dBBhjNjzUgg6m8w&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=a26c#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vmess",
-      "address": "tr1-smart.adelping.com",
-      "port": "80",
-      "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-      "name": "🇮🇷 IR 50 @Outline_Vpn",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "ip": "185.104.189.38",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty00Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#ss-chacha20-ietf-poly1305-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

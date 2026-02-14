@@ -1,32 +1,21 @@
 {
-  "updated": "2026-02-14T01:29:12.651294",
-  "count": 2,
+  "updated": "2026-02-14T08:25:59.051876",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "95.85.245.114",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=google.com&type=tcp",
-      "method": "",
-      "password": "",
+      "port": "443",
+      "id": "b42f7955-3741-406f-b95a-ed7b051ae5aa",
       "name": "未知 VLESS-106 | free-nodes",
-      "original": "ss://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=google.com&type=tcp#ss-EE%F0%9F%8C%90-1",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "original": "vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=google.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
       "ip": "95.85.245.114",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=google.com&type=tcp#ss-EE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "87.121.86.31",
-      "port": "57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-116 | free-nodes",
-      "original": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2",
-      "ip": "87.121.86.31",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2"
+      "rebuilt": "vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@95.85.245.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=google.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
     }
   ]
 }

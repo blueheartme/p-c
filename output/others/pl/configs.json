@@ -1,32 +1,47 @@
 {
-  "updated": "2026-02-14T01:29:12.704636",
-  "count": 2,
+  "updated": "2026-02-14T08:25:59.072388",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "144.31.0.58",
+      "port": "443",
+      "id": "71031aa1-067e-425e-97f5-37875f838a10",
+      "name": "未知 VLESS-77 | free-nodes",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "original": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "144.31.0.58",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "ss",
+      "address": "217.30.10.70",
+      "port": "9057",
+      "method": "aes-256-cfb",
+      "password": "wjTugX3ZtHMB9c3Z",
+      "name": "🇵🇱PL-217.30.10.70-4977",
+      "original": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "217.30.10.70",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
     {
       "type": "ss",
       "address": "89.223.93.176",
       "port": "41348",
       "method": "chacha20-ietf-poly1305",
       "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
-      "name": "🇵🇱PL-89.223.93.176-0249",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "name": "🇵🇱PL-89.223.93.176-0289",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "89.223.93.176",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "ss",
-      "address": "144.31.0.58",
-      "port": "443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-77 | free-nodes",
-      "original": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "144.31.0.58",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
