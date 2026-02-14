@@ -1,34 +1,19 @@
 {
-  "updated": "2026-02-14T08:25:59.072388",
-  "count": 3,
+  "updated": "2026-02-14T16:22:54.190333",
+  "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "144.31.0.58",
-      "port": "443",
-      "id": "71031aa1-067e-425e-97f5-37875f838a10",
-      "name": "未知 VLESS-77 | free-nodes",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "original": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "144.31.0.58",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
       "type": "ss",
-      "address": "217.30.10.70",
-      "port": "9057",
-      "method": "aes-256-cfb",
-      "password": "wjTugX3ZtHMB9c3Z",
-      "name": "🇵🇱PL-217.30.10.70-4977",
-      "original": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "217.30.10.70",
+      "address": "91.108.250.245",
+      "port": "4444?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=github.com&amp;sid=aa7e96542880027a",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "91.108.250.245",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#ss-aes-256-cfb-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "ss://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=github.com&amp;sid=aa7e96542880027a#ss-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -36,12 +21,40 @@
       "port": "41348",
       "method": "chacha20-ietf-poly1305",
       "password": "Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA",
-      "name": "🇵🇱PL-89.223.93.176-0289",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "name": "🇵🇱PL-89.223.93.176-0237",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "89.223.93.176",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#ss-chacha20-ietf-poly1305-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "ss",
+      "address": "144.31.0.58",
+      "port": "443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-77 | free-nodes",
+      "original": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "144.31.0.58",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#ss-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "vless",
+      "address": "91.108.250.245",
+      "port": "4444",
+      "id": "65f98bdd-b437-4d7e-8bba-8ab70cc8ff37",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "91.108.250.245",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=github.com&amp;sid=aa7e96542880027a#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }

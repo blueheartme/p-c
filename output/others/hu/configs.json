@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-14T08:25:59.061952",
-  "count": 3,
+  "updated": "2026-02-14T16:22:54.215165",
+  "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "pq-Hungary1.09vpn.com",
-      "port": "80",
-      "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-      "name": "telegram ⚡️ dailyv2ry",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMSIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=",
-      "ip": "45.12.132.183",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1IVfCfjJAtMSIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0="
-    },
     {
       "type": "ss",
       "address": "74.49.214.66",
@@ -24,11 +9,11 @@
       "method": "",
       "password": "",
       "name": "🇺🇸US_229",
-      "original": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-2",
+      "original": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-1",
       "ip": "74.49.214.66",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-2"
+      "rebuilt": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -39,11 +24,11 @@
       "network": "ws",
       "sni": "o00o.snip.qzz.io",
       "host": "o00o.snip.qzz.io",
-      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-3",
+      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-2",
       "ip": "74.49.214.66",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-3"
+      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-2"
     }
   ]
 }
