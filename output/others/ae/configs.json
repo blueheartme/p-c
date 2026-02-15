@@ -1,34 +1,34 @@
 {
-  "updated": "2026-02-14T16:22:54.214249",
-  "count": 4,
+  "updated": "2026-02-15T01:49:29.231294",
+  "count": 6,
   "configs": [
     {
-      "type": "vless",
-      "address": "38.180.27.102",
-      "port": "8443",
-      "id": "59edf6dc-b1f7-4017-8107-aae4f61a173c",
-      "name": "未知 VLESS-66 | free-nodes",
-      "network": "tcp",
-      "sni": "eh.vk.com",
-      "host": "",
-      "original": "vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.27.102",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
       "type": "ss",
-      "address": "38.180.27.102",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none",
+      "address": "94.140.0.1",
+      "port": "443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-66 | free-nodes",
-      "original": "ss://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "38.180.27.102",
+      "name": "🇮🇷 IR 26 @Outline_Vpn<br/>vlee929f51d-5a95-5432-b66f-cfe725ea1f61",
+      "original": "ss://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.1",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none#ss-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "ss://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#ss-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "94.140.0.1",
+      "port": "443",
+      "id": "73f15c26-5545-492f-bb67-a4ef3737a060",
+      "name": "🇮🇷 IR 26 @Outline_Vpn<br/>vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?security=reality&amp;encryption=none&amp;pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=6ac998b514#🇮🇷 IR 27 @Outline_Vpn<br/>vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?path=/&amp;security=none&amp;encryption=none&amp;host=blog.zanborak-shop.ir&amp;type=ws#🇮🇷 IR 28 @Outline_Vpn<br/>vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?path=/&amp;security=none&amp;encryption=none&amp;type=ws#🇮🇷 IR 29 @Outline_Vpn<br/>vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6IvCfh67wn4e3IElSIDMwIEBPdXRsaW5lX1ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=</code><br/><br/><tg-emoji",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "94.140.0.1",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&amp;fp=chrome&amp;type=ws&amp;sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "ss",
@@ -44,17 +44,45 @@
       "rebuilt": "ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#ss-rc4-md5-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     },
     {
+      "type": "vless",
+      "address": "c1.s-sub.org",
+      "port": "8443",
+      "id": "991519c1-3680-49b7-bb9f-9029a7a39067",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "ip": "94.140.0.74",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+    },
+    {
       "type": "ss",
       "address": "45.66.134.176",
-      "port": "805",
+      "port": "803",
       "method": "chacha20-ietf-poly1305",
       "password": "G!yBwPWH3Vao",
-      "name": "🇬🇧GB-45.66.134.176-0106",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "name": "🇬🇧GB-45.66.134.176-0109",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5",
       "ip": "45.66.134.176",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#ss-chacha20-ietf-poly1305-AE%F0%9F%87%A6%F0%9F%87%AA-5"
+    },
+    {
+      "type": "ss",
+      "address": "c1.s-sub.org",
+      "port": "8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd#ss-AE%F0%9F%87%A6%F0%9F%87%AA-6",
+      "ip": "94.140.0.74",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd#ss-AE%F0%9F%87%A6%F0%9F%87%AA-6"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-14T16:22:54.213420",
-  "count": 1,
+  "updated": "2026-02-15T01:49:29.244637",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,38 @@
       "port": "8443?",
       "method": "aes-256-gcm",
       "password": "+zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=",
-      "name": "telegram ☂️ dailyv2ry<br/>vlea7f96f25-aae6-4481-8c0c-71c91bc13cf2",
+      "name": "telegram ☂️ dailyv2ry<br/>vle98b419ef-83a2-4d1b-a23d-566b7f24477b",
       "original": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-1",
       "ip": "57.131.38.151",
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "57.131.41.129",
+      "port": "8390",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=",
+      "name": "FR SS-04 | free-nodes",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-2",
+      "ip": "57.131.41.129",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.131.42.19",
+      "port": "8390",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=",
+      "name": "FR SS-03 | free-nodes",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-3",
+      "ip": "57.131.42.19",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-3"
     }
   ]
 }

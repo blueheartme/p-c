@@ -1,19 +1,34 @@
 {
-  "updated": "2026-02-13T16:39:07.601063",
-  "count": 1,
+  "updated": "2026-02-15T01:49:29.248060",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "163.171.137.76",
-      "port": "47394",
-      "method": "chacha20-ietf-poly1305",
-      "password": "eafad96826c79ddd",
-      "name": "未知 SS-18 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "163.171.137.76",
+      "address": "89.116.180.238",
+      "port": "2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "89.116.180.238",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#ss-chacha20-ietf-poly1305-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#ss-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vless",
+      "address": "89.116.180.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#vless-tcp-UA%F0%9F%87%BA%F0%9F%87%A6-2",
+      "ip": "89.116.180.238",
+      "country": "UA",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#vless-tcp-UA%F0%9F%87%BA%F0%9F%87%A6-2"
     }
   ]
 }

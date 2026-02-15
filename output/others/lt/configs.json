@@ -1,62 +1,34 @@
 {
-  "updated": "2026-02-14T16:22:54.229552",
-  "count": 4,
+  "updated": "2026-02-15T01:49:29.253050",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "srv4.outlinekeys.com",
-      "port": "8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp",
+      "address": "lt-cherry-01.com",
+      "port": "8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615",
       "method": "",
       "password": "",
-      "name": "未知 VLESS-62 | free-nodes",
-      "original": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-1",
-      "ip": "195.66.25.21",
+      "name": "未知 VLESS-130 | free-nodes",
+      "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-1",
+      "ip": "93.115.25.194",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "ss://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#ss-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "89.116.161.66",
-      "port": "2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "🇺🇸US_216",
-      "original": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@89.116.161.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-LT%F0%9F%8C%90-2",
-      "ip": "89.116.161.66",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@89.116.161.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-LT%F0%9F%8C%90-2"
+      "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
-      "address": "89.116.161.66",
-      "port": "2096",
-      "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
-      "name": "🇺🇸US_216",
-      "network": "ws",
-      "sni": "o00o.snip.qzz.io",
-      "host": "o00o.snip.qzz.io",
-      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@89.116.161.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-3",
-      "ip": "89.116.161.66",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@89.116.161.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "srv4.outlinekeys.com",
+      "address": "lt-cherry-01.com",
       "port": "8443",
-      "id": "3ff03067-b0dd-4361-a21f-27bb9474b9b8",
-      "name": "未知 VLESS-62 | free-nodes",
+      "id": "ff6fb512-147d-419a-9672-e131133f7189",
+      "name": "未知 VLESS-130 | free-nodes",
       "network": "tcp",
-      "sni": "sun1-90.userapi.com",
+      "sni": "tradingview.com",
       "host": "",
-      "original": "vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-4",
-      "ip": "195.66.25.21",
+      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
+      "ip": "93.115.25.194",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv4.outlinekeys.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sni=sun1-90.userapi.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-4"
+      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
     }
   ]
 }
