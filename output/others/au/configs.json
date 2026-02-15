@@ -1,47 +1,34 @@
 {
-  "updated": "2026-02-15T08:27:10.523445",
-  "count": 3,
+  "updated": "2026-02-15T16:23:10.047828",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "cdnuser2048mb.wrongguy.ir",
-      "port": "2083?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=cdnuser.wrongguy.ir",
+      "address": "levelprome.esportplusnews.top",
+      "port": "2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8",
       "method": "",
       "password": "",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
-      "original": "ss://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=cdnuser.wrongguy.ir#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "103.160.204.191",
+      "name": "未知 VLESS-111 | free-nodes",
+      "original": "ss://df384b0f-d6c7-4242-a3ed-87d7d0c7ee86@levelprome.esportplusnews.top:2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "78.153.151.66",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=cdnuser.wrongguy.ir#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "ss://df384b0f-d6c7-4242-a3ed-87d7d0c7ee86@levelprome.esportplusnews.top:2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8#ss-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     },
     {
       "type": "vless",
-      "address": "cdnuser2048mb.wrongguy.ir",
-      "port": "2083",
-      "id": "1e7215d7-3d4c-471b-8034-7fd953db251c",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
-      "network": "",
-      "sni": "",
+      "address": "levelprome.esportplusnews.top",
+      "port": "2087",
+      "id": "df384b0f-d6c7-4242-a3ed-87d7d0c7ee86",
+      "name": "未知 VLESS-111 | free-nodes",
+      "network": "tcp",
+      "sni": "www.apple.com",
       "host": "",
-      "original": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=cdnuser.wrongguy.ir#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2",
-      "ip": "103.160.204.191",
+      "original": "vless://df384b0f-d6c7-4242-a3ed-87d7d0c7ee86@levelprome.esportplusnews.top:2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2",
+      "ip": "78.153.151.66",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=cdnuser.wrongguy.ir#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-2"
-    },
-    {
-      "type": "ss",
-      "address": "45.15.185.70",
-      "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3",
-      "ip": "45.15.185.70",
-      "country": "AU",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ss-chacha20-ietf-poly1305-AU%F0%9F%87%A6%F0%9F%87%BA-3"
+      "rebuilt": "vless://df384b0f-d6c7-4242-a3ed-87d7d0c7ee86@levelprome.esportplusnews.top:2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8#vless-tcp-reality-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-2"
     }
   ]
 }

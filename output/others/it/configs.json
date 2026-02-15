@@ -1,19 +1,47 @@
 {
-  "updated": "2026-02-15T08:27:10.530451",
-  "count": 3,
+  "updated": "2026-02-15T16:23:10.025789",
+  "count": 5,
   "configs": [
     {
-      "type": "ss",
+      "type": "vless",
       "address": "realmadrid2italy1seriea.q.aparat-archive.ir",
-      "port": "8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-57 | free-nodes",
-      "original": "ss://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#ss-IT%F0%9F%8C%90-1",
+      "port": "8880",
+      "id": "4583d428-8ff9-4000-bcbd-953fe8c8df17",
+      "name": "未知 VLESS-59 | free-nodes",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#vless-tcp-reality-IT%F0%9F%8C%90-1",
       "ip": "89.46.70.244",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#ss-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#vless-tcp-reality-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "57.131.42.19",
+      "port": "8389",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=",
+      "name": "FR SS-01 | free-nodes",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-2",
+      "ip": "57.131.42.19",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#ss-2022-blake3-aes-256-gcm-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "57.131.38.151",
+      "port": "8443?",
+      "method": "aes-256-gcm",
+      "password": "+zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=",
+      "name": "telegram ☂️ dailyv2ry<br/>vle98b419ef-83a2-4d1b-a23d-566b7f24477b",
+      "original": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-3",
+      "ip": "57.131.38.151",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-3"
     },
     {
       "type": "ss",
@@ -22,24 +50,24 @@
       "method": "",
       "password": "",
       "name": "🇮🇷 IR 107 @Outline_Vpn</code><br/><br/><tg-emoji",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#ss-IT%F0%9F%8C%90-2",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#ss-IT%F0%9F%8C%90-4",
       "ip": "57.131.41.129",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#ss-IT%F0%9F%8C%90-2"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#ss-IT%F0%9F%8C%90-4"
     },
     {
       "type": "ss",
-      "address": "57.131.38.151",
-      "port": "8443?",
-      "method": "aes-256-gcm",
-      "password": "+zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=",
-      "name": "telegram ☂️ dailyv2ry<br/>vlea7f96f25-aae6-4481-8c0c-71c91bc13cf2",
-      "original": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-3",
-      "ip": "57.131.38.151",
+      "address": "realmadrid2italy1seriea.q.aparat-archive.ir",
+      "port": "8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57",
+      "method": "",
+      "password": "",
+      "name": "未知 VLESS-59 | free-nodes",
+      "original": "ss://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#ss-IT%F0%9F%8C%90-5",
+      "ip": "89.46.70.244",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#ss-aes-256-gcm-IT%F0%9F%8C%90-3"
+      "rebuilt": "ss://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#ss-IT%F0%9F%8C%90-5"
     }
   ]
 }
