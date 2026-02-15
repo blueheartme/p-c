@@ -1,21 +1,34 @@
 {
-  "updated": "2026-02-15T01:49:29.237824",
-  "count": 2,
+  "updated": "2026-02-15T08:27:10.534580",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
-      "address": "190.93.244.138",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "address": "190.93.245.187",
+      "port": "2083",
+      "id": "ba996b5a-855c-4dc0-9e0d-950215c4f0fd",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#vless-tcp-CR%F0%9F%8C%90-1",
-      "ip": "190.93.244.138",
+      "original": "vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=ygfbh374hb.afghanestan.ir#vless-tcp-CR%F0%9F%8C%90-1",
+      "ip": "190.93.245.187",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#vless-tcp-CR%F0%9F%8C%90-1"
+      "rebuilt": "vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=ygfbh374hb.afghanestan.ir#vless-tcp-CR%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "190.93.245.187",
+      "port": "2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=ygfbh374hb.afghanestan.ir",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=ygfbh374hb.afghanestan.ir#ss-CR%F0%9F%8C%90-2",
+      "ip": "190.93.245.187",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "ss://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=ygfbh374hb.afghanestan.ir#ss-CR%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -24,11 +37,39 @@
       "method": "",
       "password": "",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#ss-CR%F0%9F%8C%90-2",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#ss-CR%F0%9F%8C%90-3",
       "ip": "190.93.244.138",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#ss-CR%F0%9F%8C%90-2"
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F#ss-CR%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "190.93.246.238",
+      "port": "2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2",
+      "method": "",
+      "password": "",
+      "name": "🇺🇸US美国节点",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-CR%F0%9F%8C%90-4",
+      "ip": "190.93.246.238",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-CR%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vless",
+      "address": "190.93.246.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🇺🇸US美国节点",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CR%F0%9F%8C%90-5",
+      "ip": "190.93.246.238",
+      "country": "CR",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-CR%F0%9F%8C%90-5"
     }
   ]
 }

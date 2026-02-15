@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-15T01:49:29.253050",
-  "count": 2,
+  "updated": "2026-02-15T08:27:10.540584",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
@@ -10,25 +10,10 @@
       "password": "",
       "name": "未知 VLESS-130 | free-nodes",
       "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-1",
-      "ip": "93.115.25.194",
+      "ip": "5.199.163.42",
       "country": "LT",
       "cdn": null,
       "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "lt-cherry-01.com",
-      "port": "8443",
-      "id": "ff6fb512-147d-419a-9672-e131133f7189",
-      "name": "未知 VLESS-130 | free-nodes",
-      "network": "tcp",
-      "sni": "tradingview.com",
-      "host": "",
-      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
-      "ip": "93.115.25.194",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
     }
   ]
 }

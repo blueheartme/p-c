@@ -1,32 +1,21 @@
 {
-  "updated": "2026-02-14T16:22:54.225162",
-  "count": 2,
+  "updated": "2026-02-15T08:27:10.539839",
+  "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "47.254.207.127",
-      "port": "443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-59 | free-nodes",
-      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-1",
-      "ip": "47.254.207.127",
+      "type": "vmess",
+      "address": "gtm1.ktmwan.net",
+      "port": "12883",
+      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
+      "name": "GB英国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "host": "gtm1.ktmwan.net",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
+      "ip": "85.211.178.26",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "s448.okgfw.top",
-      "port": "443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804ufa3ds448.okgfw.top&serviceName=&mode=&alpn=",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-170 | free-nodes",
-      "original": "ss://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2",
-      "ip": "47.250.13.203",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s448.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s448.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804ufa3ds448.okgfw.top&serviceName=&mode=&alpn=#ss-MY%F0%9F%8C%90-2"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
     }
   ]
 }
