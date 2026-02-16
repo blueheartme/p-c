@@ -1,35 +1,7 @@
 {
-  "updated": "2026-02-16T01:45:35.404907",
-  "count": 4,
+  "updated": "2026-02-16T08:40:36.000556",
+  "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "gtm1.ktmwan.net",
-      "port": "12883",
-      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "host": "gtm1.ktmwan.net",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
-      "ip": "85.211.176.18",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
-    },
-    {
-      "type": "ss",
-      "address": "47.254.207.127",
-      "port": "443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-54 | free-nodes",
-      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-2",
-      "ip": "47.254.207.127",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-2"
-    },
     {
       "type": "vless",
       "address": "47.254.207.127",
@@ -39,26 +11,26 @@
       "network": "tcp",
       "sni": "cdn.userway.org",
       "host": "",
-      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-3",
+      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1",
       "ip": "47.254.207.127",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-3"
+      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1"
     },
     {
       "type": "vmess",
-      "address": "47.250.45.234",
-      "port": "8613",
-      "id": "80039b4d-bac0-4f89-82c7-54fad3b0a1ea",
-      "name": "🇲🇾MY-47.250.45.234-4844",
+      "address": "gtm1.ktmwan.net",
+      "port": "12883",
+      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
+      "name": "US美国(mibei77.com 米贝节点分享)",
       "network": "ws",
-      "host": "",
+      "host": "gtm1.ktmwan.net",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC00IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
-      "ip": "47.250.45.234",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
+      "ip": "85.211.176.18",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJ2bWVzcy13cy1hdXRvLU1Z8J+MkC00IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
     }
   ]
 }
