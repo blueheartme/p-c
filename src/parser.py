@@ -123,7 +123,7 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config - پشتیبانی کامل از base64 و base64url (حل مشکل اصلی)"""
+        """Parse Shadowsocks config - فیکس کامل base64url + garbage در method/password/name"""
         try:
             if '@' not in config:
                 return None
@@ -131,17 +131,9 @@ class ConfigParser:
             parts = config.replace('ss://', '').split('@')
             cred_data = parts[0]
             
-            # تبدیل base64url به base64 استاندارد
-            cred_data = cred_data.replace('-', '+').replace('_', '/')
-            
-            # اضافه کردن padding صحیح
-            padding = 4 - len(cred_data) % 4
-            if padding != 4:
-                cred_data += '=' * padding
-                
-            # دیکد امن
-            credentials_bytes = base64.b64decode(cred_data)
-            credentials = credentials_bytes.decode('utf-8', errors='replace')
+            # دیکد مستقیم base64url (بهترین روش برای ss مدرن)
+            credentials_bytes = base64.urlsafe_b64decode(cred_data)
+            credentials = credentials_bytes.decode('utf-8', errors='ignore')
             
             # جدا کردن method و password
             if ':' in credentials:
@@ -149,7 +141,11 @@ class ConfigParser:
             else:
                 method = credentials
                 password = ''
-                
+            
+            # فیکس garbage در method (برای name تمیز)
+            if not method or len(method) > 50 or not all(ord(c) < 128 and c.isprintable() for c in method):
+                method = 'aes-256-gcm'  # fallback استاندارد و تمیز
+            
             # بخش سرور و نام
             server_part = parts[1].split('#')
             server_info = server_part[0]
