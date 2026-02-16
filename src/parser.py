@@ -12,6 +12,22 @@ from urllib.parse import urlparse, parse_qs, unquote
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Prefixes for known / common Shadowsocks cipher names
+SS_KNOWN_METHOD_PREFIXES = (
+    "aes-",
+    "chacha20",
+    "xchacha20",
+    "2022-blake3-",
+    "rc4-",
+    "bf-",
+    "camellia-",
+    "idea-",
+    "none",
+    "gost",
+    "salsa20",
+)
+
+
 class ConfigParser:
     """Parser for different proxy config formats"""
     
@@ -21,16 +37,16 @@ class ConfigParser:
         if not data:
             return ""
         
-        # 1. URL Unquote (ممکن است لینک انکود شده باشد)
+        # ممکن است لینک URL-encoded باشد
         data = unquote(data)
         
-        # 2. حذف Whitespace
+        # حذف فاصله‌ها
         data = data.strip()
         
-        # 3. استانداردسازی کاراکترهای URL-Safe
+        # استانداردسازی کاراکترهای URL-safe
         data = data.replace('-', '+').replace('_', '/')
         
-        # 4. اصلاح Padding
+        # اصلاح Padding
         padding = 4 - len(data) % 4
         if padding < 4:
             data += '=' * padding
@@ -39,8 +55,7 @@ class ConfigParser:
             decoded_bytes = base64.b64decode(data)
             return decoded_bytes.decode('utf-8', errors='ignore')
         except Exception:
-            # تلاش دوم: گاهی اوقات رشته دوبار انکود شده است یا فرمت خاصی دارد
-            # اما معمولا همان تلاش اول کافی است. در صورت خطا رشته خالی برمی‌گردانیم
+            # در صورت خطا، رشته خالی برمی‌گردانیم
             return ""
 
     @staticmethod
@@ -50,10 +65,63 @@ class ConfigParser:
             return ""
         # دیکد کردن URL encoded chars
         name = unquote(name)
-        # حذف کاراکترهای کنترلی غیرچاپ (مثل مربع، \x1d و غیره)
+        # حذف کاراکترهای کنترلی غیرچاپ
         name = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', name)
         # حذف فاصله‌های اضافی
         return name.strip()
+
+    @staticmethod
+    def _is_valid_ss_method(method: str) -> bool:
+        """Check if a Shadowsocks cipher name looks valid/reasonable"""
+        if not method:
+            return False
+        m = method.lower()
+
+        # فقط حروف/اعداد/نقطه/خط تیره مجاز است
+        if not re.fullmatch(r'[a-z0-9._\-]+', m):
+            return False
+
+        # با یکی از پیشوندهای شناخته‌شده شروع شود
+        for prefix in SS_KNOWN_METHOD_PREFIXES:
+            if m.startswith(prefix):
+                return True
+
+        return False
+
+    @staticmethod
+    def _parse_ss_userinfo(userinfo: str) -> (str, str):
+        """
+        Parse the 'userinfo' part of an ss URI.
+
+        userinfo ممکن است یکی از دو حالت باشد:
+        1) base64(method:password)
+        2) plain method:password (بدون base64)
+
+        خروجی: (method, password) – اگر معتبر نباشد، رشته خالی برمی‌گردد.
+        """
+        userinfo = userinfo.strip()
+        method = ""
+        password = ""
+
+        # 1. ابتدا فرض می‌کنیم base64(method:password) است
+        decoded = ConfigParser._safe_base64_decode(userinfo).strip()
+        if decoded and ':' in decoded:
+            m, p = decoded.split(':', 1)
+            m = m.strip()
+            if ConfigParser._is_valid_ss_method(m):
+                method, password = m, p
+
+        # 2. اگر دیکد base64 جواب نداد یا معتبر نبود، plain را امتحان می‌کنیم
+        if not method:
+            if ':' in userinfo:
+                m, p = userinfo.split(':', 1)
+            else:
+                m, p = userinfo, ''
+            m = m.strip()
+            if ConfigParser._is_valid_ss_method(m):
+                method, password = m, p
+
+        return method, password
 
     @staticmethod
     def parse_config(config: str) -> Optional[Dict]:
@@ -164,9 +232,9 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config"""
+        """Parse Shadowsocks (SS) config"""
         try:
-            clean_config = config.replace('ss://', '')
+            clean_config = config.replace('ss://', '', 1)
             
             # 1. جدا کردن نام (Remark)
             name = ''
@@ -176,52 +244,85 @@ class ConfigParser:
 
             address = ''
             port = ''
-            decoded_info = ''
+            method = ''
+            password = ''
+            plugin = ''
 
-            # 2. تشخیص فرمت (SIP002 vs Legacy)
+            # 2. تشخیص فرمتی که @ جداکننده‌ی userinfo و سرور است
             if '@' in clean_config:
-                # فرمت SIP002: base64(method:password)@host:port
-                user_info_raw, server_part = clean_config.rsplit('@', 1)
-                
+                # حالت SIP002 یا plain: userinfo@host:port[?query]
+                userinfo_raw, server_part = clean_config.rsplit('@', 1)
+
+                query = {}
+                if '?' in server_part:
+                    server_part, query_part = server_part.split('?', 1)
+                    query = parse_qs(query_part)
+
                 if ':' in server_part:
                     address, port = server_part.rsplit(':', 1)
-                    # حذف براکت IPv6 اگر وجود داشته باشد
                     address = address.strip('[]')
                 else:
                     return None
 
-                # دیکد کردن بخش متد و پسورد
-                decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
+                # استخراج method و password از userinfo
+                method, password = ConfigParser._parse_ss_userinfo(userinfo_raw)
+
+                # استخراج plugin (در صورت وجود)
+                plugin_raw = ''
+                if query:
+                    plugin_raw = query.get('plugin', [''])[0]
+                    if plugin_raw:
+                        plugin_raw = unquote(plugin_raw)
+                        if ';' in plugin_raw:
+                            plugin_raw = plugin_raw.split(';', 1)[0]
+                        plugin_raw = plugin_raw.strip()
+                        if not re.fullmatch(r'[A-Za-z0-9._\-]+', plugin_raw):
+                            plugin_raw = ''
+                plugin = plugin_raw
 
             else:
-                # فرمت Legacy: base64(method:password@host:port)
-                full_decoded = ConfigParser._safe_base64_decode(clean_config)
-                
-                if '@' in full_decoded:
-                    decoded_info, server_part = full_decoded.rsplit('@', 1)
-                    if ':' in server_part:
-                        address, port = server_part.rsplit(':', 1)
-                    else:
-                        return None
+                # 3. فرمت Legacy: base64(method:password@host:port[?query])
+                decoded_full = ConfigParser._safe_base64_decode(clean_config).strip()
+                if not decoded_full or '@' not in decoded_full:
+                    return None
+
+                userinfo_part, server_part = decoded_full.rsplit('@', 1)
+
+                query = {}
+                if '?' in server_part:
+                    server_part, query_part = server_part.split('?', 1)
+                    query = parse_qs(query_part)
+
+                if ':' in server_part:
+                    address, port = server_part.rsplit(':', 1)
+                    address = address.strip('[]')
                 else:
                     return None
 
-            if not decoded_info:
-                return None
+                # استخراج method و password
+                method, password = ConfigParser._parse_ss_userinfo(userinfo_part)
 
-            # 3. جدا کردن متد و پسورد
-            if ':' in decoded_info:
-                method, password = decoded_info.split(':', 1)
-            else:
-                method = decoded_info
-                password = ''
-            
+                # plugin در Legacy هم می‌تواند باشد
+                plugin_raw = ''
+                if query:
+                    plugin_raw = query.get('plugin', [''])[0]
+                    if plugin_raw:
+                        plugin_raw = unquote(plugin_raw)
+                        if ';' in plugin_raw:
+                            plugin_raw = plugin_raw.split(';', 1)[0]
+                        plugin_raw = plugin_raw.strip()
+                        if not re.fullmatch(r'[A-Za-z0-9._\-]+', plugin_raw):
+                            plugin_raw = ''
+                plugin = plugin_raw
+
+            # اگر method معتبر پیدا نشد، همچنان کانفیگ را برمی‌گردانیم ولی method/password خالی است
             return {
                 'type': 'ss',
                 'address': address,
                 'port': port,
                 'method': method,
                 'password': password,
+                'plugin': plugin,
                 'name': name,
                 'original': config
             }
