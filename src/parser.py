@@ -123,35 +123,75 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config - فیکس کامل base64url + garbage در method/password/name"""
+        """Parse Shadowsocks config - Fixed Base64 decoding"""
         try:
-            if '@' not in config:
-                return None
+            # حذف پروتکل
+            clean_config = config.replace('ss://', '')
+            
+            # جدا کردن نام (Remark)
+            name = ''
+            if '#' in clean_config:
+                clean_config, name_raw = clean_config.split('#', 1)
+                name = unquote(name_raw)
+
+            address = ''
+            port = ''
+            decoded_str = ''
+
+            # بررسی نوع فرمت (SIP002 یا Legacy)
+            if '@' in clean_config:
+                # فرمت جدید: base64(method:password)@host:port
+                user_info_raw, server_part = clean_config.rsplit('@', 1)
                 
-            parts = config.replace('ss://', '').split('@')
-            cred_data = parts[0]
-            
-            # دیکد مستقیم base64url (بهترین روش برای ss مدرن)
-            credentials_bytes = base64.urlsafe_b64decode(cred_data)
-            credentials = credentials_bytes.decode('utf-8', errors='ignore')
-            
-            # جدا کردن method و password
-            if ':' in credentials:
-                method, password = credentials.split(':', 1)
+                # استخراج آدرس و پورت
+                if ':' in server_part:
+                    address, port = server_part.rsplit(':', 1)
+                    address = address.strip('[]') # هندل کردن IPv6
+                else:
+                    return None
+
+                # نرمال‌سازی Base64 (تبدیل URL-Safe به استاندارد و افزودن Padding)
+                user_info_raw = user_info_raw.replace('-', '+').replace('_', '/')
+                padding = 4 - len(user_info_raw) % 4
+                if padding < 4:
+                    user_info_raw += '=' * padding
+                
+                try:
+                    decoded_bytes = base64.b64decode(user_info_raw)
+                    decoded_str = decoded_bytes.decode('utf-8', errors='ignore')
+                except Exception:
+                    # در صورت خطا در دیکد، بازگشت None
+                    return None
+
             else:
-                method = credentials
+                # فرمت قدیمی: base64(method:password@host:port)
+                # نرمال‌سازی Base64
+                clean_config = clean_config.replace('-', '+').replace('_', '/')
+                padding = 4 - len(clean_config) % 4
+                if padding < 4:
+                    clean_config += '=' * padding
+                
+                try:
+                    decoded_bytes = base64.b64decode(clean_config)
+                    full_info = decoded_bytes.decode('utf-8', errors='ignore')
+                    
+                    if '@' in full_info:
+                        decoded_str, server_part = full_info.rsplit('@', 1)
+                        if ':' in server_part:
+                            address, port = server_part.rsplit(':', 1)
+                        else:
+                            return None
+                    else:
+                        return None
+                except Exception:
+                    return None
+
+            # جدا کردن متد و پسورد
+            if ':' in decoded_str:
+                method, password = decoded_str.split(':', 1)
+            else:
+                method = decoded_str
                 password = ''
-            
-            # فیکس garbage در method (برای name تمیز)
-            if not method or len(method) > 50 or not all(ord(c) < 128 and c.isprintable() for c in method):
-                method = 'aes-256-gcm'  # fallback استاندارد و تمیز
-            
-            # بخش سرور و نام
-            server_part = parts[1].split('#')
-            server_info = server_part[0]
-            name = unquote(server_part[1]) if len(server_part) > 1 else ''
-            
-            address, port = server_info.rsplit(':', 1)
             
             return {
                 'type': 'ss',
