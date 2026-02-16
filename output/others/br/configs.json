@@ -1,47 +1,34 @@
 {
-  "updated": "2026-02-16T13:07:04.195318",
-  "count": 4,
+  "updated": "2026-02-16T13:46:00.325315",
+  "count": 5,
   "configs": [
-    {
-      "type": "vless",
-      "address": "lord.kokopit.info",
-      "port": "443",
-      "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
-      "network": "ws",
-      "sni": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "host": "6BnL03uZ9l.BaSeRtY.iNfO",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-1",
-      "ip": "185.133.35.14",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:443?encryption=none&security=tls&sni=6BnL03uZ9l.BaSeRtY.iNfO&type=ws&host=6BnL03uZ9l.BaSeRtY.iNfO&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "lord.kokopit.info",
-      "port": "2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F",
-      "method": "~\u001d{wͶyM\u001c",
-      "password": "",
-      "name": "韩国(yudou789.top 玉豆免费节点)",
-      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-~%7F%1D%7Bw%CD%B7ym%1C-BR%F0%9F%87%A7%F0%9F%87%B7-2",
-      "ip": "185.133.35.14",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#ss-~%7F%1D%7Bw%CD%B7ym%1C-BR%F0%9F%87%A7%F0%9F%87%B7-2"
-    },
     {
       "type": "ss",
       "address": "z1.n1server.org",
-      "port": "443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc",
-      "method": "ӽxߗ\\9o~y\u001aᾴOv",
+      "port": "443",
+      "method": "",
       "password": "",
+      "plugin": "",
       "name": "未知 VLESS-34 | free-nodes",
-      "original": "ss://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ss-%D3%BDx%DF%97%5C9o~y%1A%E1%BE%B4ov-BR%F0%9F%87%A7%F0%9F%87%B7-3",
+      "original": "ss://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ss-BR%F0%9F%87%A7%F0%9F%87%B7-1",
       "ip": "185.133.35.14",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "ss://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ss-%D3%BDx%DF%97%5C9o~y%1A%E1%BE%B4ov-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+      "rebuilt": "ss://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ss-BR%F0%9F%87%A7%F0%9F%87%B7-1"
+    },
+    {
+      "type": "ss",
+      "address": "38.54.57.90",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "plugin": "",
+      "name": "🇧🇷BR-38.54.57.90-0285",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-2",
+      "ip": "38.54.57.90",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#ss-aes-256-cfb-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -50,13 +37,42 @@
       "id": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
       "name": "韩国(yudou789.top 玉豆免费节点)",
       "network": "ws",
-      "sni": "18XaCgNj9C.bAsErTy.InFo",
-      "host": "18XaCgNj9C.bAsErTy.InFo",
-      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-4",
+      "sni": "YdHxR987jY.bAsErTy.InFo",
+      "host": "YdHxR987jY.bAsErTy.InFo",
+      "original": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-3",
       "ip": "185.133.35.14",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=18XaCgNj9C.bAsErTy.InFo&type=ws&host=18XaCgNj9C.bAsErTy.InFo&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-4"
+      "rebuilt": "vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#vless-ws-tls-BR%F0%9F%87%A7%F0%9F%87%B7-3"
+    },
+    {
+      "type": "ss",
+      "address": "lord.kokopit.info",
+      "port": "2096",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "韩国(yudou789.top 玉豆免费节点)",
+      "original": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#ss-BR%F0%9F%87%A7%F0%9F%87%B7-4",
+      "ip": "185.133.35.14",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@lord.kokopit.info:2096?encryption=none&security=tls&sni=YdHxR987jY.bAsErTy.InFo&type=ws&host=YdHxR987jY.bAsErTy.InFo&path=%2F#ss-BR%F0%9F%87%A7%F0%9F%87%B7-4"
+    },
+    {
+      "type": "vless",
+      "address": "z1.n1server.org",
+      "port": "443",
+      "id": "071435dc-6ab9-4502-8441-ed4a4b609092",
+      "name": "未知 VLESS-34 | free-nodes",
+      "network": "grpc",
+      "sni": "n1.n1server.org",
+      "host": "",
+      "original": "vless://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#vless-grpc-tls-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-5",
+      "ip": "185.133.35.14",
+      "country": "BR",
+      "cdn": null,
+      "rebuilt": "vless://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#vless-grpc-tls-chrome-BR%F0%9F%87%A7%F0%9F%87%B7-5"
     }
   ]
 }

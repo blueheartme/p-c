@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-16T13:07:04.194139",
+  "updated": "2026-02-16T13:46:00.337644",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.80.110.238",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-EE%F0%9F%8C%90-1",
-      "ip": "45.80.110.238",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-EE%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "87.121.86.31",
@@ -26,11 +11,25 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#vless-tcp-reality-EE%F0%9F%8C%90-2",
+      "original": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#vless-tcp-reality-EE%F0%9F%8C%90-1",
       "ip": "87.121.86.31",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#vless-tcp-reality-EE%F0%9F%8C%90-2"
+      "rebuilt": "vless://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#vless-tcp-reality-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "87.121.86.31",
+      "port": "57516",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "未知 VLESS-109 | free-nodes",
+      "original": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2",
+      "ip": "87.121.86.31",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&amp;encryption=none&amp;pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=c1765dd26b1e70#ss-EE%F0%9F%8C%90-2"
     }
   ]
 }

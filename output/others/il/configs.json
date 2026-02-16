@@ -1,33 +1,7 @@
 {
-  "updated": "2026-02-16T13:07:04.193472",
-  "count": 3,
+  "updated": "2026-02-16T13:46:00.327020",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
-      "port": "443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none",
-      "method": "\u001az}\u001aݿzᦸ׶",
-      "password": "",
-      "name": "未知 VLESS-37 | free-nodes",
-      "original": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#ss-%1Az%7D%1A%DD%BFz%E1%A6%B8%D7%B6-IL%F0%9F%8C%90-1",
-      "ip": "20.217.85.137",
-      "country": "IL",
-      "cdn": null,
-      "rebuilt": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#ss-%1Az%7D%1A%DD%BFz%E1%A6%B8%D7%B6-IL%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "163.171.213.47",
-      "port": "12025",
-      "method": "chacha20-ietf-poly1305",
-      "password": "abe595aeb7a6a035",
-      "name": "未知 SS-08 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-2",
-      "ip": "163.171.213.47",
-      "country": "IL",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#ss-chacha20-ietf-poly1305-IL%F0%9F%8C%90-2"
-    },
     {
       "type": "vless",
       "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
@@ -37,11 +11,25 @@
       "network": "tcp",
       "sni": "i2pd.website",
       "host": "",
-      "original": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-3",
+      "original": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1",
       "ip": "20.217.85.137",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-3"
+      "rebuilt": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
+      "port": "443",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "未知 VLESS-37 | free-nodes",
+      "original": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#ss-IL%F0%9F%8C%90-2",
+      "ip": "20.217.85.137",
+      "country": "IL",
+      "cdn": null,
+      "rebuilt": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#ss-IL%F0%9F%8C%90-2"
     }
   ]
 }

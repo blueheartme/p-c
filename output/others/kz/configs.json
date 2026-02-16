@@ -1,47 +1,35 @@
 {
-  "updated": "2026-02-16T13:07:04.156961",
-  "count": 4,
+  "updated": "2026-02-16T13:46:00.331278",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "194.76.18.25",
+      "port": "443",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "🇩🇪DE_13 | ⬇️ 5.6MB/s",
+      "original": "ss://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-1",
+      "ip": "194.76.18.25",
+      "country": "KZ",
+      "cdn": null,
+      "rebuilt": "ss://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "194.76.18.25",
       "port": "443",
-      "id": "8388434b-bbc8-4e00-b497-69a7f56f6e24",
-      "name": "🇮🇹IT_3 | ⬇️ 3.7MB/s",
-      "network": "ws",
-      "sni": "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg",
-      "host": "rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg",
-      "original": "vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-1",
-      "ip": "194.76.18.25",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "194.76.18.25",
-      "port": "443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws",
-      "method": "",
-      "password": "}ζ\u001eϛm>]\u001anz",
+      "id": "85462399-8624-4e5c-bbb0-f95d84ca8256",
       "name": "🇫🇷FR_7 | ⬇️ 3.3MB/s",
-      "original": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-2",
+      "network": "ws",
+      "sni": "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg",
+      "host": "rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg",
+      "original": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-2",
       "ip": "194.76.18.25",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#ss-KZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "194.76.18.25",
-      "port": "443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws",
-      "method": "<~\u001b\u001eOֻ",
-      "password": "",
-      "name": "未知 VLESS-72 | free-nodes",
-      "original": "ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#ss-%7F%3C~%1B%1Eo%D6%BB%7F-KZ%F0%9F%8C%90-3",
-      "ip": "194.76.18.25",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "ss://8388434b-bbc8-4e00-b497-69a7f56f6e24@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&fp=chrome&allowInsecure=1&type=ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&path=%2Fws#ss-%7F%3C~%1B%1Eo%D6%BB%7F-KZ%F0%9F%8C%90-3"
+      "rebuilt": "vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -52,11 +40,11 @@
       "network": "ws",
       "sni": "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg",
       "host": "rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg",
-      "original": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-4",
+      "original": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3",
       "ip": "194.76.18.25",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#vless-ws-tls-chrome-KZ%F0%9F%8C%90-3"
     }
   ]
 }
