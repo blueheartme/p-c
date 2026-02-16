@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-16T12:27:53.517238",
-  "count": 2,
+  "updated": "2026-02-16T12:44:05.592669",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "185.18.250.252",
-      "port": "443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws",
-      "method": "aes-256-gcm",
-      "password": "翛fu:N9",
-      "name": "🇪🇸_ES_西班牙->🏳️_unKnow_未知",
-      "original": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-aes-256-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "185.18.250.252",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#ss-aes-256-gcm-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "185.18.250.252",
@@ -24,11 +11,11 @@
       "network": "ws",
       "sni": "dev.twistsparrow.xyz",
       "host": "dev.twistsparrow.xyz",
-      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?fp=chrome&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
