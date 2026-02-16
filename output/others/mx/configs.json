@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-16T12:44:05.596002",
-  "count": 1,
+  "updated": "2026-02-16T13:07:04.173736",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,19 @@
       "country": "MX",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#ss-aes-256-cfb-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+    },
+    {
+      "type": "ss",
+      "address": "147.78.1.230",
+      "port": "990",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+      "name": "🇲🇽MX-147.78.1.230-0311",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2",
+      "ip": "147.78.1.230",
+      "country": "MX",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#ss-chacha20-ietf-poly1305-MX%F0%9F%87%B2%F0%9F%87%BD-2"
     }
   ]
 }
