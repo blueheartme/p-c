@@ -1,34 +1,19 @@
 {
-  "updated": "2026-02-14T08:25:59.080620",
-  "count": 2,
+  "updated": "2026-02-16T12:27:53.524334",
+  "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "151.101.9.80",
-      "port": "80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws",
-      "method": "",
-      "password": "",
-      "name": "未知 VLESS-67 | free-nodes",
-      "original": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#ss-BE%F0%9F%8C%90-1",
-      "ip": "151.101.9.80",
+      "address": "192.71.249.78",
+      "port": "989",
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
+      "name": "🇧🇪BE-192.71.249.78-0291",
+      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1",
+      "ip": "192.71.249.78",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#ss-BE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "151.101.9.80",
-      "port": "80",
-      "id": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
-      "name": "未知 VLESS-67 | free-nodes",
-      "network": "ws",
-      "sni": "",
-      "host": "adspeedx23.global.ssl.fastly.net",
-      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-2",
-      "ip": "151.101.9.80",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-2"
+      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#ss-aes-256-cfb-BE%F0%9F%8C%90-1"
     }
   ]
 }

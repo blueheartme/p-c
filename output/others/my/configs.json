@@ -1,36 +1,34 @@
 {
-  "updated": "2026-02-16T08:40:36.000556",
+  "updated": "2026-02-16T12:27:53.527863",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "47.254.207.127",
-      "port": "443",
-      "id": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "name": "未知 VLESS-54 | free-nodes",
-      "network": "tcp",
-      "sni": "cdn.userway.org",
+      "type": "vmess",
+      "address": "47.250.45.234",
+      "port": "43063",
+      "id": "c77f48f5-4be3-4461-b52b-49998e7b897b",
+      "name": "🇲🇾MY-47.250.45.234-4857",
+      "network": "ws",
       "host": "",
-      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
+      "ip": "47.250.45.234",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+    },
+    {
+      "type": "ss",
+      "address": "47.254.207.127",
+      "port": "443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6",
+      "method": "aes-256-gcm",
+      "password": "",
+      "name": "未知 VLESS-54 | free-nodes",
+      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-aes-256-gcm-MY%F0%9F%8C%90-2",
       "ip": "47.254.207.127",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vmess",
-      "address": "gtm1.ktmwan.net",
-      "port": "12883",
-      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "host": "gtm1.ktmwan.net",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
-      "ip": "85.211.176.18",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
+      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-aes-256-gcm-MY%F0%9F%8C%90-2"
     }
   ]
 }
