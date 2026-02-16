@@ -1,7 +1,36 @@
 {
-  "updated": "2026-02-16T13:51:08.342414",
-  "count": 4,
+  "updated": "2026-02-16T16:37:11.460248",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "84.32.151.60",
+      "port": "443",
+      "id": "9b5dffa2-8ab0-4e7c-af62-725a320957cc",
+      "name": "未知 VLESS-88 | free-nodes",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "original": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1",
+      "ip": "84.32.151.60",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "lt-cherry-01.com",
+      "port": "8443",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "未知 VLESS-122 | free-nodes",
+      "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-2",
+      "ip": "5.199.163.42",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615&type=tcp&headerType=none#ss-LT%F0%9F%8C%90-2"
+    },
     {
       "type": "vless",
       "address": "lt-cherry-01.com",
@@ -11,53 +40,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-1",
+      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-3",
       "ip": "5.199.163.42",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "45.12.136.170",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "l668XHPejoSNNuD66BYzyehaCpZexiF7",
-      "plugin": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-2",
-      "ip": "45.12.136.170",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw@45.12.136.170:443#ss-chacha20-ietf-poly1305-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "lt-cherry-01.com",
-      "port": "8443",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو<br/><br/><a",
-      "original": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-3",
-      "ip": "5.199.163.42",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#ss-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "ss",
-      "address": "84.32.151.60",
-      "port": "443",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "未知 VLESS-88 | free-nodes",
-      "original": "ss://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ss-LT%F0%9F%8C%90-4",
-      "ip": "84.32.151.60",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ss-LT%F0%9F%8C%90-4"
+      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&amp;encryption=none&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e0ef3d5c0aacb615#vless-tcp-reality-LT%F0%9F%8C%90-3"
     }
   ]
 }

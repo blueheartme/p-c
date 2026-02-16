@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-16T13:51:08.347181",
-  "count": 2,
+  "updated": "2026-02-16T16:37:11.454666",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -18,6 +18,21 @@
       "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1"
     },
     {
+      "type": "vmess",
+      "address": "gtm1.ktmwan.net",
+      "port": "12883",
+      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
+      "name": "US美国(mibei77.com 米贝节点分享)",
+      "network": "ws",
+      "host": "gtm1.ktmwan.net",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
+      "ip": "85.211.178.26",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
+    },
+    {
       "type": "ss",
       "address": "47.254.207.127",
       "port": "443",
@@ -25,11 +40,11 @@
       "password": "",
       "plugin": "",
       "name": "未知 VLESS-54 | free-nodes",
-      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-2",
+      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-3",
       "ip": "47.254.207.127",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-2"
+      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#ss-MY%F0%9F%8C%90-3"
     }
   ]
 }
