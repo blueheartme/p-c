@@ -1,49 +1,34 @@
 {
-  "updated": "2026-02-15T16:23:10.053022",
-  "count": 3,
+  "updated": "2026-02-16T01:45:35.403911",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "hope.zdshop.ir",
-      "port": "2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws",
+      "address": "c2.s-sub.org",
+      "port": "8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=backup.f-sub.cfd",
       "method": "",
       "password": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ss-SC%F0%9F%8C%90-1",
-      "ip": "45.130.125.162",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=backup.f-sub.cfd#ss-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.160",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ss-SC%F0%9F%8C%90-1"
+      "rebuilt": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=backup.f-sub.cfd#ss-SC%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
       "address": "F1.HaMrAhCoNf.Ir",
-      "port": "2086",
-      "id": "c31f4c1d-c3c4-4eb3-8af0-d98d83bc3ab1",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://c31f4c1d-c3c4-4eb3-8af0-d98d83bc3ab1@F1.HaMrAhCoNf.Ir:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=hm3.hamrahconfig.ir&amp;type=httpupgrade#vless-tcp-SC%F0%9F%8C%90-2",
-      "ip": "45.130.125.160",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://c31f4c1d-c3c4-4eb3-8af0-d98d83bc3ab1@F1.HaMrAhCoNf.Ir:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=hm3.hamrahconfig.ir&amp;type=httpupgrade#vless-tcp-SC%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "hope.zdshop.ir",
-      "port": "2086",
-      "id": "4d961eae-b6a0-497c-98ee-ea5b70c6d71b",
+      "port": "8443",
+      "id": "8d5e0c57-ac14-4031-83f2-6b1b54372621",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#vless-tcp-SC%F0%9F%8C%90-3",
-      "ip": "45.130.125.162",
+      "original": "vless://8d5e0c57-ac14-4031-83f2-6b1b54372621@F1.HaMrAhCoNf.Ir:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hm3.hamrahconfig.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hm3.hamrahconfig.ir#vless-tcp-SC%F0%9F%8C%90-2",
+      "ip": "45.130.125.160",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#vless-tcp-SC%F0%9F%8C%90-3"
+      "rebuilt": "vless://8d5e0c57-ac14-4031-83f2-6b1b54372621@F1.HaMrAhCoNf.Ir:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hm3.hamrahconfig.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hm3.hamrahconfig.ir#vless-tcp-SC%F0%9F%8C%90-2"
     }
   ]
 }

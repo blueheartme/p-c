@@ -1,21 +1,62 @@
 {
-  "updated": "2026-02-14T08:25:59.089531",
-  "count": 1,
+  "updated": "2026-02-16T01:45:35.394580",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "156.243.83.66",
+      "address": "156.243.83.138",
       "port": "2096",
-      "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
-      "name": "🇺🇸US_144",
-      "network": "ws",
-      "sni": "o00o.snip.qzz.io",
-      "host": "o00o.snip.qzz.io",
-      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@156.243.83.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-PT%F0%9F%8C%90-1",
-      "ip": "156.243.83.66",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-PT%F0%9F%8C%90-1",
+      "ip": "156.243.83.138",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@156.243.83.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-PT%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-PT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "156.243.83.138",
+      "port": "2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B",
+      "method": "",
+      "password": "",
+      "name": "",
+      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ss-PT%F0%9F%8C%90-2",
+      "ip": "156.243.83.138",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ss-PT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "156.243.83.167",
+      "port": "2087",
+      "id": "9f582467-6af2-4bdd-848e-93fdd84486ad",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&amp;security=tls&amp;sni=ce.xo-connection.ir&amp;insecure=1&amp;type=ws&amp;host=ce.xo-connection.ir&amp;path=%2Fdarkstrange#vless-tcp-PT%F0%9F%8C%90-3",
+      "ip": "156.243.83.167",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&amp;security=tls&amp;sni=ce.xo-connection.ir&amp;insecure=1&amp;type=ws&amp;host=ce.xo-connection.ir&amp;path=%2Fdarkstrange#vless-tcp-PT%F0%9F%8C%90-3"
+    },
+    {
+      "type": "ss",
+      "address": "156.243.83.167",
+      "port": "2087?encryption=none&amp;security=tls&amp;sni=ce.xo-connection.ir&amp;insecure=1&amp;type=ws&amp;host=ce.xo-connection.ir&amp;path=%2Fdarkstrange",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "original": "ss://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&amp;security=tls&amp;sni=ce.xo-connection.ir&amp;insecure=1&amp;type=ws&amp;host=ce.xo-connection.ir&amp;path=%2Fdarkstrange#ss-PT%F0%9F%8C%90-4",
+      "ip": "156.243.83.167",
+      "country": "PT",
+      "cdn": null,
+      "rebuilt": "ss://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&amp;security=tls&amp;sni=ce.xo-connection.ir&amp;insecure=1&amp;type=ws&amp;host=ce.xo-connection.ir&amp;path=%2Fdarkstrange#ss-PT%F0%9F%8C%90-4"
     }
   ]
 }

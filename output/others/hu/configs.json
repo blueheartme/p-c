@@ -1,34 +1,34 @@
 {
-  "updated": "2026-02-14T16:22:54.215165",
+  "updated": "2026-02-16T01:45:35.401986",
   "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "74.49.214.66",
-      "port": "2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "🇺🇸US_229",
-      "original": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-1",
-      "ip": "74.49.214.66",
+      "type": "vless",
+      "address": "pq-hungary1.09vpn.com",
+      "port": "80",
+      "id": "5f1811a9-292a-4d7e-b59f-1a5ff9390647",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@pq-hungary1.09vpn.com:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-HU%F0%9F%8C%90-1",
+      "ip": "45.12.132.183",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "ss://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#ss-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@pq-hungary1.09vpn.com:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#vless-tcp-HU%F0%9F%8C%90-1"
     },
     {
-      "type": "vless",
-      "address": "74.49.214.66",
-      "port": "2096",
-      "id": "3321a819-889d-40b3-b8fa-f34208827ef1",
-      "name": "🇺🇸US_229",
-      "network": "ws",
-      "sni": "o00o.snip.qzz.io",
-      "host": "o00o.snip.qzz.io",
-      "original": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-2",
-      "ip": "74.49.214.66",
+      "type": "ss",
+      "address": "pq-hungary1.09vpn.com",
+      "port": "80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F",
+      "method": "",
+      "password": "",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "original": "ss://5f1811a9-292a-4d7e-b59f-1a5ff9390647@pq-hungary1.09vpn.com:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-HU%F0%9F%8C%90-2",
+      "ip": "45.12.132.183",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@74.49.214.66:2096?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#vless-ws-tls-HU%F0%9F%8C%90-2"
+      "rebuilt": "ss://5f1811a9-292a-4d7e-b59f-1a5ff9390647@pq-hungary1.09vpn.com:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fvless%2F#ss-HU%F0%9F%8C%90-2"
     }
   ]
 }
