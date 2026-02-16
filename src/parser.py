@@ -16,9 +16,50 @@ class ConfigParser:
     """Parser for different proxy config formats"""
     
     @staticmethod
+    def _safe_base64_decode(data: str) -> str:
+        """Helper method to safely decode Base64 strings with various quirks"""
+        if not data:
+            return ""
+        
+        # 1. URL Unquote (ممکن است لینک انکود شده باشد)
+        data = unquote(data)
+        
+        # 2. حذف Whitespace
+        data = data.strip()
+        
+        # 3. استانداردسازی کاراکترهای URL-Safe
+        data = data.replace('-', '+').replace('_', '/')
+        
+        # 4. اصلاح Padding
+        padding = 4 - len(data) % 4
+        if padding < 4:
+            data += '=' * padding
+            
+        try:
+            decoded_bytes = base64.b64decode(data)
+            return decoded_bytes.decode('utf-8', errors='ignore')
+        except Exception:
+            # تلاش دوم: گاهی اوقات رشته دوبار انکود شده است یا فرمت خاصی دارد
+            # اما معمولا همان تلاش اول کافی است. در صورت خطا رشته خالی برمی‌گردانیم
+            return ""
+
+    @staticmethod
+    def _clean_name(name: str) -> str:
+        """Clean config name from control characters and weird symbols"""
+        if not name:
+            return ""
+        # دیکد کردن URL encoded chars
+        name = unquote(name)
+        # حذف کاراکترهای کنترلی غیرچاپ (مثل مربع، \x1d و غیره)
+        name = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', name)
+        # حذف فاصله‌های اضافی
+        return name.strip()
+
+    @staticmethod
     def parse_config(config: str) -> Optional[Dict]:
         """Parse a proxy config and extract information"""
         try:
+            config = config.strip()
             if config.startswith('vmess://'):
                 return ConfigParser._parse_vmess(config)
             elif config.startswith('vless://'):
@@ -44,11 +85,11 @@ class ConfigParser:
         """Parse VMess config"""
         try:
             config_data = config.replace('vmess://', '')
-            padding = 4 - len(config_data) % 4
-            if padding != 4:
-                config_data += '=' * padding
+            decoded = ConfigParser._safe_base64_decode(config_data)
             
-            decoded = base64.b64decode(config_data).decode('utf-8')
+            if not decoded:
+                return None
+                
             data = json.loads(decoded)
             
             return {
@@ -56,7 +97,7 @@ class ConfigParser:
                 'address': data.get('add', ''),
                 'port': str(data.get('port', '')),
                 'id': data.get('id', ''),
-                'name': data.get('ps', ''),
+                'name': ConfigParser._clean_name(data.get('ps', '')),
                 'network': data.get('net', ''),
                 'host': data.get('host', ''),
                 'sni': data.get('sni', ''),
@@ -84,7 +125,7 @@ class ConfigParser:
                 'address': address,
                 'port': port,
                 'id': uuid,
-                'name': unquote(name) if name else '',
+                'name': ConfigParser._clean_name(name),
                 'network': params_dict.get('type', [''])[0],
                 'sni': params_dict.get('sni', [''])[0],
                 'host': params_dict.get('host', [''])[0],
@@ -112,7 +153,7 @@ class ConfigParser:
                 'address': address,
                 'port': port,
                 'password': password,
-                'name': unquote(name) if name else '',
+                'name': ConfigParser._clean_name(name),
                 'sni': params_dict.get('sni', [''])[0],
                 'host': params_dict.get('host', [''])[0],
                 'original': config
@@ -123,74 +164,56 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config - Fixed Base64 decoding"""
+        """Parse Shadowsocks config"""
         try:
-            # حذف پروتکل
             clean_config = config.replace('ss://', '')
             
-            # جدا کردن نام (Remark)
+            # 1. جدا کردن نام (Remark)
             name = ''
             if '#' in clean_config:
                 clean_config, name_raw = clean_config.split('#', 1)
-                name = unquote(name_raw)
+                name = ConfigParser._clean_name(name_raw)
 
             address = ''
             port = ''
-            decoded_str = ''
+            decoded_info = ''
 
-            # بررسی نوع فرمت (SIP002 یا Legacy)
+            # 2. تشخیص فرمت (SIP002 vs Legacy)
             if '@' in clean_config:
-                # فرمت جدید: base64(method:password)@host:port
+                # فرمت SIP002: base64(method:password)@host:port
                 user_info_raw, server_part = clean_config.rsplit('@', 1)
                 
-                # استخراج آدرس و پورت
                 if ':' in server_part:
                     address, port = server_part.rsplit(':', 1)
-                    address = address.strip('[]') # هندل کردن IPv6
+                    # حذف براکت IPv6 اگر وجود داشته باشد
+                    address = address.strip('[]')
                 else:
                     return None
 
-                # نرمال‌سازی Base64 (تبدیل URL-Safe به استاندارد و افزودن Padding)
-                user_info_raw = user_info_raw.replace('-', '+').replace('_', '/')
-                padding = 4 - len(user_info_raw) % 4
-                if padding < 4:
-                    user_info_raw += '=' * padding
-                
-                try:
-                    decoded_bytes = base64.b64decode(user_info_raw)
-                    decoded_str = decoded_bytes.decode('utf-8', errors='ignore')
-                except Exception:
-                    # در صورت خطا در دیکد، بازگشت None
-                    return None
+                # دیکد کردن بخش متد و پسورد
+                decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
 
             else:
-                # فرمت قدیمی: base64(method:password@host:port)
-                # نرمال‌سازی Base64
-                clean_config = clean_config.replace('-', '+').replace('_', '/')
-                padding = 4 - len(clean_config) % 4
-                if padding < 4:
-                    clean_config += '=' * padding
+                # فرمت Legacy: base64(method:password@host:port)
+                full_decoded = ConfigParser._safe_base64_decode(clean_config)
                 
-                try:
-                    decoded_bytes = base64.b64decode(clean_config)
-                    full_info = decoded_bytes.decode('utf-8', errors='ignore')
-                    
-                    if '@' in full_info:
-                        decoded_str, server_part = full_info.rsplit('@', 1)
-                        if ':' in server_part:
-                            address, port = server_part.rsplit(':', 1)
-                        else:
-                            return None
+                if '@' in full_decoded:
+                    decoded_info, server_part = full_decoded.rsplit('@', 1)
+                    if ':' in server_part:
+                        address, port = server_part.rsplit(':', 1)
                     else:
                         return None
-                except Exception:
+                else:
                     return None
 
-            # جدا کردن متد و پسورد
-            if ':' in decoded_str:
-                method, password = decoded_str.split(':', 1)
+            if not decoded_info:
+                return None
+
+            # 3. جدا کردن متد و پسورد
+            if ':' in decoded_info:
+                method, password = decoded_info.split(':', 1)
             else:
-                method = decoded_str
+                method = decoded_info
                 password = ''
             
             return {
@@ -212,12 +235,12 @@ class ConfigParser:
         """Parse ShadowsocksR config"""
         try:
             config_data = config.replace('ssr://', '')
-            padding = 4 - len(config_data) % 4
-            if padding != 4:
-                config_data += '=' * padding
-            decoded = base64.b64decode(config_data).decode('utf-8')
-            parts = decoded.split(':')
+            decoded = ConfigParser._safe_base64_decode(config_data)
             
+            if not decoded:
+                return None
+                
+            parts = decoded.split(':')
             if len(parts) >= 6:
                 return {
                     'type': 'ssr',
@@ -236,12 +259,13 @@ class ConfigParser:
         """Parse Hysteria config"""
         try:
             parsed = urlparse(config)
+            name = parsed.fragment if parsed.fragment else ''
             
             return {
                 'type': 'hysteria' if config.startswith('hysteria://') else 'hysteria2',
                 'address': parsed.hostname or '',
                 'port': str(parsed.port) if parsed.port else '',
-                'name': unquote(parsed.fragment) if parsed.fragment else '',
+                'name': ConfigParser._clean_name(name),
                 'original': config
             }
         except Exception as e:
@@ -253,12 +277,13 @@ class ConfigParser:
         """Parse TUIC config"""
         try:
             parsed = urlparse(config)
+            name = parsed.fragment if parsed.fragment else ''
             
             return {
                 'type': 'tuic',
                 'address': parsed.hostname or '',
                 'port': str(parsed.port) if parsed.port else '',
-                'name': unquote(parsed.fragment) if parsed.fragment else '',
+                'name': ConfigParser._clean_name(name),
                 'original': config
             }
         except Exception as e:
