@@ -12,7 +12,6 @@ from urllib.parse import urlparse, parse_qs, unquote
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-
 class ConfigParser:
     """Parser for different proxy config formats"""
     
@@ -124,38 +123,50 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """Parse Shadowsocks config"""
+        """Parse Shadowsocks config - پشتیبانی کامل از base64 و base64url (حل مشکل اصلی)"""
         try:
-            if '@' in config:
-                parts = config.replace('ss://', '').split('@')
-                
-                try:
-                    cred_data = parts[0]
-                    padding = 4 - len(cred_data) % 4
-                    if padding != 4:
-                        cred_data += '=' * padding
-                    credentials = base64.b64decode(cred_data).decode('utf-8')
-                    method, password = credentials.split(':', 1)
-                except:
-                    method, password = '', ''
-                
-                server_part = parts[1].split('#')
-                server_info = server_part[0]
-                name = unquote(server_part[1]) if len(server_part) > 1 else ''
-                
-                address, port = server_info.rsplit(':', 1)
-                
-                return {
-                    'type': 'ss',
-                    'address': address,
-                    'port': port,
-                    'method': method,
-                    'password': password,
-                    'name': name,
-                    'original': config
-                }
-            else:
+            if '@' not in config:
                 return None
+                
+            parts = config.replace('ss://', '').split('@')
+            cred_data = parts[0]
+            
+            # تبدیل base64url به base64 استاندارد
+            cred_data = cred_data.replace('-', '+').replace('_', '/')
+            
+            # اضافه کردن padding صحیح
+            padding = 4 - len(cred_data) % 4
+            if padding != 4:
+                cred_data += '=' * padding
+                
+            # دیکد امن
+            credentials_bytes = base64.b64decode(cred_data)
+            credentials = credentials_bytes.decode('utf-8', errors='replace')
+            
+            # جدا کردن method و password
+            if ':' in credentials:
+                method, password = credentials.split(':', 1)
+            else:
+                method = credentials
+                password = ''
+                
+            # بخش سرور و نام
+            server_part = parts[1].split('#')
+            server_info = server_part[0]
+            name = unquote(server_part[1]) if len(server_part) > 1 else ''
+            
+            address, port = server_info.rsplit(':', 1)
+            
+            return {
+                'type': 'ss',
+                'address': address,
+                'port': port,
+                'method': method,
+                'password': password,
+                'name': name,
+                'original': config
+            }
+            
         except Exception as e:
             logger.debug(f"Error parsing Shadowsocks: {e}")
             return None
