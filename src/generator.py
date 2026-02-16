@@ -322,16 +322,22 @@ class OutputGenerator:
         """
         parts = ['ss']
         
-        # UPDATED: Encryption method - Always show
-        method = config.get('method', '').lower()
+        # Encryption method - Always show if معتبر باشد
+        method = str(config.get('method', '') or '').lower()
         if method:
             method = method.replace('_', '-')
-            parts.append(method)
+            # فقط حروف/اعداد/نقطه/خط تیره
+            method = re.sub(r'[^a-z0-9.\-]+', '', method)
+            if method:
+                parts.append(method)
         
-        # UPDATED: Plugin (obfs, v2ray-plugin, etc.) - if exists in future
-        plugin = config.get('plugin', '')
+        # Plugin (obfs, v2ray-plugin, etc.) - if exists
+        plugin = str(config.get('plugin', '') or '')
+        plugin = plugin.lower().strip()
         if plugin and plugin not in ['none', '']:
-            parts.append(plugin)
+            plugin = re.sub(r'[^a-z0-9.\-]+', '', plugin)
+            if plugin:
+                parts.append(plugin)
         
         # CDN
         cdn = config.get('cdn', '')
@@ -353,9 +359,7 @@ class OutputGenerator:
         """
         parts = ['ssr']
         
-        # UPDATED: Add SSR specific fields if available in future parsing
-        # For now, simple format
-        
+        # در حال حاضر فقط کشور را اضافه می‌کنیم
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
         parts.append(str(idx))
@@ -393,9 +397,6 @@ class OutputGenerator:
         Example: tuic-v5-udp-Cloudflare-US🇺🇸-1
         """
         parts = ['tuic']
-        
-        # UPDATED: Add version if available
-        # For now, simple format
         
         # Protocol (udp for TUIC)
         parts.append('udp')
