@@ -1,20 +1,21 @@
 {
-  "updated": "2026-02-17T09:27:57.331353",
+  "updated": "2026-02-17T16:52:13.641005",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "213.156.137.142",
-      "port": "43659",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:93ms 40 dailyv2ry",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%BF%C2%AE%EF%B8%8FKazakhstan%C2%A9%EF%B8%8FAlmaty%F0%9F%85%BF%EF%B8%8Fping%3A93ms%2040%20dailyv2ry",
-      "ip": "213.156.137.142",
+      "type": "vless",
+      "address": "fa.gamingserverstream.ir",
+      "port": "443",
+      "id": "8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1&amp;sni=pmeli.express-servers.ir#vless-tcp-KZ%F0%9F%8C%90-1",
+      "ip": "31.43.179.4",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B0%F0%9F%87%BF%C2%AE%EF%B8%8FKazakhstan%C2%A9%EF%B8%8FAlmaty%F0%9F%85%BF%EF%B8%8Fping%3A93ms%2040%20dailyv2ry"
+      "rebuilt": "vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1&amp;sni=pmeli.express-servers.ir#vless-tcp-KZ%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T09:27:57.325807",
+  "updated": "2026-02-17T16:52:13.635650",
   "count": 2,
   "configs": [
     {
@@ -18,19 +18,19 @@
       "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&amp;security=reality&amp;sni=api.company-target.com&amp;fp=chrome&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;type=tcp&amp;headerType=none&amp;host=api.company-target.com#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
-      "address": "129.154.212.17",
-      "port": "20180",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
+      "type": "vmess",
+      "address": "152.70.92.69",
+      "port": "80",
+      "id": "bb9c3993-a4b9-4dad-aeb9-ac86371ae68b",
+      "name": "t.me/entryNET",
+      "network": "tcp",
       "host": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.212.17:20180?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "129.154.212.17",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+      "ip": "152.70.92.69",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.212.17:20180?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUtS8J+HsPCfh7ctMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }
   ]
 }
