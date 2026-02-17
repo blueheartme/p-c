@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-17T08:38:42.455965",
-  "count": 1,
+  "updated": "2026-02-17T09:27:57.333824",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -9,12 +9,27 @@
       "method": "",
       "password": "",
       "plugin": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "original": "ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
       "ip": "45.77.253.107",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+    },
+    {
+      "type": "vless",
+      "address": "47.82.6.36",
+      "port": "51164",
+      "id": "d29a7cee-acd1-4821-adbf-517f8681040e",
+      "name": "🛡 V 13 @Outline_Vpn",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "47.82.6.36",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }
