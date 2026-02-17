@@ -93,6 +93,8 @@ class ConfigCollector:
             try:
                 response = self.session.get(channel, timeout=CONNECTION_TIMEOUT)
                 if response.status_code == 200:
+                    # برای تلگرام، متن HTML کامل را می‌گیریم و مستقیم به _extract_configs می‌دهیم
+                    # (همان روش قبلی، فقط regex دقیق‌تر شده است)
                     extracted = self._extract_configs(response.text)
                     configs.update(extracted)
                     logger.info(f"Found {len(extracted)} configs from {channel}")
@@ -134,7 +136,7 @@ class ConfigCollector:
                 response = self.session.get(url, timeout=CONNECTION_TIMEOUT)
                 if response.status_code == 200:
                     soup = BeautifulSoup(response.text, 'html.parser')
-                    text_content = soup.get_text()
+                    text_content = soup.get_text(separator=' ')
                     extracted = self._extract_configs(text_content)
                     configs.update(extracted)
                     logger.info(f"Found {len(extracted)} configs from {url}")
@@ -145,19 +147,32 @@ class ConfigCollector:
         return configs
     
     def _extract_configs(self, text: str) -> Set[str]:
-        """Extract proxy configs from text using regex patterns"""
+        """Extract proxy configs from text/HTML using regex patterns"""
         configs = set()
         
         try:
+            # ترتیب مهم است: اول vmess/vless/trojan، بعد ss
             patterns = [
-                r'vmess://[A-Za-z0-9+/=]+',
-                r'vless://[A-Za-z0-9\-]+@[^\s]+',
-                r'trojan://[A-Za-z0-9\-]+@[^\s]+',
-                r'ss://[A-Za-z0-9+/=]+@?[^\s]*',
-                r'ssr://[A-Za-z0-9+/=]+',
-                r'hysteria://[^\s]+',
-                r'hysteria2://[^\s]+',
-                r'tuic://[^\s]+',
+                # VMESS: معمولاً base64 کل json است
+                r'vmess://[A-Za-z0-9_\-=]+',
+                
+                # VLESS: هر چیزی تا قبل از فاصله/کوتیشن/<
+                r'vless://[^\s"\'<]+',
+                
+                # TROJAN
+                r'trojan://[^\s"\'<]+',
+                
+                # SS: دقت بالا → وسط vless/vmess match نشود
+                # (?<!vle)(?<!vme) یعنی قبل از ss:// سه کاراکتر vle یا vme نباشد
+                r'(?<!vle)(?<!vme)ss://[^\s"\'<]+',
+                
+                # SSR: مثل vmess معمولاً base64 ساده
+                r'ssr://[A-Za-z0-9_\-=]+',
+                
+                # سایر پروتکل‌ها
+                r'hysteria://[^\s"\'<]+',
+                r'hysteria2://[^\s"\'<]+',
+                r'tuic://[^\s"\'<]+',
             ]
             
             for pattern in patterns:
