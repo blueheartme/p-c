@@ -1,34 +1,49 @@
 {
-  "updated": "2026-02-17T01:44:16.776589",
-  "count": 2,
+  "updated": "2026-02-17T05:24:40.396768",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "176.123.5.253",
+      "port": "990",
+      "method": "",
+      "password": "",
+      "plugin": "",
+      "name": "🇲🇩MD-176.123.5.253-0250",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0250",
+      "ip": "176.123.5.253",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0250"
+    },
     {
       "type": "ss",
       "address": "176.123.1.175",
       "port": "990",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "plugin": "",
-      "name": "🇲🇩MD-176.123.1.175-0257",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1",
-      "ip": "176.123.1.175",
-      "country": "MD",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#ss-chacha20-ietf-poly1305-MD%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "md-alex-01.com",
-      "port": "8443",
       "method": "",
       "password": "",
       "plugin": "",
+      "name": "🇲🇩MD-176.123.1.175-0263",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.1.175-0263",
+      "ip": "176.123.1.175",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.1.175-0263"
+    },
+    {
+      "type": "vless",
+      "address": "md-alex-01.com",
+      "port": "8443",
+      "id": "e9000d6b-2cb8-46b0-96c8-751a7abd54f2",
       "name": "未知 VLESS-117 | free-nodes",
-      "original": "ss://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#ss-MD%F0%9F%8C%90-2",
+      "network": "tcp",
+      "sni": "tradingview.com",
+      "host": "",
+      "original": "vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#vless-xtls-rprx-vision-tcp-reality-chrome-MD%F0%9F%8C%90-3",
       "ip": "176.123.4.56",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "ss://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#ss-MD%F0%9F%8C%90-2"
+      "rebuilt": "vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#vless-xtls-rprx-vision-tcp-reality-chrome-MD%F0%9F%8C%90-3"
     }
   ]
 }

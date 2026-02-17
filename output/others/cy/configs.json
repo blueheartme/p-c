@@ -1,21 +1,21 @@
 {
-  "updated": "2026-02-16T13:51:08.348056",
+  "updated": "2026-02-17T05:24:40.405947",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "154.92.9.214",
-      "port": "80",
-      "id": "dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3",
-      "name": "🏁RELAY-154.92.9.214-8699",
-      "network": "ws",
-      "host": "",
+      "type": "vless",
+      "address": "185.148.106.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTQuOTIuOS4yMTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ibHVlIiwicG9ydCI6ODAsInBzIjoidm1lc3Mtd3MtYXV0by1DWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "154.92.9.214",
+      "host": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-CY%F0%9F%8C%90-1",
+      "ip": "185.148.106.238",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTQuOTIuOS4yMTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ibHVlIiwicG9ydCI6ODAsInBzIjoidm1lc3Mtd3MtYXV0by1DWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-CY%F0%9F%8C%90-1"
     }
   ]
 }

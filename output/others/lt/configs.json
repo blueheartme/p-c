@@ -1,21 +1,7 @@
 {
-  "updated": "2026-02-17T01:44:16.779846",
-  "count": 2,
+  "updated": "2026-02-17T05:24:40.413452",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "84.32.151.60",
-      "port": "443",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "未知 VLESS-88 | free-nodes",
-      "original": "ss://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ss-LT%F0%9F%8C%90-1",
-      "ip": "84.32.151.60",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "ss://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ss-LT%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "84.32.151.60",
@@ -25,11 +11,11 @@
       "network": "tcp",
       "sni": "yahoo.com",
       "host": "",
-      "original": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
+      "original": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1",
       "ip": "84.32.151.60",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
+      "rebuilt": "vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1"
     }
   ]
 }
