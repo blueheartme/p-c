@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-17T05:24:40.395054",
-  "count": 3,
+  "updated": "2026-02-17T05:57:08.113032",
+  "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "gtm1.ktmwan.net",
-      "port": "12883",
-      "id": "3ac9d436-f213-421d-9644-a94686ee9fba",
-      "name": "US美国(mibei77.com 米贝节点分享)",
-      "network": "ws",
-      "host": "gtm1.ktmwan.net",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9",
-      "ip": "85.211.178.26",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1NWfCfjJAtMSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiM2FjOWQ0MzYtZjIxMy00MjFkLTk2NDQtYTk0Njg2ZWU5ZmJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9"
-    },
     {
       "type": "vless",
       "address": "47.254.207.127",
@@ -26,11 +11,11 @@
       "network": "tcp",
       "sni": "cdn.userway.org",
       "host": "",
-      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-2",
+      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1",
       "ip": "47.254.207.127",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-2"
+      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1"
     },
     {
       "type": "ss",

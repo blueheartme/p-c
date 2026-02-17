@@ -1,20 +1,21 @@
 {
-  "updated": "2026-02-17T05:24:40.401169",
+  "updated": "2026-02-17T05:57:08.132625",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.231.233.112",
-      "port": "989",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "🇵🇹PT-185.231.233.112-0328",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9PT-185.231.233.112-0328",
-      "ip": "185.231.233.112",
+      "type": "vless",
+      "address": "104.22.13.192",
+      "port": "80",
+      "id": "--Shh-Proxy",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://--Shh-Proxy@104.22.13.192:80?path=/Ftp.Debian.org?ed=2048&amp;security=none&amp;encryption=none&amp;host=usa.snaapfood.org.&amp;type=httpupgrade#vless-tcp-PT%F0%9F%8C%90-1",
+      "ip": "104.22.13.192",
       "country": "PT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9PT-185.231.233.112-0328"
+      "rebuilt": "vless://--Shh-Proxy@104.22.13.192:80?path=/Ftp.Debian.org?ed=2048&amp;security=none&amp;encryption=none&amp;host=usa.snaapfood.org.&amp;type=httpupgrade#vless-tcp-PT%F0%9F%8C%90-1"
     }
   ]
 }
