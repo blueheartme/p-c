@@ -1,21 +1,7 @@
 {
-  "updated": "2026-02-17T07:08:06.583353",
-  "count": 4,
+  "updated": "2026-02-17T08:38:42.460163",
+  "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "83.222.20.64",
-      "port": "17910",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "original": "ss://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&amp;sid=8c09fb78b12f&amp;spx=%2F&amp;type=raw&amp;headertype=none#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i",
-      "ip": "83.222.20.64",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&amp;sid=8c09fb78b12f&amp;spx=%2F&amp;type=raw&amp;headertype=none#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i"
-    },
     {
       "type": "ss",
       "address": "195.135.252.28",
@@ -32,21 +18,6 @@
     },
     {
       "type": "vless",
-      "address": "83.222.20.64",
-      "port": "17910",
-      "id": "079c1b04-7ef9-4c49-8a7a-849a18ba7b9b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&amp;sid=8c09fb78b12f&amp;spx=%2F&amp;type=raw&amp;headertype=none#vless-tcp-LV%F0%9F%8C%90-3",
-      "ip": "83.222.20.64",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&amp;sid=8c09fb78b12f&amp;spx=%2F&amp;type=raw&amp;headertype=none#vless-tcp-LV%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "195.135.252.28",
       "port": "443",
       "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
@@ -54,11 +25,11 @@
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-4",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-4"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#vless-tcp-reality-LV%F0%9F%8C%90-2"
     }
   ]
 }

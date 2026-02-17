@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-17T07:08:06.607004",
+  "updated": "2026-02-17T08:38:42.461051",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "tr2node.lalash-server.click",
-      "port": "8080",
-      "id": "8d5395b3-eb4a-45d3-93cf-d3da236e07ac",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&amp;encryption=none&amp;pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=abc6c826d165#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "103.83.87.41",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&amp;encryption=none&amp;pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=abc6c826d165#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "vmess",
       "address": "tr1-smart.adelping.com",
@@ -26,11 +11,11 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
       "ip": "185.104.189.38",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
     },
     {
       "type": "ss",
@@ -45,6 +30,21 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "ss://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&amp;encryption=none&amp;pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=abc6c826d165#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1</code></blockquote><br/><br/><i"
+    },
+    {
+      "type": "vless",
+      "address": "tr2node.lalash-server.click",
+      "port": "8080",
+      "id": "8d5395b3-eb4a-45d3-93cf-d3da236e07ac",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&amp;encryption=none&amp;pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=abc6c826d165#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "103.83.87.41",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&amp;encryption=none&amp;pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=abc6c826d165#vless-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
