@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-17T16:52:13.625063",
-  "count": 2,
+  "updated": "2026-02-18T01:46:52.521413",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.38.42.198",
-      "port": "2053",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.42.198:2053?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "45.38.42.198",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.42.198:2053?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -25,11 +10,41 @@
       "name": "Hong Kong Netvigator",
       "sni": "",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "27.50.48.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "27.50.48.238",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.238:2096?encryption=none&amp;security=tls&amp;sni=sni.jpmj.dev&amp;insecure=1&amp;type=ws&amp;host=sni.jpmj.dev&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vmess",
+      "address": "47.243.135.74",
+      "port": "55185",
+      "id": "1375985e-334a-4c25-8f64-52a182bc8037",
+      "name": "t.me/entryNET",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Ob3RpZl9DaGF0IiwicG9ydCI6IjU1MTg1IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "ip": "47.243.135.74",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Ob3RpZl9DaGF0IiwicG9ydCI6IjU1MTg1IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
     }
   ]
 }

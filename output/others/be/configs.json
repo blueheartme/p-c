@@ -1,51 +1,21 @@
 {
-  "updated": "2026-02-17T16:52:13.630619",
-  "count": 3,
+  "updated": "2026-02-18T01:46:52.529070",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "151.101.8.79",
-      "port": "80",
-      "id": "1b771dab-e581-4457-b1d9-416d48ea5d8c",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-BE%F0%9F%8C%90-1",
-      "ip": "151.101.8.79",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-BE%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "151.101.9.80",
       "port": "80",
       "id": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "name": "🇮🇷 IR 52 @Outline_Vpn",
       "network": "",
       "sni": "",
       "host": "",
-      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#vless-tcp-BE%F0%9F%8C%90-2",
+      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#vless-tcp-BE%F0%9F%8C%90-1",
       "ip": "151.101.9.80",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#vless-tcp-BE%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "eece40082acf744f.fast2.viperping.ir",
-      "port": "80",
-      "id": "4d666564-0414-439d-ba51-8e8156014abe",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://4d666564-0414-439d-ba51-8e8156014abe@eece40082acf744f.fast2.viperping.ir:80?mode=auto&amp;security=none&amp;encryption=none&amp;host=milad-h1.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-BE%F0%9F%8C%90-3",
-      "ip": "151.101.9.80",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://4d666564-0414-439d-ba51-8e8156014abe@eece40082acf744f.fast2.viperping.ir:80?mode=auto&amp;security=none&amp;encryption=none&amp;host=milad-h1.global.ssl.fastly.net&amp;type=xhttp#vless-tcp-BE%F0%9F%8C%90-3"
+      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#vless-tcp-BE%F0%9F%8C%90-1"
     }
   ]
 }
