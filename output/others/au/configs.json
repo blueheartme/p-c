@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T16:52:13.637220",
+  "updated": "2026-02-18T16:57:15.830512",
   "count": 1,
   "configs": [
     {
@@ -8,14 +8,19 @@
       "port": "2083",
       "id": "1e7215d7-3d4c-471b-8034-7fd953db251c",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
+      "network": "ws",
+      "sni": "cdnuser.wrongguy.ir",
       "host": "",
-      "original": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdnuser.wrongguy.ir#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
       "ip": "103.160.204.191",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdnuser.wrongguy.ir#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

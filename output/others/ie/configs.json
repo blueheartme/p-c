@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-18T09:30:21.373971",
+  "updated": "2026-02-18T16:57:15.816725",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "63.35.87.40",
-      "port": "24880",
-      "id": "e65aace3-ae58-4ff8-9d92-5e934985cf63",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "address": "34.244.236.222",
+      "port": "20096",
+      "id": "309c4bd0-7430-b8aa-2238-1075e9e29370",
+      "name": "Server",
       "network": "tcp",
-      "sni": "",
+      "sni": "wikipedia.org",
       "host": "",
-      "security": "none",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://e65aace3-ae58-4ff8-9d92-5e934985cf63@63.35.87.40:24880?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%8C%90-1",
-      "ip": "63.35.87.40",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@34.244.236.222:20096?encryption=none&fp=chrome&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&security=reality&sid=50a3&sni=wikipedia.org&type=tcp#vless-tcp-reality-chrome-IE%F0%9F%8C%90-1",
+      "ip": "34.244.236.222",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://e65aace3-ae58-4ff8-9d92-5e934985cf63@63.35.87.40:24880?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%8C%90-1"
+      "rebuilt": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@34.244.236.222:20096?encryption=none&fp=chrome&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&security=reality&sid=50a3&sni=wikipedia.org&type=tcp#vless-tcp-reality-chrome-IE%F0%9F%8C%90-1"
     }
   ]
 }

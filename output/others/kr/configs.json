@@ -1,13 +1,53 @@
 {
-  "updated": "2026-02-18T09:30:21.371484",
-  "count": 1,
+  "updated": "2026-02-18T16:57:15.824870",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "152.69.227.72",
+      "port": "8443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.69.227.72:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "152.69.227.72",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.69.227.72:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "158.180.72.60",
+      "port": "443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.72.60:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2",
+      "ip": "158.180.72.60",
+      "country": "KR",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.72.60:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+    },
     {
       "type": "vless",
       "address": "47.80.13.85",
       "port": "443",
       "id": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "name": "telegram ☂️ dailyv2ry",
+      "name": "telegram 🍊 dailyv2ry",
       "network": "tcp",
       "sni": "api.company-target.com",
       "host": "api.company-target.com",
@@ -16,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-3",
       "ip": "47.80.13.85",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-3"
     }
   ]
 }

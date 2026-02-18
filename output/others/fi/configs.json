@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-18T09:30:21.382303",
-  "count": 3,
+  "updated": "2026-02-18T16:57:15.817495",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "65.109.178.213",
-      "port": "1515",
-      "id": "db8aed18-b0f5-4272-bb5b-8294b92c35c8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "tgju.org",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&encryption=none&pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=c652cfc9741bf773#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "65.109.178.213",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&encryption=none&pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=c652cfc9741bf773#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
-    },
-    {
-      "type": "vless",
       "address": "38.244.137.198",
       "port": "443",
       "id": "09748875-9da3-440e-9809-9752e1dda1e4",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "38.244.137.198",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-18T09:30:21.378624",
-  "count": 3,
+  "updated": "2026-02-18T16:57:15.823003",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,43 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "94.140.0.1",
-      "port": "443",
-      "id": "73f15c26-5545-492f-bb67-a4ef3737a060",
-      "name": "🇮🇷 IR 26 @Outline_Vpn",
+      "address": "94.140.0.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV",
-      "host": "zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&fp=chrome&type=ws&sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "94.140.0.238",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://73f15c26-5545-492f-bb67-a4ef3737a060@94.140.0.1:443?path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&fp=chrome&type=ws&sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "94.140.0.74",
-      "port": "2087",
-      "id": "c8c57027-17a2-4bff-9510-c2b14aaf0251",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "aza002.vaslbash.site",
-      "host": "aza002.vaslbash.site",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c8c57027-17a2-4bff-9510-c2b14aaf0251@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "94.140.0.74",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://c8c57027-17a2-4bff-9510-c2b14aaf0251@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }

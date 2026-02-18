@@ -1,19 +1,26 @@
 {
-  "updated": "2026-01-08T01:17:40.714166",
+  "updated": "2026-02-18T16:57:15.823860",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.135.235.101",
-      "port": "2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560",
-      "method": "",
-      "password": "",
-      "name": "美国(yudou789.top 玉豆免费节点)",
-      "original": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@45.135.235.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-BZ%F0%9F%8C%90-1",
-      "ip": "45.135.235.101",
+      "type": "vless",
+      "address": "45.135.235.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-BZ%F0%9F%8C%90-1",
+      "ip": "45.135.235.238",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "ss://502524df-bb02-4a14-8362-d84caf2b0a76@45.135.235.101:2096?encryption=none&security=tls&sni=spdf.qzz.io&type=ws&host=spdf.qzz.io&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#ss-BZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-BZ%F0%9F%8C%90-1"
     }
   ]
 }
