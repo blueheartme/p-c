@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-18T08:14:13.933203",
-  "count": 2,
+  "updated": "2026-02-18T08:38:31.444150",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "47.80.13.85",
       "port": "443",
       "id": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "name": "telegram 🚀 dailyv2ry",
+      "name": "telegram 🎪 dailyv2ry",
       "network": "tcp",
       "sni": "api.company-target.com",
       "host": "api.company-target.com",
@@ -21,26 +21,6 @@
       "country": "KR",
       "cdn": null,
       "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&amp;security=reality&amp;sni=api.company-target.com&amp;fp=chrome&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;type=tcp&amp;headerType=none&amp;host=api.company-target.com#vless-tcp-reality-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "144.24.73.232",
-      "port": "443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.73.232:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "144.24.73.232",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.73.232:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2"
     }
   ]
 }
