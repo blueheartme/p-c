@@ -6,6 +6,7 @@ import base64
 import json
 import re
 import logging
+import html
 from typing import Dict, Optional
 from urllib.parse import urlparse, parse_qs, unquote
 
@@ -38,10 +39,8 @@ class ConfigParser:
             
         try:
             decoded_bytes = base64.b64decode(data)
-            # در اینجا فقط می‌خوانیم، جایی دوباره انکود نمی‌کنیم
             return decoded_bytes.decode('utf-8', errors='ignore')
         except Exception:
-            # در صورت خطا، رشته خالی برمی‌گردانیم
             return ""
 
     @staticmethod
@@ -49,11 +48,8 @@ class ConfigParser:
         """Clean config name from control characters and weird symbols"""
         if not name:
             return ""
-        # دیکد کردن URL encoded chars
         name = unquote(name)
-        # حذف کاراکترهای کنترلی غیرچاپ
         name = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', name)
-        # حذف فاصله‌های اضافی
         return name.strip()
 
     @staticmethod
@@ -110,28 +106,60 @@ class ConfigParser:
     
     @staticmethod
     def _parse_vless(config: str) -> Optional[Dict]:
-        """Parse VLESS config"""
+        """
+        Parse VLESS config (جدید و پایدارتر)
+
+        از urlparse + parse_qs استفاده می‌کنیم تا:
+        - IPv4 / IPv6 / دامنه را درست بخوانیم
+        - پارامترهایی مثل type (network)، sni، host را از query برداریم
+        - fragment (بعد از #) را به‌عنوان name بخوانیم
+        """
         try:
-            pattern = r'vless://([^@]+)@([^:]+):(\d+)\?([^#]*)#?(.*)'
-            match = re.match(pattern, config)
-            
-            if not match:
+            # اگر از HTML تلگرام آمده باشد، &amp; و ... را به & و ... برمی‌گردانیم
+            cfg_str = html.unescape(config)
+            parsed = urlparse(cfg_str)
+
+            if parsed.scheme.lower() != 'vless':
                 return None
-            
-            uuid, address, port, params, name = match.groups()
-            params_dict = parse_qs(params)
-            
+
+            # uuid معمولاً در قسمت user (قبل از @) است
+            uuid = parsed.username or ''
+            # آدرس و پورت
+            address = parsed.hostname or ''
+            port = str(parsed.port or '')
+
+            # نام (Remark) در fragment است
+            name = parsed.fragment or ''
+            name = ConfigParser._clean_name(name)
+
+            # پارامترهای query
+            params = parse_qs(parsed.query)
+
+            # network type: tcp, ws, grpc, ...
+            network = params.get('type', [''])[0]
+
+            # sni
+            sni = params.get('sni', [''])[0]
+
+            # header host (بعضی لینک‌ها به‌جای host از authority استفاده می‌کنند)
+            host_header = params.get('host', [''])[0] or params.get('authority', [''])[0]
+
+            # در برخی لینک‌های خاص، uuid ممکن است در query با کلید id آمده باشد
+            if not uuid:
+                uuid = params.get('id', [''])[0]
+
             return {
                 'type': 'vless',
                 'address': address,
                 'port': port,
                 'id': uuid,
-                'name': ConfigParser._clean_name(name),
-                'network': params_dict.get('type', [''])[0],
-                'sni': params_dict.get('sni', [''])[0],
-                'host': params_dict.get('host', [''])[0],
+                'name': name,
+                'network': network,
+                'sni': sni,
+                'host': host_header,
                 'original': config
             }
+
         except Exception as e:
             logger.debug(f"Error parsing VLESS: {e}")
             return None
@@ -165,16 +193,9 @@ class ConfigParser:
     
     @staticmethod
     def _parse_shadowsocks(config: str) -> Optional[Dict]:
-        """
-        Parse Shadowsocks (SS) config
-
-        نکته مهم:
-        - اصلاً userinfo (یعنی base64(method:password) یا method:password) را برای ساخت رشته جدید
-          استفاده نمی‌کنیم؛ فقط می‌خوانیم تا در صورت امکان address/port را به‌دست بیاوریم.
-        - خود لینک ss:// در فیلد original دقیقاً همان چیزی است که از collector آمده.
-        """
+        """Parse Shadowsocks config"""
         try:
-            clean_config = config.replace('ss://', '', 1)
+            clean_config = config.replace('ss://', '')
             
             # 1. جدا کردن نام (Remark)
             name = ''
@@ -184,83 +205,52 @@ class ConfigParser:
 
             address = ''
             port = ''
-            method = ''
-            password = ''
-            plugin = ''
+            decoded_info = ''
 
-            # حالت ۱: فرمت SIP002 یا plain: userinfo@host:port[?query]
+            # 2. تشخیص فرمت (SIP002 vs Legacy)
             if '@' in clean_config:
-                userinfo_raw, server_and_params = clean_config.rsplit('@', 1)
-
-                query = {}
-                server_part = server_and_params
-                if '?' in server_and_params:
-                    server_part, query_part = server_and_params.split('?', 1)
-                    query = parse_qs(query_part)
-
+                # فرمت SIP002: base64(method:password)@host:port
+                user_info_raw, server_part = clean_config.rsplit('@', 1)
+                
                 if ':' in server_part:
                     address, port = server_part.rsplit(':', 1)
-                    address = address.strip('[]')  # IPv6 براکت‌دار
+                    # حذف براکت IPv6 اگر وجود داشته باشد
+                    address = address.strip('[]')
+                else:
+                    return None
 
-                # استخراج plugin (فقط برای اطلاعات جانبی، روی لینک اصلی اثر ندارد)
-                plugin_raw = ''
-                if query:
-                    plugin_raw = query.get('plugin', [''])[0]
-                    if plugin_raw:
-                        plugin_raw = unquote(plugin_raw)
-                        if ';' in plugin_raw:
-                            plugin_raw = plugin_raw.split(';', 1)[0]
-                        plugin_raw = plugin_raw.strip()
-                        if not re.fullmatch(r'[A-Za-z0-9._\-]+', plugin_raw):
-                            plugin_raw = ''
-                plugin = plugin_raw
-
-                # اگر userinfo به صورت plain method:password باشد، فقط برای اطلاعات متادیتا می‌خوانیم
-                m = re.match(r'^([A-Za-z0-9._\-]+):(.+)$', userinfo_raw)
-                if m:
-                    method, password = m.groups()
+                # دیکد کردن بخش متد و پسورد
+                decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
 
             else:
-                # حالت ۲: فرمت Legacy: base64(method:password@host:port[?query])
-                decoded_full = ConfigParser._safe_base64_decode(clean_config).strip()
-                if decoded_full and '@' in decoded_full:
-                    userinfo_part, server_and_params = decoded_full.rsplit('@', 1)
-
-                    query = {}
-                    server_part = server_and_params
-                    if '?' in server_and_params:
-                        server_part, query_part = server_and_params.split('?', 1)
-                        query = parse_qs(query_part)
-
+                # فرمت Legacy: base64(method:password@host:port)
+                full_decoded = ConfigParser._safe_base64_decode(clean_config)
+                
+                if '@' in full_decoded:
+                    decoded_info, server_part = full_decoded.rsplit('@', 1)
                     if ':' in server_part:
                         address, port = server_part.rsplit(':', 1)
-                        address = address.strip('[]')
+                    else:
+                        return None
+                else:
+                    return None
 
-                    # plugin (در صورت وجود در query)
-                    plugin_raw = ''
-                    if query:
-                        plugin_raw = query.get('plugin', [''])[0]
-                        if plugin_raw:
-                            plugin_raw = unquote(plugin_raw)
-                            if ';' in plugin_raw:
-                                plugin_raw = plugin_raw.split(';', 1)[0]
-                            plugin_raw = plugin_raw.strip()
-                            if not re.fullmatch(r'[A-Za-z0-9._\-]+', plugin_raw):
-                                plugin_raw = ''
-                    plugin = plugin_raw
+            if not decoded_info:
+                return None
 
-                    # userinfo_part = method:password اما ما برای جلوگیری از خراب‌کاری روی لینک،
-                    # آن را جایی استفاده نمی‌کنیم؛ فقط اگر خواستی در JSON ببینی.
-                    if ':' in userinfo_part:
-                        method, password = userinfo_part.split(':', 1)
-
+            # 3. جدا کردن متد و پسورد
+            if ':' in decoded_info:
+                method, password = decoded_info.split(':', 1)
+            else:
+                method = decoded_info
+                password = ''
+            
             return {
                 'type': 'ss',
                 'address': address,
                 'port': port,
                 'method': method,
                 'password': password,
-                'plugin': plugin,
                 'name': name,
                 'original': config
             }
