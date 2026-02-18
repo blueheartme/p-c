@@ -8,6 +8,7 @@ import json
 import base64
 import logging
 import re
+import html
 from typing import Dict, List
 from datetime import datetime
 from urllib.parse import quote, parse_qs
@@ -68,7 +69,6 @@ class OutputGenerator:
             country_dir = os.path.join(base_dir, country.lower())
             os.makedirs(country_dir, exist_ok=True)
             
-            # Rebuild configs with standard names
             rebuilt_configs = self._rebuild_configs_with_standard_names(configs, country)
             
             logger.info(f"Rebuilt {len(rebuilt_configs)} configs for {country}")
@@ -96,17 +96,15 @@ class OutputGenerator:
             try:
                 cfg_type = str(config.get('type', '')).lower()
 
-                # خیلی مهم: برای Shadowsocks اصلاً هیچ تغییری در لینک نمی‌دهیم
+                # Shadowsocks را دست نمی‌زنیم (قبلاً ثابت شده درست است)
                 if cfg_type == 'ss':
                     config['rebuilt'] = config.get('original', '')
                     rebuilt.append(config)
                     continue
 
-                # برای بقیه پروتکل‌ها نام استاندارد بساز
                 new_name = self._build_standard_name(config, country, idx)
                 logger.debug(f"Config {idx}: New name = {new_name}")
                 
-                # Rebuild config with new name
                 new_config = self._rebuild_config_with_name(config, new_name)
                 
                 if new_config:
@@ -126,11 +124,6 @@ class OutputGenerator:
         return rebuilt
     
     def _build_standard_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        Build standard name based on protocol specifications
-        Only includes relevant fields for each protocol
-        """
-        
         protocol = config.get('type', 'unknown').lower()
         
         try:
@@ -141,7 +134,6 @@ class OutputGenerator:
             elif protocol == 'trojan':
                 return self._build_trojan_name(config, country, idx)
             elif protocol == 'ss':
-                # در عمل این مسیر برای ss فراخوانی نمی‌شود (در بالا skip شده)
                 return self._build_shadowsocks_name(config, country, idx)
             elif protocol == 'ssr':
                 return self._build_ssr_name(config, country, idx)
@@ -164,34 +156,43 @@ class OutputGenerator:
         parts = ['vless']
         
         try:
+            # ابتدا params را هم از روی original و هم از روی فیلدهای پارس‌شده می‌خوانیم
             original = config.get('original', '')
             params = self._extract_vless_params(original)
-            
-            flow = params.get('flow', '').lower()
+
+            # flow
+            flow = (config.get('flow') or params.get('flow', '') or '').lower()
             if flow and flow not in ['none', '']:
                 parts.append(flow)
             
-            encryption = params.get('encryption', '')
+            # encryption
+            encryption = (config.get('encryption') or params.get('encryption', '') or '').lower()
             if encryption and encryption not in ['none', '']:
                 parts.append(encryption)
             
-            network = params.get('type', config.get('network', '')).lower()
-            if not network or network == '':
+            # network (type)
+            network = (config.get('network') or params.get('type', '') or '').lower()
+            if not network:
                 network = 'tcp'
             parts.append(network)
             
-            header_type = params.get('headerType', '')
+            # headerType
+            header_type = (config.get('headerType') or params.get('headerType', '') or '').lower()
             if header_type and header_type not in ['none', '']:
                 parts.append(header_type)
             
-            security = params.get('security', '')
+            # security (tls, reality, ...)
+            security = (config.get('security') or params.get('security', '') or '').lower()
             if security and security not in ['none', '']:
                 parts.append(security)
             
-            fingerprint = params.get('fp', params.get('fingerprint', ''))
+            # fingerprint
+            fingerprint = (config.get('fingerprint') or
+                           params.get('fp', params.get('fingerprint', '')) or '').lower()
             if fingerprint and fingerprint not in ['none', '']:
                 parts.append(fingerprint)
             
+            # CDN
             cdn = config.get('cdn', '')
             if cdn:
                 cdn_name = CDN_NAMES.get(cdn, cdn).replace('☁️', '').strip()
@@ -207,9 +208,6 @@ class OutputGenerator:
         return '-'.join(parts)
     
     def _build_vmess_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        VMESS format: vmess-[encryption]-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
-        """
         parts = ['vmess']
         
         try:
@@ -249,9 +247,6 @@ class OutputGenerator:
         return '-'.join(parts)
     
     def _build_trojan_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        TROJAN format: trojan-[network]-[headerType]-[security]-[cdn]-COUNTRY-num
-        """
         parts = ['trojan']
         
         try:
@@ -288,12 +283,6 @@ class OutputGenerator:
         return '-'.join(parts)
     
     def _build_shadowsocks_name(self, config: Dict, country: str, idx: int) -> str:
-        """
-        SS format: ss-[method]-[plugin]-[cdn]-COUNTRY-num
-
-        توجه: در عمل برای SS استفاده نمی‌شود چون در _rebuild_configs_with_standard_names
-        همهٔ SS بدون تغییر عبور داده می‌شوند. این تابع فقط برای آینده نگه داشته شده.
-        """
         parts = ['ss']
         
         method = str(config.get('method', '') or '').lower()
@@ -322,7 +311,6 @@ class OutputGenerator:
         return '-'.join(parts)
     
     def _build_ssr_name(self, config: Dict, country: str, idx: int) -> str:
-        """SSR format (ساده‌شده)"""
         parts = ['ssr']
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
@@ -330,10 +318,8 @@ class OutputGenerator:
         return '-'.join(parts)
     
     def _build_hysteria_name(self, config: Dict, country: str, idx: int) -> str:
-        """Hysteria format"""
         protocol_type = config.get('type', 'hysteria')
-        parts = [protocol_type]
-        parts.append('udp')
+        parts = [protocol_type, 'udp']
         
         cdn = config.get('cdn', '')
         if cdn:
@@ -343,11 +329,9 @@ class OutputGenerator:
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
         parts.append(str(idx))
-        
         return '-'.join(parts)
     
     def _build_tuic_name(self, config: Dict, country: str, idx: int) -> str:
-        """TUIC format"""
         parts = ['tuic', 'udp']
         
         cdn = config.get('cdn', '')
@@ -358,16 +342,18 @@ class OutputGenerator:
         flag = COUNTRY_FLAGS.get(country, '🌐')
         parts.append(f"{country}{flag}")
         parts.append(str(idx))
-        
         return '-'.join(parts)
     
     def _extract_vless_params(self, config_str: str) -> dict:
-        """Extract parameters from VLESS config"""
+        """Extract parameters from VLESS config (با درنظر گرفتن &amp;)"""
         try:
             if '?' not in config_str:
                 return {}
             
-            params_part = config_str.split('?')[1].split('#')[0]
+            # HTML entity ها را به شکل عادی برمی‌گردانیم
+            cfg = html.unescape(config_str)
+            
+            params_part = cfg.split('?')[1].split('#')[0]
             params = parse_qs(params_part)
             
             result = {}
@@ -380,7 +366,6 @@ class OutputGenerator:
             return {}
     
     def _extract_trojan_params(self, config_str: str) -> dict:
-        """Extract parameters from Trojan config"""
         try:
             if '?' not in config_str:
                 return {}
@@ -398,27 +383,19 @@ class OutputGenerator:
             return {}
     
     def _extract_vmess_data(self, config_str: str) -> dict:
-        """Extract data from VMess config"""
         try:
             config_data = config_str.replace('vmess://', '')
             padding = 4 - len(config_data) % 4
             if padding != 4:
                 config_data += '=' * padding
-            
             decoded = base64.b64decode(config_data).decode('utf-8')
             data = json.loads(decoded)
-            
             return data
         except Exception as e:
             logger.debug(f"Error extracting VMess data: {e}")
             return {}
     
     def _rebuild_config_with_name(self, config: Dict, new_name: str) -> str:
-        """
-        Rebuild config string with new name
-        فقط name/remark را عوض می‌کند، نه یوزر/پسورد/host:port
-        """
-        
         config_type = config.get('type', '')
         original = config.get('original', '')
         
@@ -449,28 +426,22 @@ class OutputGenerator:
             return original
     
     def _rebuild_vmess(self, original: str, new_name: str) -> str:
-        """Rebuild VMess config with new name"""
         try:
             config_data = original.replace('vmess://', '')
             padding = 4 - len(config_data) % 4
             if padding != 4:
                 config_data += '=' * padding
-            
             decoded = base64.b64decode(config_data).decode('utf-8')
             data = json.loads(decoded)
-            
             data['ps'] = new_name
-            
             new_json = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
             new_b64 = base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
-            
             return 'vmess://' + new_b64
         except Exception as e:
             logger.debug(f"Error rebuilding VMess: {e}")
             return original
     
     def _rebuild_vless(self, original: str, new_name: str) -> str:
-        """Rebuild VLESS config with new name"""
         try:
             base = original.split('#')[0] if '#' in original else original
             encoded_name = quote(
@@ -483,7 +454,6 @@ class OutputGenerator:
             return original
     
     def _rebuild_trojan(self, original: str, new_name: str) -> str:
-        """Rebuild Trojan config with new name"""
         try:
             base = original.split('#')[0] if '#' in original else original
             encoded_name = quote(
@@ -496,7 +466,6 @@ class OutputGenerator:
             return original
     
     def _rebuild_shadowsocks(self, original: str, new_name: str) -> str:
-        """Rebuild Shadowsocks config with new name (در عمل برای SS فراخوانی نمی‌شود)"""
         try:
             base = original.split('#')[0] if '#' in original else original
             encoded_name = quote(
@@ -509,11 +478,9 @@ class OutputGenerator:
             return original
     
     def _rebuild_ssr(self, original: str, new_name: str) -> str:
-        """SSR را دست کاری نمی‌کنیم"""
         return original
     
     def _rebuild_hysteria(self, original: str, new_name: str) -> str:
-        """Rebuild Hysteria config with new name"""
         try:
             base = original.split('#')[0] if '#' in original else original
             encoded_name = quote(
@@ -526,7 +493,6 @@ class OutputGenerator:
             return original
     
     def _rebuild_tuic(self, original: str, new_name: str) -> str:
-        """Rebuild TUIC config with new name"""
         try:
             base = original.split('#')[0] if '#' in original else original
             encoded_name = quote(
@@ -539,7 +505,6 @@ class OutputGenerator:
             return original
     
     def _generate_json(self, directory: str, filename: str, configs: List[Dict]):
-        """Generate JSON output"""
         try:
             filepath = os.path.join(directory, filename)
             
@@ -563,7 +528,6 @@ class OutputGenerator:
             logger.error(f"Error generating JSON: {e}", exc_info=True)
     
     def _generate_txt(self, directory: str, filename: str, configs: List[Dict]):
-        """Generate TXT output"""
         try:
             filepath = os.path.join(directory, filename)
             
@@ -579,7 +543,6 @@ class OutputGenerator:
             logger.error(f"Error generating TXT: {e}", exc_info=True)
     
     def _generate_subscription(self, directory: str, filename: str, configs: List[Dict]):
-        """Generate subscription link (base64 encoded)"""
         try:
             filepath = os.path.join(directory, filename)
             
@@ -605,7 +568,6 @@ class OutputGenerator:
             logger.error(f"Error generating subscription: {e}", exc_info=True)
     
     def _generate_readme(self, all_configs: Dict, tested_configs: Dict):
-        """Generate README.md with statistics and links"""
         try:
             readme_path = os.path.join(OUTPUT_DIR, 'README.md')
             
