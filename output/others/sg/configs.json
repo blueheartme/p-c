@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-18T08:12:45.310547",
+  "updated": "2026-02-18T08:14:13.932665",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "47.82.6.36",
-      "port": "51164",
-      "id": "d29a7cee-acd1-4821-adbf-517f8681040e",
-      "name": "🛡 V 13 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "speedtest.net",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "47.82.6.36",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "213.35.108.135",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "213.35.108.135",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "47.82.6.36",
+      "port": "51164",
+      "id": "d29a7cee-acd1-4821-adbf-517f8681040e",
+      "name": "🛡 V 13 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "",
+      "host": "speedtest.net",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "47.82.6.36",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "vmess",
