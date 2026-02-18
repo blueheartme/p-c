@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T07:43:05.846985",
+  "updated": "2026-02-18T08:12:45.317017",
   "count": 1,
   "configs": [
     {
@@ -11,6 +11,11 @@
       "network": "ws",
       "sni": "sni.111000.indevs.in",
       "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
       "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.130.58.230:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-TW%F0%9F%87%B9%F0%9F%87%BC-1",
       "ip": "220.130.58.230",
       "country": "TW",

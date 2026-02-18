@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T07:43:05.850399",
+  "updated": "2026-02-18T08:12:45.311210",
   "count": 1,
   "configs": [
     {
@@ -11,6 +11,11 @@
       "network": "tcp",
       "sni": "bunny.net",
       "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
       "original": "vless://50f73677-030f-43e2-891c-4617eea72ea2@144.31.170.239:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=bunny.net&amp;fp=chrome&amp;pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&amp;type=tcp&amp;headerType=none#vless-tcp-EE%F0%9F%8C%90-1",
       "ip": "144.31.170.239",
       "country": "EE",

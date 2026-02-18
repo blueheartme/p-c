@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T07:43:05.836750",
+  "updated": "2026-02-18T08:12:45.313590",
   "count": 1,
   "configs": [
     {
@@ -11,6 +11,11 @@
       "network": "ws",
       "sni": "",
       "host": "adspeedx23.global.ssl.fastly.net",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
       "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&amp;security=none&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#vless-ws-BE%F0%9F%8C%90-1",
       "ip": "151.101.9.80",
       "country": "BE",

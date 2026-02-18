@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-18T07:43:05.843441",
+  "updated": "2026-02-18T08:12:45.304314",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "80.211.236.226",
-      "port": "443",
-      "id": "8c863fe9-65e4-41ee-84e4-1c0009d72639",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "gmail.com",
-      "host": "",
-      "original": "vless://8c863fe9-65e4-41ee-84e4-1c0009d72639@80.211.236.226:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gmail.com#vless-tcp-reality-IT%F0%9F%8C%90-1",
-      "ip": "80.211.236.226",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://8c863fe9-65e4-41ee-84e4-1c0009d72639@80.211.236.226:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gmail.com#vless-tcp-reality-IT%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "57.131.41.129",
@@ -29,6 +14,26 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#%F0%9F%87%AE%F0%9F%87%B7%20IR%20107%20%40Outline_Vpn"
+    },
+    {
+      "type": "vless",
+      "address": "80.211.236.226",
+      "port": "443",
+      "id": "8c863fe9-65e4-41ee-84e4-1c0009d72639",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "gmail.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://8c863fe9-65e4-41ee-84e4-1c0009d72639@80.211.236.226:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gmail.com#vless-tcp-reality-IT%F0%9F%8C%90-2",
+      "ip": "80.211.236.226",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://8c863fe9-65e4-41ee-84e4-1c0009d72639@80.211.236.226:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gmail.com#vless-tcp-reality-IT%F0%9F%8C%90-2"
     }
   ]
 }

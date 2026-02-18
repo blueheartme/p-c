@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T07:43:05.848768",
+  "updated": "2026-02-18T08:12:45.309227",
   "count": 1,
   "configs": [
     {
@@ -11,6 +11,11 @@
       "network": "tcp",
       "sni": "",
       "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
       "original": "vless://e65aace3-ae58-4ff8-9d92-5e934985cf63@63.35.87.40:24880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-IE%F0%9F%8C%90-1",
       "ip": "63.35.87.40",
       "country": "IE",

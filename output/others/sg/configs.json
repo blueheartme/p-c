@@ -1,22 +1,7 @@
 {
-  "updated": "2026-02-18T07:43:05.822230",
+  "updated": "2026-02-18T08:12:45.310547",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "213.35.108.135",
-      "port": "12596",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "213.35.108.135",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "47.82.6.36",
@@ -26,11 +11,51 @@
       "network": "tcp",
       "sni": "",
       "host": "speedtest.net",
-      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "47.82.6.36",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "213.35.108.135",
+      "port": "12596",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "213.35.108.135",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.35.108.135:12596?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "vmess",
+      "address": "217.217.255.99",
+      "port": "8443",
+      "id": "83049bda-8d53-44bc-f71c-f6b03c1ca482",
+      "name": "t.me/entryNET",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVNH8J+HuPCfh6wtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "ip": "217.217.255.99",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVNH8J+HuPCfh6wtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
     },
     {
       "type": "ss",
@@ -44,21 +69,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITGs3QWxXM2E4eVkyZVNyYWtKdEVD@31.192.234.199:5223#%F0%9F%87%B9%F0%9F%87%B4%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
-    },
-    {
-      "type": "vmess",
-      "address": "217.217.255.99",
-      "port": "8443",
-      "id": "83049bda-8d53-44bc-f71c-f6b03c1ca482",
-      "name": "t.me/entryNET",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVNH8J+HuPCfh6wtNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
-      "ip": "217.217.255.99",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLVNH8J+HuPCfh6wtNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
     }
   ]
 }
