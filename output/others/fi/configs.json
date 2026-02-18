@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-18T01:46:52.519465",
-  "count": 5,
+  "updated": "2026-02-18T07:43:05.835859",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -8,8 +8,8 @@
       "port": "443",
       "id": "09748875-9da3-440e-9809-9752e1dda1e4",
       "name": "🇮🇷 IR 40 @Outline_Vpn",
-      "network": "",
-      "sni": "",
+      "network": "tcp",
+      "sni": "google.com",
       "host": "",
       "original": "vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&amp;encryption=none&amp;pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=google.com&amp;sid=365c07ed#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1",
       "ip": "38.244.137.198",
@@ -19,47 +19,18 @@
     },
     {
       "type": "vless",
-      "address": "171.22.114.248",
-      "port": "27394",
-      "id": "00b0d4de-b126-4511-87c1-8f1feb462fa6",
-      "name": "Cyprus WorkTitans",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "171.22.114.248",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
-    },
-    {
-      "type": "vless",
       "address": "65.109.178.213",
       "port": "1515",
       "id": "db8aed18-b0f5-4272-bb5b-8294b92c35c8",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
-      "sni": "",
+      "network": "tcp",
+      "sni": "tgju.org",
       "host": "",
-      "original": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&amp;encryption=none&amp;pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=c652cfc9741bf773#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&amp;encryption=none&amp;pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=c652cfc9741bf773#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "65.109.178.213",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&amp;encryption=none&amp;pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=c652cfc9741bf773#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-3"
-    },
-    {
-      "type": "ss",
-      "address": "mx2.drawnrisha.one",
-      "port": "55988",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTc2a0FtZkx3ZE5wQ3RmV1h4bzNQbWlqZ0tUb0VZblZOVVo3V3FxOFhnYk04TkJCOEdjdmt0V2RhRzc3WmtHMXo2YXdRZVRLRkZpbjQ0UmU4Zks3ZFpYZ1Q1ZXo2Wkg=@mx2.drawnrisha.one:55988#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "185.5.38.111",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTc2a0FtZkx3ZE5wQ3RmV1h4bzNQbWlqZ0tUb0VZblZOVVo3V3FxOFhnYk04TkJCOEdjdmt0V2RhRzc3WmtHMXo2YXdRZVRLRkZpbjQ0UmU4Zks3ZFpYZ1Q1ZXo2Wkg=@mx2.drawnrisha.one:55988#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+      "rebuilt": "vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&amp;encryption=none&amp;pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=c652cfc9741bf773#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "vless",
@@ -67,14 +38,29 @@
       "port": "24542",
       "id": "1971ec0f-fa37-4112-9b4e-4952e84df2a9",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "original": "vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-3",
       "ip": "65.109.220.223",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5"
+      "rebuilt": "vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+    },
+    {
+      "type": "vless",
+      "address": "171.22.114.248",
+      "port": "27394",
+      "id": "00b0d4de-b126-4511-87c1-8f1feb462fa6",
+      "name": "Cyprus WorkTitans",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "171.22.114.248",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#vless-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     }
   ]
 }
