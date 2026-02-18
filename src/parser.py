@@ -107,15 +107,14 @@ class ConfigParser:
     @staticmethod
     def _parse_vless(config: str) -> Optional[Dict]:
         """
-        Parse VLESS config (جدید و پایدارتر)
+        Parse VLESS config (پایدار و کامل‌تر)
 
-        از urlparse + parse_qs استفاده می‌کنیم تا:
-        - IPv4 / IPv6 / دامنه را درست بخوانیم
-        - پارامترهایی مثل type (network)، sni، host را از query برداریم
-        - fragment (بعد از #) را به‌عنوان name بخوانیم
+        - از urlparse + parse_qs استفاده می‌کند
+        - فیلدهای اضافی را هم برمی‌گرداند:
+          network(type), security, encryption, flow, headerType, fingerprint, sni, host
         """
         try:
-            # اگر از HTML تلگرام آمده باشد، &amp; و ... را به & و ... برمی‌گردانیم
+            # اگر از HTML (تلگرام) آمده باشد، &amp; و ... را به شکل عادی برمی‌گردانیم
             cfg_str = html.unescape(config)
             parsed = urlparse(cfg_str)
 
@@ -133,18 +132,33 @@ class ConfigParser:
             name = ConfigParser._clean_name(name)
 
             # پارامترهای query
-            params = parse_qs(parsed.query)
+            params = parse_qs(parsed.query or '')
 
-            # network type: tcp, ws, grpc, ...
-            network = params.get('type', [''])[0]
+            # network type: tcp, ws, grpc, xhttp, ...
+            network = params.get('type', [''])[0].lower()
+
+            # security: tls, reality, ...
+            security = params.get('security', [''])[0].lower()
+
+            # flow (برای reality و ... )
+            flow = params.get('flow', [''])[0]
+
+            # encryption: none, ...
+            encryption = params.get('encryption', [''])[0].lower()
+
+            # headerType: http, none, ...
+            header_type = params.get('headerType', [''])[0].lower()
+
+            # fingerprint: chrome, firefox, ...
+            fingerprint = params.get('fp', params.get('fingerprint', ['']))[0].lower()
 
             # sni
             sni = params.get('sni', [''])[0]
 
-            # header host (بعضی لینک‌ها به‌جای host از authority استفاده می‌کنند)
+            # header host / authority
             host_header = params.get('host', [''])[0] or params.get('authority', [''])[0]
 
-            # در برخی لینک‌های خاص، uuid ممکن است در query با کلید id آمده باشد
+            # در برخی لینک‌ها uuid در query با id آمده
             if not uuid:
                 uuid = params.get('id', [''])[0]
 
@@ -157,6 +171,11 @@ class ConfigParser:
                 'network': network,
                 'sni': sni,
                 'host': host_header,
+                'security': security,
+                'flow': flow,
+                'encryption': encryption,
+                'headerType': header_type,
+                'fingerprint': fingerprint,
                 'original': config
             }
 
@@ -219,7 +238,6 @@ class ConfigParser:
                 else:
                     return None
 
-                # دیکد کردن بخش متد و پسورد
                 decoded_info = ConfigParser._safe_base64_decode(user_info_raw)
 
             else:
