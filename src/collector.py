@@ -70,7 +70,8 @@ class ConfigCollector:
                     try:
                         response = self.session.get(url, timeout=CONNECTION_TIMEOUT)
                         if response.status_code == 200:
-                            extracted = self._extract_configs(response.text)
+                            # این منابع معمولاً متن خالص هستند
+                            extracted = self._extract_configs_from_text(response.text)
                             configs.update(extracted)
                             logger.info(f"Found {len(extracted)} configs from {url}")
                             break
@@ -92,12 +93,17 @@ class ConfigCollector:
         for channel in TELEGRAM_CHANNELS:
             try:
                 response = self.session.get(channel, timeout=CONNECTION_TIMEOUT)
-                if response.status_code == 200:
-                    # برای تلگرام، متن HTML کامل را می‌گیریم و مستقیم به _extract_configs می‌دهیم
-                    # (همان روش قبلی، فقط regex دقیق‌تر شده است)
-                    extracted = self._extract_configs(response.text)
-                    configs.update(extracted)
-                    logger.info(f"Found {len(extracted)} configs from {channel}")
+                if response.status_code != 200:
+                    continue
+
+                # ۱. HTML را parse می‌کنیم
+                soup = BeautifulSoup(response.text, 'html.parser')
+                # ۲. متن خالصی که کاربر می‌بیند
+                text_content = soup.get_text(separator=' ')
+                # ۳. روی متن خالص regex می‌زنیم (نه روی HTML خام)
+                extracted = self._extract_configs_from_text(text_content)
+                configs.update(extracted)
+                logger.info(f"Found {len(extracted)} configs from {channel}")
             except Exception as e:
                 logger.error(f"Error collecting from Telegram {channel}: {e}")
                 continue
@@ -113,7 +119,7 @@ class ConfigCollector:
             try:
                 response = self.session.get(api_url, timeout=CONNECTION_TIMEOUT)
                 if response.status_code == 200:
-                    extracted = self._extract_configs(response.text)
+                    extracted = self._extract_configs_from_text(response.text)
                     configs.update(extracted)
                     logger.info(f"Found {len(extracted)} configs from {api_url}")
             except Exception as e:
@@ -137,7 +143,7 @@ class ConfigCollector:
                 if response.status_code == 200:
                     soup = BeautifulSoup(response.text, 'html.parser')
                     text_content = soup.get_text(separator=' ')
-                    extracted = self._extract_configs(text_content)
+                    extracted = self._extract_configs_from_text(text_content)
                     configs.update(extracted)
                     logger.info(f"Found {len(extracted)} configs from {url}")
             except Exception as e:
@@ -146,33 +152,27 @@ class ConfigCollector:
         
         return configs
     
-    def _extract_configs(self, text: str) -> Set[str]:
-        """Extract proxy configs from text/HTML using regex patterns"""
-        configs = set()
+    def _extract_configs_from_text(self, text: str) -> Set[str]:
+        """Extract proxy configs from plain text using regex patterns"""
+        configs: Set[str] = set()
         
         try:
             # ترتیب مهم است: اول vmess/vless/trojan، بعد ss
             patterns = [
-                # VMESS: معمولاً base64 کل json است
-                r'vmess://[A-Za-z0-9_\-=]+',
-                
-                # VLESS: هر چیزی تا قبل از فاصله/کوتیشن/<
-                r'vless://[^\s"\'<]+',
-                
+                # VMESS
+                r'vmess://\S+',
+                # VLESS
+                r'vless://\S+',
                 # TROJAN
-                r'trojan://[^\s"\'<]+',
-                
-                # SS: دقت بالا → وسط vless/vmess match نشود
-                # (?<!vle)(?<!vme) یعنی قبل از ss:// سه کاراکتر vle یا vme نباشد
-                r'(?<!vle)(?<!vme)ss://[^\s"\'<]+',
-                
-                # SSR: مثل vmess معمولاً base64 ساده
-                r'ssr://[A-Za-z0-9_\-=]+',
-                
+                r'trojan://\S+',
+                # SS: جلوگیری از match وسط vless/vmess
+                r'(?<!vle)(?<!vme)ss://\S+',
+                # SSR
+                r'ssr://\S+',
                 # سایر پروتکل‌ها
-                r'hysteria://[^\s"\'<]+',
-                r'hysteria2://[^\s"\'<]+',
-                r'tuic://[^\s"\'<]+',
+                r'hysteria://\S+',
+                r'hysteria2://\S+',
+                r'tuic://\S+',
             ]
             
             for pattern in patterns:
@@ -180,6 +180,6 @@ class ConfigCollector:
                 configs.update(matches)
         
         except Exception as e:
-            logger.error(f"Error extracting configs: {e}")
+            logger.error(f"Error extracting configs from text: {e}")
         
         return configs
