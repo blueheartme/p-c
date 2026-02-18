@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-18T08:38:31.459456",
-  "count": 1,
+  "updated": "2026-02-18T09:30:21.385996",
+  "count": 2,
   "configs": [
     {
       "type": "vmess",
@@ -16,6 +16,26 @@
       "country": "IN",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+    },
+    {
+      "type": "vless",
+      "address": "pq-india1.09vpn.com",
+      "port": "80",
+      "id": "5a54a377-a9d3-4ea5-b7b0-17bd899e202d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "45.89.105.56",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
