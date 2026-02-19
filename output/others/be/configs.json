@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T08:37:39.081082",
+  "updated": "2026-02-19T16:44:51.287133",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "151.101.9.81",
+      "address": "cdn1.sohacase.ir",
       "port": "80",
-      "id": "e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83",
+      "id": "2056aaf3-7e69-41fa-b43d-b658d789d2cf",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
+      "network": "xhttp",
       "sni": "",
-      "host": "moodaontw.global.ssl.fastly.net",
+      "host": "italiano.vpconnec.org",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%2F%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=moodaontw.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-2",
-      "ip": "151.101.9.81",
+      "original": "vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=italiano.vpconnec.org&type=xhttp#vless-xhttp-BE%F0%9F%8C%90-2",
+      "ip": "151.101.9.80",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%2F%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=moodaontw.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-2"
+      "rebuilt": "vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=italiano.vpconnec.org&type=xhttp#vless-xhttp-BE%F0%9F%8C%90-2"
     }
   ]
 }

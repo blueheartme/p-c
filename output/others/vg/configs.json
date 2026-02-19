@@ -1,21 +1,26 @@
 {
-  "updated": "2026-01-17T01:14:31.105923",
+  "updated": "2026-02-19T16:44:51.292394",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "203.32.121.53",
-      "port": "443",
-      "id": "40765c5b-5713-4d4c-9a68-0e1eca7bfa96",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><i",
-      "network": "",
-      "sni": "",
-      "host": "",
-      "original": "vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@203.32.121.53:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#vless-tcp-tls-VG%F0%9F%8C%90-1",
-      "ip": "203.32.121.53",
+      "address": "104.234.239.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-VG%F0%9F%8C%90-1",
+      "ip": "104.234.239.238",
       "country": "VG",
       "cdn": null,
-      "rebuilt": "vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@203.32.121.53:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#vless-tcp-tls-VG%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-VG%F0%9F%8C%90-1"
     }
   ]
 }
