@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-18T16:57:15.830512",
+  "updated": "2026-02-19T08:37:39.083961",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "cdnuser2048mb.wrongguy.ir",
-      "port": "2083",
-      "id": "1e7215d7-3d4c-471b-8034-7fd953db251c",
+      "address": "192.65.217.138",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "cdnuser.wrongguy.ir",
-      "host": "",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "103.160.204.191",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "192.65.217.138",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

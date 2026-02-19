@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-19T01:46:34.006401",
-  "count": 3,
+  "updated": "2026-02-19T08:37:39.070110",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "f3.fastspeeds.ir",
-      "port": "2087",
-      "id": "7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "ns5.mehrsazi.ir",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#vless-ws-tls-chrome-CR%F0%9F%8C%90-2",
-      "ip": "190.93.245.187",
-      "country": "CR",
-      "cdn": null,
-      "rebuilt": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#vless-ws-tls-chrome-CR%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "190.93.245.94",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-CR%F0%9F%8C%90-3",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-CR%F0%9F%8C%90-2",
       "ip": "190.93.245.94",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-CR%F0%9F%8C%90-3"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-CR%F0%9F%8C%90-2"
     }
   ]
 }
