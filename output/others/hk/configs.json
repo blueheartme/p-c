@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-18T16:57:15.804181",
-  "count": 5,
+  "updated": "2026-02-19T01:46:33.998477",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "192.142.4.76",
-      "port": "2053",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.142.4.76:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "192.142.4.76",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.142.4.76:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -30,11 +10,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "vmess",
@@ -45,51 +25,31 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI4LjIxNy4xMy43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjFhZDZjNy01OTg3LTQzMTQtODJiYi1iNDM5OTA0MGQwNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTc2OSIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiI4LjIxNy4xMy43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjFhZDZjNy01OTg3LTQzMTQtODJiYi1iNDM5OTA0MGQwNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTc2OSIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
       "ip": "8.217.13.74",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4LjIxNy4xMy43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjFhZDZjNy01OTg3LTQzMTQtODJiYi1iNDM5OTA0MGQwNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTc2OSIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiI4LjIxNy4xMy43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjFhZDZjNy01OTg3LTQzMTQtODJiYi1iNDM5OTA0MGQwNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTc2OSIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },
     {
       "type": "vless",
-      "address": "68.64.176.135",
-      "port": "443",
+      "address": "104.129.164.238",
+      "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@68.64.176.135:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "68.64.176.135",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "104.129.164.238",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@68.64.176.135:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
-    },
-    {
-      "type": "vless",
-      "address": "8.223.63.150",
-      "port": "443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5",
-      "ip": "8.223.63.150",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }

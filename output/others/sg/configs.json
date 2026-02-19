@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-18T16:57:15.812643",
-  "count": 3,
+  "updated": "2026-02-19T01:46:34.010998",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -34,26 +34,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
-    },
-    {
-      "type": "vless",
-      "address": "139.99.124.165",
-      "port": "443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.99.124.165:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "139.99.124.165",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.99.124.165:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T16:57:15.814258",
+  "updated": "2026-02-19T01:46:34.006401",
   "count": 3,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "190.93.246.138",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "address": "f3.fastspeeds.ir",
+      "port": "2087",
+      "id": "7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
+      "sni": "ns5.mehrsazi.ir",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-CR%F0%9F%8C%90-2",
-      "ip": "190.93.246.138",
+      "original": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#vless-ws-tls-chrome-CR%F0%9F%8C%90-2",
+      "ip": "190.93.245.187",
       "country": "CR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-CR%F0%9F%8C%90-2"
+      "rebuilt": "vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#vless-ws-tls-chrome-CR%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
