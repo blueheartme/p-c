@@ -1,41 +1,26 @@
 {
-  "updated": "2026-02-18T09:30:21.385996",
-  "count": 2,
+  "updated": "2026-02-20T08:34:48.645635",
+  "count": 1,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "20.193.153.19",
-      "port": "15834",
-      "id": "39a8c374-76b1-4e90-ab85-85cd9a42ded2",
-      "name": "🇮🇷 IR 30 @Outline_Vpn",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "20.193.153.19",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUlO8J+HrvCfh7MtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
-    },
     {
       "type": "vless",
       "address": "pq-india1.09vpn.com",
       "port": "80",
-      "id": "5a54a377-a9d3-4ea5-b7b0-17bd899e202d",
+      "id": "05b544a4-d479-4ba4-8208-950bd4411453",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
       "sni": "",
-      "host": "",
+      "host": "pq-india1.09vpn.com",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "original": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&host=pq-india1.09vpn.com&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
       "ip": "45.89.105.56",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&host=pq-india1.09vpn.com&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-20T01:30:03.740339",
-  "count": 4,
+  "updated": "2026-02-20T08:34:48.631399",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "weirdoweb.xyz",
-      "port": "443",
-      "id": "7f86227e-c630-4a24-9160-b80d16bb37c8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "raw",
-      "sni": "www.weirdoweb.xyz",
-      "host": "",
-      "security": "tls",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&alpn=h2%2Chttp%2F1.1&insecure=1&type=raw&headertype=none#vless-xtls-rprx-vision-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "5.180.78.28",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&alpn=h2%2Chttp%2F1.1&insecure=1&type=raw&headertype=none#vless-xtls-rprx-vision-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "ss",
       "address": "31.192.234.199",
@@ -37,26 +17,6 @@
     },
     {
       "type": "vless",
-      "address": "158.178.234.153",
-      "port": "18757",
-      "id": "d10b0612-2b05-47c2-99c1-53f0b109d07d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?encryption=none&security=none&type=ws&path=%2F#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "158.178.234.153",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?encryption=none&security=none&type=ws&path=%2F#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-3"
-    },
-    {
-      "type": "vless",
       "address": "47.82.6.36",
       "port": "51164",
       "id": "d29a7cee-acd1-4821-adbf-517f8681040e",
@@ -69,11 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4",
+      "original": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "47.82.6.36",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-4"
+      "rebuilt": "vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

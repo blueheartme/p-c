@@ -1,46 +1,26 @@
 {
-  "updated": "2026-02-20T01:30:03.759919",
-  "count": 2,
+  "updated": "2026-02-20T08:34:48.627985",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "146.56.99.255",
-      "port": "56789",
+      "address": "144.24.90.107",
+      "port": "443",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.255:56789?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "146.56.99.255",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.90.107:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "144.24.90.107",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.255:56789?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "150.109.236.191",
-      "port": "25565",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.109.236.191:25565?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2",
-      "ip": "150.109.236.191",
-      "country": "KR",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.109.236.191:25565?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.90.107:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-02-20T01:30:03.752444",
-  "count": 1,
+  "updated": "2026-02-20T08:34:48.641136",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.140.0.74",
+      "port": "2087",
+      "id": "dca945d2-6d9b-434f-8754-3626a6a75e21",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "aza002.vaslbash.site",
+      "host": "aza002.vaslbash.site",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.74",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#vless-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "v2shop-dubai1.bing-net.com",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "original": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "217.195.200.22",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
