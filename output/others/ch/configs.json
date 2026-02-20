@@ -1,26 +1,20 @@
 {
-  "updated": "2026-02-18T16:57:15.827415",
+  "updated": "2026-02-20T01:30:03.760776",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "ch-4.hwowst.ru",
+      "type": "trojan",
+      "address": "185.18.250.252",
       "port": "443",
-      "id": "6e44b298-a091-4433-af5e-c89afd438c98",
-      "name": "🇮🇷 IR 32 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.samsung.com",
+      "password": "humanity",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "sni": "www.gossipglove.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "199.68.196.94",
+      "original": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

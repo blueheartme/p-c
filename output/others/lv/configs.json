@@ -1,7 +1,27 @@
 {
-  "updated": "2026-02-19T16:44:51.296916",
-  "count": 1,
+  "updated": "2026-02-20T01:30:03.751578",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "176.120.67.169",
+      "port": "443",
+      "id": "2749534e-8bd1-45cf-8b17-c28bed9236c0",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "wikimedia.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
+      "ip": "176.120.67.169",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "parsaprivae.isgood.host",
+      "port": "22750",
+      "id": "cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3",
+      "ip": "169.40.2.234",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3"
     }
   ]
 }

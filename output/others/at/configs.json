@@ -1,19 +1,26 @@
 {
-  "updated": "2026-02-07T01:27:56.820913",
+  "updated": "2026-02-20T01:30:03.753308",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "152.53.51.24",
-      "port": "22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun",
-      "method": "",
-      "password": "",
-      "name": "德國",
-      "original": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "152.53.51.24",
+      "type": "vless",
+      "address": "212.183.88.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "212.183.88.238",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#ss-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#vless-ws-tls-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

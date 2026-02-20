@@ -1,35 +1,7 @@
 {
-  "updated": "2026-02-19T16:44:51.290323",
+  "updated": "2026-02-20T01:30:03.757134",
   "count": 3,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "tr1-smart.adelping.com",
-      "port": "80",
-      "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-      "name": "🇮🇷 IR 50 @Outline_Vpn",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "ip": "185.104.189.38",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
-    },
-    {
-      "type": "ss",
-      "address": "62.133.63.167",
-      "port": "61377",
-      "method": "chacha20-ietf-poly1305",
-      "password": "E12yZBPC7y8SnmkSYjf0Wl",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "62.133.63.167",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
-    },
     {
       "type": "ss",
       "address": "94.131.123.86",
@@ -42,6 +14,41 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn"
+    },
+    {
+      "type": "vmess",
+      "address": "tr1-smart.adelping.com",
+      "port": "80",
+      "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "name": "🇮🇷 IR 50 @Outline_Vpn",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "ip": "185.104.189.38",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+    },
+    {
+      "type": "vless",
+      "address": "77.83.245.189",
+      "port": "27414",
+      "id": "94712dd9-17d8-4813-a118-cc487fadd137",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414?security=reality&encryption=none&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=1ba8b4cd54627171#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "77.83.245.189",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414?security=reality&encryption=none&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=1ba8b4cd54627171#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
