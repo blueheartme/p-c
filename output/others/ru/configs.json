@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-21T01:28:13.969689",
-  "count": 4,
+  "updated": "2026-02-21T08:24:28.070398",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
-      "address": "212.111.84.187",
-      "port": "51102",
-      "id": "c9246b70-3eca-4825-84b0-16c32e3124a7",
-      "name": "🛡 V 6 @Outline_Vpn",
+      "address": "37.139.34.145",
+      "port": "8443",
+      "id": "11e41a32-6672-48a0-b9cb-c8694242ecff",
+      "name": "🛡 V 12 @Outline_Vpn",
       "network": "tcp",
       "sni": "m.vk.ru",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "212.111.84.187",
+      "original": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1",
+      "ip": "37.139.34.145",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
+      "rebuilt": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
     },
     {
       "type": "vless",
@@ -44,10 +44,30 @@
     },
     {
       "type": "vless",
-      "address": "37.139.34.145",
+      "address": "netherland.boot-lee.ru",
       "port": "8443",
-      "id": "11e41a32-6672-48a0-b9cb-c8694242ecff",
-      "name": "🛡 V 12 @Outline_Vpn",
+      "id": "05dc09d5-5c56-454b-a34e-6ef743d91e1a",
+      "name": "🇮🇷 IR 57 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-3",
+      "ip": "83.166.232.86",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+    },
+    {
+      "type": "vless",
+      "address": "212.111.84.187",
+      "port": "51102",
+      "id": "c9246b70-3eca-4825-84b0-16c32e3124a7",
+      "name": "🛡 V 6 @Outline_Vpn",
       "network": "tcp",
       "sni": "m.vk.ru",
       "host": "",
@@ -56,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
-      "ip": "37.139.34.145",
+      "original": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "ip": "212.111.84.187",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4"
     },
     {
       "type": "vless",
@@ -76,11 +96,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@alixtso#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@alixtso#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-5",
       "ip": "45.144.31.45",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@alixtso#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@alixtso#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-5"
     }
   ]
 }
