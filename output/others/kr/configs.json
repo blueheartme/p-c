@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-21T08:24:28.096961",
+  "updated": "2026-02-21T16:22:29.348120",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "64.110.70.205",
-      "port": "23022",
+      "address": "158.180.69.78",
+      "port": "12198",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.70.205:23022?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "64.110.70.205",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.69.78:12198?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "158.180.69.78",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.70.205:23022?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.69.78:12198?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }
