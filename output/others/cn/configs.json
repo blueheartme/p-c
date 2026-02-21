@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-20T16:31:53.700988",
-  "count": 2,
+  "updated": "2026-02-21T01:28:13.972383",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,21 +21,6 @@
       "country": "CN",
       "cdn": null,
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-chrome-CN%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vmess",
-      "address": "v12.hdacd.com",
-      "port": "30812",
-      "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "name": "t.me/entryNET",
-      "network": "tcp",
-      "host": "snippets.kkii.eu.org",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtdGNwLUNO8J+MkC0yIiwiYWRkIjoidjEyLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgxMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0Ijoic25pcHBldHMua2tpaS5ldS5vcmciLCJ0bHMiOiIifQ==",
-      "ip": "144.48.186.105",
-      "country": "CN",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtdGNwLUNO8J+MkC0yIiwiYWRkIjoidjEyLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgxMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0Ijoic25pcHBldHMua2tpaS5ldS5vcmciLCJ0bHMiOiIifQ=="
     }
   ]
 }
