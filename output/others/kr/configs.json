@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-21T16:22:29.348120",
+  "updated": "2026-02-22T16:23:19.930619",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "158.180.69.78",
-      "port": "12198",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "address": "8.213.137.24",
+      "port": "443",
+      "id": "58877aea-dfdc-44b3-818e-231dbc1e47dc",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.jpmj.dev",
-      "host": "sni.jpmj.dev",
+      "sni": "hk.xujiang.link",
+      "host": "hk.xujiang.link",
       "security": "tls",
       "flow": "",
-      "encryption": "none",
+      "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.69.78:12198?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "158.180.69.78",
+      "original": "vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@8.213.137.24:443?security=tls&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=%2Faa#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "8.213.137.24",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.69.78:12198?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@8.213.137.24:443?security=tls&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=%2Faa#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }

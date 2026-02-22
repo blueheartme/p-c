@@ -1,16 +1,16 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-02-22 08:25:52 UTC
+**Last Updated:** 2026-02-22 16:23:19 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 231
-- **Tested & Working:** 35
+- **Total Configs:** 229
+- **Tested & Working:** 31
 - **Countries:** 25
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 28
+- **Total:** 20
 - **Tested:** 15
 
 ### 📥 Download Links:
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 49
-- **Tested:** 20
+- **Total:** 46
+- **Tested:** 16
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -32,16 +32,8 @@
 
 ## 🌍 Other Countries
 
-### 🇦🇪 AE
-- **Count:** 1
-- [JSON](others/ae/configs.json) | [TXT](others/ae/configs.txt) | [Subscription](others/ae/subscription.txt)
-
-### 🌐 BE
-- **Count:** 1
-- [JSON](others/be/configs.json) | [TXT](others/be/configs.txt) | [Subscription](others/be/subscription.txt)
-
 ### 🇨🇦 CA
-- **Count:** 1
+- **Count:** 2
 - [JSON](others/ca/configs.json) | [TXT](others/ca/configs.txt) | [Subscription](others/ca/subscription.txt)
 
 ### 🌐 CN
@@ -49,23 +41,27 @@
 - [JSON](others/cn/configs.json) | [TXT](others/cn/configs.txt) | [Subscription](others/cn/subscription.txt)
 
 ### 🌐 CR
-- **Count:** 1
+- **Count:** 3
 - [JSON](others/cr/configs.json) | [TXT](others/cr/configs.txt) | [Subscription](others/cr/subscription.txt)
 
+### 🌐 CW
+- **Count:** 1
+- [JSON](others/cw/configs.json) | [TXT](others/cw/configs.txt) | [Subscription](others/cw/subscription.txt)
+
 ### 🇫🇮 FI
-- **Count:** 2
+- **Count:** 3
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
-- **Count:** 22
+- **Count:** 27
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
-- **Count:** 4
+- **Count:** 7
 - [JSON](others/gb/configs.json) | [TXT](others/gb/configs.txt) | [Subscription](others/gb/subscription.txt)
 
 ### 🇭🇰 HK
-- **Count:** 6
+- **Count:** 3
 - [JSON](others/hk/configs.json) | [TXT](others/hk/configs.txt) | [Subscription](others/hk/subscription.txt)
 
 ### 🌐 HU
@@ -80,44 +76,48 @@
 - **Count:** 1
 - [JSON](others/im/configs.json) | [TXT](others/im/configs.txt) | [Subscription](others/im/subscription.txt)
 
-### 🌐 IT
-- **Count:** 1
-- [JSON](others/it/configs.json) | [TXT](others/it/configs.txt) | [Subscription](others/it/subscription.txt)
-
 ### 🇯🇵 JP
 - **Count:** 4
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
+
+### 🇰🇷 KR
+- **Count:** 1
+- [JSON](others/kr/configs.json) | [TXT](others/kr/configs.txt) | [Subscription](others/kr/subscription.txt)
+
+### 🌐 KZ
+- **Count:** 1
+- [JSON](others/kz/configs.json) | [TXT](others/kz/configs.txt) | [Subscription](others/kz/subscription.txt)
 
 ### 🌐 LT
 - **Count:** 1
 - [JSON](others/lt/configs.json) | [TXT](others/lt/configs.txt) | [Subscription](others/lt/subscription.txt)
 
 ### 🌐 LV
-- **Count:** 2
+- **Count:** 1
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
 ### 🇳🇱 NL
-- **Count:** 13
+- **Count:** 11
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
-
-### 🇵🇱 PL
-- **Count:** 1
-- [JSON](others/pl/configs.json) | [TXT](others/pl/configs.txt) | [Subscription](others/pl/subscription.txt)
 
 ### 🇷🇺 RU
 - **Count:** 5
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
 
-### 🇸🇬 SG
+### 🌐 SC
 - **Count:** 2
+- [JSON](others/sc/configs.json) | [TXT](others/sc/configs.txt) | [Subscription](others/sc/subscription.txt)
+
+### 🇸🇬 SG
+- **Count:** 1
 - [JSON](others/sg/configs.json) | [TXT](others/sg/configs.txt) | [Subscription](others/sg/subscription.txt)
 
 ### 🇹🇷 TR
-- **Count:** 3
+- **Count:** 4
 - [JSON](others/tr/configs.json) | [TXT](others/tr/configs.txt) | [Subscription](others/tr/subscription.txt)
 
 ### 🇺🇸 US
-- **Count:** 79
+- **Count:** 81
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
 
 ### 🌐 VN

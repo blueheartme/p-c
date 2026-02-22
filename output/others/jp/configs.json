@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T08:25:52.859450",
+  "updated": "2026-02-22T16:23:19.922298",
   "count": 4,
   "configs": [
     {
@@ -24,22 +24,22 @@
     },
     {
       "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
+      "address": "kuame.missionsec.us",
+      "port": "443",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
-      "ip": "160.16.107.37",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
     },
     {
       "type": "vless",
-      "address": "138.2.10.149",
-      "port": "45638",
+      "address": "140.83.83.65",
+      "port": "9872",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
@@ -50,25 +50,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3",
-      "ip": "138.2.10.149",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.83.65:9872?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "140.83.83.65",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.83.65:9872?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
-      "address": "kuame.missionsec.us",
-      "port": "443",
-      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
-      "name": "Japan Klayer LLC",
-      "sni": "kuame.missionsec.us",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
-      "ip": "93.93.246.88",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "160.16.107.37",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     }
   ]
 }
