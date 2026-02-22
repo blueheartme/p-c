@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-21T16:22:29.340121",
-  "count": 1,
+  "updated": "2026-02-22T01:44:56.003445",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "FI",
       "cdn": null,
       "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
+    {
+      "type": "vless",
+      "address": "my.kiomars.shop",
+      "port": "6664",
+      "id": "32e97345-6a66-4810-9821-82f07a0e2d6c",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "46.62.243.149",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }
