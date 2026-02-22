@@ -1,7 +1,27 @@
 {
-  "updated": "2026-02-22T01:44:56.003445",
+  "updated": "2026-02-22T08:25:52.869989",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "shop.afraserver3.top",
+      "port": "7320",
+      "id": "9b6d18ea-f2ed-4065-813d-66f9fc447718",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "skyroom.online",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://9b6d18ea-f2ed-4065-813d-66f9fc447718@shop.afraserver3.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "157.180.28.17",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://9b6d18ea-f2ed-4065-813d-66f9fc447718@shop.afraserver3.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
     {
       "type": "vless",
       "address": "171.22.114.248",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "vless",
-      "address": "my.kiomars.shop",
-      "port": "6664",
-      "id": "32e97345-6a66-4810-9821-82f07a0e2d6c",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "46.62.243.149",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }
