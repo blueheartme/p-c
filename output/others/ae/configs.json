@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-22T08:25:52.873833",
+  "updated": "2026-02-23T16:50:27.352832",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "v2shop-dubai1.bing-net.com",
-      "port": "3038",
-      "id": "a08141af-6dcc-415f-bb86-b90455cc3ab8",
-      "name": "🇮🇷 IR 53 @Outline_Vpn",
+      "address": "185.208.79.133",
+      "port": "38463",
+      "id": "9706248e-259e-4738-9cde-a3f7e11be4b8",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
       "sni": "",
-      "host": "www.varzesh3.com",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "217.195.200.22",
+      "original": "vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "185.208.79.133",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://a08141af-6dcc-415f-bb86-b90455cc3ab8@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

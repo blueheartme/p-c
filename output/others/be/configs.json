@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-22T08:25:52.860330",
+  "updated": "2026-02-23T16:50:27.363132",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "151.101.9.80",
+      "address": "151.101.9.67",
       "port": "80",
-      "id": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
-      "name": "🇮🇷 IR 52 @Outline_Vpn",
+      "id": "daac11cb-7acd-40fa-ae53-2af2d5993878",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
       "sni": "",
-      "host": "adspeedx23.global.ssl.fastly.net",
+      "host": "arps.global.ssl.fastly.net",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1",
-      "ip": "151.101.9.80",
+      "original": "vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1",
+      "ip": "151.101.9.67",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1"
+      "rebuilt": "vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,19 +1,26 @@
 {
-  "updated": "2026-02-22T08:25:52.872293",
+  "updated": "2026-02-23T16:50:27.359006",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "57.131.41.129",
-      "port": "8390",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=",
-      "name": "🇮🇷 IR 107 @Outline_Vpn",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#%F0%9F%87%AE%F0%9F%87%B7%20IR%20107%20%40Outline_Vpn",
-      "ip": "57.131.41.129",
+      "type": "vless",
+      "address": "95.164.46.235",
+      "port": "443",
+      "id": "57acb7dc-4029-4ec6-ac38-67202505a1d3",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "it-full.privateip.net",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://57acb7dc-4029-4ec6-ac38-67202505a1d3@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#vless-ws-tls-IT%F0%9F%8C%90-1",
+      "ip": "95.164.46.235",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#%F0%9F%87%AE%F0%9F%87%B7%20IR%20107%20%40Outline_Vpn"
+      "rebuilt": "vless://57acb7dc-4029-4ec6-ac38-67202505a1d3@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#vless-ws-tls-IT%F0%9F%8C%90-1"
     }
   ]
 }
