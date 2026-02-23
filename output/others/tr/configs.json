@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-22T16:23:19.927534",
-  "count": 4,
+  "updated": "2026-02-23T01:46:01.297148",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "213.238.180.218",
-      "port": "9090",
-      "id": "0e6d4c0a-485b-86df-90d9-069807fcc559",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "p30afzar.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://0e6d4c0a-485b-86df-90d9-069807fcc559@213.238.180.218:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "213.238.180.218",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://0e6d4c0a-485b-86df-90d9-069807fcc559@213.238.180.218:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "94.131.123.86",
@@ -34,46 +14,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn"
-    },
-    {
-      "type": "vless",
-      "address": "tr.prod.n7.homes",
-      "port": "8443",
-      "id": "010c8bf7-0a43-404f-a6c5-2427acb4d476",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "sun6-21.userapi.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "38.180.112.88",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "tr2node.lalash-server.click",
-      "port": "8080",
-      "id": "8d5395b3-eb4a-45d3-93cf-d3da236e07ac",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&encryption=none&pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=abc6c826d165#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "103.83.87.41",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?security=reality&encryption=none&pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=abc6c826d165#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }

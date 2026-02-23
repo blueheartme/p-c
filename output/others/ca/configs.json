@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-22T16:23:19.923277",
-  "count": 2,
+  "updated": "2026-02-23T01:46:01.283475",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,21 +21,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.183.69.126:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=wikipedia.org&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vmess",
-      "address": "15.235.85.147",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "t.me/entryNET",
-      "network": "ws",
-      "host": "pelang.org",
-      "sni": "pelang.org",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0yIiwiYWRkIjoiMTUuMjM1Ljg1LjE0NyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwZWxhbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwZWxhbmcub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=",
-      "ip": "15.235.85.147",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy10bHMtQ0Hwn4eo8J+Hpi0yIiwiYWRkIjoiMTUuMjM1Ljg1LjE0NyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwZWxhbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwZWxhbmcub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0="
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-22T16:23:19.933726",
-  "count": 1,
+  "updated": "2026-02-23T01:46:01.294724",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "86.38.214.15",
+      "port": "80",
+      "id": "ac41bbc1-5f69-4aca-a295-4114b15e1b1b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "",
+      "host": "1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.15:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2056#vless-ws-LT%F0%9F%8C%90-2",
+      "ip": "86.38.214.15",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.15:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir&path=%2F%40Proxy_MTM-%40Proxy_MTM-%40Proxy_MTM-Proxy_%40MTM%3Fed%3D2056#vless-ws-LT%F0%9F%8C%90-2"
     }
   ]
 }
