@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T01:43:33.082850",
+  "updated": "2026-02-24T08:39:56.446084",
   "count": 4,
   "configs": [
     {
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "212.111.84.187",
-      "port": "51102",
-      "id": "c9246b70-3eca-4825-84b0-16c32e3124a7",
-      "name": "🛡 V 6 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "m.vk.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
-      "ip": "212.111.84.187",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
-    },
-    {
-      "type": "vless",
       "address": "178.154.207.153",
       "port": "443",
       "id": "5c430300-999a-4df3-97d2-50b2c53adf28",
@@ -76,11 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
       "ip": "178.154.207.153",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4"
+      "rebuilt": "vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+    },
+    {
+      "type": "vless",
+      "address": "212.111.84.187",
+      "port": "51102",
+      "id": "c9246b70-3eca-4825-84b0-16c32e3124a7",
+      "name": "🛡 V 6 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "m.vk.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "ip": "212.111.84.187",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4"
     }
   ]
 }

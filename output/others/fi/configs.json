@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-24T01:43:33.089365",
-  "count": 3,
+  "updated": "2026-02-24T08:39:56.439279",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "http.tostar.ir",
-      "port": "443",
-      "id": "796d1abf-3380-4ad3-9c0f-11575e621023",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "httpupgrade",
-      "sni": "http.tostar.ir",
-      "host": "http.tostar.ir",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=%2FUdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#vless-httpupgrade-tls-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "135.181.98.196",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=%2FUdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#vless-httpupgrade-tls-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
-    },
-    {
-      "type": "vless",
       "address": "my.kiomars.shop",
       "port": "6665",
       "id": "1b646fd4-c911-4c3f-b66a-420c1fa33e6c",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@my.kiomars.shop:6665?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "46.62.148.54",
+      "original": "vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@my.kiomars.shop:6665?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "46.62.154.223",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@my.kiomars.shop:6665?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@my.kiomars.shop:6665?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#vless-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }
