@@ -1,7 +1,41 @@
 {
-  "updated": "2026-02-23T16:50:27.351961",
+  "updated": "2026-02-24T01:43:33.088311",
   "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "z13.prodnsspeed10.ir",
+      "port": "443",
+      "id": "1c43ddec-1531-4763-bb5e-2577ce192fac",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "xhttp",
+      "sni": "SHARAF.followerarzon1.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://1c43ddec-1531-4763-bb5e-2577ce192fac@Z13.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#vless-xhttp-tls-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "45.192.223.89",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://1c43ddec-1531-4763-bb5e-2577ce192fac@Z13.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#vless-xhttp-tls-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
     {
       "type": "vless",
       "address": "95.214.181.51",
@@ -16,45 +50,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "95.214.181.51",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vless",
-      "address": "47.76.214.139",
-      "port": "2053",
-      "id": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "cfed.tgzdyz2.top",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.214.139:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "47.76.214.139",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.214.139:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
