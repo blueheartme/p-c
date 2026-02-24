@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-21T16:22:29.335360",
+  "updated": "2026-02-24T17:00:19.622969",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "170.64.238.91",
-      "port": "39218",
-      "id": "fcbead98-fef8-4707-bd4f-1278935c9a44",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "",
+      "address": "103.169.142.239",
+      "port": "443",
+      "id": "48198295-b7ba-4b5c-8d85-085d55a6c869",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "xin626.ylks.link",
       "host": "",
-      "security": "none",
+      "security": "tls",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "170.64.238.91",
+      "original": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&sni=xin626.ylks.link&type=ws&path=%2Fblue#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "103.169.142.239",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.239:443?security=tls&sni=xin626.ylks.link&type=ws&path=%2Fblue#vless-ws-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
