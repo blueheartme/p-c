@@ -1,21 +1,7 @@
 {
-  "updated": "2026-02-24T17:00:19.609546",
-  "count": 4,
+  "updated": "2026-02-25T01:45:53.944198",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vmess",
       "address": "8.210.79.212",
@@ -25,51 +11,25 @@
       "network": "ws",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
       "ip": "8.210.79.212",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
     },
     {
-      "type": "vless",
-      "address": "47.243.5.154",
-      "port": "2083",
-      "id": "a13df940-020c-465f-bc89-ee5279b5cd6a",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "hk667.ylks.link",
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.5.154:2083?security=tls&sni=hk667.ylks.link&type=ws&path=%2F%3Fproxyip#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "47.243.5.154",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.5.154:2083?security=tls&sni=hk667.ylks.link&type=ws&path=%2F%3Fproxyip#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "vless",
-      "address": "104.129.165.238",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.jpmj.dev",
-      "host": "sni.jpmj.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.165.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "104.129.165.238",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.165.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }

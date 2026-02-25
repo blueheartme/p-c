@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-24T17:00:19.610407",
-  "count": 2,
+  "updated": "2026-02-25T01:45:53.947987",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,26 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#%F0%9F%87%B9%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
+    },
+    {
+      "type": "vless",
+      "address": "62.3.12.148",
+      "port": "443",
+      "id": "fa-6065669680-1771739566537608",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "steampowered.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://fa-6065669680-1771739566537608@62.3.12.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=steampowered.com&fp=random&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "62.3.12.148",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://fa-6065669680-1771739566537608@62.3.12.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=steampowered.com&fp=random&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
