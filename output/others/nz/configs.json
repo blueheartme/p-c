@@ -1,19 +1,26 @@
 {
-  "updated": "2026-02-11T08:42:28.160513",
+  "updated": "2026-02-25T17:03:47.513945",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "114.129.43.238",
-      "port": "2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2",
-      "method": "",
-      "password": "",
-      "name": "JP日本(mibei77.com 米贝节点分享)",
-      "original": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-NZ%F0%9F%8C%90-1",
-      "ip": "114.129.43.238",
+      "type": "vless",
+      "address": "114.129.43.100",
+      "port": "2086",
+      "id": "f4ce3fb1-84b2-46d9-9878-305dd1120e19",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "a3ssa.vaslbsh.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f4ce3fb1-84b2-46d9-9878-305dd1120e19@114.129.43.100:2086?encryption=none&type=httpupgrade&host=a3ssa.vaslbsh.com&path=/?ed%3D8880&security=none#vless-httpupgrade-NZ%F0%9F%8C%90-1",
+      "ip": "114.129.43.100",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ss-NZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://f4ce3fb1-84b2-46d9-9878-305dd1120e19@114.129.43.100:2086?encryption=none&type=httpupgrade&host=a3ssa.vaslbsh.com&path=/?ed%3D8880&security=none#vless-httpupgrade-NZ%F0%9F%8C%90-1"
     }
   ]
 }

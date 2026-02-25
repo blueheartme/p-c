@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-24T08:39:56.451495",
+  "updated": "2026-02-25T17:03:47.517442",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "lt-cherry-01.com",
-      "port": "8443",
-      "id": "ff6fb512-147d-419a-9672-e131133f7189",
-      "name": "🛡 V 9 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "tradingview.com",
+      "address": "86.38.214.52",
+      "port": "443",
+      "id": "a98d1e7d-e794-449c-b8a0-34fa6d4478b4",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "grpc",
+      "sni": "fourth.pinocchio1.ir.",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1",
-      "ip": "93.115.25.194",
+      "original": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#vless-grpc-tls-chrome-LT%F0%9F%8C%90-1",
+      "ip": "86.38.214.52",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#vless-grpc-tls-chrome-LT%F0%9F%8C%90-1"
     }
   ]
 }

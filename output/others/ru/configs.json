@@ -1,46 +1,26 @@
 {
-  "updated": "2026-02-25T08:41:32.211867",
-  "count": 2,
+  "updated": "2026-02-25T17:03:47.503500",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "51.250.64.128",
-      "port": "443",
-      "id": "4742b1aa-d4e1-4994-a344-fa9267e6b9ab",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "bunny.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "51.250.64.128",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#vless-xtls-rprx-vision-tcp-reality-qq-RU%F0%9F%87%B7%F0%9F%87%BA-1"
-    },
-    {
-      "type": "vless",
-      "address": "37.139.34.145",
+      "address": "37.139.35.53",
       "port": "8443",
-      "id": "11e41a32-6672-48a0-b9cb-c8694242ecff",
-      "name": "🛡 V 12 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "m.vk.ru",
+      "id": "c501c66b-c6c2-456b-b604-80393b83d67f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "grpc",
+      "sni": "sso.passport.yandex.ru",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
-      "ip": "37.139.34.145",
+      "original": "vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#vless-grpc-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1",
+      "ip": "37.139.35.53",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
+      "rebuilt": "vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#vless-grpc-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
     }
   ]
 }
