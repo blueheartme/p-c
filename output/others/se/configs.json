@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-19T08:37:39.090335",
+  "updated": "2026-02-25T08:41:32.219660",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.178.109.91",
-      "port": "21441",
-      "id": "16193d61-c414-40e8-ae3e-0c459d48843b",
+      "address": "16.171.86.219",
+      "port": "22222",
+      "id": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
+      "network": "ws",
+      "sni": "telegram-channel-vlessconfig.sohala.uk",
+      "host": "telegram-channel-vlessconfig.sohala.uk",
+      "security": "tls",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://16193d61-c414-40e8-ae3e-0c459d48843b@5.178.109.91:21441?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "5.178.109.91",
+      "original": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.86.219:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "16.171.86.219",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://16193d61-c414-40e8-ae3e-0c459d48843b@5.178.109.91:21441?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.86.219:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
