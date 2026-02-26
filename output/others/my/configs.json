@@ -1,35 +1,26 @@
 {
-  "updated": "2026-02-17T05:57:08.113032",
-  "count": 2,
+  "updated": "2026-02-26T16:52:44.644252",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "47.254.207.127",
+      "address": "47.250.132.147",
       "port": "443",
-      "id": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "name": "未知 VLESS-54 | free-nodes",
-      "network": "tcp",
-      "sni": "cdn.userway.org",
-      "host": "",
-      "original": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1",
-      "ip": "47.254.207.127",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.250.132.147:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-MY%F0%9F%8C%90-1",
+      "ip": "47.250.132.147",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#vless-tcp-reality-chrome-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "47.254.207.127",
-      "port": "443",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "未知 VLESS-54 | free-nodes",
-      "original": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#%E6%9C%AA%E7%9F%A5%20VLESS-54%20%7C%20free-nodes",
-      "ip": "47.254.207.127",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#%E6%9C%AA%E7%9F%A5%20VLESS-54%20%7C%20free-nodes"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.250.132.147:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#vless-ws-tls-chrome-MY%F0%9F%8C%90-1"
     }
   ]
 }
