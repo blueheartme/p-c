@@ -1,7 +1,21 @@
 {
-  "updated": "2026-02-26T01:42:08.133124",
+  "updated": "2026-02-26T08:39:57.975197",
   "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "185.18.250.252",
+      "port": "443",
+      "password": "humanity",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "sni": "www.multiplydose.com",
+      "host": "",
+      "original": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.252",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "185.227.149.123",
@@ -16,25 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "185.227.149.123",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "trojan",
-      "address": "185.18.250.252",
-      "port": "443",
-      "password": "humanity",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "sni": "www.multiplydose.com",
-      "host": "",
-      "original": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "185.18.250.252",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

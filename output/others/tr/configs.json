@@ -1,7 +1,20 @@
 {
-  "updated": "2026-02-26T01:42:08.133949",
+  "updated": "2026-02-26T08:39:57.969099",
   "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "94.131.123.86",
+      "port": "35361",
+      "method": "chacha20-ietf-poly1305",
+      "password": "g0UgfsdXOhn8McpdHpWcmo",
+      "name": "🛡 V 69 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn",
+      "ip": "94.131.123.86",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn"
+    },
     {
       "type": "vless",
       "address": "103.231.75.185",
@@ -16,24 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "103.231.75.185",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "ss",
-      "address": "94.131.123.86",
-      "port": "35361",
-      "method": "chacha20-ietf-poly1305",
-      "password": "g0UgfsdXOhn8McpdHpWcmo",
-      "name": "🛡 V 69 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn",
-      "ip": "94.131.123.86",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%9B%A1%20V%2069%20%40Outline_Vpn"
+      "rebuilt": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
