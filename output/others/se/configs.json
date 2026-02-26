@@ -1,26 +1,21 @@
 {
-  "updated": "2026-02-25T08:41:32.219660",
+  "updated": "2026-02-26T01:42:08.139232",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "16.171.86.219",
-      "port": "22222",
-      "id": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "telegram-channel-vlessconfig.sohala.uk",
-      "host": "telegram-channel-vlessconfig.sohala.uk",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.86.219:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "16.171.86.219",
+      "type": "vmess",
+      "address": "dd.openaccessnode.com",
+      "port": "502",
+      "id": "75193bef-8d8f-e823-41e0-2dd083dc1399",
+      "name": "t.me/entryNET",
+      "network": "tcp",
+      "host": "mtalk.google.com",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10YWxrLmdvb2dsZS5jb20iLCJpZCI6Ijc1MTkzYmVmLThkOGYtZTgyMy00MWUwLTJkZDA4M2RjMTM5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyIsInBvcnQiOiI1MDIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNF8J+HuPCfh6otMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+      "ip": "213.65.157.161",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.86.219:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#vless-ws-tls-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vmess://eyJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10YWxrLmdvb2dsZS5jb20iLCJpZCI6Ijc1MTkzYmVmLThkOGYtZTgyMy00MWUwLTJkZDA4M2RjMTM5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyIsInBvcnQiOiI1MDIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNF8J+HuPCfh6otMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }
   ]
 }

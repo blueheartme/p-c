@@ -1,26 +1,41 @@
 {
-  "updated": "2026-02-23T01:46:01.283475",
-  "count": 1,
+  "updated": "2026-02-26T01:42:08.109731",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "35.183.69.126",
+      "type": "vmess",
+      "address": "148.113.176.192",
       "port": "443",
-      "id": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-      "name": "Aws",
-      "network": "tcp",
-      "sni": "wikipedia.org",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "t.me/entryNET",
+      "network": "ws",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.183.69.126:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=wikipedia.org&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "35.183.69.126",
+      "sni": "fapeng.org",
+      "original": "vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "ip": "148.113.176.192",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.183.69.126:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=wikipedia.org&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
+    },
+    {
+      "type": "vless",
+      "address": "144.217.133.97",
+      "port": "30238",
+      "id": "27b6068a-e1e6-4675-ab14-87143c690390",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "144.217.133.97",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }

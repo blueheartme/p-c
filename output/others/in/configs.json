@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-20T08:34:48.645635",
+  "updated": "2026-02-26T01:42:08.136878",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "pq-india1.09vpn.com",
-      "port": "80",
-      "id": "05b544a4-d479-4ba4-8208-950bd4411453",
+      "address": "108.165.152.238",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "",
-      "host": "pq-india1.09vpn.com",
-      "security": "none",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&host=pq-india1.09vpn.com&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.89.105.56",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "108.165.152.238",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&host=pq-india1.09vpn.com&path=%2Fvless%2F#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

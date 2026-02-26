@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T05:57:08.128163",
+  "updated": "2026-02-26T01:42:08.125567",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "138.186.143.32",
-      "port": "989",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "🇵🇪PE-138.186.143.32-0300",
-      "original": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0300",
-      "ip": "138.186.143.32",
+      "type": "vless",
+      "address": "154.219.5.84",
+      "port": "443",
+      "id": "a98d1e7d-e794-449c-b8a0-34fa6d4478b4",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "grpc",
+      "sni": "third.pinocchio1.ir",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#vless-grpc-tls-firefox-PE%F0%9F%8C%90-1",
+      "ip": "154.219.5.84",
       "country": "PE",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0300"
+      "rebuilt": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#vless-grpc-tls-firefox-PE%F0%9F%8C%90-1"
     }
   ]
 }
