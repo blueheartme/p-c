@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-27T01:28:36.420672",
-  "count": 2,
+  "updated": "2026-02-27T08:35:23.675178",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "43.134.189.122",
-      "port": "34237",
-      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "dns68.putata.eu.org",
-      "host": "dns68.putata.eu.org",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.134.189.122:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.134.189.122",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.134.189.122:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "47.82.2.59",
@@ -36,11 +16,44 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "47.82.2.59",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://0a2ca46b-7557-432e-a31a-af39b9f9bddd@47.82.2.59:40070?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "ss",
+      "address": "3.1.195.148",
+      "port": "8316",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ljqdalu13..",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
+      "ip": "3.1.195.148",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+    },
+    {
+      "type": "vless",
+      "address": "165.22.49.27",
+      "port": "2567",
+      "id": "0f021ee3-772e-4e24-e0d1-415a2e4a61e1",
+      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "165.22.49.27",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
