@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T01:44:16.767516",
+  "updated": "2026-02-27T01:28:36.427177",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.15.162.92",
-      "port": "64351",
-      "method": "chacha20-ietf-poly1305",
-      "password": "1SlIjDKpIlpzZPgT33x6Eb",
-      "plugin": "",
-      "name": "未知 SS-04 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU2xJakRLcElscHpaUGdUMzN4NkVi@45.15.162.92:64351#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1",
-      "ip": "45.15.162.92",
+      "type": "vless",
+      "address": "195.85.23.138",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-CZ%F0%9F%8C%90-1",
+      "ip": "195.85.23.138",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU2xJakRLcElscHpaUGdUMzN4NkVi@45.15.162.92:64351#ss-chacha20-ietf-poly1305-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-CZ%F0%9F%8C%90-1"
     }
   ]
 }

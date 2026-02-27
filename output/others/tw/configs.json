@@ -1,26 +1,21 @@
 {
-  "updated": "2026-02-19T08:37:39.080150",
+  "updated": "2026-02-27T01:28:36.431365",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "203.69.248.40",
-      "port": "10443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "203.69.248.40",
+      "type": "vmess",
+      "address": "165.154.195.38",
+      "port": "35034",
+      "id": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "name": "t.me/entryNET",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFfwn4e58J+HvC0xIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==",
+      "ip": "165.154.195.38",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFfwn4e58J+HvC0xIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ=="
     }
   ]
 }
