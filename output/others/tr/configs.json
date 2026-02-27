@@ -1,27 +1,7 @@
 {
-  "updated": "2026-02-27T08:35:23.676066",
-  "count": 2,
+  "updated": "2026-02-27T16:35:14.780070",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "103.231.75.185",
-      "port": "443",
-      "id": "f078abea-a480-44c7-a785-4436c767835a",
-      "name": "🇹🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "103.231.75.185",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0bce#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "ss",
       "address": "94.131.123.86",
