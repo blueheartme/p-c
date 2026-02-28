@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-28T08:22:47.291187",
-  "count": 1,
+  "updated": "2026-02-28T16:20:24.935296",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,21 @@
       "country": "CN",
       "cdn": null,
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-chrome-CN%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vmess",
+      "address": "120.233.11.136",
+      "port": "9039",
+      "id": "2bb31413-7b35-3eb7-b59a-3f5b11a4e385",
+      "name": "🇨🇳_CN_中国->🇱🇺_LU_卢森堡",
+      "network": "tcp",
+      "host": "167.179.82.139",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMjAuMjMzLjExLjEzNiIsInYiOjIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTIiLCJwb3J0Ijo5MDM5LCJpZCI6IjJiYjMxNDEzLTdiMzUtM2ViNy1iNTlhLTNmNWIxMWE0ZTM4NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiMTY3LjE3OS44Mi4xMzkiLCJ0bHMiOiIifQ==",
+      "ip": "120.233.11.136",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxMjAuMjMzLjExLjEzNiIsInYiOjIsInBzIjoidm1lc3MtYXV0by10Y3AtQ07wn4yQLTIiLCJwb3J0Ijo5MDM5LCJpZCI6IjJiYjMxNDEzLTdiMzUtM2ViNy1iNTlhLTNmNWIxMWE0ZTM4NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiMTY3LjE3OS44Mi4xMzkiLCJ0bHMiOiIifQ=="
     }
   ]
 }
