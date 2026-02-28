@@ -1,26 +1,20 @@
 {
-  "updated": "2026-02-27T16:35:14.789201",
+  "updated": "2026-02-28T08:22:47.283151",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "43.134.189.122",
-      "port": "34237",
-      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+      "type": "trojan",
+      "address": "149.28.151.140",
+      "port": "443",
+      "password": "842b5f9dd11e458d8613c907c4cc5723",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "dns68.putata.eu.org",
-      "host": "dns68.putata.eu.org",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.134.189.122:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.134.189.122",
+      "sni": "www.gpt123.one",
+      "host": "",
+      "original": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "149.28.151.140",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.134.189.122:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

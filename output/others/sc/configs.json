@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T01:22:47.563030",
+  "updated": "2026-02-28T08:22:47.281324",
   "count": 6,
   "configs": [
     {
@@ -25,22 +25,22 @@
     {
       "type": "vless",
       "address": "glob.thisiswe.uno",
-      "port": "2083",
-      "id": "3238e861-cfd2-4ebf-d325-2bd8100cf63e",
+      "port": "2053",
+      "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "jamal.thisiswe.uno",
-      "host": "jamal.thisiswe.uno",
+      "sni": "p1.thisiswe.uno",
+      "host": "p1.thisiswe.uno",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2",
+      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.198",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2"
+      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -64,43 +64,23 @@
     },
     {
       "type": "vless",
-      "address": "45.130.125.160",
-      "port": "2086",
-      "id": "a506dd7f-1eca-426f-a07a-982490244622",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "httpupgrade",
-      "sni": "",
-      "host": "hotchoclate.graphapp.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=%2Fv2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#vless-httpupgrade-SC%F0%9F%8C%90-4",
-      "ip": "45.130.125.160",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=%2Fv2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#vless-httpupgrade-SC%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "glob.thisiswe.uno",
+      "address": "45.130.125.198",
       "port": "2053",
       "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "cd11.thisiswe.uno",
-      "host": "cd11.thisiswe.uno",
+      "sni": "kaja.thisiswe.uno",
+      "host": "kaja.thisiswe.uno",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-5",
+      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-4",
       "ip": "45.130.125.198",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-5"
+      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -116,11 +96,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-6",
+      "original": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-5",
       "ip": "45.130.125.69",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-6"
+      "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-5"
+    },
+    {
+      "type": "vless",
+      "address": "45.130.125.160",
+      "port": "2052",
+      "id": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "xhttp",
+      "sni": "",
+      "host": "nlbv2.pabloping.pro",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-6",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-6"
     }
   ]
 }
