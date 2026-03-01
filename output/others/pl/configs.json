@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-01T08:24:49.627651",
+  "updated": "2026-03-01T16:21:32.978847",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "3.cdnconn.com",
+      "port": "23335",
+      "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
+      "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "82.22.40.129",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
     {
       "type": "vless",
       "address": "185.158.133.138",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "185.158.133.138",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "vless",
-      "address": "3.cdnconn.com",
-      "port": "23335",
-      "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
-      "name": "🇺🇸@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "82.22.40.129",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-19T08:37:39.087792",
+  "updated": "2026-03-01T16:21:32.973546",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "144.31.170.239",
-      "port": "8443",
-      "id": "50f73677-030f-43e2-891c-4617eea72ea2",
-      "name": "👉🆔@v2ray_configs_pool📡🇪🇪®️Estonia©️Tallinn🅿️ping:55.42ms 29 dailyv2ry",
-      "network": "tcp",
-      "sni": "bunny.net",
+      "address": "45.80.110.223",
+      "port": "2053",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "a.ssll.gay",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://50f73677-030f-43e2-891c-4617eea72ea2@144.31.170.239:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "144.31.170.239",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.223:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#vless-ws-tls-EE%F0%9F%8C%90-1",
+      "ip": "45.80.110.223",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://50f73677-030f-43e2-891c-4617eea72ea2@144.31.170.239:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.223:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#vless-ws-tls-EE%F0%9F%8C%90-1"
     }
   ]
 }
