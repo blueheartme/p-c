@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-28T16:20:24.945057",
-  "count": 1,
+  "updated": "2026-03-01T01:51:09.039049",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "SC",
       "cdn": null,
       "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.130.125.198",
+      "port": "2053",
+      "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "kaja.thisiswe.uno",
+      "host": "kaja.thisiswe.uno",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2",
+      "ip": "45.130.125.198",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2"
     }
   ]
 }

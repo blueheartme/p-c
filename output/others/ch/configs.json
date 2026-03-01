@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-27T01:28:36.428895",
+  "updated": "2026-03-01T01:51:09.042499",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.227.149.123",
+      "address": "185.18.250.252",
       "port": "443",
-      "id": "7c3f08c8-7b3b-4028-91d8-378a18c2b62a",
-      "name": "🇺🇸@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "mycatcollection.com",
+      "id": "0dbad6ba-be87-46e1-ab90-30c53ef1878d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "xhttp",
+      "sni": "drive.speegy.club",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "185.227.149.123",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@185.18.250.252:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#vless-xhttp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@185.18.250.252:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#vless-xhttp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

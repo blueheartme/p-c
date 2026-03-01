@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-28T08:22:47.283151",
+  "updated": "2026-03-01T01:51:09.051348",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "149.28.151.140",
-      "port": "443",
-      "password": "842b5f9dd11e458d8613c907c4cc5723",
+      "type": "vless",
+      "address": "138.2.111.140",
+      "port": "10010",
+      "id": "48198295-b7ba-4b5c-8d85-085d55a6c869",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "sni": "www.gpt123.one",
+      "network": "ws",
+      "sni": "xind.ylks.link",
       "host": "",
-      "original": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "149.28.151.140",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@138.2.111.140:10010?security=tls&sni=xind.ylks.link&type=ws&path=%2Fblue#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "138.2.111.140",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@138.2.111.140:10010?security=tls&sni=xind.ylks.link&type=ws&path=%2Fblue#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

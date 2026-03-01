@@ -1,20 +1,7 @@
 {
-  "updated": "2026-02-28T16:20:24.934387",
+  "updated": "2026-03-01T01:51:09.047274",
   "count": 5,
   "configs": [
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
     {
       "type": "vless",
       "address": "185.238.228.238",
@@ -29,44 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-2",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-1",
       "ip": "185.238.228.238",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-2"
-    },
-    {
-      "type": "vless",
-      "address": "167.71.136.139",
-      "port": "443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🛡 V 112 @Outline_Vpn",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3",
-      "ip": "167.71.136.139",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-3"
-    },
-    {
-      "type": "ss",
-      "address": "series-a1.samanehha.co",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "W74XFALLLuw6m5IA",
-      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88",
-      "ip": "51.105.5.48",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-1"
     },
     {
       "type": "vless",
@@ -82,11 +36,57 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-5",
+      "original": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-2",
       "ip": "46.101.57.231",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-5"
+      "rebuilt": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-2"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
+    },
+    {
+      "type": "vless",
+      "address": "167.71.136.139",
+      "port": "443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🛡 V 112 @Outline_Vpn",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-4",
+      "ip": "167.71.136.139",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-4"
+    },
+    {
+      "type": "ss",
+      "address": "series-a1.samanehha.co",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "W74XFALLLuw6m5IA",
+      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88",
+      "ip": "20.108.17.173",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
     }
   ]
 }

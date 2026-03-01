@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-28T16:20:24.944260",
-  "count": 1,
+  "updated": "2026-03-01T01:51:09.044318",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "47.242.54.157",
+      "port": "2087",
+      "id": "a13df940-020c-465f-bc89-ee5279b5cd6a",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "hkd.ylks.link",
+      "host": "hkd.ylks.link",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.54.157:2087?security=tls&sni=hkd.ylks.link&type=ws&host=hkd.ylks.link&path=TG@juzibaipiao-æ#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "47.242.54.157",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.54.157:2087?security=tls&sni=hkd.ylks.link&type=ws&host=hkd.ylks.link&path=TG@juzibaipiao-æ#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
