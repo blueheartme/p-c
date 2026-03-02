@@ -1,21 +1,7 @@
 {
-  "updated": "2026-03-02T01:43:15.713802",
-  "count": 2,
+  "updated": "2026-03-02T08:37:59.245670",
+  "count": 1,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "149.28.151.140",
-      "port": "443",
-      "password": "842b5f9dd11e458d8613c907c4cc5723",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "sni": "www.gpt123.one",
-      "host": "",
-      "original": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "149.28.151.140",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "178.128.63.151",
@@ -30,11 +16,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://1d305115-fb27-4cf5-ba1a-94f926018f26@178.128.63.151:12710?security=none&type=ws&host=zoom.us&path=/FREE+By+Tharuwa+(@z_z_z_zz_z)#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://1d305115-fb27-4cf5-ba1a-94f926018f26@178.128.63.151:12710?security=none&type=ws&host=zoom.us&path=/FREE+By+Tharuwa+(@z_z_z_zz_z)#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "178.128.63.151",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://1d305115-fb27-4cf5-ba1a-94f926018f26@178.128.63.151:12710?security=none&type=ws&host=zoom.us&path=/FREE+By+Tharuwa+(@z_z_z_zz_z)#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://1d305115-fb27-4cf5-ba1a-94f926018f26@178.128.63.151:12710?security=none&type=ws&host=zoom.us&path=/FREE+By+Tharuwa+(@z_z_z_zz_z)#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

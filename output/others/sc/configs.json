@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-02T01:43:15.703040",
-  "count": 3,
+  "updated": "2026-03-02T08:37:59.231576",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "45.130.125.198",
-      "port": "2053",
-      "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "kaja.thisiswe.uno",
-      "host": "kaja.thisiswe.uno",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2",
-      "ip": "45.130.125.198",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "45.130.125.160",
       "port": "2052",
       "id": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
@@ -56,11 +36,51 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-3",
+      "original": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.160",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-3"
+      "rebuilt": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#vless-xhttp-SC%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "glob.thisiswe.uno",
+      "port": "2053",
+      "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "cd11.thisiswe.uno",
+      "host": "cd11.thisiswe.uno",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-3",
+      "ip": "45.130.125.198",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "45.130.125.198",
+      "port": "2053",
+      "id": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "kaja.thisiswe.uno",
+      "host": "kaja.thisiswe.uno",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-4",
+      "ip": "45.130.125.198",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#vless-ws-tls-chrome-SC%F0%9F%8C%90-4"
     }
   ]
 }
