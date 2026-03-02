@@ -1,26 +1,21 @@
 {
-  "updated": "2026-02-26T01:42:08.136068",
+  "updated": "2026-03-02T16:38:27.224518",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.26.33.209",
-      "port": "8011",
-      "id": "284794c7-4dd7-4434-a269-d5517b2768c6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "xhttp",
-      "sni": "www.tgju.org",
+      "type": "vmess",
+      "address": "185.26.33.76",
+      "port": "443",
+      "id": "3a3aabcd-9836-4508-412f-639817d4619e",
+      "name": "t.me/entryNET",
+      "network": "tcp",
       "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://284794c7-4dd7-4434-a269-d5517b2768c6@185.26.33.209:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#vless-xhttp-reality-firefox-AF%F0%9F%8C%90-1",
-      "ip": "185.26.33.209",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxODUuMjYuMzMuNzYiLCJhaWQiOiIwIiwiaWQiOiIzYTNhYWJjZC05ODM2LTQ1MDgtNDEyZi02Mzk4MTdkNDYxOWUiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3MtYXV0by10Y3AtQUbwn4yQLTEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
+      "ip": "185.26.33.76",
       "country": "AF",
       "cdn": null,
-      "rebuilt": "vless://284794c7-4dd7-4434-a269-d5517b2768c6@185.26.33.209:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#vless-xhttp-reality-firefox-AF%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxODUuMjYuMzMuNzYiLCJhaWQiOiIwIiwiaWQiOiIzYTNhYWJjZC05ODM2LTQ1MDgtNDEyZi02Mzk4MTdkNDYxOWUiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo0NDMsInBzIjoidm1lc3MtYXV0by10Y3AtQUbwn4yQLTEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }
   ]
 }
