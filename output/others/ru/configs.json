@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-02T16:38:27.231164",
-  "count": 4,
+  "updated": "2026-03-03T01:45:55.747519",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -17,50 +17,30 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1",
-      "ip": "185.147.26.35",
+      "ip": "185.147.26.33",
       "country": "RU",
       "cdn": null,
       "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-1"
     },
     {
       "type": "vless",
-      "address": "5.cdnconn.com",
-      "port": "23335",
-      "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
-      "name": "🇹🇴@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
-      "ip": "185.147.26.13",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
-    },
-    {
-      "type": "vless",
-      "address": "109.120.188.156",
-      "port": "443",
-      "id": "080556c0-0117-0bb8-b1d9-3708fa8ab8c4",
+      "address": "188.225.45.130",
+      "port": "8880",
+      "id": "c4e1a874-a5ca-43b8-817b-1cc3f28a03e3",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "max.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@109.120.188.156:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
-      "ip": "109.120.188.156",
+      "sni": "",
+      "host": "cloudflare.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://c4e1a874-a5ca-43b8-817b-1cc3f28a03e3@188.225.45.130:8880?security=none&type=tcp&host=cloudflare.com&headerType=http#vless-tcp-http-RU%F0%9F%87%B7%F0%9F%87%BA-2",
+      "ip": "188.225.45.130",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@109.120.188.156:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://c4e1a874-a5ca-43b8-817b-1cc3f28a03e3@188.225.45.130:8880?security=none&type=tcp&host=cloudflare.com&headerType=http#vless-tcp-http-RU%F0%9F%87%B7%F0%9F%87%BA-2"
     },
     {
       "type": "vless",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-3",
       "ip": "45.12.114.73",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4"
+      "rebuilt": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-3"
     }
   ]
 }
