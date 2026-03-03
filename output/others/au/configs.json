@@ -1,19 +1,26 @@
 {
-  "updated": "2026-03-02T01:43:15.721025",
+  "updated": "2026-03-03T16:40:21.838147",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "154.26.155.172",
-      "port": "80",
-      "method": "aes-256-gcm",
-      "password": "SL4vzcvhBHhTWivD",
+      "type": "vless",
+      "address": "195.96.135.199",
+      "port": "22004",
+      "id": "d56bbcc0-58b2-452a-ad38-f3157410d267",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "154.26.155.172",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d56bbcc0-58b2-452a-ad38-f3157410d267@195.96.135.199:22004?security=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "195.96.135.199",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:80#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+      "rebuilt": "vless://d56bbcc0-58b2-452a-ad38-f3157410d267@195.96.135.199:22004?security=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-03T08:34:27.992183",
-  "count": 1,
+  "updated": "2026-03-03T16:40:21.836662",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,41 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vmess",
+      "address": "47.243.135.74",
+      "port": "55185",
+      "id": "1375985e-334a-4c25-8f64-52a182bc8037",
+      "name": "t.me/entryNET",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTm90aWZfQ2hhdCIsInBvcnQiOjU1MTg1LCJwcyI6InZtZXNzLXdzLWF1dG8tSEvwn4et8J+HsC0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==",
+      "ip": "47.243.135.74",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTm90aWZfQ2hhdCIsInBvcnQiOjU1MTg1LCJwcyI6InZtZXNzLXdzLWF1dG8tSEvwn4et8J+HsC0yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ=="
+    },
+    {
+      "type": "vless",
+      "address": "206.238.237.175",
+      "port": "443",
+      "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "vd.ylks.link",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.237.175:443?path=%2F&security=tls&encryption=none&type=ws&sni=vd.ylks.link#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "206.238.237.175",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.237.175:443?path=%2F&security=tls&encryption=none&type=ws&sni=vd.ylks.link#vless-ws-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
