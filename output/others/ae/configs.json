@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-03T16:40:21.845357",
+  "updated": "2026-03-04T01:29:04.682930",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "62.60.212.216",
+      "address": "ae.cdn.stun.su",
       "port": "443",
-      "id": "5703f5b9-d708-4443-b661-aae0c338e32c",
+      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "www.figma.com",
+      "sni": "ae.cdn.stun.su",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://5703f5b9-d708-4443-b661-aae0c338e32c@62.60.212.216:443?security=reality&encryption=none&pbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=a4efab6a73#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "62.60.212.216",
+      "fingerprint": "chrome",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "38.180.26.28",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://5703f5b9-d708-4443-b661-aae0c338e32c@62.60.212.216:443?security=reality&encryption=none&pbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=a4efab6a73#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }
