@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-04T01:29:04.682930",
-  "count": 1,
+  "updated": "2026-03-04T08:32:50.544939",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "94.140.0.0",
+      "port": "8080",
+      "id": "f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "httpupgrade",
+      "sni": "",
+      "host": "www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "94.140.0.0",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
     {
       "type": "vless",
       "address": "ae.cdn.stun.su",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.26.28",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "176.97.78.29",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
