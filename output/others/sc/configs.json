@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-04T16:37:26.371960",
-  "count": 2,
+  "updated": "2026-03-05T01:43:11.399042",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "SC",
       "cdn": null,
       "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "ip.xqnetwork.ir",
-      "port": "2095",
-      "id": "96196fc5-67a7-400f-9b1a-e8f2e530e411",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "httpupgrade",
-      "sni": "",
-      "host": "apaj0.dl101movis.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@ip.xqnetwork.ir:2095?path=%2F%3Fed%3D2056&security=none&encryption=none&host=apaj0.dl101movis.ir&type=httpupgrade#vless-httpupgrade-SC%F0%9F%8C%90-2",
-      "ip": "45.130.125.160",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@ip.xqnetwork.ir:2095?path=%2F%3Fed%3D2056&security=none&encryption=none&host=apaj0.dl101movis.ir&type=httpupgrade#vless-httpupgrade-SC%F0%9F%8C%90-2"
     }
   ]
 }
