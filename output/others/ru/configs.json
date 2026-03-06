@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T17:58:40.290921",
+  "updated": "2026-03-06T01:44:48.412803",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "rus62.ruslucker.org",
-      "port": "444",
-      "id": "a28cfe60-b6f6-4737-9082-b2df62f59229",
+      "address": "185.147.26.21",
+      "port": "23335",
+      "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "xhttp",
-      "sni": "rus62.ruslucker.org",
+      "network": "tcp",
+      "sni": "icloud.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=xhttp&sni=rus62.ruslucker.org#vless-xhttp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
-      "ip": "141.98.188.149",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
+      "ip": "185.147.26.21",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=xhttp&sni=rus62.ruslucker.org#vless-xhttp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
     }
   ]
 }
