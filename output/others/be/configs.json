@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-23T16:50:27.363132",
+  "updated": "2026-03-08T01:43:33.111458",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "151.101.9.67",
-      "port": "80",
-      "id": "daac11cb-7acd-40fa-ae53-2af2d5993878",
+      "address": "fs.cedriklorenz.ir",
+      "port": "443",
+      "id": "6ff581e0-4622-4af2-9b57-37dbcd6dee1e",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "",
-      "host": "arps.global.ssl.fastly.net",
-      "security": "none",
+      "sni": "speedtest.net",
+      "host": "geroijji.global.ssl.fastly.net",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1",
-      "ip": "151.101.9.67",
+      "original": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1",
+      "ip": "151.101.10.79",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#vless-ws-BE%F0%9F%8C%90-1"
+      "rebuilt": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1"
     }
   ]
 }
