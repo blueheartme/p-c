@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-09T08:38:10.915701",
-  "count": 1,
+  "updated": "2026-03-09T16:52:28.770051",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "tr2.vpnjantit.com",
+      "port": "10004",
+      "id": "77ea8d6c-1a96-11f1-be1f-1744d2a6f511",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "185.39.204.117",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "ss",
       "address": "94.131.123.86",
