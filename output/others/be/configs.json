@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-08T16:21:46.290228",
-  "count": 1,
+  "updated": "2026-03-09T01:44:52.458885",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "fs.cedriklorenz.ir",
+      "port": "443",
+      "id": "6ff581e0-4622-4af2-9b57-37dbcd6dee1e",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "speedtest.net",
+      "host": "geroijji.global.ssl.fastly.net",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1",
+      "ip": "151.101.9.194",
+      "country": "BE",
+      "cdn": null,
+      "rebuilt": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "151.101.10.79",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1",
+      "original": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-2",
       "ip": "151.101.10.79",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-1"
+      "rebuilt": "vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#vless-ws-tls-BE%F0%9F%8C%90-2"
     }
   ]
 }
