@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T01:44:52.474643",
+  "updated": "2026-03-09T08:38:10.923317",
   "count": 6,
   "configs": [
     {
@@ -7,38 +7,16 @@
       "address": "188.114.98.0",
       "port": "443",
       "password": "humanity",
-      "name": "🛡 V 45 @Outline_Vpn",
-      "sni": "www.calmlunch.com",
-      "host": "www.calmlunch.com",
-      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
+      "name": "🇦🇲@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "www.creationlong.org",
+      "host": "www.creationlong.org",
+      "original": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "188.114.99.243",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🛡 V 82 @Outline_Vpn",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
-      "ip": "188.114.99.243",
-      "country": "IR",
-      "cdn": "arvancloud",
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
+      "rebuilt": "trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#trojan-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -54,20 +32,20 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
+      "original": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
+      "rebuilt": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
       "address": "188.114.98.0",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🛡 V 90 @Outline_Vpn",
+      "name": "🛡 V 87 @Outline_Vpn",
       "network": "ws",
       "sni": "sni.111000.indevs.in",
       "host": "sni.111000.indevs.in",
@@ -76,13 +54,13 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3",
       "ip": "188.114.98.0",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -98,13 +76,13 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "randomized",
-      "original": "vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#vless-ws-tls-randomized-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5",
+      "original": "vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#vless-ws-tls-randomized-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4",
       "ip": "185.143.234.200",
       "country": "IR",
       "cdn": "arvancloud",
       "tested": true,
       "working": true,
-      "rebuilt": "vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#vless-ws-tls-randomized-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+      "rebuilt": "vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#vless-ws-tls-randomized-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
@@ -120,13 +98,35 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "random",
-      "original": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "original": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-IR%F0%9F%87%AE%F0%9F%87%B7-5",
       "ip": "62.60.212.199",
       "country": "IR",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-IR%F0%9F%87%AE%F0%9F%87%B7-6"
+      "rebuilt": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-IR%F0%9F%87%AE%F0%9F%87%B7-5"
+    },
+    {
+      "type": "vless",
+      "address": "188.114.99.243",
+      "port": "2096",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🛡 V 82 @Outline_Vpn",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6",
+      "ip": "188.114.99.243",
+      "country": "IR",
+      "cdn": "arvancloud",
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-ArvanCloud-IR%F0%9F%87%AE%F0%9F%87%B7-6"
     }
   ]
 }
