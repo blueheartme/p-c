@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-09T16:52:28.772906",
+  "updated": "2026-03-10T16:53:13.323861",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "ae.cdn.stun.su",
+      "address": "62.60.212.199",
       "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
+      "id": "870f0165-8308-4e53-b81f-8b54eaf03bd2",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "ae.cdn.stun.su",
+      "sni": "www.figma.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.11.103",
+      "fingerprint": "random",
+      "original": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "62.60.212.199",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
