@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T16:44:28.465896",
+  "updated": "2026-03-12T01:26:48.140403",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "94.140.0.0",
-      "port": "8080",
-      "id": "f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef",
+      "address": "ae.cdn.stun.su",
+      "port": "443",
+      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "httpupgrade",
-      "sni": "",
-      "host": "www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.",
-      "security": "none",
-      "flow": "",
+      "network": "tcp",
+      "sni": "ae.cdn.stun.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.0",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "38.180.11.103",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
