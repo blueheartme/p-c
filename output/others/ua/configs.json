@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-21T08:24:28.103696",
+  "updated": "2026-03-13T01:42:12.601201",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.116.180.238",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "address": "31.42.190.76",
+      "port": "443",
+      "id": "5ac2d3b6-33cc-4442-9c0b-ae3909cabaae",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "ws",
-      "sni": "sni.jpmj.dev",
-      "host": "sni.jpmj.dev",
-      "security": "tls",
+      "sni": "",
+      "host": "",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "89.116.180.238",
+      "original": "vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#vless-ws-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "31.42.190.76",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#vless-ws-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }
