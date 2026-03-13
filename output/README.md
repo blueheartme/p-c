@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-03-13 08:33:55 UTC
+**Last Updated:** 2026-03-13 16:34:18 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 180
-- **Tested & Working:** 13
-- **Countries:** 24
+- **Total Configs:** 178
+- **Tested & Working:** 16
+- **Countries:** 25
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 32
-- **Tested:** 4
+- **Total:** 30
+- **Tested:** 5
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -22,7 +22,7 @@
 ## 🇩🇪 Germany Configs
 
 - **Total:** 30
-- **Tested:** 9
+- **Tested:** 11
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -55,6 +55,10 @@
 ### 🌐 CR
 - **Count:** 2
 - [JSON](others/cr/configs.json) | [TXT](others/cr/configs.txt) | [Subscription](others/cr/subscription.txt)
+
+### 🌐 EE
+- **Count:** 1
+- [JSON](others/ee/configs.json) | [TXT](others/ee/configs.txt) | [Subscription](others/ee/subscription.txt)
 
 ### 🇫🇮 FI
 - **Count:** 3
@@ -113,7 +117,7 @@
 - [JSON](others/ua/configs.json) | [TXT](others/ua/configs.txt) | [Subscription](others/ua/subscription.txt)
 
 ### 🇺🇸 US
-- **Count:** 49
+- **Count:** 48
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
 
 ### 🇿🇦 ZA
