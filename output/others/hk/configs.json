@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-14T08:28:24.244549",
-  "count": 1,
+  "updated": "2026-03-14T16:25:19.564837",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,41 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "47.76.58.59",
+      "port": "47464",
+      "id": "24eb1467-2ef5-4e88-fc1c-7fa6f5adb059",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "47.76.58.59",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://24eb1467-2ef5-4e88-fc1c-7fa6f5adb059@47.76.58.59:47464?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vmess",
+      "address": "n1761296877.lie5d.cyou",
+      "port": "443",
+      "id": "1ebfdffa-1a37-4336-8494-f85b36cdf087",
+      "name": "⚡Telegram = @prrofile_purple",
+      "network": "ws",
+      "host": "n1761296877.lie5d.cyou",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiaWQiOiIxZWJmZGZmYS0xYTM3LTQzMzYtODQ5NC1mODViMzZjZGYwODciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tdGxzLUhL8J+HrfCfh7AtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "ip": "8.210.18.5",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiaWQiOiIxZWJmZGZmYS0xYTM3LTQzMzYtODQ5NC1mODViMzZjZGYwODciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tdGxzLUhL8J+HrfCfh7AtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
     }
   ]
 }
