@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T05:57:08.127383",
+  "updated": "2026-03-14T01:28:47.602173",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "80.173.231.254",
-      "port": "12420",
-      "password": "wp9IsiY82uQhcmgNC1eoBM",
-      "name": "🇳🇴NO-80.173.231.254-0268",
-      "sni": "www.semanticstaplegun.click",
+      "type": "vless",
+      "address": "nr-01.opsvpnvless.ru",
+      "port": "443",
+      "id": "1218c022-dca8-49e5-b7d4-a04f3023db81",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "stats.vk-portal.net",
       "host": "",
-      "original": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1",
-      "ip": "80.173.231.254",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1",
+      "ip": "89.185.81.169",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#trojan-tcp-tls-NO%F0%9F%8C%90-1"
+      "rebuilt": "vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1"
     }
   ]
 }
