@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-03T16:40:21.838147",
+  "updated": "2026-03-14T08:28:24.253453",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "195.96.135.199",
-      "port": "22004",
-      "id": "d56bbcc0-58b2-452a-ad38-f3157410d267",
+      "address": "emergency5380.carpet-carpet-carped.ir",
+      "port": "5380",
+      "id": "f885a375-ddf4-4aed-b5af-3b3d6c844093",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
       "sni": "",
-      "host": "",
+      "host": "anten.ir",
       "security": "none",
       "flow": "",
-      "encryption": "",
-      "headerType": "",
+      "encryption": "none",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://d56bbcc0-58b2-452a-ad38-f3157410d267@195.96.135.199:22004?security=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "195.96.135.199",
+      "original": "vless://f885a375-ddf4-4aed-b5af-3b3d6c844093@emergency5380.carpet-carpet-carped.ir:5380?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "1.1.1.1",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://d56bbcc0-58b2-452a-ad38-f3157410d267@195.96.135.199:22004?security=none&type=tcp#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://f885a375-ddf4-4aed-b5af-3b3d6c844093@emergency5380.carpet-carpet-carped.ir:5380?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#vless-tcp-http-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
