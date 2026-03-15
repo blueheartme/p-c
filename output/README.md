@@ -1,16 +1,16 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-03-15 08:31:11 UTC
+**Last Updated:** 2026-03-15 16:26:35 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 185
-- **Tested & Working:** 17
+- **Total Configs:** 186
+- **Tested & Working:** 16
 - **Countries:** 25
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 33
+- **Total:** 32
 - **Tested:** 6
 
 ### 📥 Download Links:
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 30
-- **Tested:** 11
+- **Total:** 31
+- **Tested:** 10
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -39,10 +39,6 @@
 ### 🇦🇹 AT
 - **Count:** 1
 - [JSON](others/at/configs.json) | [TXT](others/at/configs.txt) | [Subscription](others/at/subscription.txt)
-
-### 🌐 BE
-- **Count:** 1
-- [JSON](others/be/configs.json) | [TXT](others/be/configs.txt) | [Subscription](others/be/subscription.txt)
 
 ### 🇨🇦 CA
 - **Count:** 1
@@ -89,8 +85,12 @@
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
 ### 🇳🇱 NL
-- **Count:** 10
+- **Count:** 11
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
+
+### 🌐 NO
+- **Count:** 1
+- [JSON](others/no/configs.json) | [TXT](others/no/configs.txt) | [Subscription](others/no/subscription.txt)
 
 ### 🌐 OM
 - **Count:** 1
