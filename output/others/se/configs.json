@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-13T16:34:18.809270",
+  "updated": "2026-03-16T01:56:20.452660",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "io.market.iran-rom.ir",
-      "port": "50330",
-      "id": "74f6348b-bc9a-4175-93f9-080afda56da8",
+      "address": "se.telega.store",
+      "port": "443",
+      "id": "1401682c-0e47-4eb9-b5ab-98243655be9b",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.apple.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "http",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "70.34.205.58",
+      "original": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@se.telega.store:443?security=reality&encryption=none&pbk=RWVCk3XZa2Uf-dENmK8H8ZTejs_rpohBl4EsQ4uPjGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=03d6ad8729362431#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "89.125.37.105",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@se.telega.store:443?security=reality&encryption=none&pbk=RWVCk3XZa2Uf-dENmK8H8ZTejs_rpohBl4EsQ4uPjGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=03d6ad8729362431#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
