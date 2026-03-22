@@ -1,22 +1,7 @@
 {
-  "updated": "2026-03-22T01:48:37.090313",
+  "updated": "2026-03-22T08:28:22.549192",
   "count": 2,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "snapp.ir.bmi.ir.mobato-mobile.com",
-      "port": "80",
-      "id": "820a9e42-e18d-43e4-859f-d1c2f6b8600a",
-      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
-      "network": "tcp",
-      "host": "excoino.com",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJzbmFwcC5pci5ibWkuaXIubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiI4MjBhOWU0Mi1lMThkLTQzZTQtODU5Zi1kMWMyZjZiODYwMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVpB8J+Hv/Cfh6YtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
-      "ip": "102.37.156.1",
-      "country": "ZA",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJzbmFwcC5pci5ibWkuaXIubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiI4MjBhOWU0Mi1lMThkLTQzZTQtODU5Zi1kMWMyZjZiODYwMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVpB8J+Hv/Cfh6YtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
-    },
     {
       "type": "vless",
       "address": "102.37.155.79",
@@ -31,11 +16,26 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=%2Fstream%2Fcubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=%2F&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#vless-xhttp-reality-chrome-ZA%F0%9F%87%BF%F0%9F%87%A6-2",
+      "original": "vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=%2Fstream%2Fcubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=%2F&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#vless-xhttp-reality-chrome-ZA%F0%9F%87%BF%F0%9F%87%A6-1",
       "ip": "102.37.155.79",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=%2Fstream%2Fcubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=%2F&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#vless-xhttp-reality-chrome-ZA%F0%9F%87%BF%F0%9F%87%A6-2"
+      "rebuilt": "vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=%2Fstream%2Fcubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=%2F&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#vless-xhttp-reality-chrome-ZA%F0%9F%87%BF%F0%9F%87%A6-1"
+    },
+    {
+      "type": "vmess",
+      "address": "snapp.ir.bmi.ir.mobato-mobile.com",
+      "port": "80",
+      "id": "820a9e42-e18d-43e4-859f-d1c2f6b8600a",
+      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
+      "network": "tcp",
+      "host": "excoino.com",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJzbmFwcC5pci5ibWkuaXIubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiI4MjBhOWU0Mi1lMThkLTQzZTQtODU5Zi1kMWMyZjZiODYwMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVpB8J+Hv/Cfh6YtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+      "ip": "102.37.156.1",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJzbmFwcC5pci5ibWkuaXIubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiI4MjBhOWU0Mi1lMThkLTQzZTQtODU5Zi1kMWMyZjZiODYwMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVpB8J+Hv/Cfh6YtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }
   ]
 }
