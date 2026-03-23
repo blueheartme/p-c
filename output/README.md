@@ -1,16 +1,16 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-03-22 16:23:33 UTC
+**Last Updated:** 2026-03-23 01:49:48 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 172
-- **Tested & Working:** 17
-- **Countries:** 21
+- **Total Configs:** 173
+- **Tested & Working:** 19
+- **Countries:** 22
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 25
+- **Total:** 27
 - **Tested:** 7
 
 ### 📥 Download Links:
@@ -22,7 +22,7 @@
 ## 🇩🇪 Germany Configs
 
 - **Total:** 31
-- **Tested:** 10
+- **Tested:** 12
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -31,6 +31,14 @@
 - [Tested Subscription](tested/de/tested_subscription.txt) ✅
 
 ## 🌍 Other Countries
+
+### 🇦🇪 AE
+- **Count:** 1
+- [JSON](others/ae/configs.json) | [TXT](others/ae/configs.txt) | [Subscription](others/ae/subscription.txt)
+
+### 🌐 AL
+- **Count:** 1
+- [JSON](others/al/configs.json) | [TXT](others/al/configs.txt) | [Subscription](others/al/subscription.txt)
 
 ### 🇦🇹 AT
 - **Count:** 1
@@ -49,7 +57,7 @@
 - [JSON](others/cr/configs.json) | [TXT](others/cr/configs.txt) | [Subscription](others/cr/subscription.txt)
 
 ### 🇫🇮 FI
-- **Count:** 2
+- **Count:** 1
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
@@ -73,11 +81,11 @@
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
 
 ### 🌐 LV
-- **Count:** 1
+- **Count:** 2
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
 ### 🇳🇱 NL
-- **Count:** 10
+- **Count:** 8
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
 
 ### 🇵🇱 PL
@@ -87,10 +95,6 @@
 ### 🇷🇺 RU
 - **Count:** 2
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
-
-### 🌐 SA
-- **Count:** 1
-- [JSON](others/sa/configs.json) | [TXT](others/sa/configs.txt) | [Subscription](others/sa/subscription.txt)
 
 ### 🌐 SC
 - **Count:** 1

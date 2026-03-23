@@ -1,7 +1,27 @@
 {
-  "updated": "2026-03-22T16:23:33.724804",
-  "count": 1,
+  "updated": "2026-03-23T01:49:48.762438",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "lv.telega.store",
+      "port": "443",
+      "id": "1401682c-0e47-4eb9-b5ab-98243655be9b",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@lv.telega.store:443?security=reality&encryption=none&pbk=bX4qw2Yq0pg-gzsFtZdw5aD_oU838fH-38N6B77V8G0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9affa3ac08531e68#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1",
+      "ip": "91.203.70.74",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@lv.telega.store:443?security=reality&encryption=none&pbk=bX4qw2Yq0pg-gzsFtZdw5aD_oU838fH-38N6B77V8G0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9affa3ac08531e68#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
     }
   ]
 }
