@@ -1,46 +1,26 @@
 {
-  "updated": "2026-03-28T16:27:51.082155",
-  "count": 2,
+  "updated": "2026-03-30T01:59:11.120049",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ae.cdn.stun.su",
+      "address": "d1.designister.com",
       "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
+      "id": "3ebd01e3-763d-45c9-bfcc-fa220e81bd5f",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "ae.cdn.stun.su",
+      "sni": "www.figma.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.11.103",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "th.gostargate.top",
-      "port": "49961",
-      "id": "2a78b500-a49c-4e66-8735-4413dddad030",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://2a78b500-a49c-4e66-8735-4413dddad030@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "62.60.214.25",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://3ebd01e3-763d-45c9-bfcc-fa220e81bd5f@d1.designister.com:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "62.60.212.199",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://2a78b500-a49c-4e66-8735-4413dddad030@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://3ebd01e3-763d-45c9-bfcc-fa220e81bd5f@d1.designister.com:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=8784#vless-tcp-reality-random-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }
