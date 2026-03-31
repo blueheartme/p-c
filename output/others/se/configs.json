@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-27T01:53:44.719494",
+  "updated": "2026-03-31T01:54:55.587926",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "se.telega.store",
-      "port": "443",
-      "id": "1401682c-0e47-4eb9-b5ab-98243655be9b",
+      "address": "109.122.201.62",
+      "port": "14500",
+      "id": "3104a981-857e-4e2d-8d58-86e06a33b7f5",
       "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
       "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "sni": "",
+      "host": "excoino.com",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@se.telega.store:443?security=reality&encryption=none&pbk=RWVCk3XZa2Uf-dENmK8H8ZTejs_rpohBl4EsQ4uPjGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=03d6ad8729362431#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "89.125.37.105",
+      "original": "vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "109.122.201.62",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@se.telega.store:443?security=reality&encryption=none&pbk=RWVCk3XZa2Uf-dENmK8H8ZTejs_rpohBl4EsQ4uPjGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=03d6ad8729362431#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
