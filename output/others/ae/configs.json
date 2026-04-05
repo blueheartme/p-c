@@ -1,27 +1,7 @@
 {
-  "updated": "2026-04-05T08:37:35.675167",
-  "count": 2,
+  "updated": "2026-04-05T16:30:19.467338",
+  "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "movie.mecro.ir",
-      "port": "202",
-      "id": "dc615c85-8220-4c08-8da4-fa57c594961f",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "",
-      "host": "aparat.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://dc615c85-8220-4c08-8da4-fa57c594961f@movie.mecro.ir:202?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "45.92.93.248",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://dc615c85-8220-4c08-8da4-fa57c594961f@movie.mecro.ir:202?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "94.140.0.0",
@@ -36,11 +16,51 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-1",
       "ip": "94.140.0.0",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+      "rebuilt": "vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=%2F%3Fed%3D8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#vless-httpupgrade-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "ae.cdn.stun.su",
+      "port": "443",
+      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "ae.cdn.stun.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "38.180.26.28",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "movie.mecro.ir",
+      "port": "202",
+      "id": "dc615c85-8220-4c08-8da4-fa57c594961f",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "tcp",
+      "sni": "",
+      "host": "aparat.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://dc615c85-8220-4c08-8da4-fa57c594961f@movie.mecro.ir:202?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-3",
+      "ip": "45.92.93.217",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://dc615c85-8220-4c08-8da4-fa57c594961f@movie.mecro.ir:202?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#vless-tcp-http-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }
