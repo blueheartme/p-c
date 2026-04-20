@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T02:08:11.100656",
+  "updated": "2026-04-20T09:54:38.536718",
   "count": 7,
   "configs": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "type": "trojan",
-      "address": "3.125.219.119",
+      "address": "3.64.145.4",
       "port": "22223",
       "password": "telegram-id-directvpn",
       "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@3.125.219.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
-      "ip": "3.125.219.119",
+      "original": "trojan://telegram-id-directvpn@3.64.145.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
+      "ip": "3.64.145.4",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-directvpn@3.125.219.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
+      "rebuilt": "trojan://telegram-id-directvpn@3.64.145.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
     },
     {
       "type": "trojan",
-      "address": "3.125.219.119",
+      "address": "3.64.145.4",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "(S102)",
+      "name": "(S101)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@3.125.219.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-3",
-      "ip": "3.125.219.119",
+      "original": "trojan://telegram-id-privatevpns@3.64.145.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-3",
+      "ip": "3.64.145.4",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-privatevpns@3.125.219.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-3"
+      "rebuilt": "trojan://telegram-id-privatevpns@3.64.145.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-3"
     },
     {
       "type": "vless",
@@ -97,28 +97,6 @@
     },
     {
       "type": "vless",
-      "address": "87.120.92.150",
-      "port": "8443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6",
-      "ip": "87.120.92.150",
-      "country": "DE",
-      "cdn": null,
-      "tested": true,
-      "working": true,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-6"
-    },
-    {
-      "type": "vless",
       "address": "94.130.132.180",
       "port": "8443",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -131,13 +109,35 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-chrome-DE%F0%9F%87%A9%F0%9F%87%AA-7",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-chrome-DE%F0%9F%87%A9%F0%9F%87%AA-6",
       "ip": "94.130.132.180",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-chrome-DE%F0%9F%87%A9%F0%9F%87%AA-7"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-chrome-DE%F0%9F%87%A9%F0%9F%87%AA-6"
+    },
+    {
+      "type": "vless",
+      "address": "87.120.92.150",
+      "port": "8443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-7",
+      "ip": "87.120.92.150",
+      "country": "DE",
+      "cdn": null,
+      "tested": true,
+      "working": true,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-7"
     }
   ]
 }
