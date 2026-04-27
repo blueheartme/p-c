@@ -1,6 +1,6 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-04-26 16:36:54 UTC
+**Last Updated:** 2026-04-27 02:12:57 UTC
 
 ## 📊 Statistics
 
@@ -21,7 +21,7 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 27
+- **Total:** 25
 - **Tested:** 6
 
 ### 📥 Download Links:
@@ -53,7 +53,7 @@
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
-- **Count:** 28
+- **Count:** 30
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
