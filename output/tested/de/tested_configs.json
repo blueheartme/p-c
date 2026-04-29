@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T10:00:58.261717",
+  "updated": "2026-04-29T17:22:47.976056",
   "count": 6,
   "configs": [
     {
@@ -70,35 +70,35 @@
     },
     {
       "type": "trojan",
-      "address": "35.159.185.219",
+      "address": "63.179.8.52",
       "port": "22222",
       "password": "telegram-id-privatevpns",
-      "name": "(S101)",
+      "name": "(S102)",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4",
-      "ip": "35.159.185.219",
+      "original": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4",
+      "ip": "63.179.8.52",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4"
+      "rebuilt": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4"
     },
     {
       "type": "trojan",
-      "address": "35.159.185.219",
+      "address": "63.179.8.52",
       "port": "22223",
       "password": "telegram-id-directvpn",
       "name": "OurChannel",
       "sni": "trojan.burgerip.co.uk",
       "host": "",
-      "original": "trojan://telegram-id-directvpn@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5",
-      "ip": "35.159.185.219",
+      "original": "trojan://telegram-id-directvpn@63.179.8.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5",
+      "ip": "63.179.8.52",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-directvpn@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5"
+      "rebuilt": "trojan://telegram-id-directvpn@63.179.8.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-5"
     },
     {
       "type": "vless",
