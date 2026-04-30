@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T17:22:47.976056",
+  "updated": "2026-04-30T02:29:41.283664",
   "count": 6,
   "configs": [
     {
@@ -25,26 +25,20 @@
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-1"
     },
     {
-      "type": "vless",
-      "address": "87.120.92.150",
-      "port": "8443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
-      "ip": "87.120.92.150",
+      "type": "trojan",
+      "address": "63.179.8.52",
+      "port": "22222",
+      "password": "telegram-id-privatevpns",
+      "name": "(S102)",
+      "sni": "trojan.burgerip.co.uk",
+      "host": "",
+      "original": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2",
+      "ip": "63.179.8.52",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
+      "rebuilt": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -69,20 +63,26 @@
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-3"
     },
     {
-      "type": "trojan",
-      "address": "63.179.8.52",
-      "port": "22222",
-      "password": "telegram-id-privatevpns",
-      "name": "(S102)",
-      "sni": "trojan.burgerip.co.uk",
-      "host": "",
-      "original": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4",
-      "ip": "63.179.8.52",
+      "type": "vless",
+      "address": "87.120.92.150",
+      "port": "8443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "network": "ws",
+      "sni": "sni.111000.indevs.in",
+      "host": "sni.111000.indevs.in",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4",
+      "ip": "87.120.92.150",
       "country": "DE",
       "cdn": null,
       "tested": true,
       "working": true,
-      "rebuilt": "trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#trojan-tcp-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-DE%F0%9F%87%A9%F0%9F%87%AA-4"
     },
     {
       "type": "trojan",
