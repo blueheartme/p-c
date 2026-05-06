@@ -1,10 +1,10 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-05-06 02:24:10 UTC
+**Last Updated:** 2026-05-06 10:12:34 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 163
+- **Total Configs:** 162
 - **Tested & Working:** 19
 - **Countries:** 20
 
@@ -81,7 +81,7 @@
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
 
 ### 🇵🇱 PL
-- **Count:** 2
+- **Count:** 1
 - [JSON](others/pl/configs.json) | [TXT](others/pl/configs.txt) | [Subscription](others/pl/subscription.txt)
 
 ### 🌐 PT
