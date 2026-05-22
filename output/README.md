@@ -1,16 +1,16 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-05-21 17:53:10 UTC
+**Last Updated:** 2026-05-22 02:48:21 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 154
+- **Total Configs:** 156
 - **Tested & Working:** 19
 - **Countries:** 19
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 35
+- **Total:** 37
 - **Tested:** 11
 
 ### 📥 Download Links:
