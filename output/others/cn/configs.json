@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-27T16:48:03.034602",
+  "updated": "2026-05-23T09:46:30.882419",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "176.124.223.138",
+      "address": "176.124.223.238",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🛡 V 32 @Outline_Vpn",
+      "name": "Pro 21 @Outline_Vpn",
       "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
+      "sni": "sni.jpmj.dev",
+      "host": "sni.jpmj.dev",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-chrome-CN%F0%9F%8C%90-1",
-      "ip": "176.124.223.138",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#vless-ws-tls-CN%F0%9F%8C%90-1",
+      "ip": "176.124.223.238",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#vless-ws-tls-chrome-CN%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#vless-ws-tls-CN%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-23T02:33:26.366940",
+  "updated": "2026-05-23T09:46:30.890411",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.162.231.138",
+      "address": "185.162.230.138",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🛡 V 73 @Outline_Vpn",
+      "name": "Pro 25 @Outline_Vpn",
       "network": "ws",
       "sni": "sni.111000.indevs.in",
       "host": "sni.111000.indevs.in",
@@ -15,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-IM%F0%9F%8C%90-1",
-      "ip": "185.162.231.138",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-chrome-IM%F0%9F%8C%90-1",
+      "ip": "185.162.230.138",
       "country": "IM",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#vless-ws-tls-IM%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-chrome-IM%F0%9F%8C%90-1"
     }
   ]
 }
