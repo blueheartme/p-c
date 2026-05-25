@@ -1,13 +1,13 @@
 {
-  "updated": "2026-02-18T16:57:15.823860",
+  "updated": "2026-05-25T02:53:22.586373",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.135.235.238",
+      "address": "45.131.6.238",
       "port": "2096",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "name": "Pro 26 @Outline_Vpn",
       "network": "ws",
       "sni": "sni.jpmj.dev",
       "host": "sni.jpmj.dev",
@@ -15,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-BZ%F0%9F%8C%90-1",
-      "ip": "45.135.235.238",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1",
+      "ip": "45.131.6.238",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#vless-ws-tls-chrome-BZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1"
     }
   ]
 }

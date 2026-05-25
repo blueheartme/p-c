@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-05-24 16:56:17 UTC
+**Last Updated:** 2026-05-25 02:53:22 UTC
 
 ## 📊 Statistics
 
 - **Total Configs:** 173
-- **Tested & Working:** 21
-- **Countries:** 21
+- **Tested & Working:** 18
+- **Countries:** 23
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 37
-- **Tested:** 12
+- **Total:** 36
+- **Tested:** 11
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 34
-- **Tested:** 9
+- **Total:** 33
+- **Tested:** 7
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -39,6 +39,10 @@
 ### 🇦🇹 AT
 - **Count:** 1
 - [JSON](others/at/configs.json) | [TXT](others/at/configs.txt) | [Subscription](others/at/subscription.txt)
+
+### 🌐 BZ
+- **Count:** 1
+- [JSON](others/bz/configs.json) | [TXT](others/bz/configs.txt) | [Subscription](others/bz/subscription.txt)
 
 ### 🌐 CN
 - **Count:** 1
@@ -87,6 +91,10 @@
 ### 🇳🇱 NL
 - **Count:** 6
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
+
+### 🌐 NZ
+- **Count:** 1
+- [JSON](others/nz/configs.json) | [TXT](others/nz/configs.txt) | [Subscription](others/nz/subscription.txt)
 
 ### 🇵🇱 PL
 - **Count:** 3
