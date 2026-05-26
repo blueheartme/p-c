@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T16:50:02.262257",
-  "count": 6,
+  "updated": "2026-05-26T18:21:52.910765",
+  "count": 8,
   "configs": [
     {
       "type": "trojan",
@@ -30,17 +30,57 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Netherlands%20Greenhost"
     },
     {
-      "type": "ss",
-      "address": "213.109.147.242",
-      "port": "62685",
-      "method": "chacha20-ietf-poly1305",
-      "password": "VpKABcOpNNA0l5G2AVOmw8",
-      "name": "@GoldVpnHub🍋",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#@GoldVpnHub%F0%9F%8D%8B",
-      "ip": "213.109.147.242",
+      "type": "vless",
+      "address": "45.149.115.148",
+      "port": "443",
+      "id": "8b648e4c-ac38-4809-951b-e1c8862b13d1",
+      "name": "🛡 V 123 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#vless-xtls-rprx-vision-tcp-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-3",
+      "ip": "45.149.115.148",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#@GoldVpnHub%F0%9F%8D%8B"
+      "rebuilt": "vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#vless-xtls-rprx-vision-tcp-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-3"
+    },
+    {
+      "type": "vless",
+      "address": "95.85.44.26",
+      "port": "2053",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "sni.111000.dns.army",
+      "host": "sni.111000.dns.army",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#vless-ws-tls-NL%F0%9F%87%B3%F0%9F%87%B1-4",
+      "ip": "95.85.44.26",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#vless-ws-tls-NL%F0%9F%87%B3%F0%9F%87%B1-4"
+    },
+    {
+      "type": "ss",
+      "address": "82.38.31.149",
+      "port": "8080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "name": "lldalall",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#lldalall",
+      "ip": "82.38.31.149",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#lldalall"
     },
     {
       "type": "vless",
@@ -56,31 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-NL%F0%9F%87%B3%F0%9F%87%B1-4",
+      "original": "vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-NL%F0%9F%87%B3%F0%9F%87%B1-6",
       "ip": "103.90.75.252",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-NL%F0%9F%87%B3%F0%9F%87%B1-4"
-    },
-    {
-      "type": "vless",
-      "address": "45.149.115.148",
-      "port": "443",
-      "id": "8b648e4c-ac38-4809-951b-e1c8862b13d1",
-      "name": "🛡 V 123 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#vless-xtls-rprx-vision-tcp-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-5",
-      "ip": "45.149.115.148",
-      "country": "NL",
-      "cdn": null,
-      "rebuilt": "vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#vless-xtls-rprx-vision-tcp-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-5"
+      "rebuilt": "vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-NL%F0%9F%87%B3%F0%9F%87%B1-6"
     },
     {
       "type": "vless",
@@ -96,11 +116,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#vless-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-6",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#vless-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-7",
       "ip": "195.181.173.199",
       "country": "NL",
       "cdn": null,
-      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#vless-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-6"
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#vless-tcp-tls-NL%F0%9F%87%B3%F0%9F%87%B1-7"
+    },
+    {
+      "type": "vless",
+      "address": "85.234.65.21",
+      "port": "443",
+      "id": "8711e97a-63cc-47f5-b1ab-b9280b82ac2e",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "chrome",
+      "original": "vless://8711e97a-63cc-47f5-b1ab-b9280b82ac2e@85.234.65.21:443?security=reality&encryption=none&pbk=JVvNP8J16POftTcKdIPtpeX6mHLqq44jFisU1ftAuEo&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=www.sony.com&sid=2c#vless-tcp-http-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-8",
+      "ip": "85.234.65.21",
+      "country": "NL",
+      "cdn": null,
+      "rebuilt": "vless://8711e97a-63cc-47f5-b1ab-b9280b82ac2e@85.234.65.21:443?security=reality&encryption=none&pbk=JVvNP8J16POftTcKdIPtpeX6mHLqq44jFisU1ftAuEo&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=www.sony.com&sid=2c#vless-tcp-http-reality-chrome-NL%F0%9F%87%B3%F0%9F%87%B1-8"
     }
   ]
 }
