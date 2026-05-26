@@ -1,11 +1,11 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-05-25 17:29:43 UTC
+**Last Updated:** 2026-05-26 02:41:22 UTC
 
 ## 📊 Statistics
 
 - **Total Configs:** 173
-- **Tested & Working:** 15
+- **Tested & Working:** 17
 - **Countries:** 23
 
 ## 🇮🇷 Iran Configs (Priority)
@@ -22,7 +22,7 @@
 ## 🇩🇪 Germany Configs
 
 - **Total:** 34
-- **Tested:** 8
+- **Tested:** 10
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
