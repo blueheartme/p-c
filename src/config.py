@@ -13,6 +13,20 @@ TELEGRAM_CHANNELS = [
     # Add your channels here
     "https://t.me/s/mtproxy_lists" ,
     "https://t.me/s/DailyV2RY" ,
+    "https://t.me/s/ir_IRANy" ,
+    "https://t.me/s/Digeh_Direh" ,
+    "https://t.me/s/blackRay" ,
+    "https://t.me/s/filembad" ,
+    "https://t.me/s/Proxymelimon" ,
+    "https://t.me/s/saministamm" ,
+    "https://t.me/s/lldalall" ,
+    "https://t.me/s/prrofile_purple" ,
+    "https://t.me/s/i10VPN" ,
+    "https://t.me/s/proxy_kafee" ,
+    "https://t.me/s/irshum2" ,
+    "https://t.me/s/proxymtprotoir" ,
+    "https://t.me/s/goldvpnhub" ,
+    
 ]
 
 GITHUB_REPOS = [
