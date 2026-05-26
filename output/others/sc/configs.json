@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-26T02:41:22.434366",
-  "count": 1,
+  "updated": "2026-05-26T16:50:02.257610",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.130.125.160",
+      "port": "443",
+      "id": "d8b54a64-3e9a-4455-93c4-452202fbe440",
+      "name": "@GoldVpnHub",
+      "network": "xhttp",
+      "sni": "www.chinns.us.ci",
+      "host": "www.chinns.us.ci",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?mode=stream-one&path=%2Findex&security=tls&encryption=none&insecure=0&host=www.chinns.us.ci&type=xhttp&allowInsecure=0&sni=www.chinns.us.ci#vless-xhttp-tls-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?mode=stream-one&path=%2Findex&security=tls&encryption=none&insecure=0&host=www.chinns.us.ci&type=xhttp&allowInsecure=0&sni=www.chinns.us.ci#vless-xhttp-tls-SC%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "45.130.125.69",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-1",
+      "original": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.69",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-1"
+      "rebuilt": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#vless-ws-tls-SC%F0%9F%8C%90-2"
     }
   ]
 }

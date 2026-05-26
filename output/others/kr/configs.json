@@ -1,19 +1,26 @@
 {
-  "updated": "2026-03-05T01:43:11.411946",
+  "updated": "2026-05-26T16:50:02.265749",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "srv12.outlinekeys.com",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "0MsfzV0SrZeKC-pbEnn8e7BovV2-Lum8",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA@srv12.outlinekeys.com:1080#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "78.153.150.34",
+      "type": "vless",
+      "address": "43.203.249.214",
+      "port": "39295",
+      "id": "06a1719f-417e-46f0-8a7d-e2b13ecf893a",
+      "name": "",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-1",
+      "ip": "43.203.249.214",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA@srv12.outlinekeys.com:1080#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+      "rebuilt": "vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40#vless-tcp-KR%F0%9F%87%B0%F0%9F%87%B7-1"
     }
   ]
 }
