@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-06T16:34:31.182481",
+  "updated": "2026-05-27T02:51:56.329452",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.18.250.252",
-      "port": "443",
-      "id": "0dbad6ba-be87-46e1-ab90-30c53ef1878d",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "xhttp",
-      "sni": "drive.speegy.club",
+      "address": "104.244.73.115",
+      "port": "2053",
+      "id": "01c0530f-168d-4645-a74c-f2b3b015c217",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "patreon.com",
       "host": "",
-      "security": "tls",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@185.18.250.252:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#vless-xhttp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "185.18.250.252",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#vless-xtls-rprx-vision-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "104.244.73.115",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@185.18.250.252:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#vless-xhttp-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#vless-xtls-rprx-vision-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

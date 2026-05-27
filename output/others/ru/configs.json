@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T18:21:52.913633",
-  "count": 4,
+  "updated": "2026-05-27T02:51:56.314254",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -23,24 +23,18 @@
       "rebuilt": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-1"
     },
     {
-      "type": "vless",
-      "address": "87.228.124.196",
-      "port": "4443",
-      "id": "de87620b-6bff-4077-99cc-ce65e06b64ed",
-      "name": "proxymelimon",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-2",
-      "ip": "87.228.124.196",
+      "type": "trojan",
+      "address": "94.242.53.94",
+      "port": "8443",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "name": "Pro 38 @Outline_Vpn",
+      "sni": "Koma-YT.PAGeS.Dev",
+      "host": "Koma-YT.PAGeS.Dev",
+      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-2",
+      "ip": "94.242.53.94",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-2"
+      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-2"
     },
     {
       "type": "vless",
@@ -64,6 +58,26 @@
     },
     {
       "type": "vless",
+      "address": "87.228.124.196",
+      "port": "4443",
+      "id": "de87620b-6bff-4077-99cc-ce65e06b64ed",
+      "name": "proxymelimon",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "ip": "87.228.124.196",
+      "country": "RU",
+      "cdn": null,
+      "rebuilt": "vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-RU%F0%9F%87%B7%F0%9F%87%BA-4"
+    },
+    {
+      "type": "vless",
       "address": "185.147.26.21",
       "port": "23335",
       "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
@@ -76,11 +90,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5",
       "ip": "185.147.26.21",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-4"
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-5"
     }
   ]
 }

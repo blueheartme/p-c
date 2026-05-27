@@ -1,21 +1,26 @@
 {
-  "updated": "2026-03-15T16:26:35.118443",
+  "updated": "2026-05-27T02:51:56.331977",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "15.235.85.156",
+      "type": "vless",
+      "address": "51.79.89.68",
       "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
-      "network": "ws",
-      "host": "kampong.org",
-      "sni": "kampong.org",
-      "original": "vmess://eyJhZGQiOiIxNS4yMzUuODUuMTU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
-      "ip": "15.235.85.156",
+      "id": "900ca7c5-6c69-4536-b0f8-efa4e3976016",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "51.79.89.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNS4yMzUuODUuMTU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLXRscy1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "rebuilt": "vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
