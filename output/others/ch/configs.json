@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-27T02:51:56.329452",
+  "updated": "2026-05-27T11:33:11.546283",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "104.244.73.115",
-      "port": "2053",
-      "id": "01c0530f-168d-4645-a74c-f2b3b015c217",
+      "address": "83.228.249.188",
+      "port": "16603",
+      "id": "72aead3f-8d51-49d0-90e8-310d6fd57aca",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "patreon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "sni": "",
+      "host": "Nobitex.ir",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#vless-xtls-rprx-vision-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "104.244.73.115",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.249.188",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#vless-xtls-rprx-vision-tcp-reality-random-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
