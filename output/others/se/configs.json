@@ -1,26 +1,21 @@
 {
-  "updated": "2026-04-05T16:30:19.476048",
+  "updated": "2026-05-27T18:22:24.814697",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "109.122.201.62",
-      "port": "14500",
-      "id": "3104a981-857e-4e2d-8d58-86e06a33b7f5",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "type": "vmess",
+      "address": "viptun2.majalekhodroshop.ir",
+      "port": "1616",
+      "id": "56d35b8c-8e9c-4c64-a250-45401dcb156f",
+      "name": "قشاع🎸",
       "network": "tcp",
+      "host": "faraazin.ir",
       "sni": "",
-      "host": "excoino.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "109.122.201.62",
+      "original": "vmess://eyJkZXZpY2VJRCI6IiIsImFscG4iOiIiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImhlYWRlclR5cGUiOiJodHRwIiwidGxzIjoibm9uZSIsImFkZCI6InZpcHR1bjIubWFqYWxla2hvZHJvc2hvcC5pciIsInNlZWQiOiIiLCJwcyI6InZtZXNzLXRjcC1TRfCfh7jwn4eqLTEiLCJtb2RlIjoiIiwiZXh0cmEiOiIiLCJhdXRob3JpdHkiOiIiLCJob3N0IjoiZmFyYWF6aW4uaXIiLCJwYXRoIjoiLyIsImZwIjoiIiwidiI6IjIiLCJwb3J0IjoiMTYxNiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAiLCJmcmFnbWVudCI6IiIsImlkIjoiNTZkMzViOGMtOGU5Yy00YzY0LWEyNTAtNDU0MDFkY2IxNTZmIn0=",
+      "ip": "212.147.226.174",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vmess://eyJkZXZpY2VJRCI6IiIsImFscG4iOiIiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImhlYWRlclR5cGUiOiJodHRwIiwidGxzIjoibm9uZSIsImFkZCI6InZpcHR1bjIubWFqYWxla2hvZHJvc2hvcC5pciIsInNlZWQiOiIiLCJwcyI6InZtZXNzLXRjcC1TRfCfh7jwn4eqLTEiLCJtb2RlIjoiIiwiZXh0cmEiOiIiLCJhdXRob3JpdHkiOiIiLCJob3N0IjoiZmFyYWF6aW4uaXIiLCJwYXRoIjoiLyIsImZwIjoiIiwidiI6IjIiLCJwb3J0IjoiMTYxNiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAiLCJmcmFnbWVudCI6IiIsImlkIjoiNTZkMzViOGMtOGU5Yy00YzY0LWEyNTAtNDU0MDFkY2IxNTZmIn0="
     }
   ]
 }

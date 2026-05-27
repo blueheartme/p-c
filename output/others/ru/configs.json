@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T11:33:11.540987",
-  "count": 6,
+  "updated": "2026-05-27T18:22:24.801806",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "45.67.215.4",
-      "port": "2083",
-      "id": "8fb031ca-e004-4b92-bcfe-cd3d3a585327",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "sd.hercule.sbs",
-      "host": "sd.hercule.sbs",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://8fb031ca-e004-4b92-bcfe-cd3d3a585327@45.67.215.4:2083?path=%2Fchat&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sd.hercule.sbs&fp=chrome&type=ws&allowInsecure=1&sni=sd.hercule.sbs#vless-ws-tls-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
-      "ip": "45.67.215.4",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://8fb031ca-e004-4b92-bcfe-cd3d3a585327@45.67.215.4:2083?path=%2Fchat&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sd.hercule.sbs&fp=chrome&type=ws&allowInsecure=1&sni=sd.hercule.sbs#vless-ws-tls-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
-    },
-    {
-      "type": "vless",
       "address": "185.147.26.21",
       "port": "23335",
       "id": "e384913f-8863-47b4-8858-a84b68abb4a6",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3",
+      "original": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2",
       "ip": "185.147.26.21",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-3"
+      "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
     },
     {
       "type": "trojan",
@@ -70,51 +50,11 @@
       "name": "Pro 38 @Outline_Vpn",
       "sni": "Koma-YT.PAGeS.Dev",
       "host": "Koma-YT.PAGeS.Dev",
-      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4",
+      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-3",
       "ip": "94.242.53.94",
       "country": "RU",
       "cdn": null,
-      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-4"
-    },
-    {
-      "type": "vless",
-      "address": "45.12.114.73",
-      "port": "8443",
-      "id": "f1e74548-4c0b-463b-b68d-0d1ec48c965d",
-      "name": "🛡 V 120 @Outline_Vpn",
-      "network": "ws",
-      "sni": "rus21.unboundworld.org",
-      "host": "rus21.unboundworld.org",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-5",
-      "ip": "45.12.114.73",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-5"
-    },
-    {
-      "type": "vless",
-      "address": "45.67.215.2",
-      "port": "443",
-      "id": "8475ccf8-2464-4e1f-bf1e-656d2fc77ff7",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "netv.amirshee9090.workers.dev",
-      "host": "netv.amirshee9090.workers.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@45.67.215.2:443?path=%2Fws&security=tls&encryption=none&insecure=1&host=netv.amirshee9090.workers.dev&type=ws&allowInsecure=1&sni=netv.amirshee9090.workers.dev#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-6",
-      "ip": "45.67.215.2",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@45.67.215.2:443?path=%2Fws&security=tls&encryption=none&insecure=1&host=netv.amirshee9090.workers.dev&type=ws&allowInsecure=1&sni=netv.amirshee9090.workers.dev#vless-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-6"
+      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-RU%F0%9F%87%B7%F0%9F%87%BA-3"
     }
   ]
 }

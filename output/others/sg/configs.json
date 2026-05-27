@@ -1,20 +1,26 @@
 {
-  "updated": "2026-03-06T16:34:31.168235",
+  "updated": "2026-05-27T18:22:24.808679",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "149.28.151.140",
-      "port": "443",
-      "password": "842b5f9dd11e458d8613c907c4cc5723",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "sni": "www.gpt123.one",
+      "type": "vless",
+      "address": "159.89.194.243",
+      "port": "22539",
+      "id": "d6d7e024-0a49-483d-bcd7-048c4d30eca6",
+      "name": "@lldalall",
+      "network": "tcp",
+      "sni": "node1.nanonet.host",
       "host": "",
-      "original": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "149.28.151.140",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#vless-tcp-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "159.89.194.243",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#trojan-raw-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#vless-tcp-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-27T11:33:11.550473",
-  "count": 3,
+  "updated": "2026-05-27T18:22:24.810464",
+  "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "185.102.136.51",
+      "port": "2053",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "name": "Pro 32 @Outline_Vpn",
+      "sni": "Koma-YT.PAGeS.Dev",
+      "host": "Koma-YT.PAGeS.Dev",
+      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "185.102.136.51",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
     {
       "type": "vless",
       "address": "171.22.114.248",
@@ -16,38 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "ss",
-      "address": "193.47.60.186",
-      "port": "28687",
-      "method": "chacha20-ietf-poly1305",
-      "password": "yKVMoB3AwiTEznpnoq2FYR",
-      "name": "🇫🇮 @proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%F0%9F%87%AB%F0%9F%87%AE%20%40proxy_kafee",
-      "ip": "193.47.60.186",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%F0%9F%87%AB%F0%9F%87%AE%20%40proxy_kafee"
-    },
-    {
-      "type": "trojan",
-      "address": "185.102.136.51",
-      "port": "2053",
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "name": "Pro 32 @Outline_Vpn",
-      "sni": "Koma-YT.PAGeS.Dev",
-      "host": "Koma-YT.PAGeS.Dev",
-      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "185.102.136.51",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }

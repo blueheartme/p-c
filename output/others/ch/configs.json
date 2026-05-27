@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-27T11:33:11.546283",
+  "updated": "2026-05-27T18:22:24.813047",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "83.228.249.188",
-      "port": "16603",
-      "id": "72aead3f-8d51-49d0-90e8-310d6fd57aca",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "Nobitex.ir",
-      "security": "none",
+      "address": "185.18.250.127",
+      "port": "2096",
+      "id": "2ee26119-94e5-40b4-ba3a-16354021b600",
+      "name": "saministamm",
+      "network": "ws",
+      "sni": "69565ce3109804e7813f98ee.mmdbay.blog",
+      "host": "69565ce3109804e7813f98ee.mmdbay.blog",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.249.188",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.127",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }

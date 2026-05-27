@@ -1,19 +1,26 @@
 {
-  "updated": "2026-01-23T08:24:06.588326",
+  "updated": "2026-05-27T18:22:24.816321",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.89.55.173",
+      "type": "vless",
+      "address": "91.225.217.26",
       "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "ixPymFma6P7U41wk9MNP7znPnvax3mjd",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر</code></blockquote><br/><br/><br/><br/><i",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#ss-chacha20-ietf-poly1305-RS%F0%9F%8C%90-1",
-      "ip": "45.89.55.173",
+      "id": "0dc22208-cea4-4423-b3c3-a36957e23233",
+      "name": "@lldalall • MCI",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?security=reality&encryption=none&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=30fa#vless-tcp-reality-chrome-RS%F0%9F%8C%90-1",
+      "ip": "91.225.217.26",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#ss-chacha20-ietf-poly1305-RS%F0%9F%8C%90-1"
+      "rebuilt": "vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?security=reality&encryption=none&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=30fa#vless-tcp-reality-chrome-RS%F0%9F%8C%90-1"
     }
   ]
 }

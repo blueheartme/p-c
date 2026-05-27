@@ -1,26 +1,21 @@
 {
-  "updated": "2026-05-27T02:51:56.331977",
+  "updated": "2026-05-27T18:22:24.807874",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "51.79.89.68",
-      "port": "443",
-      "id": "900ca7c5-6c69-4536-b0f8-efa4e3976016",
-      "name": "@proxy_kafee",
+      "type": "vmess",
+      "address": "158.69.208.120",
+      "port": "2052",
+      "id": "d95404c9-d696-44c1-a305-f8e2e95b8e41",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "",
       "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "51.79.89.68",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOTU0MDRjOS1kNjk2LTQ0YzEtYTMwNS1mOGUyZTk1YjhlNDEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "158.69.208.120",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOTU0MDRjOS1kNjk2LTQ0YzEtYTMwNS1mOGUyZTk1YjhlNDEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
