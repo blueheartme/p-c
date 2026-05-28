@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T18:22:24.809578",
-  "count": 2,
+  "updated": "2026-05-28T02:39:31.761243",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -17,25 +17,10 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "38.180.11.103",
+      "ip": "38.180.26.28",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vmess",
-      "address": "chatgpt.oyounescapism.com",
-      "port": "2082",
-      "id": "872d7cf7-a8d1-4710-835b-bc6aca216b62",
-      "name": "tunnel",
-      "network": "ws",
-      "host": "product.unboxshop.ir",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJjaGF0Z3B0Lm95b3VuZXNjYXBpc20uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJwcm9kdWN0LnVuYm94c2hvcC5pciIsImlkIjoiODcyZDdjZjctYThkMS00NzEwLTgzNWItYmM2YWNhMjE2YjYyIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6MjA4MiwicHMiOiJ2bWVzcy1hdXRvLXdzLUFF8J+HpvCfh6otMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=",
-      "ip": "185.215.235.64",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJjaGF0Z3B0Lm95b3VuZXNjYXBpc20uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJwcm9kdWN0LnVuYm94c2hvcC5pciIsImlkIjoiODcyZDdjZjctYThkMS00NzEwLTgzNWItYmM2YWNhMjE2YjYyIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6MjA4MiwicHMiOiJ2bWVzcy1hdXRvLXdzLUFF8J+HpvCfh6otMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0="
     }
   ]
 }

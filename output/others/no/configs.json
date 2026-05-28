@@ -1,26 +1,26 @@
 {
-  "updated": "2026-04-02T16:52:52.190210",
+  "updated": "2026-05-28T02:39:31.756906",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "nr-01.opsvpnvless.ru",
+      "address": "89.185.81.123",
       "port": "443",
-      "id": "1218c022-dca8-49e5-b7d4-a04f3023db81",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "id": "6986ac20-af56-4657-babd-552bb4e57aa9",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "stats.vk-portal.net",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1",
-      "ip": "89.185.81.169",
+      "fingerprint": "",
+      "original": "vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&encryption=none&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&headerType=none&type=tcp&sni=yahoo.com&sid=bf05#vless-tcp-reality-NO%F0%9F%8C%90-1",
+      "ip": "89.185.81.123",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#vless-xtls-rprx-vision-tcp-reality-chrome-NO%F0%9F%8C%90-1"
+      "rebuilt": "vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&encryption=none&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&headerType=none&type=tcp&sni=yahoo.com&sid=bf05#vless-tcp-reality-NO%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,21 +1,26 @@
 {
-  "updated": "2026-05-27T18:22:24.807874",
+  "updated": "2026-05-28T02:39:31.747578",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "158.69.208.120",
-      "port": "2052",
-      "id": "d95404c9-d696-44c1-a305-f8e2e95b8e41",
+      "type": "vless",
+      "address": "152.42.147.18",
+      "port": "35689",
+      "id": "bf1b45af-c13a-438f-8d32-3b5a31b6735b",
       "name": "@filembad",
       "network": "tcp",
-      "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOTU0MDRjOS1kNjk2LTQ0YzEtYTMwNS1mOGUyZTk1YjhlNDEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "ip": "158.69.208.120",
+      "host": "at.jojack.ru",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://bf1b45af-c13a-438f-8d32-3b5a31b6735b@152.42.147.18:35689?security=none&encryption=none&host=at.jojack.ru&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "152.42.147.18",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOTU0MDRjOS1kNjk2LTQ0YzEtYTMwNS1mOGUyZTk1YjhlNDEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+      "rebuilt": "vless://bf1b45af-c13a-438f-8d32-3b5a31b6735b@152.42.147.18:35689?security=none&encryption=none&host=at.jojack.ru&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
