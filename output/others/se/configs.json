@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T02:39:31.761857",
-  "count": 1,
+  "updated": "2026-05-28T11:33:27.718534",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,32 @@
       "port": "34633",
       "method": "chacha20-ietf-poly1305",
       "password": "CZjvepQLlrEC9sVxkFfnlK",
-      "name": "ایدی تل ما : ir_IRANy@ 🔵",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWmp2ZXBRTGxyRUM5c1Z4a0ZmbmxL@78.40.117.161:34633#%D8%A7%DB%8C%D8%AF%DB%8C%20%D8%AA%D9%84%20%D9%85%D8%A7%20%3A%20ir_IRANy%40%20%F0%9F%94%B5",
+      "name": "🫜35@proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWmp2ZXBRTGxyRUM5c1Z4a0ZmbmxL@78.40.117.161:34633#%F0%9F%AB%9C35%40proxy_kafee",
       "ip": "78.40.117.161",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWmp2ZXBRTGxyRUM5c1Z4a0ZmbmxL@78.40.117.161:34633#%D8%A7%DB%8C%D8%AF%DB%8C%20%D8%AA%D9%84%20%D9%85%D8%A7%20%3A%20ir_IRANy%40%20%F0%9F%94%B5"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWmp2ZXBRTGxyRUM5c1Z4a0ZmbmxL@78.40.117.161:34633#%F0%9F%AB%9C35%40proxy_kafee"
+    },
+    {
+      "type": "vless",
+      "address": "pipe-1692.atlanta-games.com",
+      "port": "592",
+      "id": "d27a8beb-d940-4503-af2c-0e8e5d8ab7fa",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "pipe-1692.atlanta-games.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://d27a8beb-d940-4503-af2c-0e8e5d8ab7fa@pipe-1692.atlanta-games.com:592?security=reality&encryption=none&pbk=MJsIaoeYt-qnokhHqSKjLQri0cddD7lKXQAGV34v3TI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=pipe-1692.atlanta-games.com#vless-xtls-rprx-vision-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "95.141.241.111",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d27a8beb-d940-4503-af2c-0e8e5d8ab7fa@pipe-1692.atlanta-games.com:592?security=reality&encryption=none&pbk=MJsIaoeYt-qnokhHqSKjLQri0cddD7lKXQAGV34v3TI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=pipe-1692.atlanta-games.com#vless-xtls-rprx-vision-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

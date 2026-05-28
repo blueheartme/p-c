@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-28T02:39:31.759504",
-  "count": 1,
+  "updated": "2026-05-28T11:33:27.711863",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.81.58.159",
+      "port": "2053",
+      "id": "1dffe075-634c-4e8c-8d60-810552da355e",
+      "name": "saministamm",
+      "network": "ws",
+      "sni": "c68872a273b00960.fairit.ir",
+      "host": "dancingwithourhandstied.fairit.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://1dffe075-634c-4e8c-8d60-810552da355e@45.81.58.159:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=dancingwithourhandstied.fairit.ir&sni=c68872a273b00960.fairit.ir&fp=firefox&alpn=h2#vless-ws-tls-firefox-CW%F0%9F%8C%90-1",
+      "ip": "45.81.58.159",
+      "country": "CW",
+      "cdn": null,
+      "rebuilt": "vless://1dffe075-634c-4e8c-8d60-810552da355e@45.81.58.159:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=dancingwithourhandstied.fairit.ir&sni=c68872a273b00960.fairit.ir&fp=firefox&alpn=h2#vless-ws-tls-firefox-CW%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "5.10.245.191",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#vless-ws-tls-CW%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#vless-ws-tls-CW%F0%9F%8C%90-2",
       "ip": "5.10.245.191",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#vless-ws-tls-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#vless-ws-tls-CW%F0%9F%8C%90-2"
     }
   ]
 }

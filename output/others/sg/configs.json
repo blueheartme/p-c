@@ -1,13 +1,33 @@
 {
-  "updated": "2026-05-28T02:39:31.754277",
-  "count": 1,
+  "updated": "2026-05-28T11:33:27.711039",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "47.82.179.244",
+      "port": "35689",
+      "id": "fac4a381-498c-483b-8a85-4af73635c50f",
+      "name": "ایدی تل ما : ir_IRANy@💗",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://fac4a381-498c-483b-8a85-4af73635c50f@47.82.179.244:35689?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "47.82.179.244",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://fac4a381-498c-483b-8a85-4af73635c50f@47.82.179.244:35689?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "vless",
       "address": "43.169.18.179",
       "port": "443",
       "id": "06b65903-406d-4a41-8463-6fd5c0ee7798",
-      "name": "@filembad",
+      "name": "@lldalall VIP 1⚡",
       "network": "ws",
       "sni": "sni.skylee4.cloudns.ch",
       "host": "sni.skylee4.cloudns.ch",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "43.169.18.179",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

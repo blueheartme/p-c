@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-25T17:03:47.517442",
+  "updated": "2026-05-28T11:33:27.716983",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "86.38.214.52",
+      "address": "84.32.51.137",
       "port": "443",
-      "id": "a98d1e7d-e794-449c-b8a0-34fa6d4478b4",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "grpc",
-      "sni": "fourth.pinocchio1.ir.",
+      "id": "b5a850cc-c323-4db9-8a2a-46f250591c7c",
+      "name": "",
+      "network": "tcp",
+      "sni": "",
       "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#vless-grpc-tls-chrome-LT%F0%9F%8C%90-1",
-      "ip": "86.38.214.52",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://b5a850cc-c323-4db9-8a2a-46f250591c7c@84.32.51.137:443?encryption=none&type=tcp&security=reality&headerType=none&fp=firefox&allowInsecure=1&pbk=Abv_GBHT7hWs6pm7h9DC83-TvYXCa7gryqC296DRM1c&sid=3480570f03d0a601&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1",
+      "ip": "84.32.51.137",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#vless-grpc-tls-chrome-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://b5a850cc-c323-4db9-8a2a-46f250591c7c@84.32.51.137:443?encryption=none&type=tcp&security=reality&headerType=none&fp=firefox&allowInsecure=1&pbk=Abv_GBHT7hWs6pm7h9DC83-TvYXCa7gryqC296DRM1c&sid=3480570f03d0a601&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1"
     }
   ]
 }

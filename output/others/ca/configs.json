@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-28T02:39:31.747578",
+  "updated": "2026-05-28T11:33:27.714739",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "152.42.147.18",
-      "port": "35689",
-      "id": "bf1b45af-c13a-438f-8d32-3b5a31b6735b",
-      "name": "@filembad",
-      "network": "tcp",
+      "address": "ov-canada1.09vpn.com",
+      "port": "8443",
+      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
+      "name": "Free 30 @Outline_Vpn",
+      "network": "ws",
       "sni": "",
-      "host": "at.jojack.ru",
-      "security": "none",
+      "host": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://bf1b45af-c13a-438f-8d32-3b5a31b6735b@152.42.147.18:35689?security=none&encryption=none&host=at.jojack.ru&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "152.42.147.18",
+      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "148.113.196.75",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://bf1b45af-c13a-438f-8d32-3b5a31b6735b@152.42.147.18:35689?security=none&encryption=none&host=at.jojack.ru&headerType=http&type=tcp#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
