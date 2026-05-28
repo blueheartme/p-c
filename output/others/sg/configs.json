@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T11:33:27.711039",
-  "count": 2,
+  "updated": "2026-05-28T18:32:41.965440",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://fac4a381-498c-483b-8a85-4af73635c50f@47.82.179.244:35689?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "43.169.18.179",
-      "port": "443",
-      "id": "06b65903-406d-4a41-8463-6fd5c0ee7798",
-      "name": "@lldalall VIP 1⚡",
-      "network": "ws",
-      "sni": "sni.skylee4.cloudns.ch",
-      "host": "sni.skylee4.cloudns.ch",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.169.18.179",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

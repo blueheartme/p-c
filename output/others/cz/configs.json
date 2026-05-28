@@ -1,20 +1,7 @@
 {
-  "updated": "2026-05-28T11:33:27.689157",
+  "updated": "2026-05-28T18:32:41.963212",
   "count": 2,
   "configs": [
-    {
-      "type": "ss",
-      "address": "45.83.130.97",
-      "port": "53292",
-      "method": "chacha20-ietf-poly1305",
-      "password": "hfSE3thwAQqvSIac5xLpUD",
-      "name": "🫜20@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZlNFM3Rod0FRcXZTSWFjNXhMcFVE@45.83.130.97:53292#%F0%9F%AB%9C20%40proxy_kafee",
-      "ip": "45.83.130.97",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZlNFM3Rod0FRcXZTSWFjNXhMcFVE@45.83.130.97:53292#%F0%9F%AB%9C20%40proxy_kafee"
-    },
     {
       "type": "trojan",
       "address": "14.102.228.76",
@@ -23,11 +10,31 @@
       "name": "ایدی تل ما : ir_IRANy@🕊️",
       "sni": "www.app-cloud.ir",
       "host": "",
-      "original": "trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-CZ%F0%9F%8C%90-2",
+      "original": "trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-CZ%F0%9F%8C%90-1",
       "ip": "14.102.228.76",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-CZ%F0%9F%8C%90-2"
+      "rebuilt": "trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-CZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.15.162.178",
+      "port": "33826",
+      "id": "1b536681-edf6-4d30-a908-d081ab83ec0e",
+      "name": "🫜59@proxy_kafee",
+      "network": "grpc",
+      "sni": "xp.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?mode=gun&security=reality&encryption=none&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=f5#vless-grpc-reality-CZ%F0%9F%8C%90-2",
+      "ip": "45.15.162.178",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?mode=gun&security=reality&encryption=none&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=f5#vless-grpc-reality-CZ%F0%9F%8C%90-2"
     }
   ]
 }

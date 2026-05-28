@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-23T16:50:27.359006",
+  "updated": "2026-05-28T18:32:41.961052",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "95.164.46.235",
-      "port": "443",
-      "id": "57acb7dc-4029-4ec6-ac38-67202505a1d3",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
-      "sni": "it-full.privateip.net",
+      "address": "185.248.144.70",
+      "port": "10549",
+      "id": "46d74f41-89fb-41a9-801d-75945f388879",
+      "name": "🫜90@proxy_kafee",
+      "network": "grpc",
+      "sni": "xp.apple.com",
       "host": "",
-      "security": "tls",
+      "security": "reality",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://57acb7dc-4029-4ec6-ac38-67202505a1d3@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#vless-ws-tls-IT%F0%9F%8C%90-1",
-      "ip": "95.164.46.235",
+      "original": "vless://46d74f41-89fb-41a9-801d-75945f388879@185.248.144.70:10549?mode=gun&security=reality&encryption=none&pbk=tyNWG6Tu_so9cRgv6Le8G5nwa065RoZXiSEBfIsXbFk&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=be#vless-grpc-reality-IT%F0%9F%8C%90-1",
+      "ip": "185.248.144.70",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://57acb7dc-4029-4ec6-ac38-67202505a1d3@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#vless-ws-tls-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://46d74f41-89fb-41a9-801d-75945f388879@185.248.144.70:10549?mode=gun&security=reality&encryption=none&pbk=tyNWG6Tu_so9cRgv6Le8G5nwa065RoZXiSEBfIsXbFk&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=be#vless-grpc-reality-IT%F0%9F%8C%90-1"
     }
   ]
 }

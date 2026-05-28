@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-28T11:33:27.720058",
-  "count": 1,
+  "updated": "2026-05-28T18:32:41.959030",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "185.226.95.155",
+      "port": "80",
+      "id": "a4b4dbc4-c9c5-4360-9e9c-d6019118e318",
+      "name": "🫜81@proxy_kafee",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "185.226.95.155",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "vmess",
       "address": "212.87.198.79",
@@ -11,11 +31,11 @@
       "network": "tcp",
       "host": "bale.ai",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
+      "original": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
       "ip": "212.87.198.79",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }
   ]
 }
