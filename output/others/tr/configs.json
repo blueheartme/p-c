@@ -1,21 +1,26 @@
 {
-  "updated": "2026-05-29T02:42:45.017522",
+  "updated": "2026-05-29T18:28:45.489487",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "212.87.198.79",
-      "port": "45255",
-      "id": "dd5ffd23-cef5-44dd-a143-658bd7f3943a",
-      "name": "ایدی تل ما : ir_IRANy@🐨",
+      "type": "vless",
+      "address": "panel.panel.pythash.tr",
+      "port": "443",
+      "id": "68f91cc2-4ef2-46fd-932a-2d0350f682c8",
+      "name": "@filembad",
       "network": "tcp",
-      "host": "bale.ai",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
-      "ip": "212.87.198.79",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&headerType=none&fp=chrome&spx=%2FFbXJdgEZFzfMMH9&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "212.87.199.28",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYWxlLmFpIiwiaWQiOiJkZDVmZmQyMy1jZWY1LTQ0ZGQtYTE0My02NThiZDdmMzk0M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTI1NSIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "rebuilt": "vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&headerType=none&fp=chrome&spx=%2FFbXJdgEZFzfMMH9&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

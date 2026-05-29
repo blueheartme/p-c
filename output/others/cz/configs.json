@@ -1,46 +1,26 @@
 {
-  "updated": "2026-05-29T11:23:21.500097",
-  "count": 2,
+  "updated": "2026-05-29T18:28:45.497141",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "2.26.160.79",
       "port": "443",
       "id": "729d3d1e-ee1a-4c42-84bc-2ff331518221",
-      "name": "@filembad",
+      "name": "Free 41 @Outline_Vpn",
       "network": "tcp",
       "sni": "www.nvidia.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&security=reality&sid=6ba8f65dee6e&sni=www.nvidia.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1",
+      "original": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1",
       "ip": "2.26.160.79",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&security=reality&sid=6ba8f65dee6e&sni=www.nvidia.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "185.149.135.102",
-      "port": "2053",
-      "id": "0d974d97-fc0f-4e31-9f86-d4972c37b565",
-      "name": "Join ➣ @proxy_kafee",
-      "network": "xhttp",
-      "sni": "cdn.dns.xn--q9jyb4c",
-      "host": "cdn.dns.xn--q9jyb4c",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#vless-xhttp-tls-CZ%F0%9F%8C%90-2",
-      "ip": "185.149.135.102",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#vless-xhttp-tls-CZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1"
     }
   ]
 }

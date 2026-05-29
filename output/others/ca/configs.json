@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T11:23:21.501451",
-  "count": 2,
+  "updated": "2026-05-29T18:28:45.494568",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
-    {
-      "type": "vless",
-      "address": "23.227.60.30",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "🌝13@proxy_kafee",
-      "network": "ws",
-      "sni": "",
-      "host": "vms.lifetime18.workers.dev",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-2",
-      "ip": "23.227.60.30",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws#vless-ws-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     }
   ]
 }

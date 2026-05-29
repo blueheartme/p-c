@@ -1,46 +1,26 @@
 {
-  "updated": "2026-03-31T01:54:55.586783",
-  "count": 2,
+  "updated": "2026-05-29T18:28:45.477056",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "mlh.mynethub99.top",
-      "port": "2083",
-      "id": "9920d8dc-6823-4be6-a9ac-522e8584fbca",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "address": "45.141.234.170",
+      "port": "8443",
+      "id": "10e82fcc-94ec-4d09-8855-579bb55b77e4",
+      "name": "🌝66@proxy_kafee",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.google.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://9920d8dc-6823-4be6-a9ac-522e8584fbca@mlh.mynethub99.top:2083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%8C%90-1",
-      "ip": "5.62.10.54",
+      "original": "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#vless-xtls-rprx-vision-tcp-reality-IE%F0%9F%8C%90-1",
+      "ip": "45.141.234.170",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://9920d8dc-6823-4be6-a9ac-522e8584fbca@mlh.mynethub99.top:2083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "mlh.mynethub99.top",
-      "port": "443",
-      "id": "18e35ca4-4b6e-43dd-9c28-b3ef89966821",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "tcp",
-      "sni": "mlh.mynethub99.top",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#vless-tcp-tls-chrome-IE%F0%9F%8C%90-2",
-      "ip": "5.62.10.54",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#vless-tcp-tls-chrome-IE%F0%9F%8C%90-2"
+      "rebuilt": "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#vless-xtls-rprx-vision-tcp-reality-IE%F0%9F%8C%90-1"
     }
   ]
 }

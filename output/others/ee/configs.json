@@ -1,26 +1,46 @@
 {
-  "updated": "2026-03-14T16:25:19.561944",
-  "count": 1,
+  "updated": "2026-05-29T18:28:45.482455",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "est.pink-service.ru",
-      "port": "443",
-      "id": "9c7d89ae-daf3-45c2-84d6-a7447e9123f9",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "address": "95.85.228.146",
+      "port": "8443",
+      "id": "a67e3045-626c-42c9-8cc0-a5afa6b18b05",
+      "name": "🌝73@proxy_kafee",
       "network": "tcp",
-      "sni": "www.google.com",
+      "sni": "io.ozone.ru",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "69.12.83.138",
+      "fingerprint": "",
+      "original": "vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1",
+      "ip": "95.85.228.146",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.215.184.95",
+      "port": "443",
+      "id": "91e120bc-159a-4390-b4e1-197b19602ea0",
+      "name": "Free 47 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "sub.sbrf-cdn342.ru",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%8C%90-2",
+      "ip": "185.215.184.95",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#vless-xtls-rprx-vision-tcp-tls-EE%F0%9F%8C%90-2"
     }
   ]
 }
