@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-29T02:42:45.016789",
-  "count": 1,
+  "updated": "2026-05-29T11:23:21.499558",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.131.6.203",
+      "port": "2083",
+      "id": "091fd4c7-4fec-49b2-a4e9-0000ca857dc3",
+      "name": "Join ➣ @proxy_kafee",
+      "network": "xhttp",
+      "sni": "fr.xuiprospeed.ir",
+      "host": "fr.xuiprospeed.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#vless-xhttp-tls-chrome-BZ%F0%9F%8C%90-1",
+      "ip": "45.131.6.203",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#vless-xhttp-tls-chrome-BZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "45.131.6.238",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-2",
       "ip": "45.131.6.238",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-2"
     }
   ]
 }

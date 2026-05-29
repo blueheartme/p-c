@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-29T02:42:45.012783",
-  "count": 1,
+  "updated": "2026-05-29T11:23:21.493829",
+  "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "202.37.33.80",
+      "port": "443",
+      "password": "humanity",
+      "name": "@filembad",
+      "sni": "www.creationlong.org",
+      "host": "www.creationlong.org",
+      "original": "trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-NZ%F0%9F%8C%90-1",
+      "ip": "202.37.33.80",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#trojan-ws-tls-NZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "114.129.43.238",
@@ -16,11 +30,51 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-2",
       "ip": "114.129.43.238",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "202.37.33.81",
+      "port": "443",
+      "id": "27302727-9dfa-4975-990e-88c7a63747cd",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "q.amg64.cc.cd",
+      "host": "q.amg64.cc.cd",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://27302727-9dfa-4975-990e-88c7a63747cd@202.37.33.81:443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=q.amg64.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=q.amg64.cc.cd#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3",
+      "ip": "202.37.33.81",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "vless://27302727-9dfa-4975-990e-88c7a63747cd@202.37.33.81:443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=q.amg64.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=q.amg64.cc.cd#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "202.37.33.80",
+      "port": "443",
+      "id": "cc752a3e-1537-4e86-bb50-1b897bf7b33c",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "cyylr.eu.cc",
+      "host": "cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-4",
+      "ip": "202.37.33.80",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-4"
     }
   ]
 }
