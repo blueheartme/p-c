@@ -1,21 +1,26 @@
 {
-  "updated": "2026-05-27T18:22:24.811278",
+  "updated": "2026-05-29T02:42:45.005742",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "1.1.1.1",
-      "port": "88888",
-      "id": "872d7cf7-a8d1-4710-835b-bc6aca216b62",
-      "name": "👤نام کاربری: 55712442_4ace271a    زمان⌛️: 30  روز | حجم : 50.0 GB",
-      "network": "ws",
+      "type": "vless",
+      "address": "54.253.37.164",
+      "port": "23951",
+      "id": "3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.tesla.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijg3MmQ3Y2Y3LWE4ZDEtNDcxMC04MzViLWJjNmFjYTIxNmI2MiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOjg4ODg4LCJwcyI6InZtZXNzLWF1dG8td3MtQVXwn4em8J+Hui0xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-      "ip": "1.1.1.1",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "54.253.37.164",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijg3MmQ3Y2Y3LWE4ZDEtNDcxMC04MzViLWJjNmFjYTIxNmI2MiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOjg4ODg4LCJwcyI6InZtZXNzLWF1dG8td3MtQVXwn4em8J+Hui0xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "rebuilt": "vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=%2F&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

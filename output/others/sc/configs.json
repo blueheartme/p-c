@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-28T18:32:41.952956",
-  "count": 5,
+  "updated": "2026-05-29T02:42:45.004828",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
       "address": "45.130.125.69",
       "port": "2096",
-      "id": "e258977b-e413-4718-a3af-02d75492c349",
+      "id": "5e8c894b-1efa-48d4-85ee-9daf5d574c16",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "jp.aniua.qzz.io",
-      "host": "jp.aniua.qzz.io",
+      "network": "grpc",
+      "sni": "bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir",
+      "host": "",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#vless-ws-tls-SC%F0%9F%8C%90-1",
+      "fingerprint": "chrome",
+      "original": "vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&allowInsecure=0&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#vless-grpc-tls-chrome-SC%F0%9F%8C%90-1",
       "ip": "45.130.125.69",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#vless-ws-tls-SC%F0%9F%8C%90-1"
+      "rebuilt": "vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&allowInsecure=0&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#vless-grpc-tls-chrome-SC%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -36,51 +36,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?mode=stream-one&path=%2Fdev%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.fbase.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=de.fbase.cc.cd#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-2",
+      "original": "vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?encryption=none&type=xhttp&security=tls&path=%2Fdev%2Fapi&host=de.fbase.cc.cd&mode=stream-one&sni=de.fbase.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.69",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?mode=stream-one&path=%2Fdev%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.fbase.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=de.fbase.cc.cd#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "45.130.125.76",
-      "port": "443",
-      "id": "kir-to-kone-pasha-4ever",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "ir.dorostify.com",
-      "host": "ir.dorostify.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://kir-to-kone-pasha-4ever@45.130.125.76:443?path=%2Fsisi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ir.dorostify.com&fp=chrome&type=ws&allowInsecure=0&sni=ir.dorostify.com#vless-ws-tls-chrome-SC%F0%9F%8C%90-3",
-      "ip": "45.130.125.76",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://kir-to-kone-pasha-4ever@45.130.125.76:443?path=%2Fsisi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ir.dorostify.com&fp=chrome&type=ws&allowInsecure=0&sni=ir.dorostify.com#vless-ws-tls-chrome-SC%F0%9F%8C%90-3"
+      "rebuilt": "vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?encryption=none&type=xhttp&security=tls&path=%2Fdev%2Fapi&host=de.fbase.cc.cd&mode=stream-one&sni=de.fbase.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
       "address": "45.130.125.69",
-      "port": "443",
-      "id": "ada4ea8a-41d8-41b2-bcf5-9bf961b7d676",
-      "name": "@@lldalall",
+      "port": "2096",
+      "id": "e258977b-e413-4718-a3af-02d75492c349",
+      "name": "@saministamm 1🪐",
       "network": "ws",
-      "sni": "cdn12.kaiserping.site",
-      "host": "cdn12.kaiserping.site",
+      "sni": "jp.aniua.qzz.io",
+      "host": "jp.aniua.qzz.io",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://ada4ea8a-41d8-41b2-bcf5-9bf961b7d676@45.130.125.69:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.kaiserping.site&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.kaiserping.site#vless-ws-tls-chrome-SC%F0%9F%8C%90-4",
+      "fingerprint": "",
+      "original": "vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40saministamm&security=tls&encryption=none&insecure=1&host=jp.aniua.qzz.io&type=ws&allowInsecure=1&sni=jp.aniua.qzz.io#vless-ws-tls-SC%F0%9F%8C%90-3",
       "ip": "45.130.125.69",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://ada4ea8a-41d8-41b2-bcf5-9bf961b7d676@45.130.125.69:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.kaiserping.site&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.kaiserping.site#vless-ws-tls-chrome-SC%F0%9F%8C%90-4"
+      "rebuilt": "vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40saministamm&security=tls&encryption=none&insecure=1&host=jp.aniua.qzz.io&type=ws&allowInsecure=1&sni=jp.aniua.qzz.io#vless-ws-tls-SC%F0%9F%8C%90-3"
     },
     {
       "type": "trojan",
@@ -90,11 +70,11 @@
       "name": "",
       "sni": "www.app-cloud.ir",
       "host": "",
-      "original": "trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-SC%F0%9F%8C%90-5",
+      "original": "trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-SC%F0%9F%8C%90-4",
       "ip": "45.130.125.76",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-SC%F0%9F%8C%90-5"
+      "rebuilt": "trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#trojan-ws-tls-SC%F0%9F%8C%90-4"
     }
   ]
 }

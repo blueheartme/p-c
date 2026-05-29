@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T18:32:41.962312",
-  "count": 1,
+  "updated": "2026-05-29T02:42:45.009794",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.140.204.121",
+      "port": "443",
+      "id": "416560bf-9ebb-4a43-96b6-e353e3d3572a",
+      "name": "3🫜@proxy_kafee",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?security=reality&encryption=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&headerType=none&type=tcp&sni=yahoo.com&sid=08bf#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "45.140.204.121",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?security=reality&encryption=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&headerType=none&type=tcp&sni=yahoo.com&sid=08bf#vless-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }
