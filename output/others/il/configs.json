@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T05:57:08.126535",
+  "updated": "2026-05-30T16:56:39.926447",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
+      "type": "vless",
+      "address": "il2.c2horizon.app",
       "port": "443",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "未知 VLESS-37 | free-nodes",
-      "original": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A5%20VLESS-37%20%7C%20free-nodes",
-      "ip": "20.217.81.175",
+      "id": "fe63dc5a-c00a-45eb-b875-19006f7f170c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "il2.c2horizon.app",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://fe63dc5a-c00a-45eb-b875-19006f7f170c@il2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-IL%F0%9F%8C%90-1",
+      "ip": "77.91.69.193",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A5%20VLESS-37%20%7C%20free-nodes"
+      "rebuilt": "vless://fe63dc5a-c00a-45eb-b875-19006f7f170c@il2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-IL%F0%9F%8C%90-1"
     }
   ]
 }

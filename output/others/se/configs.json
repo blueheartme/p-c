@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-30T09:54:22.066929",
-  "count": 2,
+  "updated": "2026-05-30T16:56:39.917616",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "193.168.197.76",
+      "port": "8443",
+      "id": "33296019-52c4-46ef-9b97-c71fba9402cb",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://33296019-52c4-46ef-9b97-c71fba9402cb@193.168.197.76:8443?encryption=none&fp=&pbk=rTsS1Q9hWR7yAL_7Cbf2oWGl3bxHTEIXQtTdSkEJI2k&security=reality&sid=972981cbe7f3df80&sni=www.sony.com&type=grpc#vless-grpc-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "193.168.197.76",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://33296019-52c4-46ef-9b97-c71fba9402cb@193.168.197.76:8443?encryption=none&fp=&pbk=rTsS1Q9hWR7yAL_7Cbf2oWGl3bxHTEIXQtTdSkEJI2k&security=reality&sid=972981cbe7f3df80&sni=www.sony.com&type=grpc#vless-grpc-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "ss",
       "address": "45.91.171.108",
@@ -17,23 +37,23 @@
     },
     {
       "type": "vless",
-      "address": "185.177.239.95",
-      "port": "14793",
-      "id": "74efe911-4e11-44ac-b9a8-c8b4caf42ea7",
+      "address": "172.234.105.250",
+      "port": "56845",
+      "id": "599fc8a8-a939-405f-a755-922381ffa3ba",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.sony.com",
+      "network": "ws",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "185.177.239.95",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://599fc8a8-a939-405f-a755-922381ffa3ba@172.234.105.250:56845?path=%2F&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "172.234.105.250",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://599fc8a8-a939-405f-a755-922381ffa3ba@172.234.105.250:56845?path=%2F&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }

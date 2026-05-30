@@ -1,19 +1,21 @@
 {
-  "updated": "2026-05-29T11:23:21.493157",
+  "updated": "2026-05-30T16:56:39.937999",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "89.44.197.181",
-      "port": "31348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL",
-      "name": "@proxy_kafee💤",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#%40proxy_kafee%F0%9F%92%A4",
-      "ip": "89.44.197.181",
+      "type": "vmess",
+      "address": "2.59.218.36",
+      "port": "2365",
+      "id": "5e6f5842-5027-4155-a8f9-51746bf34b5a",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "speedtest.ir",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIyLjU5LjIxOC4zNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0LmlyIiwiaWQiOiI1ZTZmNTg0Mi01MDI3LTQxNTUtYThmOS01MTc0NmJmMzRiNWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMzY1IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1CR/CfjJAtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+      "ip": "2.59.218.36",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#%40proxy_kafee%F0%9F%92%A4"
+      "rebuilt": "vmess://eyJhZGQiOiIyLjU5LjIxOC4zNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0LmlyIiwiaWQiOiI1ZTZmNTg0Mi01MDI3LTQxNTUtYThmOS01MTc0NmJmMzRiNWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMzY1IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1CR/CfjJAtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }
   ]
 }
