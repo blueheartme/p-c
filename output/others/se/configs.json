@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T02:36:45.869694",
-  "count": 1,
+  "updated": "2026-05-30T09:54:22.066929",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -14,6 +14,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn"
+    },
+    {
+      "type": "vless",
+      "address": "185.177.239.95",
+      "port": "14793",
+      "id": "74efe911-4e11-44ac-b9a8-c8b4caf42ea7",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "185.177.239.95",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }
