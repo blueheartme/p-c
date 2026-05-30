@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-29T18:28:45.489487",
+  "updated": "2026-05-30T02:36:45.869055",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "panel.panel.pythash.tr",
-      "port": "443",
-      "id": "68f91cc2-4ef2-46fd-932a-2d0350f682c8",
+      "address": "167.104.219.227",
+      "port": "8443",
+      "id": "a086abfa-b9b3-4c2f-8024-e096c0663ff3",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.yahoo.com",
+      "sni": "play.google.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&headerType=none&fp=chrome&spx=%2FFbXJdgEZFzfMMH9&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "212.87.199.28",
+      "fingerprint": "firefox",
+      "original": "vless://a086abfa-b9b3-4c2f-8024-e096c0663ff3@167.104.219.227:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "167.104.219.227",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&headerType=none&fp=chrome&spx=%2FFbXJdgEZFzfMMH9&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#vless-xtls-rprx-vision-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://a086abfa-b9b3-4c2f-8024-e096c0663ff3@167.104.219.227:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

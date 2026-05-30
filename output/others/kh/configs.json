@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T05:57:08.100611",
+  "updated": "2026-05-30T02:36:45.877189",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "38.54.93.66",
-      "port": "49696",
-      "method": "",
-      "password": "",
-      "plugin": "",
-      "name": "未知 SS-05 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes",
-      "ip": "38.54.93.66",
+      "type": "vless",
+      "address": "92.243.75.112",
+      "port": "8443",
+      "id": "310506a7-75ad-4dd9-9667-0defa413fb1b",
+      "name": "@proxy_kafee👑💤",
+      "network": "xhttp",
+      "sni": "nl-gateway.easyrain.ir",
+      "host": "nl-gateway.easyrain.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://310506a7-75ad-4dd9-9667-0defa413fb1b@92.243.75.112:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nl-gateway.easyrain.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=nl-gateway.easyrain.ir#vless-xhttp-tls-firefox-KH%F0%9F%8C%90-1",
+      "ip": "92.243.75.112",
       "country": "KH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes"
+      "rebuilt": "vless://310506a7-75ad-4dd9-9667-0defa413fb1b@92.243.75.112:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nl-gateway.easyrain.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=nl-gateway.easyrain.ir#vless-xhttp-tls-firefox-KH%F0%9F%8C%90-1"
     }
   ]
 }

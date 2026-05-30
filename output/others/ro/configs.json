@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-21T01:27:11.906282",
+  "updated": "2026-05-30T02:36:45.877865",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "p-2-0-2-turk.turkabr.ir",
-      "port": "39792",
-      "id": "7bed5d53-f043-4fa4-f20b-32e7d1f5a052",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "address": "rom.greewebservices.ir",
+      "port": "2202",
+      "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
+      "name": "🇦🇲آیدی چنل ما @ir_IRANy",
       "network": "tcp",
-      "sni": "",
-      "host": "snapp.ir",
-      "security": "none",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#vless-tcp-http-RO%F0%9F%8C%90-1",
-      "ip": "89.42.199.66",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@rom.greewebservices.ir:2202?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-RO%F0%9F%8C%90-1",
+      "ip": "45.13.151.44",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#vless-tcp-http-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@rom.greewebservices.ir:2202?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-RO%F0%9F%8C%90-1"
     }
   ]
 }

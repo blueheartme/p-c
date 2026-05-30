@@ -1,21 +1,34 @@
 {
-  "updated": "2026-03-03T08:34:27.996430",
-  "count": 1,
+  "updated": "2026-05-30T02:36:45.881157",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "23.27.28.15",
-      "port": "4728",
-      "id": "8d2153d1-88f4-48bd-ac63-b65b0ddbd662",
-      "name": "t.me/entryNET",
-      "network": "ws",
+      "type": "trojan",
+      "address": "pokemon-01.yunjnet.com",
+      "port": "55016",
+      "password": "e2f70d88-8a9a-4a41-a220-9e50d8cf283d",
+      "name": "@filembad",
+      "sni": "www.lamer.com.sg",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMy4yNy4yOC4xNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOGQyMTUzZDEtODhmNC00OGJkLWFjNjMtYjY1YjBkZGJkNjYyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ3MjgsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
-      "ip": "23.27.28.15",
+      "original": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemon-01.yunjnet.com:55016?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.lamer.com.sg#trojan-tcp-tls-MY%F0%9F%8C%90-1",
+      "ip": "85.211.199.16",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMy4yNy4yOC4xNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOGQyMTUzZDEtODhmNC00OGJkLWFjNjMtYjY1YjBkZGJkNjYyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ3MjgsInBzIjoidm1lc3Mtd3MtYXV0by1NWfCfjJAtMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0="
+      "rebuilt": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemon-01.yunjnet.com:55016?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.lamer.com.sg#trojan-tcp-tls-MY%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "pokemonus-01.yunjnet.com",
+      "port": "56115",
+      "password": "e2f70d88-8a9a-4a41-a220-9e50d8cf283d",
+      "name": "@filembad",
+      "sni": "iosapps.itunes.apple.com",
+      "host": "",
+      "original": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemonus-01.yunjnet.com:56115?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iosapps.itunes.apple.com#trojan-tcp-tls-MY%F0%9F%8C%90-2",
+      "ip": "85.211.182.189",
+      "country": "MY",
+      "cdn": null,
+      "rebuilt": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemonus-01.yunjnet.com:56115?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iosapps.itunes.apple.com#trojan-tcp-tls-MY%F0%9F%8C%90-2"
     }
   ]
 }

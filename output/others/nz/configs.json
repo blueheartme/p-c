@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T18:28:45.493289",
-  "count": 2,
+  "updated": "2026-05-30T02:36:45.861480",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -27,7 +27,7 @@
       "address": "202.37.33.80",
       "port": "443",
       "id": "cc752a3e-1537-4e86-bb50-1b897bf7b33c",
-      "name": "آیدی چنل ما @ir_IRANy🤺",
+      "name": "@filembad",
       "network": "ws",
       "sni": "cyylr.eu.cc",
       "host": "cyylr.eu.cc",
@@ -36,11 +36,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2",
+      "original": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%20udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2",
       "ip": "202.37.33.80",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%20udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "202.37.33.81",
+      "port": "443",
+      "id": "3b01a777-55e7-49f6-8637-d94ee69607c6",
+      "name": "آیدی چنل ما @ir_IRANy😎",
+      "network": "ws",
+      "sni": "m.udemy.com.cyylr.eu.cc",
+      "host": "m.udemy.com.cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3",
+      "ip": "202.37.33.81",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3"
     }
   ]
 }
