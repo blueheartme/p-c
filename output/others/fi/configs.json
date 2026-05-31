@@ -1,59 +1,20 @@
 {
-  "updated": "2026-05-30T16:56:39.929717",
-  "count": 7,
+  "updated": "2026-05-31T02:53:39.095813",
+  "count": 5,
   "configs": [
     {
-      "type": "ss",
-      "address": "195.133.2.2",
-      "port": "34898",
-      "method": "chacha20-ietf-poly1305",
-      "password": "v2LIewZzNUsIrqODr22FVc",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#%40filembad",
-      "ip": "195.133.2.2",
+      "type": "trojan",
+      "address": "185.102.136.51",
+      "port": "2053",
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "name": "Pro 32 @Outline_Vpn",
+      "sni": "Koma-YT.PAGeS.Dev",
+      "host": "Koma-YT.PAGeS.Dev",
+      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "185.102.136.51",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#%40filembad"
-    },
-    {
-      "type": "vless",
-      "address": "fi.gryaz-vpn.com",
-      "port": "34572",
-      "id": "abcd6b4c-2d85-4de5-be7f-62791b0f5085",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "193.164.155.121",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
-    },
-    {
-      "type": "vless",
-      "address": "55272859cb92a7ae.vertalist.ir",
-      "port": "1310",
-      "id": "b745cdef-132f-43c5-9f50-f617da0e5a66",
-      "name": "آیدی تلگرام بیا وصل شو @ir_IRANy☕",
-      "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://b745cdef-132f-43c5-9f50-f617da0e5a66@55272859cb92a7ae.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "135.181.46.128",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://b745cdef-132f-43c5-9f50-f617da0e5a66@55272859cb92a7ae.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "vless",
@@ -69,11 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "vless",
@@ -89,25 +50,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "original": "vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-3",
       "ip": "65.109.216.90",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-5"
+      "rebuilt": "vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     },
     {
-      "type": "trojan",
-      "address": "185.102.136.51",
-      "port": "2053",
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "name": "Pro 32 @Outline_Vpn",
-      "sni": "Koma-YT.PAGeS.Dev",
-      "host": "Koma-YT.PAGeS.Dev",
-      "original": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-6",
-      "ip": "185.102.136.51",
+      "type": "vless",
+      "address": "fi.gryaz-vpn.com",
+      "port": "34572",
+      "id": "abcd6b4c-2d85-4de5-be7f-62791b0f5085",
+      "name": "Free 46 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "193.164.155.121",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "trojan://8r%3C%5B9%27l6hAO%238ZQi@185.102.136.51:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#trojan-ws-tls-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
       "type": "vless",
@@ -123,11 +90,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "original": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5",
       "ip": "5.183.253.171",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+      "rebuilt": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     }
   ]
 }

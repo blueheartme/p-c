@@ -1,33 +1,13 @@
 {
-  "updated": "2026-05-30T16:56:39.927202",
-  "count": 3,
+  "updated": "2026-05-31T02:53:39.104619",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "sca11.myfymain.com",
       "port": "8880",
       "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
-      "name": "@saministamm",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?encryption=none&type=grpc&mode=gun#vless-grpc-IT%F0%9F%8C%90-1",
-      "ip": "151.115.164.116",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?encryption=none&type=grpc&mode=gun#vless-grpc-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "sca17.myfymain.com",
-      "port": "8880",
-      "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
-      "name": "@filembad",
+      "name": "proxymelimon",
       "network": "grpc",
       "sni": "",
       "host": "",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?encryption=none&security=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-2",
-      "ip": "151.115.164.132",
+      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1",
+      "ip": "151.115.164.116",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?encryption=none&security=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -48,12 +28,12 @@
       "port": "2083",
       "method": "aes-256-gcm",
       "password": "34fItyZyz69uIrxkJ+cLR1pdclvG628pv8+fzUNTIC0=",
-      "name": "@proxy_kafee",
-      "original": "ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#%40proxy_kafee",
+      "name": "🇺🇲آیدی چنل ما @ir_IRANy",
+      "original": "ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#%F0%9F%87%BA%F0%9F%87%B2%D8%A2%DB%8C%D8%AF%DB%8C%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7%20%40ir_IRANy",
       "ip": "57.131.28.246",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#%40proxy_kafee"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#%F0%9F%87%BA%F0%9F%87%B2%D8%A2%DB%8C%D8%AF%DB%8C%20%DA%86%D9%86%D9%84%20%D9%85%D8%A7%20%40ir_IRANy"
     }
   ]
 }

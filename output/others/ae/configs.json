@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T16:56:39.918494",
-  "count": 2,
+  "updated": "2026-05-31T02:53:39.107305",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -17,30 +17,10 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.29",
+      "ip": "176.97.78.3",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "94.140.0.188",
-      "port": "443",
-      "id": "cb12d2f4-d743-47c8-9e23-26f22387a042",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "cdn.amirak.qzz.io",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=auto&path=%2FAmir&security=tls&sni=cdn.amirak.qzz.io&type=xhttp#vless-xhttp-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "94.140.0.188",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=auto&path=%2FAmir&security=tls&sni=cdn.amirak.qzz.io&type=xhttp#vless-xhttp-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
