@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T02:53:39.102701",
+  "updated": "2026-05-31T10:10:45.294038",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "gerr1.greewebservices.ir",
-      "port": "1101",
-      "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
-      "name": "🇩🇪آیدی چنل ما @ir_IRANy",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "92.62.251.36",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "vless",
       "address": "mtnreal1.greewebservices.ir",
       "port": "1020",
       "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "92.62.251.205",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "gerr1.greewebservices.ir",
+      "port": "1101",
+      "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
+      "name": "🇩🇪آیدی چنل ما @ir_IRANy",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "92.62.251.36",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }

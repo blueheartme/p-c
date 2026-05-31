@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-31T02:53:39.106585",
-  "count": 4,
+  "updated": "2026-05-31T10:10:45.288465",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "202.37.33.80",
+      "port": "443",
+      "id": "cc752a3e-1537-4e86-bb50-1b897bf7b33c",
+      "name": "Free 51 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cyylr.eu.cc",
+      "host": "cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-1",
+      "ip": "202.37.33.80",
+      "country": "NZ",
+      "cdn": null,
+      "rebuilt": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "114.129.43.238",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-2",
       "ip": "114.129.43.238",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-NZ%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -36,51 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2",
+      "original": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3",
       "ip": "202.37.33.81",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "202.37.33.80",
-      "port": "443",
-      "id": "cdc0bc84-a65a-4d31-bf40-901cd20a2c97",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "cdn-pro6.postshup.ir.",
-      "host": "cdn-pro6.postshup.ir.",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://cdc0bc84-a65a-4d31-bf40-901cd20a2c97@202.37.33.80:443?security=tls&type=ws&headerType=&path=%2Fnews&host=cdn-pro6.postshup.ir.&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3",
-      "ip": "202.37.33.80",
-      "country": "NZ",
-      "cdn": null,
-      "rebuilt": "vless://cdc0bc84-a65a-4d31-bf40-901cd20a2c97@202.37.33.80:443?security=tls&type=ws&headerType=&path=%2Fnews&host=cdn-pro6.postshup.ir.&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "202.37.33.80",
-      "port": "443",
-      "id": "9e77bf8a-cd62-4d65-87fb-640a762abab1",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "cdn-pro6.postshup.ir.",
-      "host": "cdn-pro6.postshup.ir.",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://9e77bf8a-cd62-4d65-87fb-640a762abab1@202.37.33.80:443?security=tls&type=ws&headerType=&path=%2Fnews&host=cdn-pro6.postshup.ir.&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2#vless-ws-tls-chrome-NZ%F0%9F%8C%90-4",
-      "ip": "202.37.33.80",
-      "country": "NZ",
-      "cdn": null,
-      "rebuilt": "vless://9e77bf8a-cd62-4d65-87fb-640a762abab1@202.37.33.80:443?security=tls&type=ws&headerType=&path=%2Fnews&host=cdn-pro6.postshup.ir.&sni=cdn-pro6.postshup.ir.&fp=chrome&alpn=h3%2Ch2#vless-ws-tls-chrome-NZ%F0%9F%8C%90-4"
+      "rebuilt": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#vless-ws-tls-chrome-NZ%F0%9F%8C%90-3"
     }
   ]
 }
