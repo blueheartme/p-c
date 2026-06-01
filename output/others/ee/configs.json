@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-01T03:29:46.393856",
+  "updated": "2026-06-01T13:31:10.866825",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "ee.keepsecured.net",
+      "address": "150.241.101.222",
       "port": "443",
-      "id": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc",
-      "name": "@filembad",
+      "id": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
+      "name": "@proxy_kafee 🍋‍🟩",
       "network": "tcp",
-      "sni": "cdn.kwork.com",
+      "sni": "google.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ee.keepsecured.net:443?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kwork.com&sid=ad7dab462a323acb#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "87.121.86.205",
+      "fingerprint": "",
+      "original": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1",
+      "ip": "150.241.101.222",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ee.keepsecured.net:443?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kwork.com&sid=ad7dab462a323acb#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1"
     },
     {
       "type": "vless",

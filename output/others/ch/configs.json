@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-28T11:33:27.712576",
+  "updated": "2026-06-01T13:31:10.853575",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "macnetdev.macnetdev.link",
-      "port": "52483",
-      "id": "38f3ac5e-df95-4f3d-9207-b29313bec80f",
-      "name": "macnet-#irshum2-20.00GB📊",
+      "address": "83.228.226.72",
+      "port": "443",
+      "id": "a1ee1f7f-deb9-48e4-9a97-6f565949817d",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "",
-      "host": "",
+      "host": "uplod.ir",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://38f3ac5e-df95-4f3d-9207-b29313bec80f@macnetdev.macnetdev.link:52483?encryption=none&security=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "86.106.158.94",
+      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.226.72",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://38f3ac5e-df95-4f3d-9207-b29313bec80f@macnetdev.macnetdev.link:52483?encryption=none&security=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
