@@ -1,13 +1,33 @@
 {
-  "updated": "2026-06-01T13:31:10.853575",
-  "count": 1,
+  "updated": "2026-06-01T20:13:07.380028",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "83.228.226.72",
+      "port": "18921",
+      "id": "a1ee1f7f-deb9-48e4-9a97-6f565949817d",
+      "name": "proxy_kafee",
+      "network": "tcp",
+      "sni": "www.booking.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:18921?security=reality&encryption=none&echfq=none&pbk=1-7zKj1-3VrO684UVOk4FxaNzyPexU_tszVXRCmYX1I&headerType=none&fp=chrome&spx=%2FtyIuXYgLPV7IHUi&allowinsecure=0&type=tcp&sni=www.booking.com&sid=4be126c9c5b32ff6#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.226.72",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:18921?security=reality&encryption=none&echfq=none&pbk=1-7zKj1-3VrO684UVOk4FxaNzyPexU_tszVXRCmYX1I&headerType=none&fp=chrome&spx=%2FtyIuXYgLPV7IHUi&allowinsecure=0&type=tcp&sni=www.booking.com&sid=4be126c9c5b32ff6#vless-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "83.228.226.72",
       "port": "443",
       "id": "a1ee1f7f-deb9-48e4-9a97-6f565949817d",
-      "name": "@filembad",
+      "name": "برای اتصال دائمی جوین شو🎏 TelegramID ⌲GoldVpnHub 🪩",
       "network": "tcp",
       "sni": "",
       "host": "uplod.ir",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "83.228.226.72",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
