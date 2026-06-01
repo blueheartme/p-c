@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T10:10:45.294038",
+  "updated": "2026-06-01T03:29:46.403735",
   "count": 3,
   "configs": [
     {
@@ -24,43 +24,43 @@
     },
     {
       "type": "vless",
-      "address": "mtnreal1.greewebservices.ir",
-      "port": "1020",
-      "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
-      "name": "🇧🇬آیدی چنل ما @ir_IRANy",
+      "address": "cdn.cdnjst.org",
+      "port": "443",
+      "id": "ae852d97-85f5-45cf-82a4-254eba345480",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "cdn.cdnjst.org",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "92.62.251.205",
+      "original": "vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "144.31.131.33",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#vless-xtls-rprx-vision-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "vless",
-      "address": "gerr1.greewebservices.ir",
-      "port": "1101",
-      "id": "b8036956-cfb2-4e41-bf78-2880a70bcee0",
-      "name": "🇩🇪آیدی چنل ما @ir_IRANy",
+      "address": "144.31.131.33",
+      "port": "443",
+      "id": "ae852d97-85f5-45cf-82a4-254eba345480",
+      "name": "@proxy_kafee 😍3",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "cdn.cdnjst.org",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "92.62.251.36",
+      "fingerprint": "",
+      "original": "vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "144.31.131.33",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://b8036956-cfb2-4e41-bf78-2880a70bcee0@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+      "rebuilt": "vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
