@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-30T02:36:45.869055",
+  "updated": "2026-06-02T02:59:34.595583",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "167.104.219.227",
+      "address": "panel.panel.pythash.tr",
       "port": "8443",
-      "id": "a086abfa-b9b3-4c2f-8024-e096c0663ff3",
+      "id": "21cefb09-8d5f-4f1d-abf6-5631184e7b31",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "play.google.com",
+      "sni": "www.yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://a086abfa-b9b3-4c2f-8024-e096c0663ff3@167.104.219.227:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "167.104.219.227",
+      "fingerprint": "chrome",
+      "original": "vless://21cefb09-8d5f-4f1d-abf6-5631184e7b31@panel.panel.pythash.tr:8443?security=reality&encryption=none&pbk=TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU&headerType=none&fp=chrome&spx=/6xXlYkDAgB2Mk7s&type=tcp&sni=www.yahoo.com&sid=5c6e734fece26f#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "212.87.199.28",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://a086abfa-b9b3-4c2f-8024-e096c0663ff3@167.104.219.227:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://21cefb09-8d5f-4f1d-abf6-5631184e7b31@panel.panel.pythash.tr:8443?security=reality&encryption=none&pbk=TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU&headerType=none&fp=chrome&spx=/6xXlYkDAgB2Mk7s&type=tcp&sni=www.yahoo.com&sid=5c6e734fece26f#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }
