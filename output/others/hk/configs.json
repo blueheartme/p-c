@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T02:59:34.599642",
-  "count": 1,
+  "updated": "2026-06-02T12:00:49.423836",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "27.50.48.49",
+      "port": "443",
+      "id": "228639b0-48de-4162-a818-d5651ee297b3",
+      "name": "Free 73 @Outline_Vpn",
+      "network": "ws",
+      "sni": "investors.spotify.com.cyylr.eu.cc",
+      "host": "investors.spotify.com.cyylr.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "27.50.48.49",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
