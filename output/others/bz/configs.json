@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T12:00:49.436858",
-  "count": 1,
+  "updated": "2026-06-02T19:38:19.743593",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "BZ",
       "cdn": null,
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "chiflex.allcaline.ir",
+      "port": "443",
+      "id": "4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17",
+      "name": "@ir_IRANy | Channel 🤍🪽",
+      "network": "xhttp",
+      "sni": "pa_scar_10l.iranacar.ir",
+      "host": "pa_scar_10l.iranacar.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-2",
+      "ip": "45.131.4.1",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-2"
     }
   ]
 }
