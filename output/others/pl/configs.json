@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T19:38:19.735777",
-  "count": 1,
+  "updated": "2026-06-03T03:34:57.233396",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "vless",
+      "address": "areal1.greewebservices.ir",
+      "port": "2425",
+      "id": "b9dccdab-0f77-4fb7-8949-4d378e92df5c",
+      "name": "@irshum2",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@areal1.greewebservices.ir:2425?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=yahoo.com&type=tcp#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "92.62.251.190",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@areal1.greewebservices.ir:2425?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=yahoo.com&type=tcp#vless-tcp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

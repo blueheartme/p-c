@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-31T10:10:45.300075",
+  "updated": "2026-06-03T03:34:57.251283",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "104.194.135.175",
-      "port": "31570",
-      "id": "dfa6f07e-84d4-4d2b-8ba1-48d47dccba60",
-      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
+      "address": "185.207.197.156",
+      "port": "443",
+      "id": "9a98146a-235c-40ed-9633-a67fe3bf9f18",
+      "name": "Channel id: @GoldVpnHub 🇳🇱",
+      "network": "xhttp",
+      "sni": "cloudflare.dns.xn--q9jyb4c",
+      "host": "cloudflare.dns.xn--q9jyb4c",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?path=%2F&security=none&encryption=none&type=ws#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1",
-      "ip": "104.194.135.175",
+      "original": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "185.207.197.156",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?path=%2F&security=none&encryption=none&type=ws#vless-ws-AU%F0%9F%87%A6%F0%9F%87%BA-1"
+      "rebuilt": "vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@185.207.197.156:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#vless-xhttp-tls-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }
