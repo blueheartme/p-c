@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-03T12:37:51.920221",
-  "count": 2,
+  "updated": "2026-06-03T19:44:21.770610",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.131.6.238",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "Pro 26 @Outline_Vpn",
-      "network": "ws",
-      "sni": "sni.jpmj.dev",
-      "host": "sni.jpmj.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1",
-      "ip": "45.131.6.238",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#vless-ws-tls-BZ%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "chiflex.allcaline.ir",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-2",
+      "original": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-1",
       "ip": "45.131.4.1",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://4a7fd53c-4e4a-40e7-8cd7-201a4dfc7c17@chiflex.allcaline.ir:443?mode=auto&path=%2Fprogram%2Fline&security=tls&alpn=h2&encryption=none&insecure=0&host=pa_scar_10l.iranacar.ir&type=xhttp&allowInsecure=0&sni=pa_scar_10l.iranacar.ir#vless-xhttp-tls-BZ%F0%9F%8C%90-1"
     }
   ]
 }
