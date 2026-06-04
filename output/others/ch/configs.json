@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T19:44:21.766841",
-  "count": 3,
+  "updated": "2026-06-04T03:29:43.000402",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -18,26 +18,6 @@
     },
     {
       "type": "vless",
-      "address": "185.18.250.252",
-      "port": "443",
-      "id": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "octopusss4.com",
-      "host": "octopusss4.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "185.18.250.252",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#vless-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
       "address": "83.228.226.72",
       "port": "443",
       "id": "a1ee1f7f-deb9-48e4-9a97-6f565949817d",
@@ -50,11 +30,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "83.228.226.72",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
