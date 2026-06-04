@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-04T10:58:08.296169",
+  "updated": "2026-06-04T18:11:45.773202",
   "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "64.176.65.85",
+      "port": "443",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "64.176.65.85",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
     {
       "type": "vless",
       "address": "185.193.29.138",
@@ -16,25 +30,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "185.193.29.138",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }
