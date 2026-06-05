@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-04T18:11:45.791525",
-  "count": 1,
+  "updated": "2026-06-05T02:52:04.418352",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "se02.goodmaximum.com",
+      "port": "443",
+      "id": "906a8afb-0508-0029-8926-7a754dd62db5",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "workspace.sablefrost.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://906a8afb-0508-0029-8926-7a754dd62db5@se02.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=firefox&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=workspace.sablefrost.com&sid=21181028b56c8702#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "185.189.47.29",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://906a8afb-0508-0029-8926-7a754dd62db5@se02.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=firefox&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=workspace.sablefrost.com&sid=21181028b56c8702#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
     {
       "type": "ss",
       "address": "45.91.171.108",
