@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-05T17:49:53.373141",
-  "count": 4,
+  "updated": "2026-06-06T02:39:01.824936",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
-    },
     {
       "type": "ss",
       "address": "54.36.174.134",
@@ -30,44 +16,18 @@
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#Free%20103%20%40Outline_Vpn"
     },
     {
-      "type": "vless",
-      "address": "185.193.28.212",
+      "type": "trojan",
+      "address": "64.176.65.85",
       "port": "443",
-      "id": "17540a16-a0dd-5694-7e1e-14e281ccc032",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "crm.lotussec.com",
-      "host": "crm.lotussec.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "185.193.28.212",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#vless-ws-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "vless",
-      "address": "login.sempai.site",
-      "port": "443",
-      "id": "73a27a6d-a111-4576-a6b3-e8594aeac2f2",
-      "name": "🇬🇧 @proxy_kafee",
-      "network": "tcp",
-      "sni": "front.xwhiteness.site",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?security=reality&encryption=none&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=front.xwhiteness.site#vless-xtls-rprx-vision-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "150.241.93.194",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "64.176.65.85",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?security=reality&encryption=none&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=front.xwhiteness.site#vless-xtls-rprx-vision-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

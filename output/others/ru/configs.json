@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T17:49:53.371833",
-  "count": 3,
+  "updated": "2026-06-06T02:39:01.815610",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "RU",
       "cdn": null,
       "rebuilt": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#vless-xtls-rprx-vision-tcp-reality-chrome-RU%F0%9F%87%B7%F0%9F%87%BA-2"
-    },
-    {
-      "type": "vless",
-      "address": "171.22.136.84",
-      "port": "8080",
-      "id": "db1b6276-2054-46a4-999b-e524c5063e6d",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://db1b6276-2054-46a4-999b-e524c5063e6d@171.22.136.84:8080?type=ws&encryption=none&path=%2Fpath&host=play.google.com&security=none#vless-ws-RU%F0%9F%87%B7%F0%9F%87%BA-3",
-      "ip": "171.22.136.84",
-      "country": "RU",
-      "cdn": null,
-      "rebuilt": "vless://db1b6276-2054-46a4-999b-e524c5063e6d@171.22.136.84:8080?type=ws&encryption=none&path=%2Fpath&host=play.google.com&security=none#vless-ws-RU%F0%9F%87%B7%F0%9F%87%BA-3"
     }
   ]
 }
