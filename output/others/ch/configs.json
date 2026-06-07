@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T17:05:44.814088",
-  "count": 1,
+  "updated": "2026-06-07T02:57:18.692138",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "sw.monedita.cl",
+      "port": "443",
+      "id": "83b83db8-477e-47d6-86cb-749d5042d44f",
+      "name": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
+      "network": "tcp",
+      "sni": "",
+      "host": "www.speedtest.net",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "45.59.124.139",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
