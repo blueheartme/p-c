@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-07T02:57:18.694362",
-  "count": 2,
+  "updated": "2026-06-07T10:24:58.416995",
+  "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "64.176.65.85",
+      "port": "443",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "64.176.65.85",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+    },
+    {
+      "type": "vless",
+      "address": "82.40.62.3",
+      "port": "80",
+      "id": "540db6ea-ab26-465c-a9bb-8395b8b0b466",
+      "name": "",
+      "network": "xhttp",
+      "sni": "www.samsung.com",
+      "host": "82.40.62.3",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?mode=auto&path=%2Fmohraz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&host=82.40.62.3&fp=chrome&spx=%2F4XFInQS0ZZnfnZD&type=xhttp&sni=www.samsung.com&sid=43#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "82.40.62.3",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?mode=auto&path=%2Fmohraz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&host=82.40.62.3&fp=chrome&spx=%2F4XFInQS0ZZnfnZD&type=xhttp&sni=www.samsung.com&sid=43#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
     {
       "type": "ss",
       "address": "54.36.174.134",
@@ -14,20 +48,6 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#Free%20103%20%40Outline_Vpn"
-    },
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

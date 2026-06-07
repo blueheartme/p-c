@@ -1,40 +1,7 @@
 {
-  "updated": "2026-06-07T02:57:18.682902",
+  "updated": "2026-06-07T10:24:58.414503",
   "count": 11,
   "configs": [
-    {
-      "type": "ss",
-      "address": "141.98.101.182",
-      "port": "443",
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "name": "United Kingdom M247",
-      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
-      "ip": "141.98.101.182",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
-    },
-    {
-      "type": "vless",
-      "address": "206.189.20.90",
-      "port": "27774",
-      "id": "c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6",
-      "name": "Free 81 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2",
-      "ip": "206.189.20.90",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2"
-    },
     {
       "type": "vless",
       "address": "159.65.92.206",
@@ -49,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-3",
+      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-1",
       "ip": "159.65.92.206",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-3"
+      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-1"
     },
     {
       "type": "vless",
@@ -69,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-4",
+      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2",
       "ip": "178.62.87.183",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-4"
+      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-2"
     },
     {
       "type": "ss",
@@ -90,26 +57,6 @@
     },
     {
       "type": "vless",
-      "address": "91.193.58.140",
-      "port": "443",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "proxymelimon",
-      "network": "ws",
-      "sni": "sni.111000.v6.rocks",
-      "host": "sni.111000.v6.rocks",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-6",
-      "ip": "91.193.58.140",
-      "country": "GB",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-6"
-    },
-    {
-      "type": "vless",
       "address": "45.86.159.171",
       "port": "7443",
       "id": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
@@ -122,26 +69,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#vless-xtls-rprx-vision-tcp-reality-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-7",
+      "original": "vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#vless-xtls-rprx-vision-tcp-reality-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-4",
       "ip": "45.86.159.171",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#vless-xtls-rprx-vision-tcp-reality-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-7"
+      "rebuilt": "vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#vless-xtls-rprx-vision-tcp-reality-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-4"
     },
     {
-      "type": "vmess",
-      "address": "51.195.235.71",
-      "port": "2052",
-      "id": "59e28f78-c31b-4613-9d9f-1e6732a31f46",
-      "name": "Free 57 @Outline_Vpn",
+      "type": "vless",
+      "address": "206.189.20.90",
+      "port": "27774",
+      "id": "c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6",
+      "name": "Free 81 @Outline_Vpn",
       "network": "tcp",
-      "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUdC8J+HrPCfh6ctOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
-      "ip": "51.195.235.71",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-5",
+      "ip": "206.189.20.90",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUdC8J+HrPCfh6ctOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+      "rebuilt": "vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-GB%F0%9F%87%AC%F0%9F%87%A7-5"
     },
     {
       "type": "vless",
@@ -157,11 +109,57 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-9",
+      "original": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-6",
       "ip": "46.101.57.231",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-9"
+      "rebuilt": "vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#vless-ws-tls-GB%F0%9F%87%AC%F0%9F%87%A7-6"
+    },
+    {
+      "type": "vless",
+      "address": "91.193.58.140",
+      "port": "443",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "proxymelimon",
+      "network": "ws",
+      "sni": "sni.111000.v6.rocks",
+      "host": "sni.111000.v6.rocks",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-7",
+      "ip": "91.193.58.140",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#vless-ws-tls-chrome-GB%F0%9F%87%AC%F0%9F%87%A7-7"
+    },
+    {
+      "type": "ss",
+      "address": "57.129.140.88",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1v5g9FefdoO",
+      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
+      "ip": "57.129.140.88",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+    },
+    {
+      "type": "ss",
+      "address": "141.98.101.182",
+      "port": "443",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "name": "United Kingdom M247",
+      "original": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247",
+      "ip": "141.98.101.182",
+      "country": "GB",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247"
     },
     {
       "type": "ss",
@@ -177,17 +175,19 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Free%2048%20%40Outline_Vpn"
     },
     {
-      "type": "ss",
-      "address": "57.129.140.88",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "k1v5g9FefdoO",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "57.129.140.88",
+      "type": "vmess",
+      "address": "51.195.235.71",
+      "port": "2052",
+      "id": "59e28f78-c31b-4613-9d9f-1e6732a31f46",
+      "name": "Free 57 @Outline_Vpn",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUdC8J+HrPCfh6ctMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9",
+      "ip": "51.195.235.71",
       "country": "GB",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+      "rebuilt": "vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUdC8J+HrPCfh6ctMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }
   ]
 }
