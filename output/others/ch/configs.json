@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-07T10:24:58.413456",
+  "updated": "2026-06-07T17:09:34.126815",
   "count": 2,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "185.18.250.252",
+      "port": "443",
+      "password": "humanity",
+      "name": "Free 74 @Outline_Vpn",
+      "sni": "www.multiplydose.com",
+      "host": "www.multiplydose.com",
+      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "185.18.250.252",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "sw.monedita.cl",
@@ -16,25 +30,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "45.59.124.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "trojan",
-      "address": "185.18.250.252",
-      "port": "443",
-      "password": "humanity",
-      "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "sni": "www.multiplydose.com",
-      "host": "",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "185.18.250.252",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }

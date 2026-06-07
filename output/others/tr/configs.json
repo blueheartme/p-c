@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T10:24:58.418434",
-  "count": 1,
+  "updated": "2026-06-07T17:09:34.133242",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://6a3b21e8-3d68-4f5d-8f53-5bf8f9735920@213.156.152.186:443?security=reality&encryption=none&pbk=DAV0PxuvxAz_pMRmm4BO2Vsvof2DQ-2W08cgJEebrkg&headerType=none&fp=firefox&spx=%2Fo9m4xdYnxI9exFp&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d4d0#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "helixgaming.ir",
+      "port": "80",
+      "id": "eab499a7-dba6-4e86-8086-0aa4dd85c01f",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://eab499a7-dba6-4e86-8086-0aa4dd85c01f@helixgaming.ir:80?encryption=none&host=play.google.com&path=/&security=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "93.114.98.204",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://eab499a7-dba6-4e86-8086-0aa4dd85c01f@helixgaming.ir:80?encryption=none&host=play.google.com&path=/&security=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
