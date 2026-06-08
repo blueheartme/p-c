@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-08T12:24:10.451097",
+  "updated": "2026-06-08T18:22:18.580594",
   "count": 4,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "195.15.253.123",
+      "port": "1040",
+      "password": "Masir_Sefid",
+      "name": "✅سرورهایبیشتردرکانال:prrofile_purple@✅",
+      "sni": "store.steampowered.com",
+      "host": "",
+      "original": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "195.15.253.123",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "trojan",
       "address": "185.18.250.252",
@@ -10,11 +24,11 @@
       "name": "🇦🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "sni": "www.multiplydose.com",
       "host": "",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
@@ -30,25 +44,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "45.59.124.139",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "trojan",
-      "address": "195.15.253.123",
-      "port": "1040",
-      "password": "Masir_Sefid",
-      "name": "✅سرورهایبیشتردرکانال:prrofile_purple@✅",
-      "sni": "store.steampowered.com",
-      "host": "",
-      "original": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "195.15.253.123",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vless-tcp-http-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     },
     {
       "type": "trojan",
