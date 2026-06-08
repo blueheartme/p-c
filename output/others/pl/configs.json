@@ -1,26 +1,20 @@
 {
-  "updated": "2026-06-07T17:09:34.125128",
-  "count": 3,
+  "updated": "2026-06-08T03:26:30.306620",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "82.40.62.3",
-      "port": "80",
-      "id": "540db6ea-ab26-465c-a9bb-8395b8b0b466",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.samsung.com",
-      "host": "82.40.62.3",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?mode=auto&path=%2Fmohraz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&host=82.40.62.3&fp=chrome&spx=%2F4XFInQS0ZZnfnZD&type=xhttp&sni=www.samsung.com&sid=43#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1",
-      "ip": "82.40.62.3",
+      "type": "trojan",
+      "address": "64.176.65.85",
+      "port": "443",
+      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
+      "name": "Free 84 @Outline_Vpn",
+      "sni": "",
+      "host": "",
+      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1",
+      "ip": "64.176.65.85",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://540db6ea-ab26-465c-a9bb-8395b8b0b466@82.40.62.3:80?mode=auto&path=%2Fmohraz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg&host=82.40.62.3&fp=chrome&spx=%2F4XFInQS0ZZnfnZD&type=xhttp&sni=www.samsung.com&sid=43#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-1"
+      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-1"
     },
     {
       "type": "ss",
@@ -34,20 +28,6 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88"
-    },
-    {
-      "type": "trojan",
-      "address": "64.176.65.85",
-      "port": "443",
-      "password": "iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf",
-      "name": "Free 84 @Outline_Vpn",
-      "sni": "",
-      "host": "",
-      "original": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "64.176.65.85",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0#trojan-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
