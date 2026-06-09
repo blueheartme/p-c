@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-29T18:28:45.477056",
+  "updated": "2026-06-09T10:56:28.525389",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.141.234.170",
-      "port": "8443",
-      "id": "10e82fcc-94ec-4d09-8855-579bb55b77e4",
-      "name": "🌝66@proxy_kafee",
+      "address": "85.159.229.189",
+      "port": "443",
+      "id": "9f9f18f8-2557-4f18-928d-e7c334a0b068",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "www.google.com",
-      "host": "",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#vless-xtls-rprx-vision-tcp-reality-IE%F0%9F%8C%90-1",
-      "ip": "45.141.234.170",
+      "fingerprint": "chrome",
+      "original": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#vless-tcp-reality-chrome-IE%F0%9F%8C%90-1",
+      "ip": "85.159.229.189",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#vless-xtls-rprx-vision-tcp-reality-IE%F0%9F%8C%90-1"
+      "rebuilt": "vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#vless-tcp-reality-chrome-IE%F0%9F%8C%90-1"
     }
   ]
 }

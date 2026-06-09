@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T02:38:01.858633",
-  "count": 3,
+  "updated": "2026-06-09T10:56:28.519190",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -32,17 +32,31 @@
     },
     {
       "type": "trojan",
+      "address": "37.156.45.168",
+      "port": "2083",
+      "password": "Masir_Sefid",
+      "name": "@filembad",
+      "sni": "store.steampowered.com",
+      "host": "",
+      "original": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "37.156.45.168",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+    },
+    {
+      "type": "trojan",
       "address": "195.15.253.123",
       "port": "1040",
       "password": "Masir_Sefid",
       "name": "✅سرورهایبیشتردرکانال:prrofile_purple@✅",
       "sni": "store.steampowered.com",
       "host": "",
-      "original": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4",
       "ip": "195.15.253.123",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "trojan://Masir_Sefid@195.15.253.123:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }
