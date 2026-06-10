@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-09T10:56:28.533712",
+  "updated": "2026-06-10T02:51:49.520632",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "62.133.63.169",
-      "port": "37096?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Y5EJZojVMENvkDVFYliEqE",
+      "type": "vless",
+      "address": "141.98.118.70",
+      "port": "443",
+      "id": "de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096?type=tcp&headerType=none#%40filembad",
-      "ip": "62.133.63.169",
+      "network": "xhttp",
+      "sni": "www.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "141.98.118.70",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096?type=tcp&headerType=none#%40filembad"
+      "rebuilt": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }
