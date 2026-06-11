@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-11T12:06:18.885823",
+  "updated": "2026-06-11T18:43:51.800184",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "mtn-1.bnnpro.com",
-      "port": "7443",
-      "id": "f798aba8-cfde-470e-a29b-310006f14cdb",
+      "address": "203.18.98.248",
+      "port": "443",
+      "id": "e13de37c-58be-4258-af2e-46423e8b5c94",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "chatgpt.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://f798aba8-cfde-470e-a29b-310006f14cdb@mtn-1.bnnpro.com:7443?security=reality&encryption=none&pbk=1O3yu7AL_97MymPJpShhnJlWIABvVogeTK1eOkkYKFs&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=59eac3b5937cf7#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "62.238.45.69",
+      "original": "vless://e13de37c-58be-4258-af2e-46423e8b5c94@203.18.98.248:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=2TrPdiGqUxSvsACQN1GDLTS2lAiuUGicwNqH9Byqx1o&sid=47174804ee8a1dae&flow=xtls-rprx-vision&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "203.18.98.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://f798aba8-cfde-470e-a29b-310006f14cdb@mtn-1.bnnpro.com:7443?security=reality&encryption=none&pbk=1O3yu7AL_97MymPJpShhnJlWIABvVogeTK1eOkkYKFs&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=59eac3b5937cf7#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+      "rebuilt": "vless://e13de37c-58be-4258-af2e-46423e8b5c94@203.18.98.248:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=2TrPdiGqUxSvsACQN1GDLTS2lAiuUGicwNqH9Byqx1o&sid=47174804ee8a1dae&flow=xtls-rprx-vision&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "185.125.230.111",
-      "port": "443",
-      "id": "53e23b4a-0894-4602-80aa-3c683e11fdaa",
+      "address": "204.168.193.204",
+      "port": "2053",
+      "id": "b60cecba-de15-4c0b-82d1-6039be9094b3",
       "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.google.com",
-      "host": "www.google.com",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "random",
-      "original": "vless://53e23b4a-0894-4602-80aa-3c683e11fdaa@185.125.230.111:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=DZCJX3JXjcHltdj4wh5SRiz2gJ-pBl1cKskyK_KtQxI&host=www.google.com&fp=random&type=xhttp&sni=www.google.com#vless-xhttp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "185.125.230.111",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://b60cecba-de15-4c0b-82d1-6039be9094b3@204.168.193.204:2053?security=reality&encryption=none&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&headerType=none&fp=firefox&spx=%2FHmK2AMKFlwJZtdh&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=c754#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "ip": "204.168.193.204",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://53e23b4a-0894-4602-80aa-3c683e11fdaa@185.125.230.111:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=DZCJX3JXjcHltdj4wh5SRiz2gJ-pBl1cKskyK_KtQxI&host=www.google.com&fp=random&type=xhttp&sni=www.google.com#vless-xhttp-reality-random-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://b60cecba-de15-4c0b-82d1-6039be9094b3@204.168.193.204:2053?security=reality&encryption=none&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&headerType=none&fp=firefox&spx=%2FHmK2AMKFlwJZtdh&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=c754#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     }
   ]
 }

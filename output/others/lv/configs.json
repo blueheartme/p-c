@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T12:06:18.876872",
-  "count": 2,
+  "updated": "2026-06-11T18:43:51.807249",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,19 +21,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "104.252.19.143",
-      "port": "8388",
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "6pn+JECj4D/TgwXCH3rcVg==:unWCajg0dvxpY45T1N2Z3Q==",
-      "name": "@filembad",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NnBuK0pFQ2o0RC9UZ3dYQ0gzcmNWZz09OnVuV0NhamcwZHZ4cFk0NVQxTjJaM1E9PQ@104.252.19.143:8388#%40filembad",
-      "ip": "104.252.19.143",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NnBuK0pFQ2o0RC9UZ3dYQ0gzcmNWZz09OnVuV0NhamcwZHZ4cFk0NVQxTjJaM1E9PQ@104.252.19.143:8388#%40filembad"
     }
   ]
 }
