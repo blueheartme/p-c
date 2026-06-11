@@ -1,21 +1,26 @@
 {
-  "updated": "2026-06-01T03:29:46.406102",
+  "updated": "2026-06-11T03:23:49.393007",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "172.233.17.76",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@proxy_kafee 1😍",
+      "type": "vless",
+      "address": "api.yandex-dev.online",
+      "port": "443",
+      "id": "c3d866fa-e679-4b10-9bb1-e4075ef4a1cd",
+      "name": "@filembad",
       "network": "tcp",
+      "sni": "api.yandex-dev.online",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "172.233.17.76",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://c3d866fa-e679-4b10-9bb1-e4075ef4a1cd@api.yandex-dev.online:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.yandex-dev.online&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-BR%F0%9F%87%A7%F0%9F%87%B7-1",
+      "ip": "189.74.115.34",
       "country": "BR",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vless://c3d866fa-e679-4b10-9bb1-e4075ef4a1cd@api.yandex-dev.online:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.yandex-dev.online&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-BR%F0%9F%87%A7%F0%9F%87%B7-1"
     }
   ]
 }
