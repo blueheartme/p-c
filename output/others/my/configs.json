@@ -1,34 +1,26 @@
 {
-  "updated": "2026-05-30T02:36:45.881157",
-  "count": 2,
+  "updated": "2026-06-12T11:40:33.271165",
+  "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "pokemon-01.yunjnet.com",
-      "port": "55016",
-      "password": "e2f70d88-8a9a-4a41-a220-9e50d8cf283d",
+      "type": "vless",
+      "address": "47.250.195.7",
+      "port": "11381",
+      "id": "79665271-4a29-4cee-e7c0-cc26e3b8286b",
       "name": "@filembad",
-      "sni": "www.lamer.com.sg",
+      "network": "tcp",
+      "sni": "",
       "host": "",
-      "original": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemon-01.yunjnet.com:55016?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.lamer.com.sg#trojan-tcp-tls-MY%F0%9F%8C%90-1",
-      "ip": "85.211.199.16",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=&encryption=none&headerType=none&type=tcp#vless-tcp-MY%F0%9F%8C%90-1",
+      "ip": "47.250.195.7",
       "country": "MY",
       "cdn": null,
-      "rebuilt": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemon-01.yunjnet.com:55016?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.lamer.com.sg#trojan-tcp-tls-MY%F0%9F%8C%90-1"
-    },
-    {
-      "type": "trojan",
-      "address": "pokemonus-01.yunjnet.com",
-      "port": "56115",
-      "password": "e2f70d88-8a9a-4a41-a220-9e50d8cf283d",
-      "name": "@filembad",
-      "sni": "iosapps.itunes.apple.com",
-      "host": "",
-      "original": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemonus-01.yunjnet.com:56115?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iosapps.itunes.apple.com#trojan-tcp-tls-MY%F0%9F%8C%90-2",
-      "ip": "85.211.182.189",
-      "country": "MY",
-      "cdn": null,
-      "rebuilt": "trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemonus-01.yunjnet.com:56115?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iosapps.itunes.apple.com#trojan-tcp-tls-MY%F0%9F%8C%90-2"
+      "rebuilt": "vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=&encryption=none&headerType=none&type=tcp#vless-tcp-MY%F0%9F%8C%90-1"
     }
   ]
 }
