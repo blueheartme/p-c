@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-10T18:27:49.946187",
+  "updated": "2026-06-12T18:02:29.232662",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.91.171.108",
-      "port": "158",
-      "method": "chacha20-ietf-poly1305",
-      "password": "-jd43ayn1mxzQ4t6dEI7OQ",
-      "name": "Free 45 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn",
-      "ip": "45.91.171.108",
+      "type": "vless",
+      "address": "46.246.97.218",
+      "port": "2052",
+      "id": "037b730a-ea28-5191-ad7c-3424be5efe2e",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "46.246.97.218",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn"
+      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
