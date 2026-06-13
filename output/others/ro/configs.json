@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-02T19:38:19.742353",
+  "updated": "2026-06-13T17:17:22.548089",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "rom.greewebservices.ir",
-      "port": "2202",
-      "id": "9181404f-cd0b-4969-a107-0171ddfd1061",
-      "name": "نزدن تست بود @ir_IRANy",
+      "address": "91.199.50.37",
+      "port": "443",
+      "id": "43488128-319e-f480-64ea-0acdc712e2a8",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "www.alibaba.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://9181404f-cd0b-4969-a107-0171ddfd1061@rom.greewebservices.ir:2202?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-RO%F0%9F%8C%90-1",
-      "ip": "45.13.151.44",
+      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=c906f73d3ba8211f#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1",
+      "ip": "91.199.50.37",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://9181404f-cd0b-4969-a107-0171ddfd1061@rom.greewebservices.ir:2202?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#vless-tcp-reality-chrome-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=c906f73d3ba8211f#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1"
     }
   ]
 }

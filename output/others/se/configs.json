@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-12T18:02:29.232662",
+  "updated": "2026-06-13T17:17:22.557097",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "46.246.97.218",
-      "port": "2052",
-      "id": "037b730a-ea28-5191-ad7c-3424be5efe2e",
+      "address": "delber.deliber.xyz",
+      "port": "2902",
+      "id": "e3b31837-faaa-4dfc-907b-06232f36ec4b",
       "name": "@filembad",
       "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
+      "sni": "delber.deliber.xyz",
+      "host": "delber.deliber.xyz",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "46.246.97.218",
+      "fingerprint": "chrome",
+      "original": "vless://e3b31837-faaa-4dfc-907b-06232f36ec4b@delber.deliber.xyz:2902?path=%2Fa8f3k2ws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=delber.deliber.xyz&fp=chrome&type=ws&sni=delber.deliber.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "45.137.81.71",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#vless-ws-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://e3b31837-faaa-4dfc-907b-06232f36ec4b@delber.deliber.xyz:2902?path=%2Fa8f3k2ws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=delber.deliber.xyz&fp=chrome&type=ws&sni=delber.deliber.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
