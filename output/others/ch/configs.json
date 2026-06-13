@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-13T02:50:55.172786",
-  "count": 7,
+  "updated": "2026-06-13T10:23:57.388214",
+  "count": 6,
   "configs": [
     {
       "type": "trojan",
-      "address": "37.156.45.168",
-      "port": "2083",
+      "address": "84.234.31.249",
+      "port": "443",
       "password": "Masir_Sefid",
       "name": "@prrofile_purple ♥️",
       "sni": "store.steampowered.com",
       "host": "",
-      "original": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "37.156.45.168",
+      "original": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "84.234.31.249",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "trojan",
@@ -46,17 +46,17 @@
     },
     {
       "type": "trojan",
-      "address": "84.234.31.249",
-      "port": "443",
+      "address": "37.156.45.168",
+      "port": "2083",
       "password": "Masir_Sefid",
       "name": "@prrofile_purple ♥️",
       "sni": "store.steampowered.com",
       "host": "",
-      "original": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "84.234.31.249",
+      "original": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "ip": "37.156.45.168",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     },
     {
       "type": "trojan",
@@ -73,17 +73,6 @@
       "rebuilt": "trojan://Masir_Sefid@195.15.253.123:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-5"
     },
     {
-      "type": "hysteria2",
-      "address": "37.156.46.29",
-      "port": "443",
-      "name": "@filembad",
-      "original": "hysteria2://Masir_Sefid@37.156.46.29:443?sni=api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid&mport=443%2C20000-56000#hysteria2-udp-CH%F0%9F%87%A8%F0%9F%87%AD-6",
-      "ip": "37.156.46.29",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "hysteria2://Masir_Sefid@37.156.46.29:443?sni=api.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid&mport=443%2C20000-56000#hysteria2-udp-CH%F0%9F%87%A8%F0%9F%87%AD-6"
-    },
-    {
       "type": "vless",
       "address": "45.195.137.72",
       "port": "8443",
@@ -97,11 +86,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-7",
+      "original": "vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-6",
       "ip": "45.195.137.72",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-7"
+      "rebuilt": "vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#vless-xtls-rprx-vision-tcp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-6"
     }
   ]
 }
