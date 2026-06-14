@@ -1,46 +1,26 @@
 {
-  "updated": "2026-06-13T17:17:22.556202",
-  "count": 2,
+  "updated": "2026-06-14T03:27:26.984018",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "fi.riotvpn.eu",
-      "port": "443",
-      "id": "f4253045-7eb5-4ab1-8653-88bbb2a10202",
-      "name": "@filembad",
+      "address": "171.22.114.248",
+      "port": "27394",
+      "id": "00b0d4de-b126-4511-87c1-8f1feb462fa6",
+      "name": "Cyprus WorkTitans",
       "network": "tcp",
-      "sni": "avatars.mds.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "randomized",
-      "original": "vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#vless-xtls-rprx-vision-tcp-reality-randomized-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "45.149.147.182",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#vless-xtls-rprx-vision-tcp-reality-randomized-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "vless",
-      "address": "fi.riotvpn.eu",
-      "port": "6443",
-      "id": "f4253045-7eb5-4ab1-8653-88bbb2a10202",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "avatars.mds.yandex.net",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "qq",
-      "original": "vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#vless-xhttp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "45.149.147.182",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#vless-xhttp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     }
   ]
 }
