@@ -1,26 +1,19 @@
 {
-  "updated": "2026-05-31T10:10:45.287679",
+  "updated": "2026-06-14T17:14:40.201784",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "213.182.199.138",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "Pro 6 @Outline_Vpn",
-      "network": "ws",
-      "sni": "sni.111000.indevs.in",
-      "host": "sni.111000.indevs.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-ES%F0%9F%8C%90-1",
-      "ip": "213.182.199.138",
+      "type": "ss",
+      "address": "172.233.108.250",
+      "port": "1083",
+      "method": "chacha20-ietf-poly1305",
+      "password": "9c492c3cbfd25bca8d7be83d853dfece",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzQ5MmMzY2JmZDI1YmNhOGQ3YmU4M2Q4NTNkZmVjZUAxNzIuMjMzLjEwOC4yNTA6MTA4Mw==#%40filembad",
+      "ip": "172.233.108.250",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vless-ws-tls-ES%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzQ5MmMzY2JmZDI1YmNhOGQ3YmU4M2Q4NTNkZmVjZUAxNzIuMjMzLjEwOC4yNTA6MTA4Mw==#%40filembad"
     }
   ]
 }
