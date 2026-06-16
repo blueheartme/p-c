@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T19:42:13.582327",
-  "count": 1,
+  "updated": "2026-06-16T03:33:18.559774",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "FI",
       "cdn": null,
       "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
+    {
+      "type": "vless",
+      "address": "109.120.132.142",
+      "port": "40617",
+      "id": "d8d05386-e381-40a4-bb63-715c208b3ed3",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "109.120.132.142",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     }
   ]
 }
