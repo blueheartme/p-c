@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-17T12:12:42.021990",
-  "count": 1,
+  "updated": "2026-06-17T18:11:37.240068",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "www.sibzam-poshak.ir",
+      "port": "2082",
+      "id": "252e7311-477b-4713-96ec-30ee8bb5f694",
+      "name": "@proxy_kafee🇨🇭",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "chrome",
+      "original": "vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&headerType=http&fp=chrome&spx=%2FbsdFquDtebYtRLM&type=tcp&sni=yahoo.com&sid=01117aa377a206#vless-tcp-http-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "37.156.40.170",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&headerType=http&fp=chrome&spx=%2FbsdFquDtebYtRLM&type=tcp&sni=yahoo.com&sid=01117aa377a206#vless-tcp-http-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "www.sibzam-poshak.ir",
+      "port": "21363",
+      "id": "252e7311-477b-4713-96ec-30ee8bb5f694",
+      "name": "@proxy_kafee🇨🇭",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "yahoo.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "chrome",
+      "original": "vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:21363?security=reality&encryption=none&pbk=oDCfMgVSNZlcSkT7ZT1d1ZFRUSsEV1-m2FSuYNm0PWo&host=yahoo.com&headerType=http&fp=chrome&spx=%2FeYbandb4IlVCUBY&type=tcp&sni=yahoo.com&sid=5ea602e3d2#vless-tcp-http-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "37.156.40.170",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:21363?security=reality&encryption=none&pbk=oDCfMgVSNZlcSkT7ZT1d1ZFRUSsEV1-m2FSuYNm0PWo&host=yahoo.com&headerType=http&fp=chrome&spx=%2FeYbandb4IlVCUBY&type=tcp&sni=yahoo.com&sid=5ea602e3d2#vless-tcp-http-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
     {
       "type": "trojan",
       "address": "185.18.250.252",
@@ -10,11 +50,11 @@
       "name": "Free 74 @Outline_Vpn",
       "sni": "www.multiplydose.com",
       "host": "www.multiplydose.com",
-      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "185.18.250.252",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#trojan-ws-tls-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
