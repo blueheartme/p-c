@@ -1,26 +1,20 @@
 {
-  "updated": "2026-05-31T10:10:45.300644",
+  "updated": "2026-06-17T03:31:24.641725",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.196.29.223",
-      "port": "8443",
-      "id": "6e66539a-a881-41de-96a3-a8322408ff53",
-      "name": "آیدی چنل ما @ir_IRANy",
-      "network": "ws",
-      "sni": "vip.xvon.in",
-      "host": "vip.xvon.in",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6e66539a-a881-41de-96a3-a8322408ff53@45.196.29.223:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vip.xvon.in&fp=chrome&type=ws&allowInsecure=0&sni=vip.xvon.in#vless-ws-tls-chrome-ID%F0%9F%8C%90-1",
-      "ip": "45.196.29.223",
+      "type": "trojan",
+      "address": "130.94.94.15",
+      "port": "443",
+      "password": "tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR",
+      "name": "@filembad",
+      "sni": "130.94.94.15",
+      "host": "",
+      "original": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=130.94.94.15#trojan-tcp-tls-ID%F0%9F%8C%90-1",
+      "ip": "130.94.94.15",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vless://6e66539a-a881-41de-96a3-a8322408ff53@45.196.29.223:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vip.xvon.in&fp=chrome&type=ws&allowInsecure=0&sni=vip.xvon.in#vless-ws-tls-chrome-ID%F0%9F%8C%90-1"
+      "rebuilt": "trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=130.94.94.15#trojan-tcp-tls-ID%F0%9F%8C%90-1"
     }
   ]
 }
