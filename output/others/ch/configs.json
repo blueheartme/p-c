@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-19T03:45:36.714662",
+  "updated": "2026-06-19T17:51:27.115599",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.195.137.4",
+      "address": "bypass.ch-gt-01.com",
       "port": "8443",
-      "id": "c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff",
+      "id": "4fdec620-73bb-40a7-a8d5-2570a59f1832",
       "name": "@filembad",
       "network": "tcp",
       "sni": "storage.yandex.net",
@@ -15,12 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.4:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "45.195.137.4",
+      "fingerprint": "firefox",
+      "original": "vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "45.197.134.89",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.4:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     }
   ]
 }
