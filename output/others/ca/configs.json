@@ -1,26 +1,21 @@
 {
-  "updated": "2026-06-11T18:43:51.806534",
+  "updated": "2026-06-21T03:32:59.381138",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "ov-canada1.09vpn.com",
-      "port": "8443",
-      "id": "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504",
+      "type": "vmess",
+      "address": "158.51.121.63",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
       "name": "@filembad",
       "network": "ws",
-      "sni": "",
       "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&path=%2Fvless%2F#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "148.113.196.75",
+      "sni": "seribus.org",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tdGxzLUNB8J+HqPCfh6YtMSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=",
+      "ip": "158.51.121.63",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&path=%2Fvless%2F#vless-ws-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tdGxzLUNB8J+HqPCfh6YtMSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0="
     }
   ]
 }
