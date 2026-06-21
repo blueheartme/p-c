@@ -1,19 +1,39 @@
 {
-  "updated": "2026-06-20T17:20:45.772684",
-  "count": 1,
+  "updated": "2026-06-21T17:24:02.715224",
+  "count": 2,
   "configs": [
     {
-      "type": "ss",
-      "address": "172.233.108.250",
-      "port": "1083",
-      "method": "chacha20-ietf-poly1305",
-      "password": "8baa4ead22db1d7e8fea063b6aefcc73",
+      "type": "vless",
+      "address": "5.180.173.222",
+      "port": "448",
+      "id": "626b07bd-81c4-4212-be7a-27442a579620",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3M0AxNzIuMjMzLjEwOC4yNTA6MTA4Mw==#%40filembad",
-      "ip": "172.233.108.250",
+      "network": "tcp",
+      "sni": "www.googletagmanager.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1",
+      "ip": "5.180.173.222",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3M0AxNzIuMjMzLjEwOC4yNTA6MTA4Mw==#%40filembad"
+      "rebuilt": "vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "140.174.184.5",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "qItG8SueYQcP",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%40filembad",
+      "ip": "140.174.184.5",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%40filembad"
     }
   ]
 }
