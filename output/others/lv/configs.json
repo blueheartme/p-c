@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T03:32:59.388826",
-  "count": 3,
+  "updated": "2026-06-21T11:12:21.743576",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "mo.abcdefghijklmnopqrstuvwxyz1234567890.ir",
-      "port": "444",
-      "id": "e9512639-35d8-4913-8d46-26796f9d5386",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "cna.abcdefghijklmnopqrstuvwxyz1234567890.ir",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://e9512639-35d8-4913-8d46-26796f9d5386@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?path=%2F&security=&encryption=none&host=cna.abcdefghijklmnopqrstuvwxyz1234567890.ir&type=ws#vless-ws-LV%F0%9F%8C%90-3",
-      "ip": "104.253.43.96",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://e9512639-35d8-4913-8d46-26796f9d5386@mo.abcdefghijklmnopqrstuvwxyz1234567890.ir:444?path=%2F&security=&encryption=none&host=cna.abcdefghijklmnopqrstuvwxyz1234567890.ir&type=ws#vless-ws-LV%F0%9F%8C%90-3"
     }
   ]
 }

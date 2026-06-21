@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T03:32:59.379357",
-  "count": 3,
+  "updated": "2026-06-21T11:12:21.738552",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -61,6 +61,26 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
+    },
+    {
+      "type": "vless",
+      "address": "152.233.43.21",
+      "port": "8443",
+      "id": "394f6981-a782-4779-9a85-e6cf22935d93",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "pl1.fromblancwithlove.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.43.21:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl1.fromblancwithlove.com#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "ip": "152.233.43.21",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.43.21:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl1.fromblancwithlove.com#vless-tcp-tls-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }
