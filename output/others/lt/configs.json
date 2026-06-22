@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-17T03:31:24.643679",
+  "updated": "2026-06-22T19:21:32.635054",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.116.250.135",
-      "port": "80",
-      "id": "69d7ef52-e1bf-441c-a04d-4a4ee24df681",
+      "address": "5.199.170.105",
+      "port": "443",
+      "id": "fd47216b-4217-4ec1-85b9-98304634a391",
       "name": "@filembad",
-      "network": "xhttp",
-      "sni": "",
-      "host": "KUI.fastspeeds.ir",
-      "security": "none",
-      "flow": "",
+      "network": "tcp",
+      "sni": "amd.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%8C%90-1",
-      "ip": "89.116.250.135",
+      "fingerprint": "firefox",
+      "original": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1",
+      "ip": "5.199.170.105",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://69d7ef52-e1bf-441c-a04d-4a4ee24df681@89.116.250.135:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#vless-xhttp-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1"
     }
   ]
 }
