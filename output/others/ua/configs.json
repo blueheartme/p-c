@@ -1,26 +1,26 @@
 {
-  "updated": "2026-03-30T16:51:06.772854",
+  "updated": "2026-06-22T03:37:41.204012",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "31.42.190.76",
-      "port": "443",
-      "id": "5ac2d3b6-33cc-4442-9c0b-ae3909cabaae",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "network": "ws",
+      "address": "194.152.44.21",
+      "port": "2052",
+      "id": "42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd",
+      "name": "🇳🇱NL-🚀@proxy_kafee",
+      "network": "xhttp",
       "sni": "",
-      "host": "",
-      "security": "none",
+      "host": "cdn3.goofymoofy.com",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#vless-ws-UA%F0%9F%87%BA%F0%9F%87%A6-1",
-      "ip": "31.42.190.76",
+      "original": "vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&type=xhttp&path=%2Fpabloping&host=cdn3.goofymoofy.com&mode=auto#vless-xhttp-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "194.152.44.21",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#vless-ws-UA%F0%9F%87%BA%F0%9F%87%A6-1"
+      "rebuilt": "vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&type=xhttp&path=%2Fpabloping&host=cdn3.goofymoofy.com&mode=auto#vless-xhttp-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }
