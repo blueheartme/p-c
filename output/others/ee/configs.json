@@ -1,26 +1,19 @@
 {
-  "updated": "2026-06-21T11:12:21.741506",
+  "updated": "2026-06-23T02:43:26.173890",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "132.243.65.121",
-      "port": "443",
-      "id": "dd47f0f6-e503-44d5-8243-0f48c1c20c28",
+      "type": "ss",
+      "address": "45.129.96.62",
+      "port": "41348",
+      "method": "chacha20-ietf-poly1305",
+      "password": "6U3psR0sQuQxWXoBHB4KTD3YacwQwS21XvSEy9",
       "name": "@filembad",
-      "network": "grpc",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#vless-grpc-reality-chrome-EE%F0%9F%8C%90-1",
-      "ip": "132.243.65.121",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad",
+      "ip": "45.129.96.62",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#vless-grpc-reality-chrome-EE%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad"
     }
   ]
 }
