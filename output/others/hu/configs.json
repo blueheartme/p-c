@@ -1,21 +1,26 @@
 {
-  "updated": "2026-03-03T01:45:55.751210",
+  "updated": "2026-06-23T10:57:57.674337",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "pq-hungary1.09vpn.com",
-      "port": "80",
-      "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-      "name": "t.me/entryNET",
-      "network": "ws",
+      "type": "vless",
+      "address": "155.117.137.160",
+      "port": "443",
+      "id": "ccdce320-7eef-4815-8edb-c599987c2279",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "cdn8-03.yahoo.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJwcS1odW5nYXJ5MS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSFXwn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
-      "ip": "45.12.132.183",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn8-03.yahoo.com&sid=c7e42004e5f024be#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1",
+      "ip": "155.117.137.160",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJwcS1odW5nYXJ5MS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSFXwn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
+      "rebuilt": "vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn8-03.yahoo.com&sid=c7e42004e5f024be#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1"
     }
   ]
 }

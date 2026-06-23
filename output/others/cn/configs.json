@@ -1,26 +1,19 @@
 {
-  "updated": "2026-06-03T12:37:51.955714",
+  "updated": "2026-06-23T10:57:57.683832",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "176.124.223.238",
-      "port": "2096",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "Pro 21 @Outline_Vpn",
-      "network": "ws",
-      "sni": "sni.jpmj.dev",
-      "host": "sni.jpmj.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#vless-ws-tls-CN%F0%9F%8C%90-1",
-      "ip": "176.124.223.238",
+      "type": "ss",
+      "address": "61.171.92.202",
+      "port": "1001",
+      "method": "aes-256-gcm",
+      "password": "123",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%40filembad",
+      "ip": "61.171.92.202",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#vless-ws-tls-CN%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%40filembad"
     }
   ]
 }

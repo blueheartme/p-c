@@ -1,26 +1,46 @@
 {
-  "updated": "2026-06-15T13:50:11.625613",
-  "count": 1,
+  "updated": "2026-06-23T10:57:57.673579",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "45.89.106.4",
-      "port": "443",
-      "id": "ee6ca40f-57e4-5943-8e4c-7a9b911aff44",
-      "name": "➡️🍑🍌⬅️(14)@proxy_kafee",
+      "address": "45.89.106.99",
+      "port": "40443",
+      "id": "df724c8a-5c5a-4859-974e-6e911b14955c",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "microsoft.com",
+      "sni": "deepl.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "45.89.106.4",
+      "fingerprint": "firefox",
+      "original": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "45.89.106.99",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#vless-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.89.106.101",
+      "port": "40443",
+      "id": "6ae44ad9-c2cb-4bdf-8e48-6c01fa646372",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "deepl.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&encryption=none&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=54ce#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "45.89.106.101",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&encryption=none&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=54ce#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }
