@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-25T02:44:34.090561",
+  "updated": "2026-06-25T10:37:47.072890",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "90.156.254.168",
-      "port": "443",
-      "id": "4af298c3-5c2d-4cf1-af68-5261e482c4e7",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "xhttp",
-      "sni": "online.1c.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#vless-xhttp-reality-firefox-LV%F0%9F%8C%90-1",
-      "ip": "90.156.254.168",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#vless-xhttp-reality-firefox-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-3",
+      "original": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-2",
       "ip": "95.182.80.48",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "90.156.254.168",
+      "port": "443",
+      "id": "4af298c3-5c2d-4cf1-af68-5261e482c4e7",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "xhttp",
+      "sni": "online.1c.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#vless-xhttp-reality-firefox-LV%F0%9F%8C%90-3",
+      "ip": "90.156.254.168",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&security=reality&encryption=none&pbk=Rc9FSieeagbHHDJIbBFVjj4Ams8_ijWxNh3jbAt2mlM&fp=firefox&type=xhttp&sni=online.1c.ru&sid=cbe4d3770c#vless-xhttp-reality-firefox-LV%F0%9F%8C%90-3"
     }
   ]
 }
