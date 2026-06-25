@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-24T10:44:04.790336",
+  "updated": "2026-06-25T18:05:56.648589",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "137.184.174.93",
-      "port": "8080",
-      "method": "rc4-md5",
-      "password": "14fFPrbezE3HDZzsMOr6",
+      "type": "vless",
+      "address": "brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site",
+      "port": "8880",
+      "id": "275e5518-9097-57bf-3241-8b9f369a115b",
       "name": "@filembad",
-      "original": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%40filembad",
-      "ip": "137.184.174.93",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://275e5518-9097-57bf-3241-8b9f369a115b@brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site:8880?headerType=http&type=tcp&security=none&host=play.google.com&encryption=none#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "148.113.231.202",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%40filembad"
+      "rebuilt": "vless://275e5518-9097-57bf-3241-8b9f369a115b@brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site:8880?headerType=http&type=tcp&security=none&host=play.google.com&encryption=none#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
