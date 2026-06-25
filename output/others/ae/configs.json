@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T17:50:00.998089",
-  "count": 5,
+  "updated": "2026-06-25T02:44:34.084481",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,7 +24,7 @@
     },
     {
       "type": "vless",
-      "address": "cd4.videobazi.com",
+      "address": "cd2.videobazi.com",
       "port": "8080",
       "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
       "name": "@filembad",
@@ -36,31 +36,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
       "ip": "94.140.0.100",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "cd1.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd1.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "94.140.0.100",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd1.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
@@ -76,31 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4",
+      "original": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
       "ip": "94.140.0.100",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-4"
-    },
-    {
-      "type": "vless",
-      "address": "cd2.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-5",
-      "ip": "94.140.0.100",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd2.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-5"
+      "rebuilt": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=falkinichlol.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=falkinichlol.appleseraj.ir#vless-ws-tls-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
     }
   ]
 }

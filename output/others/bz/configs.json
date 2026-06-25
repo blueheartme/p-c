@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T17:50:00.978938",
-  "count": 5,
+  "updated": "2026-06-25T02:44:34.091413",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -18,26 +18,6 @@
     },
     {
       "type": "vless",
-      "address": "cd6.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd6.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-2",
-      "ip": "45.131.6.203",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd6.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "cd3.videobazi.com",
       "port": "8080",
       "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
@@ -50,51 +30,11 @@
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-3",
+      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-2",
       "ip": "45.131.4.246",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "cd5.videobazi.com",
-      "port": "8080",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "tr-cd.sublink-vip2.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-4",
-      "ip": "45.131.4.246",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
-      "address": "cd5.videobazi.com",
-      "port": "2083",
-      "id": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:2083?security=tls&type=xhttp&headerType=&path=&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop&fp=chrome#vless-xhttp-tls-chrome-BZ%F0%9F%8C%90-5",
-      "ip": "45.131.4.246",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd5.videobazi.com:2083?security=tls&type=xhttp&headerType=&path=&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=fast-domain-de.dhbhvfbhfbvhfbvhfbhv.shop&fp=chrome#vless-xhttp-tls-chrome-BZ%F0%9F%8C%90-5"
+      "rebuilt": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd3.videobazi.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#vless-ws-BZ%F0%9F%8C%90-2"
     }
   ]
 }
