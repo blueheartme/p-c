@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T02:48:36.573109",
-  "count": 3,
+  "updated": "2026-06-26T10:46:50.562993",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "217.217.247.251",
-      "port": "443",
-      "id": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "enterprisekitten.com",
+      "address": "divar.ir.shakhle.ir",
+      "port": "25000",
+      "id": "64c03b7a-f3f3-4d78-bc82-a233ced89cea",
+      "name": "Free$ 137 @Outline_Vpn",
+      "network": "grpc",
+      "sni": "www.yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "217.217.247.251",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "65.109.199.141",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
     },
     {
       "type": "vless",
@@ -61,6 +61,46 @@
       "country": "FI",
       "cdn": null,
       "rebuilt": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+    },
+    {
+      "type": "vless",
+      "address": "fanlandv3.sorcepack.ir",
+      "port": "52077",
+      "id": "a36b1024-70b2-476e-9caf-0fd644d5b9ac",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://a36b1024-70b2-476e-9caf-0fd644d5b9ac@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=firefox&type=grpc&sni=yahoo.com&sid=a7f1b353c9e43d98#vless-grpc-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "65.109.217.121",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://a36b1024-70b2-476e-9caf-0fd644d5b9ac@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=firefox&type=grpc&sni=yahoo.com&sid=a7f1b353c9e43d98#vless-grpc-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+    },
+    {
+      "type": "vless",
+      "address": "217.217.247.251",
+      "port": "443",
+      "id": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "enterprisekitten.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "ip": "217.217.247.251",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     }
   ]
 }
