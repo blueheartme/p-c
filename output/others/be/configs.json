@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-18T11:47:26.972504",
+  "updated": "2026-06-26T02:48:36.569913",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "cdn1.portalcode.ir",
-      "port": "2095",
-      "id": "abf4819c-889c-459d-b97a-bc16aa76d71b",
+      "address": "188.95.12.226",
+      "port": "8080",
+      "id": "39eb6d15-e27a-4f2e-b865-b49a15b2d5f6",
       "name": "@filembad",
       "network": "httpupgrade",
       "sni": "",
-      "host": "amnfr2.monopolitass.ir",
+      "host": "cloud.pedramhost.ir",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://abf4819c-889c-459d-b97a-bc16aa76d71b@cdn1.portalcode.ir:2095?path=%2F&security=none&encryption=none&host=amnfr2.monopolitass.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%8C%90-1",
+      "original": "vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@188.95.12.226:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%8C%90-1",
       "ip": "188.95.12.226",
       "country": "BE",
       "cdn": null,
-      "rebuilt": "vless://abf4819c-889c-459d-b97a-bc16aa76d71b@cdn1.portalcode.ir:2095?path=%2F&security=none&encryption=none&host=amnfr2.monopolitass.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%8C%90-1"
+      "rebuilt": "vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@188.95.12.226:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#vless-httpupgrade-BE%F0%9F%8C%90-1"
     }
   ]
 }
