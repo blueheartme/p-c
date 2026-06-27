@@ -1,26 +1,59 @@
 {
-  "updated": "2026-06-24T10:44:04.792911",
-  "count": 1,
+  "updated": "2026-06-27T02:39:29.225869",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "108.165.152.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "address": "138.252.100.85",
+      "port": "32351",
+      "id": "c29a3e3a-e26a-465c-a3fc-c4993dc342c8",
       "name": "@filembad",
       "network": "ws",
       "sni": "",
-      "host": "s5.868001.xyz",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "108.165.152.140",
+      "original": "vless://c29a3e3a-e26a-465c-a3fc-c4993dc342c8@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "138.252.100.85",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://c29a3e3a-e26a-465c-a3fc-c4993dc342c8@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "ss",
+      "address": "103.111.114.55",
+      "port": "28061",
+      "method": "chacha20-ietf-poly1305",
+      "password": "WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%40filembad",
+      "ip": "103.111.114.55",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#%40filembad"
+    },
+    {
+      "type": "vless",
+      "address": "138.252.100.85",
+      "port": "32351",
+      "id": "52ffd706-4a88-4daa-b84b-771105ddb28d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://52ffd706-4a88-4daa-b84b-771105ddb28d@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3",
+      "ip": "138.252.100.85",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://52ffd706-4a88-4daa-b84b-771105ddb28d@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-3"
     }
   ]
 }
