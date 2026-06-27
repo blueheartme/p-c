@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T10:00:14.858503",
-  "count": 4,
+  "updated": "2026-06-27T17:04:06.447137",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "45.144.48.114",
-      "port": "443",
-      "id": "94a547fc-c789-40fa-82d8-53d9760cc053",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "nvidia.com",
-      "host": "Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://94a547fc-c789-40fa-82d8-53d9760cc053@45.144.48.114:443?security=reality&encryption=none&pbk=VWnyUuQJLQiWPYEvk43ndIPjy_WNVZbO1ItxX0NRnz8&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&sni=nvidia.com&sid=db04ce8bdb8900f1#vless-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "45.144.48.114",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://94a547fc-c789-40fa-82d8-53d9760cc053@45.144.48.114:443?security=reality&encryption=none&pbk=VWnyUuQJLQiWPYEvk43ndIPjy_WNVZbO1ItxX0NRnz8&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&sni=nvidia.com&sid=db04ce8bdb8900f1#vless-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "vless",
       "address": "82.40.62.159",
       "port": "37595",
       "id": "5768d6cf-2e1a-44cd-84d7-664d518d8d4c",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3",
       "ip": "82.40.62.159",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-4"
+      "rebuilt": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-10T18:27:49.967963",
+  "updated": "2026-06-27T17:04:06.453031",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "2.26.160.79",
+      "address": "193.93.194.120",
       "port": "443",
-      "id": "729d3d1e-ee1a-4c42-84bc-2ff331518221",
-      "name": "Free 41 @Outline_Vpn",
+      "id": "cfb5b3d3-c094-4222-99e8-53faa787c857",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "www.nvidia.com",
+      "sni": "site.rumedia-cdn.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1",
-      "ip": "2.26.160.79",
+      "fingerprint": "qq",
+      "original": "vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?security=reality&encryption=none&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=8de54d32a8d3fdf9#vless-xtls-rprx-vision-tcp-reality-qq-CZ%F0%9F%8C%90-1",
+      "ip": "193.93.194.120",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?security=reality&encryption=none&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=8de54d32a8d3fdf9#vless-xtls-rprx-vision-tcp-reality-qq-CZ%F0%9F%8C%90-1"
     }
   ]
 }
