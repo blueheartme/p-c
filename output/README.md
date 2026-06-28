@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-06-28 02:54:00 UTC
+**Last Updated:** 2026-06-28 10:23:32 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 409
-- **Tested & Working:** 62
+- **Total Configs:** 371
+- **Tested & Working:** 44
 - **Countries:** 29
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 69
-- **Tested:** 30
+- **Total:** 42
+- **Tested:** 18
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 49
-- **Tested:** 32
+- **Total:** 46
+- **Tested:** 26
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -52,24 +52,24 @@
 - **Count:** 8
 - [JSON](others/ch/configs.json) | [TXT](others/ch/configs.txt) | [Subscription](others/ch/subscription.txt)
 
-### 🌐 CN
+### 🌐 CZ
 - **Count:** 1
-- [JSON](others/cn/configs.json) | [TXT](others/cn/configs.txt) | [Subscription](others/cn/subscription.txt)
+- [JSON](others/cz/configs.json) | [TXT](others/cz/configs.txt) | [Subscription](others/cz/subscription.txt)
 
 ### 🇫🇮 FI
-- **Count:** 8
+- **Count:** 6
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
-- **Count:** 30
+- **Count:** 25
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
-- **Count:** 15
+- **Count:** 13
 - [JSON](others/gb/configs.json) | [TXT](others/gb/configs.txt) | [Subscription](others/gb/subscription.txt)
 
 ### 🇭🇰 HK
-- **Count:** 1
+- **Count:** 2
 - [JSON](others/hk/configs.json) | [TXT](others/hk/configs.txt) | [Subscription](others/hk/subscription.txt)
 
 ### 🌐 IE
@@ -77,24 +77,28 @@
 - [JSON](others/ie/configs.json) | [TXT](others/ie/configs.txt) | [Subscription](others/ie/subscription.txt)
 
 ### 🌐 IT
-- **Count:** 12
+- **Count:** 13
 - [JSON](others/it/configs.json) | [TXT](others/it/configs.txt) | [Subscription](others/it/subscription.txt)
 
 ### 🇯🇵 JP
-- **Count:** 7
+- **Count:** 4
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
 
 ### 🇰🇷 KR
 - **Count:** 2
 - [JSON](others/kr/configs.json) | [TXT](others/kr/configs.txt) | [Subscription](others/kr/subscription.txt)
 
+### 🌐 LT
+- **Count:** 1
+- [JSON](others/lt/configs.json) | [TXT](others/lt/configs.txt) | [Subscription](others/lt/subscription.txt)
+
 ### 🌐 LV
 - **Count:** 3
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
-### 🌐 MO
+### 🌐 MY
 - **Count:** 1
-- [JSON](others/mo/configs.json) | [TXT](others/mo/configs.txt) | [Subscription](others/mo/subscription.txt)
+- [JSON](others/my/configs.json) | [TXT](others/my/configs.txt) | [Subscription](others/my/subscription.txt)
 
 ### 🇳🇱 NL
 - **Count:** 55
@@ -109,11 +113,11 @@
 - [JSON](others/pt/configs.json) | [TXT](others/pt/configs.txt) | [Subscription](others/pt/subscription.txt)
 
 ### 🇷🇺 RU
-- **Count:** 14
+- **Count:** 6
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
 
 ### 🌐 SC
-- **Count:** 13
+- **Count:** 14
 - [JSON](others/sc/configs.json) | [TXT](others/sc/configs.txt) | [Subscription](others/sc/subscription.txt)
 
 ### 🇸🇪 SE
@@ -121,11 +125,11 @@
 - [JSON](others/se/configs.json) | [TXT](others/se/configs.txt) | [Subscription](others/se/subscription.txt)
 
 ### 🇸🇬 SG
-- **Count:** 3
+- **Count:** 4
 - [JSON](others/sg/configs.json) | [TXT](others/sg/configs.txt) | [Subscription](others/sg/subscription.txt)
 
 ### 🇹🇷 TR
-- **Count:** 7
+- **Count:** 12
 - [JSON](others/tr/configs.json) | [TXT](others/tr/configs.txt) | [Subscription](others/tr/subscription.txt)
 
 ### 🇺🇦 UA
@@ -133,12 +137,8 @@
 - [JSON](others/ua/configs.json) | [TXT](others/ua/configs.txt) | [Subscription](others/ua/subscription.txt)
 
 ### 🇺🇸 US
-- **Count:** 91
+- **Count:** 94
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
-
-### 🇿🇦 ZA
-- **Count:** 1
-- [JSON](others/za/configs.json) | [TXT](others/za/configs.txt) | [Subscription](others/za/subscription.txt)
 
 
 ---

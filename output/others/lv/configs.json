@@ -1,27 +1,7 @@
 {
-  "updated": "2026-06-28T02:54:00.785901",
+  "updated": "2026-06-28T10:23:32.640626",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
-      "ip": "195.135.252.28",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "95.182.80.48",
@@ -36,31 +16,44 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-2",
+      "original": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-1",
       "ip": "95.182.80.48",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "31.57.158.48",
+      "port": "1006",
+      "method": "chacha20-ietf-poly1305",
+      "password": "rryl94ilf2g7kz4t",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#%40filembad",
+      "ip": "31.57.158.48",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#%40filembad"
     },
     {
       "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@filembad",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
       "network": "tcp",
-      "sni": "",
-      "host": "Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP",
-      "security": "",
-      "flow": "",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3",
-      "ip": "46.8.71.49",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3",
+      "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3"
     }
   ]
 }

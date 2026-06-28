@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T02:54:00.792626",
-  "count": 1,
+  "updated": "2026-06-28T10:23:32.634371",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "64.49.45.57",
+      "port": "15540",
+      "id": "f8e32ccb-7e0b-4966-837a-2a9503bc3d82",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.intel.com",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?security=reality&encryption=none&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=3a81ee2c998d0e#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "64.49.45.57",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?security=reality&encryption=none&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=3a81ee2c998d0e#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
