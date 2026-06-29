@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T17:03:41.293376",
-  "count": 2,
+  "updated": "2026-06-29T02:54:17.102093",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,26 +15,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "gbp6.tbk2.agdb.a.rros.cc",
-      "port": "443",
-      "id": "575324da-63f6-448e-963f-4d67e9ea4cb4",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.amazon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://575324da-63f6-448e-963f-4d67e9ea4cb4@gbp6.tbk2.agdb.a.rros.cc:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&insecure=0&sni=www.amazon.com&pbk=NpO9NRIfYTch16Z2yUyroHUaQanV1w0OKM_vEV-6p0I&sid=5e4a9abd#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "42.2.130.199",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://575324da-63f6-448e-963f-4d67e9ea4cb4@gbp6.tbk2.agdb.a.rros.cc:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&insecure=0&sni=www.amazon.com&pbk=NpO9NRIfYTch16Z2yUyroHUaQanV1w0OKM_vEV-6p0I&sid=5e4a9abd#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
