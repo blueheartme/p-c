@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-24T10:44:04.798970",
+  "updated": "2026-06-30T17:48:50.610052",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "5.10.244.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "address": "92.60.74.227",
+      "port": "2052",
+      "id": "6b904a9f-e4e3-4dae-bdc5-eb0a7b1ceeb8",
       "name": "@filembad",
-      "network": "ws",
+      "network": "xhttp",
       "sni": "",
-      "host": "s5.868001.xyz",
+      "host": "sdfdwed.caspinxp.com",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-CW%F0%9F%8C%90-1",
-      "ip": "5.10.244.140",
+      "original": "vless://6b904a9f-e4e3-4dae-bdc5-eb0a7b1ceeb8@92.60.74.227:2052?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=sdfdwed.caspinxp.com&mode=auto#vless-xhttp-CW%F0%9F%8C%90-1",
+      "ip": "92.60.74.227",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://6b904a9f-e4e3-4dae-bdc5-eb0a7b1ceeb8@92.60.74.227:2052?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=sdfdwed.caspinxp.com&mode=auto#vless-xhttp-CW%F0%9F%8C%90-1"
     }
   ]
 }
