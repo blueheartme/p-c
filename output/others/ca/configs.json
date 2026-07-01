@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-25T18:05:56.648589",
+  "updated": "2026-07-01T17:49:56.960387",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site",
-      "port": "8880",
-      "id": "275e5518-9097-57bf-3241-8b9f369a115b",
+      "address": "ca1.appcodes.ir",
+      "port": "2026",
+      "id": "26f98ad5-110a-4131-83ae-99d73b5257ca",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://275e5518-9097-57bf-3241-8b9f369a115b@brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site:8880?headerType=http&type=tcp&security=none&host=play.google.com&encryption=none#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "148.113.231.202",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://26f98ad5-110a-4131-83ae-99d73b5257ca@ca1.appcodes.ir:2026?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba&type=tcp&headerType=none#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "15.235.40.30",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://275e5518-9097-57bf-3241-8b9f369a115b@brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site:8880?headerType=http&type=tcp&security=none&host=play.google.com&encryption=none#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://26f98ad5-110a-4131-83ae-99d73b5257ca@ca1.appcodes.ir:2026?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba&type=tcp&headerType=none#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
