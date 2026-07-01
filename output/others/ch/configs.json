@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-01T02:53:54.794114",
+  "updated": "2026-07-01T11:19:10.273773",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "208.69.78.205",
-      "port": "443",
-      "id": "ff19693c-11f3-4df9-8713-79a85a5ca090",
-      "name": "$Free 166 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "sellflow.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "208.69.78.205",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "ch-zicid.locations-sub.com",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "141.227.138.106",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "208.69.78.205",
+      "port": "443",
+      "id": "ff19693c-11f3-4df9-8713-79a85a5ca090",
+      "name": "$Free 166 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "sellflow.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "208.69.78.205",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
