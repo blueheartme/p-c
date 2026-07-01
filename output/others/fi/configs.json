@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T17:48:50.606100",
-  "count": 8,
+  "updated": "2026-07-01T02:53:54.805256",
+  "count": 7,
   "configs": [
     {
       "type": "vless",
@@ -23,15 +23,35 @@
       "rebuilt": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
+      "type": "vless",
+      "address": "109.120.185.230",
+      "port": "443",
+      "id": "3559f1f7-7d70-46c9-82db-d2b46269300b",
+      "name": "$Free 274 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "dipvpn.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "109.120.185.230",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+    },
+    {
       "type": "hysteria2",
       "address": "65.109.177.191",
       "port": "443",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-3",
       "ip": "65.109.177.191",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     },
     {
       "type": "vless",
@@ -47,71 +67,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-4",
       "ip": "217.217.247.246",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-3"
-    },
-    {
-      "type": "vless",
-      "address": "65.109.199.141",
-      "port": "25000",
-      "id": "64c03b7a-f3f3-4d78-bc82-a233ced89cea",
-      "name": "Free$ 135 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4",
-      "ip": "65.109.199.141",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4"
-    },
-    {
-      "type": "vless",
-      "address": "109.120.185.230",
-      "port": "443",
-      "id": "3559f1f7-7d70-46c9-82db-d2b46269300b",
-      "name": "$Free 274 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "dipvpn.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "109.120.185.230",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-5"
-    },
-    {
-      "type": "vless",
-      "address": "freetg.strettenvpn.com",
-      "port": "9999",
-      "id": "f83d8e60-f039-45c8-95d2-2a44c59025f6",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-6",
-      "ip": "5.183.253.171",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#vless-tcp-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-qq-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
       "type": "vless",
@@ -127,11 +87,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "original": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-5",
       "ip": "217.217.247.251",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+      "rebuilt": "vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     },
     {
       "type": "vless",
@@ -147,11 +107,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-8",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-8"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+    },
+    {
+      "type": "vless",
+      "address": "65.109.199.141",
+      "port": "25000",
+      "id": "64c03b7a-f3f3-4d78-bc82-a233ced89cea",
+      "name": "Free$ 135 @Outline_Vpn",
+      "network": "grpc",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "ip": "65.109.199.141",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#vless-grpc-reality-FI%F0%9F%87%AB%F0%9F%87%AE-7"
     }
   ]
 }

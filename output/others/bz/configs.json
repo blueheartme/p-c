@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T17:48:50.579297",
-  "count": 1,
+  "updated": "2026-07-01T02:53:54.801653",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -8,13 +8,47 @@
       "port": "443",
       "password": "MiTiVPN",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "f6r.ir",
-      "host": "f6r.ir",
-      "original": "trojan://MiTiVPN@45.131.4.118:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1",
+      "sni": "95r.ir",
+      "host": "95r.ir",
+      "original": "trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1",
       "ip": "45.131.4.118",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@45.131.4.118:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1"
+      "rebuilt": "trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.131.4.118",
+      "port": "443",
+      "id": "73629677-d9a5-4746-bfb9-fc9586cafe9f",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "c.denizmoda.tr",
+      "host": "c.denizmoda.tr",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://73629677-d9a5-4746-bfb9-fc9586cafe9f@45.131.4.118:443?path=%2Fmonji%3DCF&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.denizmoda.tr&fp=firefox&type=ws&allowInsecure=0&sni=c.denizmoda.tr#vless-ws-tls-firefox-BZ%F0%9F%8C%90-2",
+      "ip": "45.131.4.118",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "vless://73629677-d9a5-4746-bfb9-fc9586cafe9f@45.131.4.118:443?path=%2Fmonji%3DCF&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.denizmoda.tr&fp=firefox&type=ws&allowInsecure=0&sni=c.denizmoda.tr#vless-ws-tls-firefox-BZ%F0%9F%8C%90-2"
+    },
+    {
+      "type": "trojan",
+      "address": "45.131.4.115",
+      "port": "443",
+      "password": "MITIVPN",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "PioHosting.ir",
+      "host": "PioHosting.ir",
+      "original": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-3",
+      "ip": "45.131.4.115",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-3"
     }
   ]
 }
