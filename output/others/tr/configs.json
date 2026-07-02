@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-02T10:32:35.807494",
-  "count": 4,
+  "updated": "2026-07-02T17:40:54.676812",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "213.156.152.182",
+      "port": "2083",
+      "id": "615cc118-2bdf-4c68-b277-f5faaa2c34c4",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "chrome",
+      "original": "vless://615cc118-2bdf-4c68-b277-f5faaa2c34c4@213.156.152.182:2083?security=reality&encryption=none&pbk=bALX2hvFIEvdai_RwJ3DwaEPafINjNsxwMBIgkaQIDc&headerType=http&fp=chrome&spx=%2FaJRWkUNOzJws8gQ&type=tcp&sni=www.yahoo.com&sid=fd#vless-tcp-http-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "213.156.152.182",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://615cc118-2bdf-4c68-b277-f5faaa2c34c4@213.156.152.182:2083?security=reality&encryption=none&pbk=bALX2hvFIEvdai_RwJ3DwaEPafINjNsxwMBIgkaQIDc&headerType=http&fp=chrome&spx=%2FaJRWkUNOzJws8gQ&type=tcp&sni=www.yahoo.com&sid=fd#vless-tcp-http-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
     {
       "type": "vless",
       "address": "45.74.158.246",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "45.74.158.246",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "ci.temas-fars.ir",
-      "port": "2446",
-      "id": "d136cf56-5fe0-4c3e-b1af-915e738d2320",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://d136cf56-5fe0-4c3e-b1af-915e738d2320@ci.temas-fars.ir:2446?security=reality&encryption=none&pbk=wa-3A_tTCfWDjH_n_MC9fwVViet-UJr2fyBcg3oMwCM&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=8fc8b7f82c27e0fb#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "213.238.180.99",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://d136cf56-5fe0-4c3e-b1af-915e738d2320@ci.temas-fars.ir:2446?security=reality&encryption=none&pbk=wa-3A_tTCfWDjH_n_MC9fwVViet-UJr2fyBcg3oMwCM&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=8fc8b7f82c27e0fb#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -61,17 +61,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "hysteria2",
-      "address": "tr-1.metsima.com",
-      "port": "52067",
-      "name": "@filembad",
-      "original": "hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&obfs=salamander&obfs-password=60wvbymjlc9zw3gk&insecure=0&sni=tr-1.metsima.com#hysteria2-udp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "188.132.141.113",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&obfs=salamander&obfs-password=60wvbymjlc9zw3gk&insecure=0&sni=tr-1.metsima.com#hysteria2-udp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
