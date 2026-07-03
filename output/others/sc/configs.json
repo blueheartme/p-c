@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-02T17:40:54.687066",
+  "updated": "2026-07-03T02:26:41.595289",
   "count": 7,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.130.125.2",
-      "port": "443",
-      "password": "CHhHZoXQCp",
-      "name": "$Free 254 @Outline_Vpn",
-      "sni": "se.farxmode.ir",
-      "host": "se.farxmode.ir",
-      "original": "trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#trojan-ws-tls-SC%F0%9F%8C%90-1",
-      "ip": "45.130.125.2",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#trojan-ws-tls-SC%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "45.130.125.126",
@@ -24,11 +10,11 @@
       "name": "$Free 211 @Outline_Vpn",
       "sni": "space.byu.id.yxls.eu.cc",
       "host": "space.byu.id.yxls.eu.cc",
-      "original": "trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#trojan-ws-tls-SC%F0%9F%8C%90-2",
+      "original": "trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#trojan-ws-tls-SC%F0%9F%8C%90-1",
       "ip": "45.130.125.126",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#trojan-ws-tls-SC%F0%9F%8C%90-2"
+      "rebuilt": "trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#trojan-ws-tls-SC%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -44,11 +30,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-3",
+      "original": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.114",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-3"
+      "rebuilt": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -64,11 +50,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-4",
+      "original": "vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-3",
       "ip": "45.130.125.162",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-4"
+      "rebuilt": "vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#vless-xhttp-tls-chrome-SC%F0%9F%8C%90-3"
+    },
+    {
+      "type": "trojan",
+      "address": "45.130.125.160",
+      "port": "443",
+      "password": "humanity",
+      "name": "$Free 205 @Outline_Vpn",
+      "sni": "www.calmloud.com",
+      "host": "www.calmloud.com",
+      "original": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-SC%F0%9F%8C%90-4",
+      "ip": "45.130.125.160",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-SC%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -112,17 +112,17 @@
     },
     {
       "type": "trojan",
-      "address": "45.130.125.160",
+      "address": "45.130.125.2",
       "port": "443",
-      "password": "humanity",
-      "name": "$Free 205 @Outline_Vpn",
-      "sni": "www.calmloud.com",
-      "host": "www.calmloud.com",
-      "original": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-SC%F0%9F%8C%90-7",
-      "ip": "45.130.125.160",
+      "password": "CHhHZoXQCp",
+      "name": "$Free 254 @Outline_Vpn",
+      "sni": "se.farxmode.ir",
+      "host": "se.farxmode.ir",
+      "original": "trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#trojan-ws-tls-SC%F0%9F%8C%90-7",
+      "ip": "45.130.125.2",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#trojan-ws-tls-SC%F0%9F%8C%90-7"
+      "rebuilt": "trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#trojan-ws-tls-SC%F0%9F%8C%90-7"
     }
   ]
 }
