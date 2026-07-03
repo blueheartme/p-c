@@ -1,26 +1,41 @@
 {
-  "updated": "2026-07-03T10:30:09.610870",
-  "count": 1,
+  "updated": "2026-07-03T17:19:09.274072",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "vmess",
       "address": "138.252.100.85",
-      "port": "32351",
-      "id": "bcdc633c-b4af-4dba-bb63-5a2347e7c2bc",
+      "port": "18746",
+      "id": "5cae7714-9c61-4c5c-876e-c45a1cb13be4",
       "name": "@filembad",
       "network": "ws",
-      "sni": "",
       "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://bcdc633c-b4af-4dba-bb63-5a2347e7c2bc@138.252.100.85:32351?path=%2F&security=none&encryption=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
       "ip": "138.252.100.85",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://bcdc633c-b4af-4dba-bb63-5a2347e7c2bc@138.252.100.85:32351?path=%2F&security=none&encryption=none&type=ws#vless-ws-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
+    },
+    {
+      "type": "vless",
+      "address": "143.110.247.61",
+      "port": "2053",
+      "id": "0970324b-8c61-4ae7-8c3f-385a6f1e17e4",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "vpn47.cc.cd",
+      "host": "vpn47.cc.cd",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "143.110.247.61",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }

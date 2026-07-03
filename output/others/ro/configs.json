@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-25T02:44:34.095106",
+  "updated": "2026-07-03T17:19:09.276211",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "77.81.98.70",
-      "port": "443",
-      "id": "43488128-319e-f480-64ea-0acdc712e2a8",
+      "address": "89.125.201.223",
+      "port": "8443",
+      "id": "534773cf-7d0b-4acf-ac4f-dbc79e42a9a8",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.aliexpress.com",
+      "network": "xhttp",
+      "sni": "www.vk.ru",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1",
-      "ip": "77.81.98.70",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&fp=firefox&spx=%2F&type=xhttp&sni=www.vk.ru&sid=99ea#vless-xhttp-reality-firefox-RO%F0%9F%8C%90-1",
+      "ip": "89.125.201.223",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&fp=firefox&spx=%2F&type=xhttp&sni=www.vk.ru&sid=99ea#vless-xhttp-reality-firefox-RO%F0%9F%8C%90-1"
     }
   ]
 }
