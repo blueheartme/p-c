@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-03T02:26:41.612973",
-  "count": 2,
+  "updated": "2026-07-03T10:30:09.611907",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "192.71.82.2",
       "port": "443",
       "id": "a5c05c1e-aa68-443f-8598-09800244bd4b",
-      "name": "@filembad",
+      "name": "🇧🇻@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "ws",
       "sni": "kingcloud.biack.ir",
       "host": "",
@@ -15,12 +15,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "fingerprint": "chrome",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "teain.org",
+      "port": "1005",
+      "id": "19f6900b-e716-4efc-55bb-c43b3cb4acfc",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "knox.cdn-apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "217.215.220.124",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
