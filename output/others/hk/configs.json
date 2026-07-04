@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-04T10:03:18.304268",
-  "count": 1,
+  "updated": "2026-07-04T16:59:01.851087",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "dekrep.tgflow.me",
+      "port": "443",
+      "id": "9f19123a-1450-49f9-8ca4-3cc5f92f600b",
+      "name": "🇩🇪 🎮 @proxy_kafee 2",
+      "network": "tcp",
+      "sni": "dekrep.tgflow.me",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@dekrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dekrep.tgflow.me&sid=fe8950f135674cfc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "31.77.148.89",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@dekrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dekrep.tgflow.me&sid=fe8950f135674cfc#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -10,11 +30,51 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vless",
+      "address": "178.83.121.85",
+      "port": "443",
+      "id": "4fb30f87-a9c2-43de-994f-9228fe4dac17",
+      "name": "7 𝗝𝗼𝗶𝗻 ➠ @proxy_kafee",
+      "network": "grpc",
+      "sni": "yahoo.com",
+      "host": "yahoo.com",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "178.83.121.85",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "vless",
+      "address": "45.134.38.146",
+      "port": "443",
+      "id": "Telegram",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://Telegram:TurboConfigs@45.134.38.146:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "45.134.38.146",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://Telegram:TurboConfigs@45.134.38.146:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }
