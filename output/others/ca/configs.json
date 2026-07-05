@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-01T17:49:56.960387",
+  "updated": "2026-07-05T17:03:01.381687",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ca1.appcodes.ir",
-      "port": "2026",
-      "id": "26f98ad5-110a-4131-83ae-99d73b5257ca",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
+      "address": "velorium.store",
+      "port": "8080",
+      "id": "cee8c30c-fb13-4a89-abb4-5a32cf716c97",
+      "name": "🇺🇾@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "xhttp",
+      "sni": "",
+      "host": "tes.artevia.qzz.io",
+      "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://26f98ad5-110a-4131-83ae-99d73b5257ca@ca1.appcodes.ir:2026?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba&type=tcp&headerType=none#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "15.235.40.30",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://26f98ad5-110a-4131-83ae-99d73b5257ca@ca1.appcodes.ir:2026?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba&type=tcp&headerType=none#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }

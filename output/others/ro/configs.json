@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-03T17:19:09.276211",
+  "updated": "2026-07-05T17:03:01.380880",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "89.125.201.223",
-      "port": "8443",
-      "id": "534773cf-7d0b-4acf-ac4f-dbc79e42a9a8",
+      "address": "38.79.154.34",
+      "port": "2020",
+      "id": "db8c3c80-a025-46f9-bffb-fde63c2e3ac1",
       "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.vk.ru",
+      "network": "tcp",
+      "sni": "aparat.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&fp=firefox&spx=%2F&type=xhttp&sni=www.vk.ru&sid=99ea#vless-xhttp-reality-firefox-RO%F0%9F%8C%90-1",
-      "ip": "89.125.201.223",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1",
+      "ip": "38.79.154.34",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&fp=firefox&spx=%2F&type=xhttp&sni=www.vk.ru&sid=99ea#vless-xhttp-reality-firefox-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1"
     }
   ]
 }
