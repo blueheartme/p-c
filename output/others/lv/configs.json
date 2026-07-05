@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T16:59:01.842469",
-  "count": 2,
+  "updated": "2026-07-05T02:33:47.767141",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#vless-tcp-reality-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "fn.fifapes.monster",
+      "port": "2090",
+      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%8C%90-3",
+      "ip": "31.56.205.13",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%8C%90-3"
     }
   ]
 }
