@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-05T17:03:01.372665",
+  "updated": "2026-07-06T02:38:32.750045",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "178.83.121.85",
@@ -30,11 +16,25 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "178.83.121.85",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }

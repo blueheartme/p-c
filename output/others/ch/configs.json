@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T17:03:01.368033",
-  "count": 4,
+  "updated": "2026-07-06T02:38:32.746597",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "switzerlandscloudnig.iranlast.com",
-      "port": "7009",
-      "id": "3f298aca-2412-49ac-9f20-235f0e448d31",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://3f298aca-2412-49ac-9f20-235f0e448d31@SWITZERLANDSCLOUDNIG.iranlast.com:7009?encryption=none&security=reality&sni=yahoo.com&fp=qq&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "141.227.138.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://3f298aca-2412-49ac-9f20-235f0e448d31@SWITZERLANDSCLOUDNIG.iranlast.com:7009?encryption=none&security=reality&sni=yahoo.com&fp=qq&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&allowinsecure=0&type=tcp&headerType=none#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
       "address": "ch-zicid.locations-sub.com",
       "port": "6200",
       "id": "5c9ca141-62fb-4c9a-8ba2-af48afdeafaa",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "141.227.138.106",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4",
+      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "179.237.74.183",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-4"
+      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }

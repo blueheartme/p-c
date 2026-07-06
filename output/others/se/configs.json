@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T17:03:01.367001",
-  "count": 3,
+  "updated": "2026-07-06T02:38:32.737297",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -10,17 +10,17 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "ws",
       "sni": "kingcloud.biack.ir",
-      "host": "",
+      "host": "kingcloud.biack.ir",
       "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "fingerprint": "chrome",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=1&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#vless-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
-      "address": "oauth.figmafound.org",
-      "port": "443",
-      "id": "23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "oauth.figmafound.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b@oauth.figmafound.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oauth.figmafound.org&fp=firefox&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "103.139.51.34",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b@oauth.figmafound.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oauth.figmafound.org&fp=firefox&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
