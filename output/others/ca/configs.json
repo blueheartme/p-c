@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-06T02:38:32.753754",
+  "updated": "2026-07-06T11:58:42.407315",
   "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "velorium.store",
-      "port": "8080",
+      "port": "443",
       "id": "cee8c30c-fb13-4a89-abb4-5a32cf716c97",
-      "name": "🇺🇾@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "xhttp",
-      "sni": "",
-      "host": "tes.artevia.qzz.io",
-      "security": "none",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "emad.babyoda.qzz.io",
+      "host": "emad.babyoda.qzz.io",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "fingerprint": "chrome",
+      "original": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?path=%2Fapi-emad&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "23.227.38.32",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=%2Fapi&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tes.artevia.qzz.io&type=xhttp#vless-xhttp-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:443?path=%2Fapi-emad&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }

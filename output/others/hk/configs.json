@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-06T02:38:32.750045",
-  "count": 2,
+  "updated": "2026-07-06T11:58:42.404490",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "178.83.121.85",
-      "port": "443",
-      "id": "4fb30f87-a9c2-43de-994f-9228fe4dac17",
-      "name": "7 𝗝𝗼𝗶𝗻 ➠ @proxy_kafee",
-      "network": "grpc",
-      "sni": "yahoo.com",
-      "host": "yahoo.com",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "178.83.121.85",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@178.83.121.85:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -30,11 +10,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     }
   ]
 }

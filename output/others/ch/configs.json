@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T02:38:32.746597",
-  "count": 3,
+  "updated": "2026-07-06T11:58:42.409371",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "vless",
-      "address": "179.237.74.183",
-      "port": "443",
-      "id": "4fb30f87-a9c2-43de-994f-9228fe4dac17",
-      "name": "3 𝗝𝗼𝗶𝗻 ➠ @proxy_kafee",
-      "network": "grpc",
-      "sni": "yahoo.com",
-      "host": "yahoo.com",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "179.237.74.183",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@179.237.74.183:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#vless-grpc-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
