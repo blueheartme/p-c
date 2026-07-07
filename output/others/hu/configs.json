@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-06T18:07:22.113187",
+  "updated": "2026-07-07T17:54:52.279754",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "155.117.137.44",
+      "address": "155.117.137.182",
       "port": "443",
       "id": "9480871a-3843-441c-9b83-aa8c5c96b209",
-      "name": "@filembad",
+      "name": "🇫🇷 @proxy_kafee",
       "network": "tcp",
       "sni": "cdn6-49.yahoo.com",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.44:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6-49.yahoo.com&sid=3c9c5d01c6f824dd#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
-      "ip": "155.117.137.44",
+      "original": "vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.182:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6-49.yahoo.com&sid=3c9c5d01c6f824dd#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
+      "ip": "155.117.137.182",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.44:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6-49.yahoo.com&sid=3c9c5d01c6f824dd#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.182:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn6-49.yahoo.com&sid=3c9c5d01c6f824dd#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
     }
   ]
 }
