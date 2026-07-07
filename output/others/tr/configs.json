@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T02:34:23.668160",
-  "count": 3,
+  "updated": "2026-07-07T10:50:34.818805",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "77.83.245.253",
-      "port": "59492",
-      "id": "5aa708a4-0134-4f24-ba6f-d775651bd21e",
-      "name": "proxy_kafee",
-      "network": "tcp",
-      "sni": "www.google.com:443",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?encryption=none&type=tcp&security=reality&headerType=none&sni=www.google.com%3A443&fp=chrome&insecure=1&allowInsecure=1&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&sid=0b1eccc239d0&spx=%2FMQkVkUG8SYXH6IZ#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "77.83.245.253",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?encryption=none&type=tcp&security=reality&headerType=none&sni=www.google.com%3A443&fp=chrome&insecure=1&allowInsecure=1&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&sid=0b1eccc239d0&spx=%2FMQkVkUG8SYXH6IZ#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
       "address": "45.74.158.246",
       "port": "8443",
       "id": "Telegram%3AX_RAY_VPN1",
@@ -56,11 +36,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "45.74.158.246",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "atrq.foot8all.ir",
+      "port": "56432",
+      "id": "681314c5-b3ee-41f1-a959-fa42841f5383",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "refersion.com",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://681314c5-b3ee-41f1-a959-fa42841f5383@atrq.foot8all.ir:56432?security=reality&encryption=none&pbk=LeUM8rH4Y0ntr5t_21HN4nBJLqfP8e3BOg8y1_CF4R8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=59bf49cfdeffc4f8#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "154.53.164.203",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://681314c5-b3ee-41f1-a959-fa42841f5383@atrq.foot8all.ir:56432?security=reality&encryption=none&pbk=LeUM8rH4Y0ntr5t_21HN4nBJLqfP8e3BOg8y1_CF4R8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=59bf49cfdeffc4f8#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "ssjiq.foot8all.ir",
+      "port": "56432",
+      "id": "f16ac657-9bf4-4999-bb59-f45945333715",
+      "name": "🇹🇷 ⟡ ✨ ʀᴇᴀʟɪᴛʏ @proxy_kafee",
+      "network": "tcp",
+      "sni": "refersion.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://f16ac657-9bf4-4999-bb59-f45945333715@ssjiq.foot8all.ir:56432?security=reality&encryption=none&pbk=LeUM8rH4Y0ntr5t_21HN4nBJLqfP8e3BOg8y1_CF4R8&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=59bf49cfdeffc4f8#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "154.53.164.203",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://f16ac657-9bf4-4999-bb59-f45945333715@ssjiq.foot8all.ir:56432?security=reality&encryption=none&pbk=LeUM8rH4Y0ntr5t_21HN4nBJLqfP8e3BOg8y1_CF4R8&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=59bf49cfdeffc4f8#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
