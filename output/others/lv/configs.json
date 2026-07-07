@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-06T18:07:22.097114",
-  "count": 2,
+  "updated": "2026-07-07T02:34:23.681027",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ge-nn.jorzel.ir",
-      "port": "2060",
-      "id": "b1f66344-4d4a-49d9-9c3a-9fae78d408f8",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.yahoo.com",
-      "host": "hostname",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://b1f66344-4d4a-49d9-9c3a-9fae78d408f8@ge-nn.jorzel.ir:2060?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=90cecfbf0c0a21ec#vless-xhttp-reality-chrome-LV%F0%9F%8C%90-1",
-      "ip": "46.8.232.168",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://b1f66344-4d4a-49d9-9c3a-9fae78d408f8@ge-nn.jorzel.ir:2060?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=G5_DckdgcTAbEubwJvlZDBwrncT1lOq6W5JRwINl1nE&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=90cecfbf0c0a21ec#vless-xhttp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
     }
   ]
 }
