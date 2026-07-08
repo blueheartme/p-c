@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T02:08:11.300800",
-  "count": 2,
+  "updated": "2026-07-08T10:11:28.985995",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "silenceux.ir",
+      "port": "2087",
+      "id": "c5894a17-f293-49cf-9c1f-a646b506be06",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "fast.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://c5894a17-f293-49cf-9c1f-a646b506be06@silenceux.ir:2087?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "154.53.164.206",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://c5894a17-f293-49cf-9c1f-a646b506be06@silenceux.ir:2087?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
