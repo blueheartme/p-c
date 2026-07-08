@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T10:11:28.985995",
+  "updated": "2026-07-08T17:24:17.384229",
   "count": 3,
   "configs": [
     {
@@ -24,6 +24,26 @@
     },
     {
       "type": "vless",
+      "address": "turk1.codesystem.ir",
+      "port": "8080",
+      "id": "f8cae104-2eaa-4b16-b258-65be28281b70",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "185.71.219.218",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
       "address": "45.74.158.246",
       "port": "8443",
       "id": "Telegram%3ATurboConfigs",
@@ -36,31 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "45.74.158.246",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "silenceux.ir",
-      "port": "2087",
-      "id": "c5894a17-f293-49cf-9c1f-a646b506be06",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "fast.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://c5894a17-f293-49cf-9c1f-a646b506be06@silenceux.ir:2087?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "154.53.164.206",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://c5894a17-f293-49cf-9c1f-a646b506be06@silenceux.ir:2087?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://Telegram%3ATurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
