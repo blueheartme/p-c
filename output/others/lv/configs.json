@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T17:24:17.391715",
-  "count": 2,
+  "updated": "2026-07-09T02:26:46.059013",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "hom11.xubi.org",
-      "port": "2053",
-      "id": "05b6c724-9e62-42b3-b708-61675db0e7e7",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://05b6c724-9e62-42b3-b708-61675db0e7e7@Hom11.xubi.org:2053?encryption=none&fp=chrome&pbk=8As0u-gVh9i5XkDC_HNcK6TLcqYdQ2aNnmQcGCjud3I&security=reality&sid=b59400349fe082&sni=www.yahoo.com&spx=%2F4YkKe360dhAzbPB&type=tcp#vless-tcp-reality-chrome-LV%F0%9F%8C%90-2",
-      "ip": "45.38.198.17",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://05b6c724-9e62-42b3-b708-61675db0e7e7@Hom11.xubi.org:2053?encryption=none&fp=chrome&pbk=8As0u-gVh9i5XkDC_HNcK6TLcqYdQ2aNnmQcGCjud3I&security=reality&sid=b59400349fe082&sni=www.yahoo.com&spx=%2F4YkKe360dhAzbPB&type=tcp#vless-tcp-reality-chrome-LV%F0%9F%8C%90-2"
     }
   ]
 }

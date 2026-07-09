@@ -1,41 +1,26 @@
 {
-  "updated": "2026-07-03T17:19:09.274072",
-  "count": 2,
+  "updated": "2026-07-09T02:26:46.051667",
+  "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "138.252.100.85",
-      "port": "18746",
-      "id": "5cae7714-9c61-4c5c-876e-c45a1cb13be4",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
-      "ip": "138.252.100.85",
-      "country": "IN",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2FlNzcxNC05YzYxLTRjNWMtODc2ZS1jNDVhMWNiMTNiZTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JTvCfh67wn4ezLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-    },
-    {
       "type": "vless",
-      "address": "143.110.247.61",
-      "port": "2053",
-      "id": "0970324b-8c61-4ae7-8c3f-385a6f1e17e4",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "vpn47.cc.cd",
-      "host": "vpn47.cc.cd",
-      "security": "tls",
+      "address": "turboindian.iranfreemarz.com",
+      "port": "7007",
+      "id": "3693c9e8-70de-46d5-89bf-856ae12ee852",
+      "name": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@ir_IRANy 🇮🇳",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2",
-      "ip": "143.110.247.61",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "103.165.10.244",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@143.110.247.61:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#vless-ws-tls-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-2"
+      "rebuilt": "vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }

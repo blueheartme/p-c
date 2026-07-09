@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:24:17.384229",
+  "updated": "2026-07-09T02:26:46.029827",
   "count": 3,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "turk1.codesystem.ir",
-      "port": "8080",
-      "id": "f8cae104-2eaa-4b16-b258-65be28281b70",
+      "address": "help.novaano.ir",
+      "port": "443",
+      "id": "d7f02a96-2b79-4761-bc3b-25788fdb2f73",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "185.71.219.218",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://d7f02a96-2b79-4761-bc3b-25788fdb2f73@help.novaano.ir:443?security=reality&encryption=none&pbk=WA651ZTwzgiUKRJLkWTERvd63kxN8PoUucbm5O7tjAE&headerType=none&fp=chrome&spx=%2F4eCHCV5enMaPCOv&type=tcp&sni=yahoo.com&sid=58#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.74.158.116",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://d7f02a96-2b79-4761-bc3b-25788fdb2f73@help.novaano.ir:443?security=reality&encryption=none&pbk=WA651ZTwzgiUKRJLkWTERvd63kxN8PoUucbm5O7tjAE&headerType=none&fp=chrome&spx=%2F4eCHCV5enMaPCOv&type=tcp&sni=yahoo.com&sid=58#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
