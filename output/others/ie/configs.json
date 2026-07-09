@@ -1,19 +1,20 @@
 {
-  "updated": "2026-07-09T02:26:46.050000",
-  "count": 2,
+  "updated": "2026-07-09T10:49:40.641442",
+  "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "20.107.208.165",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "qb8NN92yKkX1kKQD",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "ip": "20.107.208.165",
+      "type": "trojan",
+      "address": "146.70.90.198",
+      "port": "57452",
+      "password": "t1k169n5zmvvwn96r9ft",
+      "name": "@filembad",
+      "sni": "",
+      "host": "",
+      "original": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&headerType=none&fp=chrome&type=tcp#trojan-tcp-tls-IE%F0%9F%8C%90-1",
+      "ip": "146.70.90.198",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
+      "rebuilt": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&headerType=none&fp=chrome&type=tcp#trojan-tcp-tls-IE%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -27,6 +28,19 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQzFHQWNJVXMzZ21yODV5@20.107.208.165:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
+    },
+    {
+      "type": "ss",
+      "address": "20.107.208.165",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "qb8NN92yKkX1kKQD",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+      "ip": "20.107.208.165",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
     }
   ]
 }
