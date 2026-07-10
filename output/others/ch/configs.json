@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T17:50:56.321601",
-  "count": 3,
+  "updated": "2026-07-10T02:28:08.133292",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,20 +41,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "trojan",
-      "address": "84.234.30.16",
-      "port": "30000",
-      "password": "---------BanV2ray--------",
-      "name": "@filembad",
-      "sni": "chi.yahoo.com",
-      "host": "",
-      "original": "trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FYJqOEgw6YOyC550&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "84.234.30.16",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FYJqOEgw6YOyC550&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=63#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
