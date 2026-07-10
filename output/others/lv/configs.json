@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T02:28:08.146137",
-  "count": 1,
+  "updated": "2026-07-10T10:47:57.937335",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "fn.fifapes.monster",
+      "port": "2090",
+      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
+      "name": "🇺🇸 ² 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@ir_IRANy",
+      "network": "tcp",
+      "sni": "",
+      "host": "fn.fifapes.monster",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-2",
+      "ip": "46.8.236.194",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-2"
     }
   ]
 }
