@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T10:47:57.933299",
-  "count": 2,
+  "updated": "2026-07-10T17:43:39.120989",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,43 @@
     },
     {
       "type": "vless",
-      "address": "dash.sharkjoy.org",
-      "port": "8443",
-      "id": "03f4e625-e25e-4beb-93bd-8f275d3717e1",
-      "name": "🇵🇱 ⚡️ @proxy_kafee",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "address": "zx.virgooli.site",
+      "port": "443",
+      "id": "cababb95-deb2-479e-9018-01a0d08a4047",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "play.google.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?security=reality&encryption=none&pbk=cwv1Dx-yuL6RRl0kLQfJEwH6ZWS2GadbVYPEtNMXxHQ&headerType=none&fp=qq&spx=%2FJdTQds5lWLgo2ib&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0d#vless-xtls-rprx-vision-tcp-reality-qq-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "82.22.41.237",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://cababb95-deb2-479e-9018-01a0d08a4047@zx.virgooli.site:443?security=reality&encryption=none&pbk=AoiR7QkqyMItFGxmd1a8TbAL5SJ9yqAERc_ePzv_0hI&fp=chrome&spx=%2FWeCLhqt9gaV6rQH&type=grpc&serviceName=%40Arshiavpnred_bot%20&sni=play.google.com&sid=79ad#vless-grpc-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "82.40.62.125",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?security=reality&encryption=none&pbk=cwv1Dx-yuL6RRl0kLQfJEwH6ZWS2GadbVYPEtNMXxHQ&headerType=none&fp=qq&spx=%2FJdTQds5lWLgo2ib&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0d#vless-xtls-rprx-vision-tcp-reality-qq-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://cababb95-deb2-479e-9018-01a0d08a4047@zx.virgooli.site:443?security=reality&encryption=none&pbk=AoiR7QkqyMItFGxmd1a8TbAL5SJ9yqAERc_ePzv_0hI&fp=chrome&spx=%2FWeCLhqt9gaV6rQH&type=grpc&serviceName=%40Arshiavpnred_bot%20&sni=play.google.com&sid=79ad#vless-grpc-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+    },
+    {
+      "type": "vless",
+      "address": "pars.supros.ir",
+      "port": "2026",
+      "id": "f8cae104-2eaa-4b16-b258-65be28281b70",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@pars.supros.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#vless-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-3",
+      "ip": "145.239.30.75",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "vless://f8cae104-2eaa-4b16-b258-65be28281b70@pars.supros.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#vless-tcp-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-3"
     }
   ]
 }
