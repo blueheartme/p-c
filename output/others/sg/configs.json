@@ -1,26 +1,20 @@
 {
-  "updated": "2026-07-10T10:47:57.935853",
+  "updated": "2026-07-11T09:22:22.633591",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
+      "type": "trojan",
       "address": "45.8.211.217",
       "port": "443",
-      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "password": "MITIVPN",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "vangoghhh.info",
-      "host": "vangoghhh.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "sni": "de-j7o-doo.App-CloUd.IR",
+      "host": "jDe1-2v-3.App-CloUd.IR",
+      "original": "trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#trojan-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "45.8.211.217",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://MITIVPN@45.8.211.217:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd-e&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=de-j7o-doo.App-CloUd.IR#trojan-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
