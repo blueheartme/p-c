@@ -1,26 +1,20 @@
 {
-  "updated": "2026-07-12T02:09:33.920825",
+  "updated": "2026-07-12T09:47:08.584559",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
+      "type": "trojan",
       "address": "89.116.250.135",
       "port": "443",
-      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "password": "MiTiVPN",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "vangoghhh.info",
-      "host": "vangoghhh.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-1",
+      "sni": "Swdb-ueu-oe.MaQror.IR",
+      "host": "bw--ivb-b--vvbcs.MaQror.IR",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSW-22&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=bw--ivb-b--vvbcs.MaQror.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swdb-ueu-oe.MaQror.IR#trojan-ws-tls-LT%F0%9F%8C%90-1",
       "ip": "89.116.250.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-1"
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSW-22&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=bw--ivb-b--vvbcs.MaQror.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swdb-ueu-oe.MaQror.IR#trojan-ws-tls-LT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -37,7 +31,7 @@
       "headerType": "none",
       "fingerprint": "",
       "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-2",
-      "ip": "45.196.31.51",
+      "ip": "45.196.31.237",
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-2"

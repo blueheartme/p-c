@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T02:09:33.910512",
-  "count": 1,
+  "updated": "2026-07-12T09:47:08.592956",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "8fc32bdfd221beed.sorcepack.ir",
+      "port": "56625",
+      "id": "02418721-edeb-4aa8-9440-53ccc2cc4a98",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://02418721-edeb-4aa8-9440-53ccc2cc4a98@8fc32bdfd221beed.sorcepack.ir:56625?security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "104.105.106.147",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://02418721-edeb-4aa8-9440-53ccc2cc4a98@8fc32bdfd221beed.sorcepack.ir:56625?security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

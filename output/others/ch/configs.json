@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-12T02:09:33.916614",
+  "updated": "2026-07-12T09:47:08.577459",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "switzerland.nicqy.com",
-      "port": "18682",
-      "id": "0dbfdd92-a166-4852-9a5b-7cf508d196ab",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@switzerland.nicqy.com:18682?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OqEscRLjKXGwlfh21MzuR035RB3eiCuR3vZ3mHVGEnU&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=cba44366922b6b#vless-xhttp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "83.228.230.144",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@switzerland.nicqy.com:18682?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OqEscRLjKXGwlfh21MzuR035RB3eiCuR3vZ3mHVGEnU&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=cba44366922b6b#vless-xhttp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "ch-zicid.locations-sub.com",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "141.227.138.106",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
@@ -56,11 +36,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "45.197.134.56",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "trojan",
+      "address": "8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir",
+      "port": "5272",
+      "password": "------BanV2ray-------",
+      "name": "@filembad",
+      "sni": "chi.yahoo.com",
+      "host": "",
+      "original": "trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:5272?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FhGIZOTj80yD8GPJ&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "179.237.74.76",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:5272?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FhGIZOTj80yD8GPJ&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
