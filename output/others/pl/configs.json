@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T09:47:08.581769",
-  "count": 5,
+  "updated": "2026-07-12T16:53:33.138964",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,46 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "pl.karzino-connected.com",
-      "port": "443",
-      "id": "ef3e206d-3cbc-4254-8374-df04fe35a762",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "pl.karzino-connected.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ef3e206d-3cbc-4254-8374-df04fe35a762@pl.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "31.77.56.218",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://ef3e206d-3cbc-4254-8374-df04fe35a762@pl.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-2"
-    },
-    {
-      "type": "vless",
-      "address": "31.77.56.218",
-      "port": "443",
-      "id": "ef3e206d-3cbc-4254-8374-df04fe35a762",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "pl.karzino-connected.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.218:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3",
-      "ip": "31.77.56.218",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://ef3e206d-3cbc-4254-8374-df04fe35a762@31.77.56.218:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "vless",
       "address": "alapo.sannest.ir",
       "port": "443",
       "id": "1d798021-6b6e-4bff-8e8c-b7efc51d51b9",
@@ -76,31 +36,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-4",
+      "original": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-2",
       "ip": "85.158.57.180",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-4"
-    },
-    {
-      "type": "vless",
-      "address": "82.40.62.136",
-      "port": "443",
-      "id": "693a9953-8b79-4cc4-9374-58aa0fc48906",
-      "name": "@proxy_kafee",
-      "network": "xhttp",
-      "sni": "video-api.sapi.yahoo.com",
-      "host": "baghah.26",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://693a9953-8b79-4cc4-9374-58aa0fc48906@82.40.62.136:443?mode=auto&path=%2Fobito&security=reality&encryption=none&pbk=H5hgQcSKg6K_1yVLs_2zL3kGwYK805hvnlAtSr0QpEI&host=baghah.26&fp=chrome&spx=%2FHROBokyvUFIhxEy&type=xhttp&sni=video-api.sapi.yahoo.com&sid=9b0cf2#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-5",
-      "ip": "82.40.62.136",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://693a9953-8b79-4cc4-9374-58aa0fc48906@82.40.62.136:443?mode=auto&path=%2Fobito&security=reality&encryption=none&pbk=H5hgQcSKg6K_1yVLs_2zL3kGwYK805hvnlAtSr0QpEI&host=baghah.26&fp=chrome&spx=%2FHROBokyvUFIhxEy&type=xhttp&sni=video-api.sapi.yahoo.com&sid=9b0cf2#vless-xhttp-reality-chrome-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+      "rebuilt": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     }
   ]
 }

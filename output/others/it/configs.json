@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-12T09:47:08.605262",
-  "count": 3,
+  "updated": "2026-07-12T16:53:33.156011",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "ov-italy1.09vpn.com",
-      "port": "8443",
-      "id": "dc0d0eda-2293-4001-aa03-bd6c9431ed24",
-      "name": "$Free 264 @Outline_Vpn",
-      "network": "ws",
-      "sni": "ov-italy1.09vpn.com",
-      "host": "ov-italy1.09vpn.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#vless-ws-tls-IT%F0%9F%8C%90-1",
-      "ip": "57.131.32.191",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#vless-ws-tls-IT%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "151.115.166.249",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-2",
+      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1",
       "ip": "151.115.166.249",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-3",
+      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2",
       "ip": "185.58.194.122",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2"
     }
   ]
 }
