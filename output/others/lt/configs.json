@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-11T16:50:15.744574",
-  "count": 1,
+  "updated": "2026-07-12T02:09:33.920825",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "89.116.250.135",
+      "port": "443",
+      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "vangoghhh.info",
+      "host": "vangoghhh.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-1",
+      "ip": "89.116.250.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "cherry-lt-01.live",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1",
+      "original": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-2",
       "ip": "45.196.31.51",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-2"
     }
   ]
 }

@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-11T16:50:15.744220",
+  "updated": "2026-07-12T02:09:33.916614",
   "count": 3,
   "configs": [
     {
-      "type": "trojan",
-      "address": "8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir",
-      "port": "27111",
-      "password": "-----------BanV2ray------------",
-      "name": "@proxy_kafee🏆3 همراه",
-      "sni": "chi.yahoo.com",
+      "type": "vless",
+      "address": "switzerland.nicqy.com",
+      "port": "18682",
+      "id": "0dbfdd92-a166-4852-9a5b-7cf508d196ab",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "www.yahoo.com",
       "host": "",
-      "original": "trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?type=grpc&security=reality&serviceName=%2FLoginmassaageeeee&mode=gun&sni=chi.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=162666c3acca7a&spx=%2FpR0stl5s2GnTcGh#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "179.237.74.76",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@switzerland.nicqy.com:18682?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OqEscRLjKXGwlfh21MzuR035RB3eiCuR3vZ3mHVGEnU&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=cba44366922b6b#vless-xhttp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "83.228.230.144",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?type=grpc&security=reality&serviceName=%2FLoginmassaageeeee&mode=gun&sni=chi.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=162666c3acca7a&spx=%2FpR0stl5s2GnTcGh#trojan-grpc-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@switzerland.nicqy.com:18682?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OqEscRLjKXGwlfh21MzuR035RB3eiCuR3vZ3mHVGEnU&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=cba44366922b6b#vless-xhttp-reality-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",

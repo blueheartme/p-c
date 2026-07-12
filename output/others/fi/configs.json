@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-11T16:50:15.731467",
+  "updated": "2026-07-12T02:09:33.911703",
   "count": 6,
   "configs": [
     {
       "type": "vless",
-      "address": "89.167.1.117",
-      "port": "5585",
-      "id": "52d39766-022a-4874-bb64-091f33b5d24b",
-      "name": "@proxy_kafee",
+      "address": "150.241.75.170",
+      "port": "443",
+      "id": "c390be4b-00b5-4583-93f2-bbc099b8e7f1",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
+      "sni": "www.yandex.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://52d39766-022a-4874-bb64-091f33b5d24b@89.167.1.117:5585?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "89.167.1.117",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "150.241.75.170",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://52d39766-022a-4874-bb64-091f33b5d24b@89.167.1.117:5585?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+      "rebuilt": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-1"
     },
     {
       "type": "vless",
@@ -44,6 +44,37 @@
     },
     {
       "type": "vless",
+      "address": "157.180.72.116",
+      "port": "29591",
+      "id": "c85fa9c8-d3d2-47a4-ae31-ce150e074cdc",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "xhttp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "ip": "157.180.72.116",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+    },
+    {
+      "type": "hysteria2",
+      "address": "65.109.177.191",
+      "port": "443",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "ip": "65.109.177.191",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+    },
+    {
+      "type": "vless",
       "address": "fi.linuxbase.ir",
       "port": "1152",
       "id": "1e7e0537-c23d-43c2-afd5-4d7753831278",
@@ -56,11 +87,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3",
-      "ip": "135.181.145.95",
+      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5",
+      "ip": "135.181.250.190",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3"
+      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     },
     {
       "type": "vless",
@@ -76,42 +107,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4",
+      "original": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-6",
       "ip": "109.120.185.230",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-4"
-    },
-    {
-      "type": "hysteria2",
-      "address": "65.109.177.191",
-      "port": "443",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "65.109.177.191",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-5"
-    },
-    {
-      "type": "vless",
-      "address": "157.180.72.116",
-      "port": "29591",
-      "id": "c85fa9c8-d3d2-47a4-ae31-ce150e074cdc",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "xhttp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-6",
-      "ip": "157.180.72.116",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-6"
     }
   ]
 }
