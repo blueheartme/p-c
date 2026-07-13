@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T16:53:33.156011",
-  "count": 2,
+  "updated": "2026-07-13T02:10:58.009462",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "it.linuxbase.ir",
-      "port": "1152",
-      "id": "1e7e0537-c23d-43c2-afd5-4d7753831278",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2",
-      "ip": "185.58.194.122",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@it.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-IT%F0%9F%8C%90-2"
     }
   ]
 }
