@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-13T17:50:58.651794",
+  "updated": "2026-07-14T17:08:14.767072",
   "count": 5,
   "configs": [
     {
-      "type": "trojan",
-      "address": "45.130.125.2",
-      "port": "443",
-      "password": "humanity",
-      "name": "$Free 394 @Outline_Vpn",
-      "sni": "Www.cReaTIOnLONG.OrG",
-      "host": "Www.cReaTIOnLONG.OrG",
-      "original": "trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#trojan-ws-tls-SC%F0%9F%8C%90-1",
-      "ip": "45.130.125.2",
+      "type": "vless",
+      "address": "45.130.125.114",
+      "port": "8443",
+      "id": "f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93",
+      "name": "$Free 331 @Outline_Vpn",
+      "network": "ws",
+      "sni": "srv75.perfectbulk.info",
+      "host": "srv75.perfectbulk.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.114",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#trojan-ws-tls-SC%F0%9F%8C%90-1"
+      "rebuilt": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-1"
     },
     {
       "type": "trojan",
@@ -31,26 +37,6 @@
       "rebuilt": "trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#trojan-ws-tls-SC%F0%9F%8C%90-2"
     },
     {
-      "type": "vless",
-      "address": "45.130.125.114",
-      "port": "8443",
-      "id": "f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93",
-      "name": "$Free 331 @Outline_Vpn",
-      "network": "ws",
-      "sni": "srv75.perfectbulk.info",
-      "host": "srv75.perfectbulk.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-3",
-      "ip": "45.130.125.114",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#vless-ws-tls-SC%F0%9F%8C%90-3"
-    },
-    {
       "type": "trojan",
       "address": "45.130.125.2",
       "port": "443",
@@ -58,11 +44,25 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "bsw-wwlslw-w.Maqror.ir",
       "host": "sw-www-w.Maqror.ir",
-      "original": "trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=1&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=bsw-wwlslw-w.Maqror.ir#trojan-ws-tls-SC%F0%9F%8C%90-4",
+      "original": "trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#trojan-ws-tls-SC%F0%9F%8C%90-3",
       "ip": "45.130.125.2",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=1&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=bsw-wwlslw-w.Maqror.ir#trojan-ws-tls-SC%F0%9F%8C%90-4"
+      "rebuilt": "trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#trojan-ws-tls-SC%F0%9F%8C%90-3"
+    },
+    {
+      "type": "trojan",
+      "address": "45.130.125.2",
+      "port": "443",
+      "password": "humanity",
+      "name": "$Free 394 @Outline_Vpn",
+      "sni": "Www.cReaTIOnLONG.OrG",
+      "host": "Www.cReaTIOnLONG.OrG",
+      "original": "trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#trojan-ws-tls-SC%F0%9F%8C%90-4",
+      "ip": "45.130.125.2",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#trojan-ws-tls-SC%F0%9F%8C%90-4"
     },
     {
       "type": "trojan",

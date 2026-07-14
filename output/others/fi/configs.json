@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-13T17:50:58.646006",
+  "updated": "2026-07-14T17:08:14.752801",
   "count": 7,
   "configs": [
+    {
+      "type": "hysteria2",
+      "address": "assets.gateway-stream.com",
+      "port": "52021",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "ip": "95.217.96.131",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
+    {
+      "type": "vless",
+      "address": "bio.ilooo.ir",
+      "port": "8443",
+      "id": "c5d32f27-dded-4b63-8d01-1693471fb044",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://c5d32f27-dded-4b63-8d01-1693471fb044@bio.ilooo.ir:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "89.167.36.233",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://c5d32f27-dded-4b63-8d01-1693471fb044@bio.ilooo.ir:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+    },
     {
       "type": "vless",
       "address": "157.180.72.116",
@@ -16,22 +47,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-1",
+      "original": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-3",
       "ip": "157.180.72.116",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
-    {
-      "type": "hysteria2",
-      "address": "65.109.177.191",
-      "port": "443",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-2",
-      "ip": "65.109.177.191",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#vless-xhttp-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     },
     {
       "type": "vless",
@@ -47,42 +67,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-4",
       "ip": "171.22.114.248",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-3"
-    },
-    {
-      "type": "hysteria2",
-      "address": "assets.gateway-stream.com",
-      "port": "52021",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "original": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4",
-      "ip": "95.217.96.131",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-4"
-    },
-    {
-      "type": "vless",
-      "address": "a.fin.axylegend.shop",
-      "port": "20200",
-      "id": "ca6d7b36-4c32-42ef-a9e3-868e4cc67409",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://ca6d7b36-4c32-42ef-a9e3-868e4cc67409@a.fin.axylegend.shop:20200?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=FHwu__BwuyQOgcqMA_GVvN9xPiJ6VSKGi7G0xT7heH8&sid=7c614a954e08&spx=%2F77aaac9ea82ae88&type=tcp&headerType=none#vless-tcp-reality-ios-FI%F0%9F%87%AB%F0%9F%87%AE-5",
-      "ip": "65.109.188.126",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://ca6d7b36-4c32-42ef-a9e3-868e4cc67409@a.fin.axylegend.shop:20200?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=FHwu__BwuyQOgcqMA_GVvN9xPiJ6VSKGi7G0xT7heH8&sid=7c614a954e08&spx=%2F77aaac9ea82ae88&type=tcp&headerType=none#vless-tcp-reality-ios-FI%F0%9F%87%AB%F0%9F%87%AE-5"
+      "rebuilt": "vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#vless-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     },
     {
       "type": "vless",
@@ -98,11 +87,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6",
+      "original": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5",
       "ip": "150.241.75.170",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+      "rebuilt": "vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-5"
     },
     {
       "type": "vless",
@@ -118,11 +107,22 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "original": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6",
       "ip": "135.181.250.190",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-7"
+      "rebuilt": "vless://1e7e0537-c23d-43c2-afd5-4d7753831278@fi.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#vless-xtls-rprx-vision-tcp-reality-chrome-FI%F0%9F%87%AB%F0%9F%87%AE-6"
+    },
+    {
+      "type": "hysteria2",
+      "address": "65.109.177.191",
+      "port": "443",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "original": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7",
+      "ip": "65.109.177.191",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hysteria2-udp-FI%F0%9F%87%AB%F0%9F%87%AE-7"
     }
   ]
 }

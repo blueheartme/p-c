@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T17:50:58.660760",
-  "count": 2,
+  "updated": "2026-07-14T17:08:14.762556",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -16,31 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "32b1c1385e32bdfd.mbcloudy.ir",
-      "port": "56625",
-      "id": "3b4529e8-9c14-4541-8388-fe90d737baeb",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "ios",
-      "original": "vless://3b4529e8-9c14-4541-8388-fe90d737baeb@32b1c1385e32bdfd.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "104.105.96.153",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://3b4529e8-9c14-4541-8388-fe90d737baeb@32b1c1385e32bdfd.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
