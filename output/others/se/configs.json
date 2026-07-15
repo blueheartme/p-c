@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T17:08:14.762556",
-  "count": 1,
+  "updated": "2026-07-15T01:53:24.449342",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -16,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "original": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "192.71.82.2",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#vless-ws-tls-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "ea0c6157fc84dae4.mbcloudy.ir",
+      "port": "56625",
+      "id": "d7955f3f-dfa3-45a0-a3ef-9693df439a0f",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "ios",
+      "original": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@ea0c6157fc84dae4.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "104.105.96.153",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@ea0c6157fc84dae4.mbcloudy.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#vless-grpc-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }
