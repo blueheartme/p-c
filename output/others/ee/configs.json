@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-03T10:30:09.630043",
+  "updated": "2026-07-16T02:03:44.816040",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.129.96.62",
-      "port": "41348",
-      "method": "chacha20-ietf-poly1305",
-      "password": "6U3psR0sQuQxWXoBHB4KTD3YacwQwS21XvSEy9",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad",
-      "ip": "45.129.96.62",
+      "type": "vless",
+      "address": "82.47.22.240",
+      "port": "443",
+      "id": "162539ad-3df4-429f-8e71-ecdb7023b786",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "ee-hs-1.minzt.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1",
+      "ip": "82.47.22.240",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%40filembad"
+      "rebuilt": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-1"
     }
   ]
 }
