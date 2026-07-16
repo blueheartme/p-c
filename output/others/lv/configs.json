@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-16T10:02:47.218643",
-  "count": 2,
+  "updated": "2026-07-16T17:08:23.744437",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "mabar130.mobail1010.ir",
-      "port": "2082",
-      "id": "62694ff5-6954-4b9b-80fd-0436ae18b170",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "mabar130.mobail1010.ir",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#vless-ws-LV%F0%9F%8C%90-1",
-      "ip": "95.182.90.88",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#vless-ws-LV%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
     }
   ]
 }

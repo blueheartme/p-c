@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-13T10:54:39.714441",
+  "updated": "2026-07-16T17:08:23.732045",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "104.143.0.254",
-      "port": "443",
-      "id": "18167dd6-2c24-4f6b-a416-64bac693127a",
+      "type": "ss",
+      "address": "146.70.146.222",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
       "name": "@filembad",
-      "network": "grpc",
-      "sni": "optim.tildacdn.pub",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443/?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "104.143.0.254",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#%40filembad",
+      "ip": "146.70.146.222",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443/?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb#vless-grpc-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#%40filembad"
     }
   ]
 }

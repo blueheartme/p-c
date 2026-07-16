@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T10:02:47.211964",
-  "count": 2,
+  "updated": "2026-07-16T17:08:23.747671",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -35,6 +35,26 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "46.29.234.210",
+      "port": "443",
+      "id": "218fd696-e3a2-4c33-b397-a5f13a82969e",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "www.tradingview.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?mode=gun&security=reality&encryption=none&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&fp=firefox&type=grpc&serviceName=grpc&sni=www.tradingview.com&sid=ccda00cc#vless-grpc-reality-firefox-LT%F0%9F%8C%90-3",
+      "ip": "46.29.234.210",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?mode=gun&security=reality&encryption=none&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&fp=firefox&type=grpc&serviceName=grpc&sni=www.tradingview.com&sid=ccda00cc#vless-grpc-reality-firefox-LT%F0%9F%8C%90-3"
     }
   ]
 }
