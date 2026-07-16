@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-16T02:03:44.829446",
-  "count": 3,
+  "updated": "2026-07-16T10:02:47.218643",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
+      "address": "mabar130.mobail1010.ir",
+      "port": "2082",
+      "id": "62694ff5-6954-4b9b-80fd-0436ae18b170",
+      "name": "@filembad",
+      "network": "ws",
       "sni": "",
-      "host": "",
+      "host": "mabar130.mobail1010.ir",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1",
-      "ip": "104.252.127.190",
+      "original": "vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#vless-ws-LV%F0%9F%8C%90-1",
+      "ip": "95.182.90.88",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#vless-ws-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "193.28.186.215",
-      "port": "443",
-      "id": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.wikihow.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3",
-      "ip": "193.28.186.215",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3"
     }
   ]
 }
