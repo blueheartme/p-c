@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-17T09:52:17.109811",
-  "count": 4,
+  "updated": "2026-07-17T17:06:48.106070",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "45.196.201.228",
+      "address": "130.94.1.227",
       "port": "443",
-      "id": "f75814f6-8f81-4847-b792-168c41f2dc85",
+      "id": "c565e1e1-6e23-46cb-87e3-1e15d57f79f5",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "network": "ws",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "45.196.201.228",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://c565e1e1-6e23-46cb-87e3-1e15d57f79f5@130.94.1.227:443?encryption=none&host=play.google.com&path=%2Fheypersonic&security=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "130.94.1.227",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://c565e1e1-6e23-46cb-87e3-1e15d57f79f5@130.94.1.227:443?encryption=none&host=play.google.com&path=%2Fheypersonic&security=none&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "tur.forbluewhales.dpdns.org",
-      "port": "80",
-      "id": "87573bf7-e3ca-4439-9800-77fb5051eadf",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=%2Fws&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "185.226.93.28",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=%2Fws&security=none&encryption=none&host=play.google.com&type=ws#vless-ws-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
