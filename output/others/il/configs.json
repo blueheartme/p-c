@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-30T16:56:39.926447",
+  "updated": "2026-07-17T02:07:15.936237",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "il2.c2horizon.app",
+      "address": "64.176.168.53",
       "port": "443",
-      "id": "fe63dc5a-c00a-45eb-b875-19006f7f170c",
+      "id": "a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "il2.c2horizon.app",
+      "sni": "www.sap.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://fe63dc5a-c00a-45eb-b875-19006f7f170c@il2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-IL%F0%9F%8C%90-1",
-      "ip": "77.91.69.193",
+      "fingerprint": "",
+      "original": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@64.176.168.53:443?security=reality&encryption=none&pbk=Nk6QRe0SNNzTXTDnJLOBDm1yGVFBovm7vJ1lL-FGGWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sap.com&sid=555fd87c44d272a4#vless-xtls-rprx-vision-tcp-reality-IL%F0%9F%8C%90-1",
+      "ip": "64.176.168.53",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://fe63dc5a-c00a-45eb-b875-19006f7f170c@il2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#vless-xtls-rprx-vision-tcp-reality-qq-IL%F0%9F%8C%90-1"
+      "rebuilt": "vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@64.176.168.53:443?security=reality&encryption=none&pbk=Nk6QRe0SNNzTXTDnJLOBDm1yGVFBovm7vJ1lL-FGGWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sap.com&sid=555fd87c44d272a4#vless-xtls-rprx-vision-tcp-reality-IL%F0%9F%8C%90-1"
     }
   ]
 }
