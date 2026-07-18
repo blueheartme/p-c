@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-16T02:03:44.830289",
+  "updated": "2026-07-18T01:56:20.203686",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "43.159.50.28",
+      "address": "159.65.7.154",
       "port": "443",
-      "id": "aa83d161-1169-494a-a57e-c8d8b327f051",
+      "id": "3c5e6124-decf-425d-8c1e-fe05cb4dd298",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.apple.com",
+      "sni": "onic.pk",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?security=reality&encryption=none&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0417be28beffdfc1#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.159.50.28",
+      "original": "vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&encryption=none&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onic.pk&sid=b68b884d89e9a242#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "159.65.7.154",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?security=reality&encryption=none&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0417be28beffdfc1#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&encryption=none&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onic.pk&sid=b68b884d89e9a242#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

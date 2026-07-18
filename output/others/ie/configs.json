@@ -1,34 +1,7 @@
 {
-  "updated": "2026-07-17T17:06:48.111514",
-  "count": 3,
+  "updated": "2026-07-18T01:56:20.197407",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "3.249.67.252",
-      "port": "443",
-      "password": "XG59623478",
-      "name": "Mi168 14 @Outline_Vpn",
-      "sni": "singular-lark.rooster465.autos",
-      "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1",
-      "ip": "3.249.67.252",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "ss",
-      "address": "128.251.12.23",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "u7MBhnD1kM8GhweY",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#%40filembad",
-      "ip": "128.251.12.23",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#%40filembad"
-    },
     {
       "type": "ss",
       "address": "128.251.12.23",
@@ -41,6 +14,20 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#%40filembad"
+    },
+    {
+      "type": "trojan",
+      "address": "3.249.67.252",
+      "port": "443",
+      "password": "XG59623478",
+      "name": "Mi168 14 @Outline_Vpn",
+      "sni": "singular-lark.rooster465.autos",
+      "host": "",
+      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2",
+      "ip": "3.249.67.252",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2"
     }
   ]
 }
