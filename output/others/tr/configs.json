@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-18T01:56:20.201006",
-  "count": 2,
+  "updated": "2026-07-18T09:18:31.145304",
+  "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "tur.srv.anti-zapret.com",
+      "port": "443",
+      "id": "13b55e8e-fbea-4ee1-b6b7-115fa3043182",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "tur.srv.anti-zapret.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@tur.srv.anti-zapret.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tur.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "185.181.208.125",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@tur.srv.anti-zapret.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tur.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "dl3.outlow.ir",
+      "port": "2018",
+      "id": "582b50fc-1865-43ed-8152-7eaa030e3200",
+      "name": "@filembad",
+      "network": "xhttp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://582b50fc-1865-43ed-8152-7eaa030e3200@dl3.outlow.ir:2018?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=ZxuuDgQGfFxkWeQwkxQbrQIx8VaE8hZ8O5FzNboPUks&sid=8effe1&spx=%2Fbd8688f7936c0f2&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "212.87.198.107",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://582b50fc-1865-43ed-8152-7eaa030e3200@dl3.outlow.ir:2018?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=ZxuuDgQGfFxkWeQwkxQbrQIx8VaE8hZ8O5FzNboPUks&sid=8effe1&spx=%2Fbd8688f7936c0f2&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
     {
       "type": "vless",
       "address": "64.49.15.87",
@@ -16,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "64.49.15.87",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#vless-xtls-rprx-vision-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -36,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "103.83.87.75",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
