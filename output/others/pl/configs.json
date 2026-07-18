@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T09:18:31.139878",
-  "count": 4,
+  "updated": "2026-07-18T16:51:07.243621",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "31.56.188.123",
+      "address": "alapo.sannest.ir",
       "port": "443",
-      "id": "54d91bc3-a461-4458-a620-36f27f5d6975",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "www.amd.com",
-      "host": "",
-      "security": "reality",
+      "id": "1d798021-6b6e-4bff-8e8c-b7efc51d51b9",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "network": "tcp",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://54d91bc3-a461-4458-a620-36f27f5d6975@31.56.188.123:443?encryption=none&fp=firefox&mode=multi&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&serviceName=grpc-api-v2&sid=635a76c25a4b1820&sni=www.amd.com&type=grpc#vless-grpc-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-2",
-      "ip": "31.56.188.123",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-2",
+      "ip": "85.158.57.180",
       "country": "PL",
       "cdn": null,
-      "rebuilt": "vless://54d91bc3-a461-4458-a620-36f27f5d6975@31.56.188.123:443?encryption=none&fp=firefox&mode=multi&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&serviceName=grpc-api-v2&sid=635a76c25a4b1820&sni=www.amd.com&type=grpc#vless-grpc-reality-firefox-PL%F0%9F%87%B5%F0%9F%87%B1-2"
+      "rebuilt": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-2"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-PL%F0%9F%87%B5%F0%9F%87%B1-3"
-    },
-    {
-      "type": "vless",
-      "address": "alapo.sannest.ir",
-      "port": "443",
-      "id": "1d798021-6b6e-4bff-8e8c-b7efc51d51b9",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-4",
-      "ip": "85.158.57.180",
-      "country": "PL",
-      "cdn": null,
-      "rebuilt": "vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#vless-tcp-http-PL%F0%9F%87%B5%F0%9F%87%B1-4"
     }
   ]
 }
