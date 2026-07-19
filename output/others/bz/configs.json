@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-19T09:47:35.309185",
+  "updated": "2026-07-19T16:51:59.647139",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "45.131.4.115",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "Nl-L.App-Cloud.ir",
-      "host": "Nl-L.App-Cloud.ir",
-      "original": "trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1",
-      "ip": "45.131.4.115",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "45.131.4.115",
@@ -24,11 +10,25 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "PioHosting.ir",
       "host": "PioHosting.ir",
-      "original": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-2",
+      "original": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1",
       "ip": "45.131.4.115",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-2"
+      "rebuilt": "trojan://MITIVPN@45.131.4.115:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#trojan-ws-tls-BZ%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "45.131.4.115",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "Nl-L.App-Cloud.ir",
+      "host": "Nl-L.App-Cloud.ir",
+      "original": "trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#trojan-ws-tls-BZ%F0%9F%8C%90-2",
+      "ip": "45.131.4.115",
+      "country": "BZ",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#trojan-ws-tls-BZ%F0%9F%8C%90-2"
     }
   ]
 }

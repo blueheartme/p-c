@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-24T10:44:04.797166",
+  "updated": "2026-07-19T16:51:59.656329",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "31.43.179.140",
-      "port": "80",
-      "id": "f9255507-1b65-433f-bfd8-193b35e068e2",
+      "address": "193.124.204.145",
+      "port": "49853",
+      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
       "name": "@filembad",
-      "network": "ws",
+      "network": "tcp",
       "sni": "",
-      "host": "s5.868001.xyz",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@31.43.179.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-KZ%F0%9F%8C%90-1",
-      "ip": "31.43.179.140",
+      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%8C%90-1",
+      "ip": "193.124.204.145",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://f9255507-1b65-433f-bfd8-193b35e068e2@31.43.179.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#vless-ws-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%8C%90-1"
     }
   ]
 }
