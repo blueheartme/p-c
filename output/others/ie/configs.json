@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-18T16:51:07.238558",
+  "updated": "2026-07-19T02:07:33.196239",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "3.249.67.252",
-      "port": "443",
-      "password": "XG59623478",
-      "name": "Mi168 14 @Outline_Vpn",
-      "sni": "singular-lark.rooster465.autos",
-      "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1",
-      "ip": "3.249.67.252",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1"
-    },
     {
       "type": "ss",
       "address": "52.236.93.73",
@@ -28,6 +14,20 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#%40filembad"
+    },
+    {
+      "type": "trojan",
+      "address": "3.249.67.252",
+      "port": "443",
+      "password": "XG59623478",
+      "name": "Mi168 14 @Outline_Vpn",
+      "sni": "singular-lark.rooster465.autos",
+      "host": "",
+      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2",
+      "ip": "3.249.67.252",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2"
     }
   ]
 }
