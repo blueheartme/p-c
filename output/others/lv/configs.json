@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T02:07:33.197681",
-  "count": 3,
+  "updated": "2026-07-19T09:47:35.319001",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,43 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "sw.srv.anti-zapret.com",
-      "port": "443",
-      "id": "13b55e8e-fbea-4ee1-b6b7-115fa3043182",
+      "address": "mabar130.mobail1010.ir",
+      "port": "2082",
+      "id": "a9e937d6-6df5-42ef-9b14-3e1165d56c22",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "sw.srv.anti-zapret.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?headerType=none&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=17faf32cb516c9cb&security=reality&sni=sw.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2",
-      "ip": "193.68.89.249",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?headerType=none&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=17faf32cb516c9cb&security=reality&sni=sw.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
+      "network": "ws",
       "sni": "",
-      "host": "",
+      "host": "mabar130.mobail1010.ir",
       "security": "none",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3",
-      "ip": "31.57.26.169",
+      "original": "vless://a9e937d6-6df5-42ef-9b14-3e1165d56c22@mabar130.mobail1010.ir:2082?type=ws&path=%2F&host=mabar130.mobail1010.ir&security=none#vless-ws-LV%F0%9F%8C%90-2",
+      "ip": "95.182.90.88",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://a9e937d6-6df5-42ef-9b14-3e1165d56c22@mabar130.mobail1010.ir:2082?type=ws&path=%2F&host=mabar130.mobail1010.ir&security=none#vless-ws-LV%F0%9F%8C%90-2"
     }
   ]
 }

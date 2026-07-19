@@ -1,41 +1,7 @@
 {
-  "updated": "2026-07-19T02:07:33.192867",
-  "count": 4,
+  "updated": "2026-07-19T09:47:35.303725",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "94.140.0.40",
-      "port": "443",
-      "password": "MITIVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "Usa.App-Cloud.ir",
-      "host": "Usa.App-Cloud.ir",
-      "original": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "94.140.0.40",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "api2.hexogate.net",
-      "port": "443",
-      "id": "03a8e966-a884-4eec-b433-c9c0b91c53a2",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@api2.hexogate.net:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&fragment=40-80%2C10-20%2Ctlshello&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=4fbe35a79c1e884d#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-2",
-      "ip": "85.234.73.213",
-      "country": "AE",
-      "cdn": null,
-      "rebuilt": "vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@api2.hexogate.net:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&fragment=40-80%2C10-20%2Ctlshello&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&sid=4fbe35a79c1e884d#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-2"
-    },
     {
       "type": "vless",
       "address": "ae.cdn.stun.su",
@@ -50,25 +16,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3",
-      "ip": "176.97.78.29",
+      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "176.97.78.3",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-3"
+      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     },
     {
       "type": "trojan",
-      "address": "94.140.0.100",
+      "address": "94.140.0.40",
       "port": "443",
       "password": "MITIVPN",
       "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "95r.ir",
-      "host": "95r.ir",
-      "original": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4",
-      "ip": "94.140.0.100",
+      "sni": "Usa.App-Cloud.ir",
+      "host": "Usa.App-Cloud.ir",
+      "original": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "94.140.0.40",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "trojan://MITIVPN@94.140.0.100:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-4"
+      "rebuilt": "trojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#trojan-ws-tls-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
