@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-20T10:45:45.540210",
+  "updated": "2026-07-20T17:55:20.499858",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "188.211.233.228",
-      "port": "443",
-      "id": "0cd25ad8-8b62-4943-9bab-96941b1d9401",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "musicboss.eu",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-1",
-      "ip": "188.211.233.228",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-1"
-    },
     {
       "type": "trojan",
       "address": "3.249.67.252",
@@ -30,11 +10,24 @@
       "name": "Mi168 14 @Outline_Vpn",
       "sni": "singular-lark.rooster465.autos",
       "host": "",
-      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2",
+      "original": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1",
       "ip": "3.249.67.252",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2"
+      "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "20.166.58.64",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "217Fg9zpgpVS4DGE",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad",
+      "ip": "20.166.58.64",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad"
     }
   ]
 }

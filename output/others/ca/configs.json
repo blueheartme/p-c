@@ -1,21 +1,39 @@
 {
-  "updated": "2026-07-15T17:11:11.997826",
-  "count": 1,
+  "updated": "2026-07-20T17:55:20.502415",
+  "count": 2,
   "configs": [
     {
-      "type": "vmess",
-      "address": "134.195.196.211",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "type": "vless",
+      "address": "canada.zestmarket.ir",
+      "port": "6800",
+      "id": "6471088f-de4c-4d49-aa22-6539693b9edf",
       "name": "@filembad",
       "network": "tcp",
+      "sni": "play.google.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi0xIiwiYWRkIjoiMTM0LjE5NS4xOTYuMjExIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQzIn0=",
-      "ip": "134.195.196.211",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://6471088f-de4c-4d49-aa22-6539693b9edf@canada.zestmarket.ir:6800?headerType=none&sni=play.google.com&security=reality&type=tcp&encryption=none&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#vless-tcp-reality-qq-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "148.113.231.156",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi0xIiwiYWRkIjoiMTM0LjE5NS4xOTYuMjExIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQzIn0="
+      "rebuilt": "vless://6471088f-de4c-4d49-aa22-6539693b9edf@canada.zestmarket.ir:6800?headerType=none&sni=play.google.com&security=reality&type=tcp&encryption=none&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#vless-tcp-reality-qq-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "ss",
+      "address": "212.193.6.152",
+      "port": "20111",
+      "method": "aes-256-gcm",
+      "password": "2803361d6c196af8",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@212.193.6.152:20111#%40filembad",
+      "ip": "212.193.6.152",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@212.193.6.152:20111#%40filembad"
     }
   ]
 }
