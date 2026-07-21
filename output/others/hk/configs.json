@@ -1,21 +1,26 @@
 {
-  "updated": "2026-07-21T10:21:08.838332",
-  "count": 2,
+  "updated": "2026-07-21T17:11:11.167393",
+  "count": 3,
   "configs": [
     {
-      "type": "vmess",
-      "address": "31.77.149.99",
-      "port": "110",
-      "id": "f0841ef6-a703-4248-9c69-efed21a38e65",
-      "name": "$Free 425 @Outline_Vpn",
-      "network": "tcp",
+      "type": "vless",
+      "address": "2.26.224.98",
+      "port": "443",
+      "id": "8fef09bc-a48a-44ae-95cd-118e58ab796a",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "www.amd.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "ip": "31.77.149.99",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "2.26.224.98",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.98:443?mode=gun&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=firefox&type=grpc&serviceName=grpc-api-v2&sni=www.amd.com&sid=635a76c25a4b1820#vless-grpc-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -30,6 +35,21 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vmess",
+      "address": "31.77.149.99",
+      "port": "110",
+      "id": "f0841ef6-a703-4248-9c69-efed21a38e65",
+      "name": "$Free 425 @Outline_Vpn",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "ip": "31.77.149.99",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
     }
   ]
 }

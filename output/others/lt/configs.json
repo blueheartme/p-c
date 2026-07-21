@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T10:21:08.824392",
-  "count": 2,
+  "updated": "2026-07-21T17:11:11.177630",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,26 +15,6 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "89.116.250.135",
-      "port": "443",
-      "id": "14b59caf-a196-4ec2-8c70-c7b388062f5b",
-      "name": "🇱🇹LT_305_@proxy_kafee",
-      "network": "ws",
-      "sni": "vangoghhh.info",
-      "host": "vangoghhh.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-2",
-      "ip": "89.116.250.135",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#vless-ws-tls-LT%F0%9F%8C%90-2"
     }
   ]
 }
