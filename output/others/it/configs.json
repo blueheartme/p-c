@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-20T17:55:20.488761",
+  "updated": "2026-07-21T02:06:39.489169",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "2.26.130.156",
-      "port": "443",
-      "id": "f055899d-026b-49b5-88ed-0227795082da",
+      "address": "151.115.166.69",
+      "port": "8880",
+      "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "nora.mycdn-me.ru",
+      "network": "grpc",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://f055899d-026b-49b5-88ed-0227795082da@2.26.130.156:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nora.mycdn-me.ru&fp=firefox&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&sid=2f6a8c3e90b2d574&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%8C%90-1",
-      "ip": "2.26.130.156",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?type=grpc#vless-grpc-IT%F0%9F%8C%90-1",
+      "ip": "151.115.166.69",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://f055899d-026b-49b5-88ed-0227795082da@2.26.130.156:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nora.mycdn-me.ru&fp=firefox&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&sid=2f6a8c3e90b2d574&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?type=grpc#vless-grpc-IT%F0%9F%8C%90-1"
     }
   ]
 }
