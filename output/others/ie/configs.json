@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-21T02:06:39.476999",
+  "updated": "2026-07-21T10:21:08.825215",
   "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "188.211.233.228",
+      "type": "ss",
+      "address": "20.166.58.64",
       "port": "443",
-      "id": "0cd25ad8-8b62-4943-9bab-96941b1d9401",
+      "method": "chacha20-ietf-poly1305",
+      "password": "217Fg9zpgpVS4DGE",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "musicboss.eu",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-1",
-      "ip": "188.211.233.228",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad",
+      "ip": "20.166.58.64",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "vless://0cd25ad8-8b62-4943-9bab-96941b1d9401@188.211.233.228:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad"
     },
     {
       "type": "trojan",
@@ -39,15 +32,15 @@
     {
       "type": "ss",
       "address": "20.166.58.64",
-      "port": "443",
+      "port": "443?",
       "method": "chacha20-ietf-poly1305",
       "password": "217Fg9zpgpVS4DGE",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad",
+      "name": "Channel : @proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443?#Channel%20%3A%20%40proxy_kafee",
       "ip": "20.166.58.64",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443?#Channel%20%3A%20%40proxy_kafee"
     }
   ]
 }
