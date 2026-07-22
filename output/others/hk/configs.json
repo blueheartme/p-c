@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-22T10:20:34.923103",
-  "count": 3,
+  "updated": "2026-07-22T17:11:18.446225",
+  "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vmess",
       "address": "31.77.149.99",
@@ -25,31 +11,25 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "original": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
       "ip": "31.77.149.99",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+      "rebuilt": "vmess://eyJhZGQiOiIzMS43Ny4xNDkuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjA4NDFlZjYtYTcwMy00MjQ4LTljNjktZWZlZDIxYTM4ZTY1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
     },
     {
-      "type": "vless",
-      "address": "103.224.80.28",
-      "port": "10926",
-      "id": "407ef8f9-8ac2-46ab-83b9-e478d785ff6b",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "aws.amazon.com",
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=%2Fe088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "103.224.80.28",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=%2Fe088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
