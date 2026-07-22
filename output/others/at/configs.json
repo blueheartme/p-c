@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-21T17:11:11.169973",
-  "count": 2,
+  "updated": "2026-07-22T02:04:40.608833",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "51.241.7.80",
-      "port": "443",
-      "id": "6433b053-d7ae-4ec1-9bcf-7bde16516e25",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "weather.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://6433b053-d7ae-4ec1-9bcf-7bde16516e25@51.241.7.80:443?security=reality&encryption=none&pbk=ek_Gqike7DTlo6othh-e4xC-1OVVjwOu-4vOri_oKws&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=weather.com&sid=d73154e2a51f777d#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "51.241.7.80",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://6433b053-d7ae-4ec1-9bcf-7bde16516e25@51.241.7.80:443?security=reality&encryption=none&pbk=ek_Gqike7DTlo6othh-e4xC-1OVVjwOu-4vOri_oKws&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=weather.com&sid=d73154e2a51f777d#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
     {
       "type": "vless",
       "address": "152.53.0.209",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "original": "vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "152.53.0.209",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-2"
+      "rebuilt": "vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#vless-xtls-rprx-vision-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

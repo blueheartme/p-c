@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-18T16:51:07.247173",
+  "updated": "2026-07-22T02:04:40.604471",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "43.245.198.157",
-      "port": "21719",
-      "id": "6ff24708-1b2a-47dc-bc2b-d498ea00e3e1",
+      "address": "qzc6tbpu04c4.dop69.com",
+      "port": "10962",
+      "id": "d2c548f1-27c4-4364-bd70-feb2c159f534",
       "name": "@filembad",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "none",
+      "encryption": "mlkem768x25519plus.native.0rtt.x89bst5pyjkexho_hha5hjhmor55v0lfu-avo03xo3k",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://6ff24708-1b2a-47dc-bc2b-d498ea00e3e1@43.245.198.157:21719?security=&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.245.198.157",
+      "original": "vless://d2c548f1-27c4-4364-bd70-feb2c159f534@qzc6tbpu04c4.dop69.com:10962?security=none&encryption=mlkem768x25519plus.native.0rtt.X89bst5pyjkexho_hHA5hJhmor55v0lFu-avO03xo3k&headerType=none&type=tcp#vless-mlkem768x25519plus.native.0rtt.x89bst5pyjkexho_hha5hjhmor55v0lfu-avo03xo3k-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "45.77.171.254",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://6ff24708-1b2a-47dc-bc2b-d498ea00e3e1@43.245.198.157:21719?security=&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://d2c548f1-27c4-4364-bd70-feb2c159f534@qzc6tbpu04c4.dop69.com:10962?security=none&encryption=mlkem768x25519plus.native.0rtt.X89bst5pyjkexho_hHA5hJhmor55v0lFu-avO03xo3k&headerType=none&type=tcp#vless-mlkem768x25519plus.native.0rtt.x89bst5pyjkexho_hha5hjhmor55v0lfu-avo03xo3k-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
