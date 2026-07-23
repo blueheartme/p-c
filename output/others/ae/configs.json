@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T10:15:06.071243",
-  "count": 1,
+  "updated": "2026-07-23T17:13:50.825601",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -17,10 +17,30 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.3",
+      "ip": "38.180.26.28",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "ae-google.mobileemdad.top",
+      "port": "443",
+      "id": "f8c3065e-4437-4561-aacb-75b32586f011",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "qq",
+      "original": "vless://f8c3065e-4437-4561-aacb-75b32586f011@ae-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=e8f4426268c05621#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "109.61.42.60",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://f8c3065e-4437-4561-aacb-75b32586f011@ae-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=e8f4426268c05621#vless-tcp-reality-qq-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
