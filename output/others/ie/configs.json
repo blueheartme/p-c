@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T17:13:50.812756",
-  "count": 2,
+  "updated": "2026-07-24T02:07:43.445135",
+  "count": 3,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "83.138.14.227",
+      "port": "443",
+      "id": "dd6244e1-38dc-420c-a881-b2b5aca9f3ea",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.samsung.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dd6244e1-38dc-420c-a881-b2b5aca9f3ea@83.138.14.227:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=xuN9H19HOW2Vm8hkRDwnWP7yRtxmqcNbmFMel4HqiCc&sid=a8246a62b1d71045&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-2",
+      "ip": "83.138.14.227",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "vless://dd6244e1-38dc-420c-a881-b2b5aca9f3ea@83.138.14.227:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=xuN9H19HOW2Vm8hkRDwnWP7yRtxmqcNbmFMel4HqiCc&sid=a8246a62b1d71045&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IE%F0%9F%8C%90-2"
     },
     {
       "type": "ss",

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-23T10:57:57.685962",
+  "updated": "2026-07-24T02:07:43.462134",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.90.207.152",
-      "port": "23009",
-      "id": "21db6b31-6e8b-4307-9127-994c99606e15",
+      "address": "2.56.206.183",
+      "port": "443",
+      "id": "c20e053d-857a-4382-9daf-8c4a999216cd",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "",
+      "sni": "www.samsung.com",
       "host": "",
-      "security": "none",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "",
-      "original": "vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#vless-tcp-AM%F0%9F%8C%90-1",
-      "ip": "85.90.207.152",
+      "fingerprint": "firefox",
+      "original": "vless://c20e053d-857a-4382-9daf-8c4a999216cd@2.56.206.183:443?type=tcp&security=reality&encryption=none&pbk=Ccrxcesv3y3gV0n7peIEyaCw2NY621JdFUOdm7zH5ko&sid=b9a969ba610cc483&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%8C%90-1",
+      "ip": "2.56.206.183",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#vless-tcp-AM%F0%9F%8C%90-1"
+      "rebuilt": "vless://c20e053d-857a-4382-9daf-8c4a999216cd@2.56.206.183:443?type=tcp&security=reality&encryption=none&pbk=Ccrxcesv3y3gV0n7peIEyaCw2NY621JdFUOdm7zH5ko&sid=b9a969ba610cc483&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-AM%F0%9F%8C%90-1"
     }
   ]
 }
