@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T09:42:28.575243",
-  "count": 4,
+  "updated": "2026-07-25T16:51:48.484169",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "gr1.fifapes.monster",
-      "port": "8882",
-      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-2",
-      "ip": "31.57.26.215",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "fn.fifapes.monster",
       "port": "2090",
       "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
@@ -56,11 +36,51 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#vless-tcp-chrome-LV%F0%9F%8C%90-3",
-      "ip": "46.8.70.50",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#vless-tcp-chrome-LV%F0%9F%8C%90-2",
+      "ip": "31.57.62.66",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#vless-tcp-chrome-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster#vless-tcp-chrome-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "90.156.255.166",
+      "port": "36100",
+      "id": "7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8",
+      "name": "@filembad",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#vless-tcp-LV%F0%9F%8C%90-3",
+      "ip": "90.156.255.166",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#vless-tcp-LV%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "gr1.fifapes.monster",
+      "port": "8882",
+      "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%8C%90-4",
+      "ip": "46.8.228.239",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http#vless-tcp-http-LV%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -76,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-4",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-5",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-4"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-5"
     }
   ]
 }
