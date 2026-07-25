@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-24T17:24:33.576315",
+  "updated": "2026-07-25T02:07:13.080171",
   "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "fn.fifapes.monster",
-      "port": "2090",
+      "address": "gr1.fifapes.monster",
+      "port": "8882",
       "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
       "sni": "",
       "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1",
-      "ip": "188.130.154.148",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-1",
+      "ip": "46.8.70.50",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -44,10 +44,10 @@
     },
     {
       "type": "vless",
-      "address": "5.178.96.226",
+      "address": "fn.fifapes.monster",
       "port": "2090",
       "id": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "name": "@filembad",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
       "network": "tcp",
       "sni": "",
       "host": "",
@@ -56,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.226:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3",
-      "ip": "5.178.96.226",
+      "original": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3",
+      "ip": "31.56.227.48",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.226:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
