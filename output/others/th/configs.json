@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-22T17:11:18.459040",
+  "updated": "2026-07-26T09:54:02.443695",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "de.pub.accuratenetworkchecker.ir",
-      "port": "2053",
-      "id": "StableInternet",
-      "name": "Channel : @proxy_kafee",
-      "network": "grpc",
-      "sni": "grc.accuratenetworkchecker.ir",
-      "host": "",
-      "security": "tls",
+      "address": "18.239.134.69",
+      "port": "80",
+      "id": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-TH%F0%9F%8C%90-1",
-      "ip": "154.83.2.49",
+      "fingerprint": "",
+      "original": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%8C%90-1",
+      "ip": "18.239.134.69",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#vless-grpc-tls-chrome-TH%F0%9F%8C%90-1"
+      "rebuilt": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%8C%90-1"
     }
   ]
 }
