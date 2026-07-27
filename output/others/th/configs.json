@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-26T09:54:02.443695",
+  "updated": "2026-07-27T11:14:10.997617",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "18.239.134.69",
-      "port": "80",
-      "id": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
+      "address": "165.154.247.187",
+      "port": "2053",
+      "id": "e4f229c9-bd67-45d4-873b-b85a43a2be54",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com",
-      "security": "",
+      "network": "tcp",
+      "sni": "www.amazon.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%8C%90-1",
-      "ip": "18.239.134.69",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?security=reality&encryption=none&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&headerType=none&fp=chrome&spx=%2F926d66b01e29824&type=tcp&sni=www.amazon.com&sid=e3b9f430320df1#vless-tcp-reality-chrome-TH%F0%9F%8C%90-1",
+      "ip": "165.154.247.187",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#vless-ws-TH%F0%9F%8C%90-1"
+      "rebuilt": "vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?security=reality&encryption=none&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&headerType=none&fp=chrome&spx=%2F926d66b01e29824&type=tcp&sni=www.amazon.com&sid=e3b9f430320df1#vless-tcp-reality-chrome-TH%F0%9F%8C%90-1"
     }
   ]
 }
