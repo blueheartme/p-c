@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T02:00:37.930327",
-  "count": 1,
+  "updated": "2026-07-28T10:29:07.260624",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,21 @@
       "country": "DK",
       "cdn": null,
       "rebuilt": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#vless-xtls-rprx-vision-tcp-reality-ios-DK%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vmess",
+      "address": "status.nixonbhost.top",
+      "port": "33550",
+      "id": "6f276b57-2b72-4e00-b441-b0ae47487a59",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiJzdGF0dXMubml4b25iaG9zdC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYyNzZiNTctMmI3Mi00ZTAwLWI0NDEtYjBhZTQ3NDg3YTU5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzU1MCIsInBzIjoidm1lc3MtYXV0by10Y3AtREvwn4yQLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "194.77.220.30",
+      "country": "DK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiJzdGF0dXMubml4b25iaG9zdC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYyNzZiNTctMmI3Mi00ZTAwLWI0NDEtYjBhZTQ3NDg3YTU5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzU1MCIsInBzIjoidm1lc3MtYXV0by10Y3AtREvwn4yQLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     }
   ]
 }
