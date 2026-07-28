@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-28T02:39:31.752016",
+  "updated": "2026-07-28T02:00:37.944798",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "91.225.217.26",
-      "port": "443",
-      "id": "0dc22208-cea4-4423-b3c3-a36957e23233",
-      "name": "@lldalall • MCI",
+      "address": "195.133.18.161",
+      "port": "30153",
+      "id": "da97d2d7-d255-4efd-8398-7101d698768e",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?security=reality&encryption=none&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=30fa#vless-tcp-reality-chrome-RS%F0%9F%8C%90-1",
-      "ip": "91.225.217.26",
+      "fingerprint": "",
+      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-RS%F0%9F%8C%90-1",
+      "ip": "195.133.18.161",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?security=reality&encryption=none&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=30fa#vless-tcp-reality-chrome-RS%F0%9F%8C%90-1"
+      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-RS%F0%9F%8C%90-1"
     }
   ]
 }
