@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-26T02:12:02.304101",
+  "updated": "2026-07-28T17:22:38.148717",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "38.79.154.34",
-      "port": "2020",
-      "id": "db8c3c80-a025-46f9-bffb-fde63c2e3ac1",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "tcp",
-      "sni": "aparat.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1",
-      "ip": "38.79.154.34",
+      "type": "ss",
+      "address": "146.70.254.238",
+      "port": "1080?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.254.238:1080?type=tcp&headerType=none#%40filembad",
+      "ip": "146.70.254.238",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://db8c3c80-a025-46f9-bffb-fde63c2e3ac1@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&spx=%2Fzv8M17VMppA3e9S&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=7e82#vless-xtls-rprx-vision-tcp-reality-chrome-RO%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.254.238:1080?type=tcp&headerType=none#%40filembad"
     }
   ]
 }

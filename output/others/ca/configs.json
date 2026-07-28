@@ -1,26 +1,45 @@
 {
-  "updated": "2026-07-26T02:12:02.313550",
-  "count": 1,
+  "updated": "2026-07-28T17:22:38.122369",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "cn1.k44lawm.ir",
-      "port": "8080",
-      "id": "4e47cb1f-c04e-435f-afc4-66bdcb6704af",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "play.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4e47cb1f-c04e-435f-afc4-66bdcb6704af@cn1.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "185.206.170.29",
+      "type": "ss",
+      "address": "72.10.173.91",
+      "port": "1080?",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080?#%40proxy_kafee",
+      "ip": "72.10.173.91",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://4e47cb1f-c04e-435f-afc4-66bdcb6704af@cn1.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080?#%40proxy_kafee"
+    },
+    {
+      "type": "ss",
+      "address": "68.168.116.6",
+      "port": "1080?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080?type=tcp&headerType=none#%40filembad",
+      "ip": "68.168.116.6",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080?type=tcp&headerType=none#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "ca1.levikogjgfdd.ir",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#%40filembad",
+      "ip": "72.10.173.91",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#%40filembad"
     }
   ]
 }

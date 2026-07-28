@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-28T10:29:07.256912",
-  "count": 1,
+  "updated": "2026-07-28T17:22:38.142923",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "146.70.203.254",
+      "port": "1080?type=tcp&headerType=none",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080?type=tcp&headerType=none#%40filembad",
+      "ip": "146.70.203.254",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080?type=tcp&headerType=none#%40filembad"
+    },
     {
       "type": "vless",
       "address": "152.233.41.30",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1",
+      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-2",
       "ip": "152.233.41.30",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-2"
     }
   ]
 }
