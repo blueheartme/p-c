@@ -1,26 +1,19 @@
 {
-  "updated": "2026-07-24T02:07:43.455545",
+  "updated": "2026-07-29T10:33:25.823652",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "alb.serverkingomz.ir",
-      "port": "3389",
-      "id": "4618309c-a461-481d-b4be-677e0b668df1",
+      "type": "ss",
+      "address": "31.171.152.222",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%8C%90-1",
-      "ip": "157.22.240.108",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#%40filembad",
+      "ip": "31.171.152.222",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "vless://4618309c-a461-481d-b4be-677e0b668df1@alb.serverkingomz.ir:3389?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DSisVvxDt4VxzBxS2fWKBPovVIUWc-zwjmE9wiIdX1s&sid=5f040b1309b66bd3&type=tcp&headerType=none#vless-tcp-reality-chrome-AL%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#%40filembad"
     }
   ]
 }
