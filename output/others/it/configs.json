@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T17:22:38.140467",
-  "count": 1,
+  "updated": "2026-07-29T02:03:16.145997",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "ss",
+      "address": "91.193.5.112",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.193.5.112:1080#%40filembad",
+      "ip": "91.193.5.112",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.193.5.112:1080#%40filembad"
     }
   ]
 }

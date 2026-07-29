@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T17:22:38.118791",
-  "count": 2,
+  "updated": "2026-07-29T02:03:16.143130",
+  "count": 3,
   "configs": [
     {
       "type": "ss",
@@ -28,6 +28,19 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#trojan-tcp-tls-IE%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "4.210.66.168",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "jGmlLG23FdMVtwAq",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#%40filembad",
+      "ip": "4.210.66.168",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#%40filembad"
     }
   ]
 }
