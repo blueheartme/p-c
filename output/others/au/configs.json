@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-13T10:54:39.705147",
+  "updated": "2026-07-30T10:19:21.410538",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "104.156.233.234",
-      "port": "27116",
-      "method": "chacha20-ietf-poly1305",
-      "password": "bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E",
-      "name": "$Free 273 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%24Free%20273%20%40Outline_Vpn",
-      "ip": "104.156.233.234",
+      "type": "vless",
+      "address": "185.207.197.12",
+      "port": "80",
+      "id": "080fad7c-ff4b-499f-ab5d-52d69ea5745a",
+      "name": "",
+      "network": "",
+      "sni": "",
+      "host": "calm-tree-22b0.215-d2a.workers.dev",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1",
+      "ip": "185.207.197.12",
       "country": "AU",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%24Free%20273%20%40Outline_Vpn"
+      "rebuilt": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=/pyip=Telegram#vless-tcp-AU%F0%9F%87%A6%F0%9F%87%BA-1"
     }
   ]
 }

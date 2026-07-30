@@ -1,20 +1,19 @@
 {
-  "updated": "2026-07-30T01:53:36.553861",
+  "updated": "2026-07-30T10:19:21.403599",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "167.150.100.133",
-      "port": "450",
-      "password": "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m",
-      "name": "Channel : @proxy_kafee",
-      "sni": "grape-power-sg.roxa.org",
-      "host": "",
-      "original": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "167.150.100.133",
+      "type": "ss",
+      "address": "157.230.240.128",
+      "port": "12380",
+      "method": "chacha20-ietf-poly1305",
+      "password": "LG9UzkKlO6qf7AHkXzZ3M7L+VZJpPrscFn1N0MXJ5hk=",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRzlVemtLbE82cWY3QUhrWHpaM003TCtWWkpwUHJzY0ZuMU4wTVhKNWhrPQ@157.230.240.128:12380#%40filembad",
+      "ip": "157.230.240.128",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#trojan-tcp-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRzlVemtLbE82cWY3QUhrWHpaM003TCtWWkpwUHJzY0ZuMU4wTVhKNWhrPQ@157.230.240.128:12380#%40filembad"
     }
   ]
 }
