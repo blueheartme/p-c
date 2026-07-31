@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T02:12:22.277914",
-  "count": 1,
+  "updated": "2026-07-31T10:32:54.282704",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "198.44.177.117",
+      "port": "60101",
+      "id": "73c8ad8a-5803-49fb-8183-39f34ad3a3ea",
+      "name": "@filembad",
+      "network": "",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://73c8ad8a-5803-49fb-8183-39f34ad3a3ea@198.44.177.117:60101?allowInsecure=1#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "198.44.177.117",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://73c8ad8a-5803-49fb-8183-39f34ad3a3ea@198.44.177.117:60101?allowInsecure=1#vless-tcp-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
