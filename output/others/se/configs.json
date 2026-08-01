@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T17:23:39.059689",
-  "count": 5,
+  "updated": "2026-08-01T02:13:28.677963",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -64,26 +64,6 @@
     },
     {
       "type": "vless",
-      "address": "8c259d5613f66498.mbcloudy.ir",
-      "port": "23857",
-      "id": "8f0a9c91-ec47-4351-a8e8-93dfd493cd5f",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@8c259d5613f66498.mbcloudy.ir:23857?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=qq&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc#vless-grpc-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "172.234.110.187",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://8f0a9c91-ec47-4351-a8e8-93dfd493cd5f@8c259d5613f66498.mbcloudy.ir:23857?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=qq&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc#vless-grpc-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-4"
-    },
-    {
-      "type": "vless",
       "address": "sweden.oorluma.ir",
       "port": "6300",
       "id": "b1a689fa-20c3-43b4-a107-4af64f8a7cf3",
@@ -96,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-4",
       "ip": "141.227.160.73",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }

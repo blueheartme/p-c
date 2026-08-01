@@ -1,26 +1,19 @@
 {
-  "updated": "2026-05-29T11:23:21.503288",
+  "updated": "2026-08-01T02:13:28.676216",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "91.209.253.225",
-      "port": "2053",
-      "id": "0d974d97-fc0f-4e31-9f86-d4972c37b565",
-      "name": "Join ➣ @proxy_kafee",
-      "network": "xhttp",
-      "sni": "cdn.dns.xn--q9jyb4c",
-      "host": "cdn.dns.xn--q9jyb4c",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#vless-xhttp-tls-SA%F0%9F%8C%90-1",
-      "ip": "91.209.253.225",
+      "type": "ss",
+      "address": "156.244.8.155",
+      "port": "5004",
+      "method": "aes-256-gcm",
+      "password": "g5MeD6Ft3CWlJId",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#%40filembad",
+      "ip": "156.244.8.155",
       "country": "SA",
       "cdn": null,
-      "rebuilt": "vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#vless-xhttp-tls-SA%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#%40filembad"
     }
   ]
 }

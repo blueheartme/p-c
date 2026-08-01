@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-31T02:12:22.278975",
+  "updated": "2026-08-01T02:13:28.663453",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "138.2.75.33",
-      "port": "56927",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Y2QwZTQ0MDYzOWFhNjA5YmE0NTZhNWFkODkzMWNmODU=",
+      "type": "vless",
+      "address": "89.28.239.142",
+      "port": "8443",
+      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#%40filembad",
-      "ip": "138.2.75.33",
+      "network": "ws",
+      "sni": "dns68.putata.eu.org",
+      "host": "dns68.putata.eu.org",
+      "security": "tls",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "89.28.239.142",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#%40filembad"
+      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
