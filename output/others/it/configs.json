@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T09:53:40.233869",
-  "count": 2,
+  "updated": "2026-08-01T16:54:46.440444",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "italia.lodkirmm.ru",
-      "port": "443",
-      "id": "ee6950b1-5a5a-4bb6-ae54-814070840281",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "italia.lodkirmm.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "mlkem768x25519plus.native.0rtt.kwnw-tjj-zeee_l1abge3ehktpezduisqhz8e9gjkgs",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ee6950b1-5a5a-4bb6-ae54-814070840281@italia.lodkirmm.ru:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.kWnW-tjj-zEEe_L1AbGe3eHKtpezdUIsqHZ8e9gJKgs&pbk=6fwpt8WW46VND7VgVV5lQSteCUgJsZbRR092VDZ2nFs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italia.lodkirmm.ru#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.kwnw-tjj-zeee_l1abge3ehktpezduisqhz8e9gjkgs-tcp-reality-firefox-IT%F0%9F%8C%90-2",
-      "ip": "185.119.19.211",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://ee6950b1-5a5a-4bb6-ae54-814070840281@italia.lodkirmm.ru:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.kWnW-tjj-zEEe_L1AbGe3eHKtpezdUIsqHZ8e9gJKgs&pbk=6fwpt8WW46VND7VgVV5lQSteCUgJsZbRR092VDZ2nFs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italia.lodkirmm.ru#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.kwnw-tjj-zeee_l1abge3ehktpezduisqhz8e9gjkgs-tcp-reality-firefox-IT%F0%9F%8C%90-2"
     }
   ]
 }

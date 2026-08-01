@@ -1,19 +1,17 @@
 {
-  "updated": "2026-07-28T17:22:38.148717",
+  "updated": "2026-08-01T16:54:46.436737",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "146.70.254.238",
-      "port": "1080?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
+      "type": "hysteria2",
+      "address": "ro.h2corp.org",
+      "port": "443",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.254.238:1080?type=tcp&headerType=none#%40filembad",
-      "ip": "146.70.254.238",
+      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1",
+      "ip": "185.225.19.39",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.254.238:1080?type=tcp&headerType=none#%40filembad"
+      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1"
     }
   ]
 }

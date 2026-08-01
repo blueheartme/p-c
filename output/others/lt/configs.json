@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T09:53:40.239613",
-  "count": 1,
+  "updated": "2026-08-01T16:54:46.431939",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "LT",
       "cdn": null,
       "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "86.38.214.33",
+      "port": "80",
+      "id": "0103cdc9-3927-44f0-88aa-e1162b7fedaf",
+      "name": "@proxy_kafee",
+      "network": "xhttp",
+      "sni": "",
+      "host": "cdn.torexa.ir",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=%2F%3Fed%3D2048&mode=auto#vless-xhttp-LT%F0%9F%8C%90-2",
+      "ip": "86.38.214.33",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=%2F%3Fed%3D2048&mode=auto#vless-xhttp-LT%F0%9F%8C%90-2"
     }
   ]
 }

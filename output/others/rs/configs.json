@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T17:22:38.123777",
+  "updated": "2026-08-01T16:54:46.436269",
   "count": 1,
   "configs": [
     {
@@ -7,20 +7,20 @@
       "address": "195.133.18.161",
       "port": "30153",
       "id": "da97d2d7-d255-4efd-8398-7101d698768e",
-      "name": "@proxy_kafee",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "",
-      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI",
-      "security": "none",
+      "host": "",
+      "security": "",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#vless-tcp-RS%F0%9F%8C%90-1",
+      "original": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=&type=tcp#vless-tcp-RS%F0%9F%8C%90-1",
       "ip": "195.133.18.161",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#vless-tcp-RS%F0%9F%8C%90-1"
+      "rebuilt": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=&type=tcp#vless-tcp-RS%F0%9F%8C%90-1"
     }
   ]
 }
