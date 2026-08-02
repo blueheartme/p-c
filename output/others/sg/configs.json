@@ -1,26 +1,20 @@
 {
-  "updated": "2026-08-01T02:13:28.663453",
+  "updated": "2026-08-02T02:10:49.764697",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "89.28.239.142",
-      "port": "8443",
-      "id": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+      "type": "trojan",
+      "address": "38.54.16.223",
+      "port": "42914",
+      "password": "1sQSN8Jdj_sdXnso4LasLA",
       "name": "@filembad",
-      "network": "ws",
-      "sni": "dns68.putata.eu.org",
-      "host": "dns68.putata.eu.org",
-      "security": "tls",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "89.28.239.142",
+      "sni": "",
+      "host": "",
+      "original": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "38.54.16.223",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:8443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-01T02:13:28.682037",
+  "updated": "2026-08-02T02:10:49.766841",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "185.196.61.82",
-      "port": "8080",
-      "method": "aes-256-gcm",
-      "password": "KixLvKzwjekG00rm",
+      "type": "vless",
+      "address": "78.111.91.166",
+      "port": "443",
+      "id": "504d0b6e-400d-45ec-b2d0-1c79006ebc16",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#%40filembad",
-      "ip": "185.196.61.82",
+      "network": "grpc",
+      "sni": "web.demiurgitut.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?type=grpc&security=reality&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.demiurgitut.ru&mode=gun&serviceName=demiurgitut-grpc#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "78.111.91.166",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#%40filembad"
+      "rebuilt": "vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?type=grpc&security=reality&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.demiurgitut.ru&mode=gun&serviceName=demiurgitut-grpc#vless-grpc-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }
