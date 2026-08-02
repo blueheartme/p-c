@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02T09:51:22.901559",
+  "updated": "2026-08-02T16:53:59.379958",
   "count": 4,
   "configs": [
+    {
+      "type": "vless",
+      "address": "45.130.125.207",
+      "port": "8443",
+      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
+      "name": "Free 108 @Outline_Vpn",
+      "network": "ws",
+      "sni": "t1s1.rittbo.kdns.fr",
+      "host": "t1s1.rittbo.kdns.fr",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%8C%90-1",
+      "ip": "45.130.125.207",
+      "country": "SC",
+      "cdn": null,
+      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "45.130.125.207",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%8C%90-1",
+      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%8C%90-2",
       "ip": "45.130.125.207",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.130.125.207",
-      "port": "8443",
-      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "ws",
-      "sni": "t1s1.rittbo.kdns.fr",
-      "host": "t1s1.rittbo.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%8C%90-2",
-      "ip": "45.130.125.207",
-      "country": "SC",
-      "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-chrome-SC%F0%9F%8C%90-2"
+      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-SC%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
