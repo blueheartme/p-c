@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T02:12:49.614451",
-  "count": 4,
+  "updated": "2026-08-03T11:16:42.288827",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
@@ -44,6 +44,46 @@
     },
     {
       "type": "vless",
+      "address": "144.31.179.7",
+      "port": "8443",
+      "id": "840336f4-2c42-4f97-9f0f-97f13642bc5a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "get2s.skystreamgame.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@144.31.179.7:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get2s.skystreamgame.com&sid=4326#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "144.31.179.7",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@144.31.179.7:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get2s.skystreamgame.com&sid=4326#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+    },
+    {
+      "type": "vless",
+      "address": "get2s.skystreamgame.com",
+      "port": "8443",
+      "id": "840336f4-2c42-4f97-9f0f-97f13642bc5a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "get2s.skystreamgame.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get2s.skystreamgame.com&sid=4326#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "144.31.179.7",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get2s.skystreamgame.com&sid=4326#vless-xtls-rprx-vision-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+    },
+    {
+      "type": "vless",
       "address": "sweden.oorluma.ir",
       "port": "6300",
       "id": "b1a689fa-20c3-43b4-a107-4af64f8a7cf3",
@@ -56,31 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-5",
       "ip": "141.227.160.73",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
-      "address": "16.16.170.253",
-      "port": "27775",
-      "id": "309c4bd0-7430-b8aa-2238-1075e9e29370",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.170.253:27775?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "16.16.170.253",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.170.253:27775?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     }
   ]
 }
