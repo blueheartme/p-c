@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-01T16:54:46.436737",
+  "updated": "2026-08-03T17:46:36.692048",
   "count": 1,
   "configs": [
     {
       "type": "hysteria2",
-      "address": "ro.h2corp.org",
+      "address": "185.225.19.39",
       "port": "443",
       "name": "@filembad",
-      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1",
+      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1",
       "ip": "185.225.19.39",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1"
+      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1"
     }
   ]
 }

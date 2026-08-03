@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-03T11:16:42.283197",
-  "count": 2,
+  "updated": "2026-08-03T17:46:36.686891",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "195.20.115.195",
-      "port": "443",
-      "id": "5dc1b4ed-c897-468d-921d-266b062db2cb",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "hu.cache-4d8a.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://5dc1b4ed-c897-468d-921d-266b062db2cb@195.20.115.195:443?security=reality&encryption=none&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.cache-4d8a.com&sid=9d84de9d9f7b85e9#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
-      "ip": "195.20.115.195",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://5dc1b4ed-c897-468d-921d-266b062db2cb@195.20.115.195:443?security=reality&encryption=none&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.cache-4d8a.com&sid=9d84de9d9f7b85e9#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "152.233.41.30",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-2",
+      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1",
       "ip": "152.233.41.30",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-2"
+      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1"
     }
   ]
 }
