@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-03T17:46:36.689962",
+  "updated": "2026-08-04T01:58:33.065920",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "89.116.250.135",
-      "port": "443",
-      "password": "MiTiVPN",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "sni": "Win-Nll--l.App-Cloud.Ir",
-      "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
-      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1",
-      "ip": "89.116.250.135",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "84.32.209.7",
@@ -30,11 +16,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&encryption=none&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dartsearch-cn.net#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-2",
+      "original": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&encryption=none&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dartsearch-cn.net#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1",
       "ip": "84.32.209.7",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&encryption=none&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dartsearch-cn.net#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-2"
+      "rebuilt": "vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&encryption=none&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dartsearch-cn.net#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "trojan",
+      "address": "89.116.250.135",
+      "port": "443",
+      "password": "MiTiVPN",
+      "name": "@prrofile_purple  ♥️👈 تلگرام",
+      "sni": "Win-Nll--l.App-Cloud.Ir",
+      "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-2",
+      "ip": "89.116.250.135",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-2"
     }
   ]
 }
