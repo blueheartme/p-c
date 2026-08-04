@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-04T01:58:33.074763",
-  "count": 4,
+  "updated": "2026-08-04T10:31:48.658527",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
-      "address": "68.219.96.61",
-      "port": "443?",
+      "address": "20.234.89.202",
+      "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "6xkGCYkrm5QxVgBV",
+      "password": "4Xm1rUWXnSpTKvvF",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443?#%40filembad",
-      "ip": "68.219.96.61",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%40filembad",
+      "ip": "20.234.89.202",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443?#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%40filembad"
     },
     {
       "type": "ss",
@@ -27,32 +27,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85"
-    },
-    {
-      "type": "ss",
-      "address": "20.234.89.202",
-      "port": "443?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "4Xm1rUWXnSpTKvvF",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443?type=tcp&headerType=none#%40filembad",
-      "ip": "20.234.89.202",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443?type=tcp&headerType=none#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "20.234.89.202",
-      "port": "443?type=tcp&headerType=none",
-      "method": "chacha20-ietf-poly1305",
-      "password": "qJpsd87U4PLLrWRV",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443?type=tcp&headerType=none#%40filembad",
-      "ip": "20.234.89.202",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443?type=tcp&headerType=none#%40filembad"
     }
   ]
 }
