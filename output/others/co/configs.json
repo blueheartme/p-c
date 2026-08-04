@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-04T01:58:33.107815",
+  "updated": "2026-08-04T17:39:41.737367",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "149.130.175.28",
+      "address": "149.130.181.254",
       "port": "62145",
       "id": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
       "name": "@filembad",
       "network": "tcp",
       "sni": "",
       "host": "",
-      "security": "",
+      "security": "none",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=%2F#vless-tcp-CO%F0%9F%8C%90-1",
-      "ip": "149.130.175.28",
+      "original": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CO%F0%9F%8C%90-1",
+      "ip": "149.130.181.254",
       "country": "CO",
       "cdn": null,
-      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.28:62145?&type=tcp&headerType=none&path=%2F#vless-tcp-CO%F0%9F%8C%90-1"
+      "rebuilt": "vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CO%F0%9F%8C%90-1"
     }
   ]
 }

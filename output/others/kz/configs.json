@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-27T17:38:29.497145",
+  "updated": "2026-08-04T17:39:41.726720",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "193.124.204.145",
-      "port": "49853",
-      "id": "5ed7b151-b781-4dba-800d-e3f824f1416f",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "address": "91.217.11.214",
+      "port": "443",
+      "id": "c46e2605-be24-4555-b7db-0fc6773ad004",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "",
+      "sni": "yahoo.com",
       "host": "",
-      "security": "",
-      "flow": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%8C%90-1",
-      "ip": "193.124.204.145",
+      "fingerprint": "firefox",
+      "original": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.11.214:443?security=reality&encryption=none&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1",
+      "ip": "91.217.11.214",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#vless-tcp-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.11.214:443?security=reality&encryption=none&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1"
     }
   ]
 }
