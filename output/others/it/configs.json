@@ -1,19 +1,39 @@
 {
-  "updated": "2026-08-05T01:57:58.200623",
-  "count": 4,
+  "updated": "2026-08-05T10:29:36.225224",
+  "count": 3,
   "configs": [
     {
+      "type": "vless",
+      "address": "it1.levikogjgfdd.ir",
+      "port": "8880",
+      "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
+      "name": "🇮🇹 direct",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1",
+      "ip": "151.115.166.173",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-1"
+    },
+    {
       "type": "ss",
-      "address": "62.76.234.75",
-      "port": "10901",
+      "address": "it2.levikogjgfdd.ir",
+      "port": "10901?type=tcp",
       "method": "aes-256-gcm",
       "password": "d1fa2f4b98a38bc8",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#%40filembad",
+      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@it2.levikogjgfdd.ir:10901?type=tcp#%40filembad",
       "ip": "62.76.234.75",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#%40filembad"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@it2.levikogjgfdd.ir:10901?type=tcp#%40filembad"
     },
     {
       "type": "vless",
@@ -29,45 +49,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
+      "original": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
       "ip": "31.77.154.248",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "it1.levikogjgfdd.ir",
-      "port": "8880",
-      "id": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
-      "name": "🇮🇹 direct",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-3",
-      "ip": "151.115.166.173",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#vless-grpc-IT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "trojan",
-      "address": "151.101.243.172",
-      "port": "80",
-      "password": "MITIVPN",
-      "name": "@filembad",
-      "sni": "",
-      "host": "s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net",
-      "original": "trojan://MITIVPN@151.101.243.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#trojan-ws-IT%F0%9F%8C%90-4",
-      "ip": "151.101.243.172",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "trojan://MITIVPN@151.101.243.172:80?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=none&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#trojan-ws-IT%F0%9F%8C%90-4"
+      "rebuilt": "vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.248:443?security=reality&encryption=none&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it-one.quiet-rogue.site#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
     }
   ]
 }
