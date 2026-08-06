@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-29T10:33:25.837054",
+  "updated": "2026-08-06T02:02:05.618196",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "47.81.56.202",
-      "port": "44617",
-      "method": "chacha20-ietf-poly1305",
-      "password": "lhuULRwO4slM6k262pAC4cbq5A1H6z8eaOHV27vi7Yw=",
+      "type": "vless",
+      "address": "157.85.102.28",
+      "port": "1083",
+      "id": "b93efa30-e2c5-401c-9ec7-22e30266cc60",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#%40filembad",
-      "ip": "47.81.56.202",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%8C%90-1",
+      "ip": "157.85.102.28",
       "country": "TH",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#%40filembad"
+      "rebuilt": "vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TH%F0%9F%8C%90-1"
     }
   ]
 }

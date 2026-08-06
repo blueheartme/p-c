@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T17:24:37.272443",
-  "count": 1,
+  "updated": "2026-08-06T02:02:05.617395",
+  "count": 2,
   "configs": [
     {
       "type": "trojan",
@@ -15,6 +15,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.144.174.171",
+      "port": "40149",
+      "id": "2af30aff-de7a-44b9-b929-158081b4f3e6",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.speedtest.org",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "45.144.174.171",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
