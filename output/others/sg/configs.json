@@ -1,20 +1,26 @@
 {
-  "updated": "2026-08-02T16:53:59.396886",
+  "updated": "2026-08-07T08:51:41.700057",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "38.54.16.223",
-      "port": "42914",
-      "password": "1sQSN8Jdj_sdXnso4LasLA",
+      "type": "vless",
+      "address": "47.236.106.241",
+      "port": "40480",
+      "id": "0c97c970-41be-47dd-80d6-06c9a5c9c458",
       "name": "@filembad",
+      "network": "tcp",
       "sni": "",
       "host": "",
-      "original": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "38.54.16.223",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "47.236.106.241",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&security=none&type=ws#trojan-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
