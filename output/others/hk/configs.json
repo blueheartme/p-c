@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-06T10:33:26.940838",
+  "updated": "2026-08-07T02:23:10.612634",
   "count": 2,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
     {
       "type": "vless",
       "address": "45.144.174.171",
@@ -30,11 +16,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "45.144.174.171",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "trojan",
+      "address": "219.79.214.159",
+      "port": "443",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
+      "host": "",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "219.79.214.159",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
