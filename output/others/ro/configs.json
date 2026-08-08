@@ -1,17 +1,26 @@
 {
-  "updated": "2026-08-03T17:46:36.692048",
+  "updated": "2026-08-08T01:09:17.044172",
   "count": 1,
   "configs": [
     {
-      "type": "hysteria2",
-      "address": "185.225.19.39",
+      "type": "vless",
+      "address": "87.58.205.88",
       "port": "443",
+      "id": "d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02",
       "name": "@filembad",
-      "original": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1",
-      "ip": "185.225.19.39",
+      "network": "xhttp",
+      "sni": "google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "random",
+      "original": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%8C%90-1",
+      "ip": "87.58.205.88",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#hysteria2-udp-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#vless-xhttp-reality-random-RO%F0%9F%8C%90-1"
     }
   ]
 }
