@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-07T08:51:41.700057",
+  "updated": "2026-08-08T16:26:11.233049",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "47.236.106.241",
-      "port": "40480",
-      "id": "0c97c970-41be-47dd-80d6-06c9a5c9c458",
+      "address": "206.189.146.23",
+      "port": "17658",
+      "id": "7362c389-7f4b-4c41-9594-fdb847570243",
       "name": "@filembad",
-      "network": "tcp",
+      "network": "ws",
       "sni": "",
-      "host": "",
+      "host": "zoom.us",
       "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "47.236.106.241",
+      "original": "vless://7362c389-7f4b-4c41-9594-fdb847570243@206.189.146.23:17658?path=%2FFree+By+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "206.189.146.23",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://7362c389-7f4b-4c41-9594-fdb847570243@206.189.146.23:17658?path=%2FFree+By+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#vless-ws-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
