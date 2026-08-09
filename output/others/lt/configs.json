@@ -1,47 +1,7 @@
 {
-  "updated": "2026-08-08T16:26:11.221878",
-  "count": 4,
+  "updated": "2026-08-09T01:14:04.662146",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "144.31.243.37",
-      "port": "443",
-      "id": "f692629b-3557-488a-9c9b-60775331e423",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "fi1-cosmostechnology.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.37:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#vless-grpc-reality-LT%F0%9F%8C%90-1",
-      "ip": "144.31.243.37",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.37:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#vless-grpc-reality-LT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "144.31.243.105",
-      "port": "443",
-      "id": "f692629b-3557-488a-9c9b-60775331e423",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "fi1-cosmostechnology.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%8C%90-2",
-      "ip": "144.31.243.105",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.105:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#vless-grpc-reality-LT%F0%9F%8C%90-2"
-    },
     {
       "type": "trojan",
       "address": "89.116.250.135",
@@ -50,31 +10,11 @@
       "name": "@prrofile_purple  ♥️👈 تلگرام",
       "sni": "Win-Nll--l.App-Cloud.Ir",
       "host": "Wihn-Nlkl--ol.App-Cloud.Ir",
-      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-3",
+      "original": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1",
       "ip": "89.116.250.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "144.31.243.240",
-      "port": "443",
-      "id": "f692629b-3557-488a-9c9b-60775331e423",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "fi1-cosmostechnology.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.240:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#vless-grpc-reality-LT%F0%9F%8C%90-4",
-      "ip": "144.31.243.240",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.240:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#vless-grpc-reality-LT%F0%9F%8C%90-4"
+      "rebuilt": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#trojan-ws-tls-LT%F0%9F%8C%90-1"
     }
   ]
 }
