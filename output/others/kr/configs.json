@@ -1,26 +1,21 @@
 {
-  "updated": "2026-07-19T16:51:59.653103",
+  "updated": "2026-08-10T09:13:00.169792",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "47.80.60.254",
-      "port": "443",
-      "id": "eeb6823c-b926-4ea2-866a-5542edd26e59",
-      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "type": "vmess",
+      "address": "115.89.98.231",
+      "port": "10509",
+      "id": "4f1c1ca1-a422-4014-9423-04e39ed73b03",
+      "name": "@filembad",
       "network": "ws",
-      "sni": "t1s1.rittbo.kdns.fr",
-      "host": "t1s1.rittbo.kdns.fr",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "47.80.60.254",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTE1Ljg5Ljk4LjIzMSIsInBvcnQiOiIxMDUwOSIsInR5cGUiOiJub25lIiwiaWQiOiI0ZjFjMWNhMS1hNDIyLTQwMTQtOTQyMy0wNGUzOWVkNzNiMDMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kiLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "ip": "115.89.98.231",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#vless-ws-tls-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtS1Lwn4ew8J+Hty0xIiwiYWRkIjoiMTE1Ljg5Ljk4LjIzMSIsInBvcnQiOiIxMDUwOSIsInR5cGUiOiJub25lIiwiaWQiOiI0ZjFjMWNhMS1hNDIyLTQwMTQtOTQyMy0wNGUzOWVkNzNiMDMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kiLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
     }
   ]
 }

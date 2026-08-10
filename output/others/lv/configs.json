@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-10T01:16:10.327621",
-  "count": 2,
+  "updated": "2026-08-10T09:13:00.165063",
+  "count": 5,
   "configs": [
+    {
+      "type": "vless",
+      "address": "72.56.53.66",
+      "port": "443",
+      "id": "f61025f4-7973-4e3e-883c-a0fe85f0489c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "lv.rexten.cc",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.53.66:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1",
+      "ip": "72.56.53.66",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.53.66:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "72.56.52.30",
+      "port": "443",
+      "id": "f61025f4-7973-4e3e-883c-a0fe85f0489c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "lv.rexten.cc",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2",
+      "ip": "72.56.52.30",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,11 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
+      "address": "193.124.254.60",
+      "port": "443",
+      "id": "f61025f4-7973-4e3e-883c-a0fe85f0489c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "lv.rexten.cc",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-4",
+      "ip": "193.124.254.60",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@193.124.254.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.rexten.cc&type=tcp#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-4"
     },
     {
       "type": "vless",
@@ -36,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lat.crsmaps.com:2053?security=reality&encryption=none&pbk=R_OswGSrQj4jSA8QhDZDv072JOtb7CFtFcERvTV8A1s&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=68e919d92ec047#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-2",
+      "original": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lat.crsmaps.com:2053?security=reality&encryption=none&pbk=R_OswGSrQj4jSA8QhDZDv072JOtb7CFtFcERvTV8A1s&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=68e919d92ec047#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-5",
       "ip": "169.40.1.175",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lat.crsmaps.com:2053?security=reality&encryption=none&pbk=R_OswGSrQj4jSA8QhDZDv072JOtb7CFtFcERvTV8A1s&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=68e919d92ec047#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lat.crsmaps.com:2053?security=reality&encryption=none&pbk=R_OswGSrQj4jSA8QhDZDv072JOtb7CFtFcERvTV8A1s&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=68e919d92ec047#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-5"
     }
   ]
 }
