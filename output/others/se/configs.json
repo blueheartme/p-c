@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:47:56.705144",
+  "updated": "2026-08-11T01:14:13.262119",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "teain.org",
-      "port": "1000",
-      "id": "6f436a44-f703-93da-7e45-615824a39d3b",
-      "name": "@proxy_kafee",
-      "network": "tcp",
-      "sni": "knox.cdn-apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "217.210.180.128",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
-    {
-      "type": "vless",
       "address": "sweden.oorluma.ir",
       "port": "6300",
       "id": "b1a689fa-20c3-43b4-a107-4af64f8a7cf3",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-2",
       "ip": "141.227.160.73",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "teain.org",
+      "port": "1000",
+      "id": "6f436a44-f703-93da-7e45-615824a39d3b",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "sni": "knox.cdn-apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "81.225.192.253",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&security=reality&sni=knox.cdn-apple.com&fp=ios&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#vless-tcp-reality-ios-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
