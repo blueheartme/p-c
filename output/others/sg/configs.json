@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-11T01:14:13.263636",
+  "updated": "2026-08-12T01:22:22.468644",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "194.87.10.173",
-      "port": "8388",
-      "method": "aes-256-gcm",
-      "password": "ypvm9rgB8bgXA5Of",
+      "type": "vless",
+      "address": "178.128.112.70",
+      "port": "443",
+      "id": "9206ae06-88ee-49b1-a558-531ade80fcaa",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206eXB2bTlyZ0I4YmdYQTVPZg@194.87.10.173:8388#%40filembad",
-      "ip": "194.87.10.173",
+      "network": "tcp",
+      "sni": "www.amazon.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "178.128.112.70",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206eXB2bTlyZ0I4YmdYQTVPZg@194.87.10.173:8388#%40filembad"
+      "rebuilt": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
