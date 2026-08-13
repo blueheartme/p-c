@@ -1,20 +1,26 @@
 {
-  "updated": "2026-07-10T02:28:08.104286",
+  "updated": "2026-08-13T01:24:08.771922",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
+      "type": "vless",
       "address": "202.37.33.80",
       "port": "443",
-      "password": "humanity",
-      "name": "@filembad",
-      "sni": "www.creationlong.org",
-      "host": "",
-      "original": "trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#trojan-ws-tls-NZ%F0%9F%8C%90-1",
+      "id": "5aafc2be-9348-4dec-b896-f4a91253bbca",
+      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "support.zoom.us.yxls.eu.cc",
+      "host": "support.zoom.us.yxls.eu.cc",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=%2Fid-tksi%3Fed%3D2048_%2F%40sil3nt_network&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&type=ws&sni=support.zoom.us.yxls.eu.cc#vless-ws-tls-NZ%F0%9F%8C%90-1",
       "ip": "202.37.33.80",
       "country": "NZ",
       "cdn": null,
-      "rebuilt": "trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#trojan-ws-tls-NZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=%2Fid-tksi%3Fed%3D2048_%2F%40sil3nt_network&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&type=ws&sni=support.zoom.us.yxls.eu.cc#vless-ws-tls-NZ%F0%9F%8C%90-1"
     }
   ]
 }
