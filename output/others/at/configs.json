@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-14T01:23:19.174328",
-  "count": 1,
+  "updated": "2026-08-14T16:49:26.325005",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "185.126.236.181",
-      "port": "8880",
-      "id": "8f127368-8f47-4989-ec81-60c32953856f",
+      "port": "2052",
+      "id": "daa34529-5219-4323-d26a-2c395b25a56d",
       "name": "@filembad",
       "network": "ws",
       "sni": "",
       "host": "www.icloud.com",
-      "security": "none",
+      "security": "",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://8f127368-8f47-4989-ec81-60c32953856f@185.126.236.181:8880?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&type=ws&path=%2F&host=www.icloud.com#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1",
       "ip": "185.126.236.181",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://8f127368-8f47-4989-ec81-60c32953856f@185.126.236.181:8880?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&type=ws&path=%2F&host=www.icloud.com#vless-ws-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.126.236.181",
+      "port": "443",
+      "id": "a8e99622-7407-4597-870e-5b40276abb30",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://a8e99622-7407-4597-870e-5b40276abb30@185.126.236.181:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=XBHms04stZYJyhnT4nkyrgqZLXLiMw8qogCTBmGqiXI&spx=%2F#vless-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2",
+      "ip": "185.126.236.181",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "vless://a8e99622-7407-4597-870e-5b40276abb30@185.126.236.181:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=XBHms04stZYJyhnT4nkyrgqZLXLiMw8qogCTBmGqiXI&spx=%2F#vless-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
