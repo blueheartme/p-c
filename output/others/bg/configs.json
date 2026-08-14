@@ -1,26 +1,20 @@
 {
-  "updated": "2026-08-12T09:06:48.087535",
+  "updated": "2026-08-14T01:23:19.171872",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "91.92.136.28",
+      "type": "trojan",
+      "address": "185.246.131.155",
       "port": "443",
-      "id": "52bc7468-0c2f-4e9d-bdfa-e266242ab44b",
+      "password": "dc0ebcb2-c103-466a-bd30-be492c477379",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "ripe.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "randomized",
-      "original": "vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@91.92.136.28:443?security=reality&encryption=none&pbk=VuM9HrCRtt7gaOXYkrPggV3GT_HKj18_5y6PcQKjWgQ&headerType=none&fp=randomized&type=tcp&sni=ripe.net&sid=0a076a71#vless-tcp-reality-randomized-BG%F0%9F%8C%90-1",
-      "ip": "91.92.136.28",
+      "sni": "",
+      "host": "play-fe.googleapis.com",
+      "original": "trojan://dc0ebcb2-c103-466a-bd30-be492c477379@185.246.131.155:443?path=/play.google.com-play.google.com-play.google.com?ed=8378&security=none&host=play-fe.googleapis.com&type=ws#trojan-tcp-tls-BG%F0%9F%8C%90-1",
+      "ip": "185.246.131.155",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@91.92.136.28:443?security=reality&encryption=none&pbk=VuM9HrCRtt7gaOXYkrPggV3GT_HKj18_5y6PcQKjWgQ&headerType=none&fp=randomized&type=tcp&sni=ripe.net&sid=0a076a71#vless-tcp-reality-randomized-BG%F0%9F%8C%90-1"
+      "rebuilt": "trojan://dc0ebcb2-c103-466a-bd30-be492c477379@185.246.131.155:443?path=/play.google.com-play.google.com-play.google.com?ed=8378&security=none&host=play-fe.googleapis.com&type=ws#trojan-tcp-tls-BG%F0%9F%8C%90-1"
     }
   ]
 }
