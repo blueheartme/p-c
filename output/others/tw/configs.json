@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-14T01:23:19.173420",
-  "count": 2,
+  "updated": "2026-08-14T09:04:15.804534",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "36.224.177.236",
-      "port": "50099",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b1ae0fce-9340-4f2e-882d-fdb2218e2e2b",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#%40filembad",
-      "ip": "36.224.177.236",
-      "country": "TW",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#%40filembad"
-    },
     {
       "type": "vless",
       "address": "220.130.75.247",
@@ -29,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2",
+      "original": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1",
       "ip": "220.130.75.247",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-2"
+      "rebuilt": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }
