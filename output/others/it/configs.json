@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T16:49:26.303044",
-  "count": 3,
+  "updated": "2026-08-15T00:54:02.965999",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "2.26.130.117",
-      "port": "443",
-      "id": "a5eddeef-737a-4126-8d1e-527f85d7ed18",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "nora.mycdn-me.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://a5eddeef-737a-4126-8d1e-527f85d7ed18@2.26.130.117:443?security=reality&encryption=none&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nora.mycdn-me.ru&sid=2f6a8c3e90b2d574#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%8C%90-2",
-      "ip": "2.26.130.117",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://a5eddeef-737a-4126-8d1e-527f85d7ed18@2.26.130.117:443?security=reality&encryption=none&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nora.mycdn-me.ru&sid=2f6a8c3e90b2d574#vless-xtls-rprx-vision-tcp-reality-qq-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "xit.saturn-cloud.net",
       "port": "443",
       "id": "95ae0de8-d944-4b1e-b450-d34d80f9a528",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
+      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
       "ip": "45.155.68.66",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
     }
   ]
 }

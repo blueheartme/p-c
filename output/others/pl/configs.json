@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T16:49:26.328053",
-  "count": 5,
+  "updated": "2026-08-15T00:54:02.976529",
+  "count": 6,
   "configs": [
     {
       "type": "vless",
@@ -101,6 +101,19 @@
       "country": "PL",
       "cdn": null,
       "rebuilt": "vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?security=reality&encryption=none&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&sid=143627f1#vless-xtls-rprx-vision-tcp-reality-PL%F0%9F%87%B5%F0%9F%87%B1-5"
+    },
+    {
+      "type": "ss",
+      "address": "54.36.174.140",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "ytw2awn",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%40filembad",
+      "ip": "54.36.174.140",
+      "country": "PL",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%40filembad"
     }
   ]
 }
