@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-17T08:36:10.008733",
+  "updated": "2026-08-17T16:20:34.007061",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "57.131.32.191",
+      "port": "80",
+      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
+      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1",
+      "ip": "57.131.32.191",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "xit.saturn-cloud.net",
@@ -16,31 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1",
+      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
       "ip": "45.155.68.66",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "31.77.154.46",
-      "port": "443",
-      "id": "62a08ea5-0564-47b4-a92c-25be07ad6358",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "360.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#vless-grpc-reality-firefox-IT%F0%9F%8C%90-2",
-      "ip": "31.77.154.46",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#vless-grpc-reality-firefox-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
     }
   ]
 }
