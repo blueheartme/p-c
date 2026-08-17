@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-17T00:55:10.402323",
-  "count": 2,
+  "updated": "2026-08-17T08:36:10.007630",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "185.231.102.219",
-      "port": "443",
-      "id": "670decfe-68cc-499e-8cb1-22b39c20acbb",
+      "address": "185.113.11.136",
+      "port": "1443",
+      "id": "4984930f-4a7a-4dfa-8edc-5d21bbf5ca13",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "swed1.helper-internet.com",
+      "network": "grpc",
+      "sni": "sw.pubconverter.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "185.231.102.219",
+      "original": "vless://4984930f-4a7a-4dfa-8edc-5d21bbf5ca13@185.113.11.136:1443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=firefox&type=grpc&serviceName=grpc&sni=sw.pubconverter.com&sid=361c68748712c743#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "185.113.11.136",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@185.231.102.219:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://4984930f-4a7a-4dfa-8edc-5d21bbf5ca13@185.113.11.136:1443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=firefox&type=grpc&serviceName=grpc&sni=sw.pubconverter.com&sid=361c68748712c743#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#vless-tcp-reality-qq-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "193.233.255.32",
+      "port": "443",
+      "id": "5c22dd50-f75d-4cf5-ba53-721f91d8bfe1",
+      "name": "@filembad",
+      "network": "raw",
+      "sni": "fr.sellflow.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?security=reality&type=raw&sni=fr.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#vless-xtls-rprx-vision-raw-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "193.233.255.32",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?security=reality&type=raw&sni=fr.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#vless-xtls-rprx-vision-raw-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
