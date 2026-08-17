@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-09T01:14:04.679134",
+  "updated": "2026-08-17T00:55:10.407495",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "152.233.41.30",
-      "port": "16923",
-      "id": "c065e1bb-cb56-41e5-b043-9dfd15b67565",
-      "name": "@prrofile_purple  ♥️👈 تلگرام",
-      "network": "grpc",
-      "sni": "api-maps.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1",
-      "ip": "152.233.41.30",
+      "type": "ss",
+      "address": "217.70.14.216",
+      "port": "8443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "48UQWJVetDr7ETiOXF+aEQ==",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#%40filembad",
+      "ip": "217.70.14.216",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#vless-grpc-reality-HU%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#%40filembad"
     }
   ]
 }
