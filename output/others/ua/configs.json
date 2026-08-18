@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-29T17:09:06.893592",
+  "updated": "2026-08-18T08:28:51.856945",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "194.54.80.37",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "XF0klw7870vXn3uQIxe19Q",
+      "type": "vless",
+      "address": "2.59.223.72",
+      "port": "667",
+      "id": "76fd8cd7-cff8-42fa-9b65-d10532536ae7",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%40filembad",
-      "ip": "194.54.80.37",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-UA%F0%9F%87%BA%F0%9F%87%A6-1",
+      "ip": "2.59.223.72",
       "country": "UA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%40filembad"
+      "rebuilt": "vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-UA%F0%9F%87%BA%F0%9F%87%A6-1"
     }
   ]
 }
