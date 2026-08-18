@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-17T16:20:33.987531",
+  "updated": "2026-08-18T00:53:54.455978",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "27.50.48.69",
+      "port": "2083",
+      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
+      "name": "@proxy_kafee",
+      "network": "ws",
+      "sni": "kjgdksgghre466.pages.dev",
+      "host": "kjgdksgghre466.pages.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?encryption=none&security=tls&sni=kjgdksgghre466.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kjgdksgghre466.pages.dev&path=%2F#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "27.50.48.69",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?encryption=none&security=tls&sni=kjgdksgghre466.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kjgdksgghre466.pages.dev&path=%2F#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
     {
       "type": "trojan",
       "address": "18.162.120.218",
@@ -10,11 +30,11 @@
       "name": "@proxy_kafee",
       "sni": "www.nintendogames.net",
       "host": "",
-      "original": "trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "original": "trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "18.162.120.218",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "trojan",
@@ -24,31 +44,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vless",
-      "address": "27.50.48.69",
-      "port": "2083",
-      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
-      "name": "Free 337 @Outline_Vpn",
-      "network": "ws",
-      "sni": "kjgdksgghre466.pages.dev",
-      "host": "kjgdksgghre466.pages.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "27.50.48.69",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
