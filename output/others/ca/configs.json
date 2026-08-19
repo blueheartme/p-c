@@ -1,39 +1,19 @@
 {
-  "updated": "2026-08-19T00:54:05.966686",
-  "count": 2,
+  "updated": "2026-08-19T16:24:20.260566",
+  "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "185.206.170.114",
-      "port": "20184",
-      "id": "d4d4d103-5074-47e9-96e6-5431f4e35c57",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "jgirpgor3g54.vpvr4ib84nuv6hdkt.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@185.206.170.114:20184?security=reality&encryption=none&pbk=HVT2ZMgVLqnL1eccq5a7CRcYsOJ_FKUUv-88tix4Om0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jgirpgor3g54.vpvr4ib84nuv6hdkt.ru&sid=e695831a6e5f2ba4#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "185.206.170.114",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@185.206.170.114:20184?security=reality&encryption=none&pbk=HVT2ZMgVLqnL1eccq5a7CRcYsOJ_FKUUv-88tix4Om0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jgirpgor3g54.vpvr4ib84nuv6hdkt.ru&sid=e695831a6e5f2ba4#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
-    {
       "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388?",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40proxy_kafee",
-      "ip": "15.235.75.71",
+      "address": "155.138.136.240",
+      "port": "80",
+      "method": "aes-256-gcm",
+      "password": "sZSZi7tGs9wodT7k",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#%40filembad",
+      "ip": "155.138.136.240",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40proxy_kafee"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#%40filembad"
     }
   ]
 }
