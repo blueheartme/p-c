@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-18T16:23:59.260170",
+  "updated": "2026-08-19T08:29:38.670433",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.246.131.163",
-      "port": "443",
-      "id": "e75ad2eb-6c1f-45ce-8023-f5f10875df66",
+      "address": "89.117.112.4",
+      "port": "80",
+      "id": "424fa201-3f94-479e-b533-d5257cf9a207",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "bg5.eu-cdn539.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443?security=reality&encryption=none&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&sid=ecafd5d73dd26f72#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%8C%90-1",
-      "ip": "185.246.131.163",
+      "network": "ws",
+      "sni": "",
+      "host": "floral-thunder-10d3.82-67d.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "qq",
+      "original": "vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?fp=qq&host=floral-thunder-10d3.82-67d.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1&security=none&type=ws#vless-ws-qq-BG%F0%9F%8C%90-1",
+      "ip": "89.117.112.4",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.246.131.163:443?security=reality&encryption=none&pbk=Zy0CcZpChDo3kB_CTyhe3Q6yv6MVDzxg--kl_xh0nzA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg5.eu-cdn539.com&sid=ecafd5d73dd26f72#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%8C%90-1"
+      "rebuilt": "vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?fp=qq&host=floral-thunder-10d3.82-67d.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1&security=none&type=ws#vless-ws-qq-BG%F0%9F%8C%90-1"
     }
   ]
 }
