@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-20T00:53:55.110736",
+  "updated": "2026-08-20T16:27:34.476024",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "65.20.91.19",
+      "address": "128.128.90.72",
       "port": "443",
-      "id": "418dd153-4582-40cf-b88a-6898dfa8845b",
+      "id": "ec31f6d7-c71a-413d-93aa-24296805a594",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.cloudflare.com",
+      "sni": "www.bing.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://418dd153-4582-40cf-b88a-6898dfa8845b@65.20.91.19:443?security=reality&encryption=none&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ce702769abcbc729#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "65.20.91.19",
+      "original": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "128.128.90.72",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://418dd153-4582-40cf-b88a-6898dfa8845b@65.20.91.19:443?security=reality&encryption=none&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ce702769abcbc729#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
