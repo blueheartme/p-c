@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-13T16:50:52.741540",
+  "updated": "2026-08-20T00:53:55.110736",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "168.144.187.159",
-      "port": "9090",
-      "id": "a459daa5-97c5-47e7-ad0d-a7b212d4fae7",
+      "address": "65.20.91.19",
+      "port": "443",
+      "id": "418dd153-4582-40cf-b88a-6898dfa8845b",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "search.google.com",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://a459daa5-97c5-47e7-ad0d-a7b212d4fae7@168.144.187.159:9090?security=reality&encryption=none&pbk=fYFdU2bf6hh04Rt7ZlrTmzPTeVux4hVj5XzTB38oxm0&headerType=none&fp=qq&spx=%2Fc8409e18057b8a2&type=tcp&sni=search.google.com&sid=64470926#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "168.144.187.159",
+      "fingerprint": "chrome",
+      "original": "vless://418dd153-4582-40cf-b88a-6898dfa8845b@65.20.91.19:443?security=reality&encryption=none&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ce702769abcbc729#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "65.20.91.19",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://a459daa5-97c5-47e7-ad0d-a7b212d4fae7@168.144.187.159:9090?security=reality&encryption=none&pbk=fYFdU2bf6hh04Rt7ZlrTmzPTeVux4hVj5XzTB38oxm0&headerType=none&fp=qq&spx=%2Fc8409e18057b8a2&type=tcp&sni=search.google.com&sid=64470926#vless-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://418dd153-4582-40cf-b88a-6898dfa8845b@65.20.91.19:443?security=reality&encryption=none&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ce702769abcbc729#vless-xtls-rprx-vision-tcp-reality-chrome-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
