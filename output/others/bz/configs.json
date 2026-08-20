@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-30T17:21:04.098140",
+  "updated": "2026-08-20T08:30:49.508212",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "forallpanel.srtongston.ir",
+      "address": "45.131.4.30",
       "port": "8880",
-      "id": "d0fe66f5-41ff-0236-39a9-83384791639d",
-      "name": "@proxy_kafee",
-      "network": "httpupgrade",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
       "sni": "",
-      "host": "wWwwg6.Ayar24gold.coM.",
-      "security": "none",
+      "host": "vms.lifetime59.workers.dev",
+      "security": "",
       "flow": "",
-      "encryption": "none",
+      "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://d0fe66f5-41ff-0236-39a9-83384791639d@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wWwwg6.Ayar24gold.coM.&path=%2F%3Fed%3D2082#vless-httpupgrade-BZ%F0%9F%8C%90-1",
-      "ip": "45.131.4.118",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#vless-ws-BZ%F0%9F%8C%90-1",
+      "ip": "45.131.4.30",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://d0fe66f5-41ff-0236-39a9-83384791639d@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wWwwg6.Ayar24gold.coM.&path=%2F%3Fed%3D2082#vless-httpupgrade-BZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#vless-ws-BZ%F0%9F%8C%90-1"
     }
   ]
 }
