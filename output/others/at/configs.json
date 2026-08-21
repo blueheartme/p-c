@@ -1,20 +1,26 @@
 {
-  "updated": "2026-08-19T00:54:05.966246",
+  "updated": "2026-08-21T00:57:44.665803",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "185.126.236.186",
-      "port": "443",
-      "password": "sbp4kLxhRM",
+      "type": "vless",
+      "address": "203.34.137.111",
+      "port": "6443",
+      "id": "6bfc15b8-15b0-4ded-8f37-e3a41df4fadc",
       "name": "@filembad",
-      "sni": "amp-api-edge.apps.apple.com",
+      "network": "xhttp",
+      "sni": "gateway.icloud.com",
       "host": "",
-      "original": "trojan://sbp4kLxhRM@185.126.236.186:443?security=reality&pbk=7ssv-EPWLhGKofQVdLqm1x87BRmPYfgRlMFwQCb8D2c&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com#trojan-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "185.126.236.186",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://6bfc15b8-15b0-4ded-8f37-e3a41df4fadc@203.34.137.111:6443?mode=stream-one&path=%2F&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%222%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&pbk=zyuc066aTySKOM3AbblFDILYn7TISyZZ8jVW0Hkf2jQ&fp=firefox&type=xhttp&sni=gateway.icloud.com&sid=0123abcd#vless-xhttp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "203.34.137.111",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "trojan://sbp4kLxhRM@185.126.236.186:443?security=reality&pbk=7ssv-EPWLhGKofQVdLqm1x87BRmPYfgRlMFwQCb8D2c&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com#trojan-tcp-reality-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://6bfc15b8-15b0-4ded-8f37-e3a41df4fadc@203.34.137.111:6443?mode=stream-one&path=%2F&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%222%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&pbk=zyuc066aTySKOM3AbblFDILYn7TISyZZ8jVW0Hkf2jQ&fp=firefox&type=xhttp&sni=gateway.icloud.com&sid=0123abcd#vless-xhttp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }

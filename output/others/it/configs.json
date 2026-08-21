@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-20T16:27:34.464497",
-  "count": 2,
+  "updated": "2026-08-21T00:57:44.664858",
+  "count": 4,
   "configs": [
     {
-      "type": "vless",
-      "address": "57.131.32.191",
-      "port": "80",
-      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1",
-      "ip": "57.131.32.191",
+      "type": "ss",
+      "address": "195.231.87.172",
+      "port": "103",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Oeow8YeqaFY0skV29GF0GVTb2vGrB5Ao",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBbw@195.231.87.172:103#%40filembad",
+      "ip": "195.231.87.172",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBbw@195.231.87.172:103#%40filembad"
     },
     {
       "type": "vless",
@@ -41,6 +34,39 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "ss",
+      "address": "194.87.47.162",
+      "port": "10901",
+      "method": "aes-256-gcm",
+      "password": "d1fa2f4b98a38bc8",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#%40filembad",
+      "ip": "194.87.47.162",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#%40filembad"
+    },
+    {
+      "type": "vless",
+      "address": "57.131.32.191",
+      "port": "80",
+      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
+      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-4",
+      "ip": "57.131.32.191",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-4"
     }
   ]
 }
