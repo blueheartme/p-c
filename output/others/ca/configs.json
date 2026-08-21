@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-21T08:33:05.396163",
+  "updated": "2026-08-21T16:25:26.914007",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad",
-      "ip": "15.235.75.71",
+      "type": "vless",
+      "address": "184.107.106.68",
+      "port": "443",
+      "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "lizca2.footballfantasyforum.com",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     }
   ]
 }

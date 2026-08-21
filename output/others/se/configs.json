@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-21T08:33:05.386764",
-  "count": 2,
+  "updated": "2026-08-21T16:25:26.909225",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "v6.ir.battlenetcp.com",
-      "port": "80",
-      "id": "ad753970-b772-473f-a10e-8c4664779472",
-      "name": "@proxy_kafee",
-      "network": "tcp",
-      "sni": "",
-      "host": "cdn-apple.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "104.105.108.217",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://ad753970-b772-473f-a10e-8c4664779472@v6.ir.battlenetcp.com:80?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#vless-tcp-http-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
     {
       "type": "vless",
       "address": "swed1.helper-internet.com",
@@ -36,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "185.231.102.220",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
