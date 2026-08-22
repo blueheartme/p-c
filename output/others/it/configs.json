@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-21T16:25:26.912171",
-  "count": 2,
+  "updated": "2026-08-22T00:54:10.794009",
+  "count": 1,
   "configs": [
-    {
-      "type": "ss",
-      "address": "194.87.47.162",
-      "port": "10901?type=tcp",
-      "method": "aes-256-gcm",
-      "password": "d1fa2f4b98a38bc8",
-      "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901?type=tcp#%40filembad",
-      "ip": "194.87.47.162",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901?type=tcp#%40filembad"
-    },
     {
       "type": "vless",
       "address": "xit.saturn-cloud.net",
@@ -29,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
+      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1",
       "ip": "45.155.68.66",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
     }
   ]
 }

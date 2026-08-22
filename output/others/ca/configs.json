@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-21T16:25:26.914007",
-  "count": 1,
+  "updated": "2026-08-22T00:54:10.794431",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "vip-ca-1.hkd4fwmg.xyz",
+      "port": "10586",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b1fNrhxfvAkUOEq7LyCrqK3Dg1R/SBeL",
+      "name": "Free x13 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn",
+      "ip": "184.107.141.34",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
+    },
     {
       "type": "vless",
       "address": "184.107.106.68",
@@ -16,11 +29,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "@i10VPN⚡",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
     }
   ]
 }
