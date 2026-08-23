@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T08:22:35.697611",
-  "count": 2,
+  "updated": "2026-08-23T16:17:58.330431",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
-    {
-      "type": "vless",
-      "address": "163.128.99.236",
-      "port": "443",
-      "id": "b6a0fd63-7191-469f-8e12-2f546050c831",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://b6a0fd63-7191-469f-8e12-2f546050c831@163.128.99.236:443?security=reality&encryption=none&pbk=h-O-6FBkY6v51tg1wmKOi46M44orXVysBMf35pFBTEw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=70d9471ddb045c3e#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "163.128.99.236",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://b6a0fd63-7191-469f-8e12-2f546050c831@163.128.99.236:443?security=reality&encryption=none&pbk=h-O-6FBkY6v51tg1wmKOi46M44orXVysBMf35pFBTEw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=70d9471ddb045c3e#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

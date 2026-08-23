@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T08:22:35.709199",
-  "count": 1,
+  "updated": "2026-08-23T16:17:58.327387",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "95.85.241.208",
+      "port": "443",
+      "id": "8d44a812-229a-4c54-a461-8109b29621a7",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "dl.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://8d44a812-229a-4c54-a461-8109b29621a7@95.85.241.208:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "95.85.241.208",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://8d44a812-229a-4c54-a461-8109b29621a7@95.85.241.208:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#vless-grpc-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

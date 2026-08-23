@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T08:22:35.705601",
+  "updated": "2026-08-23T16:17:58.292442",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "45.195.111.108",
       "port": "443",
       "id": "66824c94-7ba9-4113-908e-bd793f296852",
-      "name": "@proxy_kafee",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "",
@@ -15,12 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1",
+      "fingerprint": "",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%8C%90-1",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1"
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-HU%F0%9F%8C%90-1"
     },
     {
       "type": "vless",

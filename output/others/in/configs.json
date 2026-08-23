@@ -1,26 +1,46 @@
 {
-  "updated": "2026-08-23T00:58:20.796731",
-  "count": 1,
+  "updated": "2026-08-23T16:17:58.328402",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "india.letsconnectpoint.com",
-      "port": "443",
-      "id": "a368752a-32fc-42f3-980a-6b049218b23f",
-      "name": "@filembad",
+      "address": "5.253.42.164",
+      "port": "40443",
+      "id": "e99ba96d-dec8-42eb-be53-19e71eef7cab",
+      "name": "@",
       "network": "tcp",
-      "sni": "india.letsconnectpoint.com",
+      "sni": "deepl.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?security=reality&encryption=none&pbk=erUEmyU1QK8y2corQh9bOjk0oHl2Mo6Z9WgoyKg_rC0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india.letsconnectpoint.com&sid=c1e3d5d4#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "5.253.42.159",
+      "fingerprint": "firefox",
+      "original": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "5.253.42.164",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?security=reality&encryption=none&pbk=erUEmyU1QK8y2corQh9bOjk0oHl2Mo6Z9WgoyKg_rC0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india.letsconnectpoint.com&sid=c1e3d5d4#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&allowinsecure=0&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+    },
+    {
+      "type": "vless",
+      "address": "128.128.90.72",
+      "port": "443",
+      "id": "ec31f6d7-c71a-413d-93aa-24296805a594",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2",
+      "ip": "128.128.90.72",
+      "country": "IN",
+      "cdn": null,
+      "rebuilt": "vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#vless-xtls-rprx-vision-tcp-reality-firefox-IN%F0%9F%87%AE%F0%9F%87%B3-2"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-23T08:22:35.711487",
-  "count": 1,
+  "updated": "2026-08-23T16:17:58.317383",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "144.31.243.2",
+      "port": "16015",
+      "method": "chacha20-ietf-poly1305",
+      "password": "J1InuU6QRT5JOh1mQfkjU2",
+      "name": "@",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#@",
+      "ip": "144.31.243.2",
+      "country": "LT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#@"
+    },
     {
       "type": "ss",
       "address": "144.31.243.2",
