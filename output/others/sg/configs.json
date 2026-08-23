@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-23T00:58:20.802567",
+  "updated": "2026-08-23T08:22:35.697611",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "sg10.levikogjgfdd.ir",
-      "port": "443",
-      "id": "8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "Telegram-Leviko_v2ray",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fe1a104caf309f5a#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "162.128.44.164",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fe1a104caf309f5a#vless-xtls-rprx-vision-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "162.128.87.50",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "162.128.87.50",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&sid=08f1620e7ad50ca8&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "163.128.99.236",
+      "port": "443",
+      "id": "b6a0fd63-7191-469f-8e12-2f546050c831",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://b6a0fd63-7191-469f-8e12-2f546050c831@163.128.99.236:443?security=reality&encryption=none&pbk=h-O-6FBkY6v51tg1wmKOi46M44orXVysBMf35pFBTEw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=70d9471ddb045c3e#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "163.128.99.236",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://b6a0fd63-7191-469f-8e12-2f546050c831@163.128.99.236:443?security=reality&encryption=none&pbk=h-O-6FBkY6v51tg1wmKOi46M44orXVysBMf35pFBTEw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=70d9471ddb045c3e#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }
