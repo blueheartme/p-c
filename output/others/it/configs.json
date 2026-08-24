@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-24T08:40:44.201870",
+  "updated": "2026-08-24T16:29:38.857735",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "xit.saturn-cloud.net",
+      "address": "it2ws.wba-pn.ru",
       "port": "443",
-      "id": "95ae0de8-d944-4b1e-b450-d34d80f9a528",
-      "name": "Free 293 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "xit.saturn-cloud.net",
+      "id": "2b622609-bb92-49e8-9631-4ada00324f47",
+      "name": "Free x39 @Outline_Vpn",
+      "network": "ws",
+      "sni": "it2ws.wba-pn.ru",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1",
-      "ip": "45.155.68.66",
+      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-1",
+      "ip": "45.155.68.9",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",

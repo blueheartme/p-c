@@ -1,47 +1,7 @@
 {
-  "updated": "2026-08-24T08:40:44.198090",
-  "count": 4,
+  "updated": "2026-08-24T16:29:38.862623",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "idontknow.whit3.net",
-      "port": "4443",
-      "id": "a6cf4b28-ba72-4e8c-90f8-6a884107ab3c",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "idontknow.whit3.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:4443?fp=firefox&mode=auto&path=%2F&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=xhttp#vless-xhttp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "177.3.215.41",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:4443?fp=firefox&mode=auto&path=%2F&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=xhttp#vless-xhttp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
-    },
-    {
-      "type": "vless",
-      "address": "185.186.78.111",
-      "port": "443",
-      "id": "fbb74aa8-b89a-4f20-9504-6b25aadf6681",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "swed2.freeinternat.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.186.78.111:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swed2.freeinternat.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "185.186.78.111",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.186.78.111:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swed2.freeinternat.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
-    },
     {
       "type": "vless",
       "address": "swed1.helper-internet.com",
@@ -56,31 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "original": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
       "ip": "185.231.102.220",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-3"
-    },
-    {
-      "type": "vless",
-      "address": "177.3.215.41",
-      "port": "4443",
-      "id": "a6cf4b28-ba72-4e8c-90f8-6a884107ab3c",
-      "name": "@filembad",
-      "network": "xhttp",
-      "sni": "idontknow.whit3.net",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@177.3.215.41:4443?mode=auto&path=%2F&security=reality&encryption=none&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&fp=firefox&type=xhttp&sni=idontknow.whit3.net&sid=ca9273f1a19a886e#vless-xhttp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "177.3.215.41",
-      "country": "SE",
-      "cdn": null,
-      "rebuilt": "vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@177.3.215.41:4443?mode=auto&path=%2F&security=reality&encryption=none&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&fp=firefox&type=xhttp&sni=idontknow.whit3.net&sid=ca9273f1a19a886e#vless-xhttp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://670decfe-68cc-499e-8cb1-22b39c20acbb@swed1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed1.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
