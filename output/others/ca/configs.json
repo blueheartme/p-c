@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-25T00:56:10.860726",
-  "count": 3,
+  "updated": "2026-08-25T08:35:04.010055",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "147.182.156.111",
-      "port": "8039",
-      "id": "a763a363-133f-9d6a-2220-e3228fb7dfe0",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "ios",
-      "original": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=ios&security=reality&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "147.182.156.111",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://a763a363-133f-9d6a-2220-e3228fb7dfe0@147.182.156.111:8039/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=ios&security=reality&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "ss",
       "address": "vip-ca-1.hkd4fwmg.xyz",
