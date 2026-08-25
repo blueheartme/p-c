@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:35:04.012104",
+  "updated": "2026-08-25T16:29:33.671897",
   "count": 5,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "93.114.98.84",
-      "port": "32855",
-      "id": "6110baf2-241e-4ba6-a2e1-6ffbacd903f9",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://6110baf2-241e-4ba6-a2e1-6ffbacd903f9@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "93.114.98.84",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://6110baf2-241e-4ba6-a2e1-6ffbacd903f9@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
       "address": "45.196.201.231",
       "port": "443",
       "id": "f75814f6-8f81-4847-b792-168c41f2dc85",
@@ -56,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "45.196.201.231",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.231:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "vless",
@@ -76,11 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "87.76.154.21",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "93.114.98.84",
+      "port": "32855",
+      "id": "2f16a514-69cf-4758-8b2d-c918c0bf203a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "93.114.98.84",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@93.114.98.84:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
       "type": "vless",

@@ -1,34 +1,20 @@
 {
-  "updated": "2026-08-25T08:35:04.021074",
+  "updated": "2026-08-25T16:29:33.679507",
   "count": 6,
   "configs": [
     {
       "type": "trojan",
-      "address": "kuame.missionsec.us",
+      "address": "13.158.137.73",
       "port": "443",
-      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
-      "name": "Japan Klayer LLC",
-      "sni": "kuame.missionsec.us",
+      "password": "AE62539071",
+      "name": "@i10VPN✨",
+      "sni": "novel-bat.rooster465.autos",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "93.93.246.88",
+      "original": "trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "13.158.137.73",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
-    {
-      "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
-      "ip": "160.16.107.37",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "vless",
@@ -44,11 +30,39 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "trojan",
+      "address": "13.159.22.208",
+      "port": "443",
+      "password": "FH72359861",
+      "name": "@i10VPN✨",
+      "sni": "driven-bulldog.rooster465.autos",
+      "host": "",
+      "original": "trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "13.159.22.208",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
+      "host": "",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "160.16.107.37",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     },
     {
       "type": "vless",
@@ -64,39 +78,25 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "original": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-5",
       "ip": "162.128.181.182",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-5"
     },
     {
       "type": "trojan",
-      "address": "13.158.137.73",
+      "address": "kuame.missionsec.us",
       "port": "443",
-      "password": "AE62539071",
-      "name": "@i10VPN✨",
-      "sni": "novel-bat.rooster465.autos",
+      "password": "FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D",
+      "name": "Japan Klayer LLC",
+      "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5",
-      "ip": "13.158.137.73",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
+      "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-5"
-    },
-    {
-      "type": "trojan",
-      "address": "13.159.22.208",
-      "port": "443",
-      "password": "FH72359861",
-      "name": "@i10VPN✨",
-      "sni": "driven-bulldog.rooster465.autos",
-      "host": "",
-      "original": "trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6",
-      "ip": "13.159.22.208",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-6"
     }
   ]
 }

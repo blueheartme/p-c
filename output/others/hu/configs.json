@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-25T08:35:04.028534",
+  "updated": "2026-08-25T16:29:33.680370",
   "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "45.195.111.108",
-      "port": "443",
-      "id": "66824c94-7ba9-4113-908e-bd793f296852",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "storage.yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1",
-      "ip": "45.195.111.108",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "45.195.111.108",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-2",
+      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-2"
+      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "45.195.111.108",
+      "port": "443",
+      "id": "66824c94-7ba9-4113-908e-bd793f296852",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "network": "tcp",
+      "sni": "storage.yandex.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-2",
+      "ip": "45.195.111.108",
+      "country": "HU",
+      "cdn": null,
+      "rebuilt": "vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-2"
     }
   ]
 }
