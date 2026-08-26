@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-26T08:36:09.174284",
-  "count": 2,
+  "updated": "2026-08-26T16:43:54.557910",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "45.195.111.108",
       "port": "443",
       "id": "219762a7-b918-4e2b-8a3d-d309ef98bb61",
-      "name": "Channel : @proxy_kafee",
+      "name": "@filembad",
       "network": "tcp",
       "sni": "storage.yandex.net",
       "host": "",
@@ -15,32 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1",
+      "fingerprint": "firefox",
+      "original": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1",
       "ip": "45.195.111.108",
       "country": "HU",
       "cdn": null,
-      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "vv.alertyagency.com",
-      "port": "443",
-      "id": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "api-maps.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@vv.alertyagency.com:443?security=reality&encryption=none&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=9e354fd8#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2",
-      "ip": "152.233.41.10",
-      "country": "HU",
-      "cdn": null,
-      "rebuilt": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@vv.alertyagency.com:443?security=reality&encryption=none&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=9e354fd8#vless-xtls-rprx-vision-tcp-reality-chrome-HU%F0%9F%8C%90-2"
+      "rebuilt": "vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#vless-xtls-rprx-vision-tcp-reality-firefox-HU%F0%9F%8C%90-1"
     }
   ]
 }

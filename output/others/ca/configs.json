@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-26T08:36:09.176807",
-  "count": 3,
+  "updated": "2026-08-26T16:43:54.551295",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "@i10VPN⚡",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
+    },
     {
       "type": "ss",
       "address": "vip-ca-1.hkd4fwmg.xyz",
@@ -17,16 +30,16 @@
     },
     {
       "type": "ss",
-      "address": "51.79.64.198",
-      "port": "8119",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "@i10VPN⚡",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
-      "ip": "51.79.64.198",
+      "address": "15.235.75.71",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD3rCuOsxOay",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad",
+      "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad"
     },
     {
       "type": "ss",
