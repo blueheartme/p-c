@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T08:22:35.704697",
+  "updated": "2026-08-27T06:43:52.787215",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "45.131.4.115",
+      "address": "mci.v2plus.ovh",
       "port": "80",
       "id": "0c6c9627-95fe-418a-bd4c-50df888c44bd",
       "name": "@filembad",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@45.131.4.115:80?encryption=none&security=none&type=ws&host=worker3.bobiv63003.workers.dev&path=%2FffEt2nn4iTWiXfi8#vless-ws-BZ%F0%9F%8C%90-1",
+      "original": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#vless-ws-BZ%F0%9F%8C%90-1",
       "ip": "45.131.4.115",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@45.131.4.115:80?encryption=none&security=none&type=ws&host=worker3.bobiv63003.workers.dev&path=%2FffEt2nn4iTWiXfi8#vless-ws-BZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#vless-ws-BZ%F0%9F%8C%90-1"
     }
   ]
 }
