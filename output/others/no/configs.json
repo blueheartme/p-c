@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-27T06:43:52.778659",
+  "updated": "2026-08-27T18:44:27.567329",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "nowaythisisnor.iranfreemarz.com",
-      "port": "7007",
-      "id": "6017b67c-5a4b-4299-84c6-909462508790",
+      "address": "185.243.218.182",
+      "port": "322",
+      "id": "20000024-8788-9182-f000-a35f2e23a020",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
+      "sni": "wyrebyte.com",
+      "host": "/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6017b67c-5a4b-4299-84c6-909462508790@Nowaythisisnor.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-NO%F0%9F%8C%90-1",
-      "ip": "141.227.166.167",
+      "fingerprint": "qq",
+      "original": "vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=reality&encryption=none&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=wyrebyte.com&sid=2757df499273bcb2#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%8C%90-1",
+      "ip": "185.243.218.182",
       "country": "NO",
       "cdn": null,
-      "rebuilt": "vless://6017b67c-5a4b-4299-84c6-909462508790@Nowaythisisnor.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-NO%F0%9F%8C%90-1"
+      "rebuilt": "vless://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?security=reality&encryption=none&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=wyrebyte.com&sid=2757df499273bcb2#vless-xtls-rprx-vision-tcp-reality-qq-NO%F0%9F%8C%90-1"
     }
   ]
 }

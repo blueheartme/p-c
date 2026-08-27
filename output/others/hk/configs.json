@@ -1,21 +1,26 @@
 {
-  "updated": "2026-08-27T06:43:52.785592",
+  "updated": "2026-08-27T18:44:27.555014",
   "count": 3,
   "configs": [
     {
-      "type": "vmess",
-      "address": "156.245.232.239",
-      "port": "35043",
-      "id": "b15e481d-17e4-41a8-84c2-23d4f0514d9a",
-      "name": "@filembad",
+      "type": "vless",
+      "address": "27.50.48.69",
+      "port": "2083",
+      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
+      "name": "Free 337 @Outline_Vpn",
       "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "156.245.232.239",
+      "sni": "kjgdksgghre466.pages.dev",
+      "host": "kjgdksgghre466.pages.dev",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "27.50.48.69",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "trojan",
@@ -32,24 +37,17 @@
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
-      "type": "vless",
-      "address": "27.50.48.69",
-      "port": "2083",
-      "id": "6705ddbd-04cf-40f6-99b9-36846b08c2a9",
-      "name": "Free 337 @Outline_Vpn",
-      "network": "ws",
-      "sni": "kjgdksgghre466.pages.dev",
-      "host": "kjgdksgghre466.pages.dev",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "27.50.48.69",
+      "type": "ss",
+      "address": "156.238.244.206",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "YMS0xsHjV1Qhg6ZOtqKOxg==",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTVMweHNIalYxUWhnNlpPdHFLT3hnPT0@156.238.244.206:8388#%40filembad",
+      "ip": "156.238.244.206",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#vless-ws-tls-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTVMweHNIalYxUWhnNlpPdHFLT3hnPT0@156.238.244.206:8388#%40filembad"
     }
   ]
 }

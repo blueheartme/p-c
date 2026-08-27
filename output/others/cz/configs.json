@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T06:43:52.774102",
+  "updated": "2026-08-27T18:44:27.560636",
   "count": 2,
   "configs": [
     {
@@ -17,23 +17,23 @@
     },
     {
       "type": "vless",
-      "address": "czeckhellllooo.hchdhsbs12gd.ir",
-      "port": "7007",
-      "id": "6017b67c-5a4b-4299-84c6-909462508790",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
+      "address": "150.241.121.61",
+      "port": "443",
+      "id": "98b0ccb7-325d-4dd4-b1c0-92671e94f5be",
+      "name": "@",
+      "network": "grpc",
+      "sni": "1pgt5wjq9slq.bosfiles.net",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CZ%F0%9F%8C%90-2",
-      "ip": "141.227.135.227",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%8C%90-2",
+      "ip": "150.241.121.61",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-CZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%8C%90-2"
     }
   ]
 }
