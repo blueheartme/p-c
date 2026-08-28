@@ -1,21 +1,26 @@
 {
-  "updated": "2026-06-23T10:57:57.669151",
+  "updated": "2026-08-28T08:34:01.082896",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "160.250.247.70",
-      "port": "49178",
-      "id": "d7c13e10-2ba9-4677-a877-d9e9d1738394",
+      "type": "vless",
+      "address": "171.244.142.193",
+      "port": "8080",
+      "id": "e2c6905e-46ec-434b-8400-0bc5bf0363e6",
       "name": "@filembad",
-      "network": "tcp",
-      "host": "varzesh3.com",
+      "network": "ws",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNjAuMjUwLjI0Ny43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI0OTE3OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "160.250.247.70",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?path=%2Fv-ws&security=none&encryption=none&type=ws#vless-ws-VN%F0%9F%8C%90-1",
+      "ip": "171.244.142.193",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNjAuMjUwLjI0Ny43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI0OTE3OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVk7wn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?path=%2Fv-ws&security=none&encryption=none&type=ws#vless-ws-VN%F0%9F%8C%90-1"
     }
   ]
 }
