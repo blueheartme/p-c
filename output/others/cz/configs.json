@@ -1,26 +1,39 @@
 {
-  "updated": "2026-08-28T08:34:01.072973",
-  "count": 1,
+  "updated": "2026-08-29T00:20:02.573345",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "150.241.121.61",
-      "port": "443",
-      "id": "98b0ccb7-325d-4dd4-b1c0-92671e94f5be",
-      "name": "@",
-      "network": "grpc",
-      "sni": "1pgt5wjq9slq.bosfiles.net",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%8C%90-1",
-      "ip": "150.241.121.61",
+      "type": "ss",
+      "address": "146.70.222.126",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "ip": "146.70.222.126",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://98b0ccb7-325d-4dd4-b1c0-92671e94f5be@150.241.121.61:443?encryption=none&type=grpc&security=tls&serviceName=grpc&mode=gun&sni=1pgt5wjq9slq.bosfiles.net&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#vless-grpc-tls-firefox-CZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+    },
+    {
+      "type": "vless",
+      "address": "141.133.172.211",
+      "port": "443",
+      "id": "88f9c3c2-b3dc-44aa-9490-8e9bc8133535",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "w-mebel.pro",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-2",
+      "ip": "141.133.172.211",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-2"
     }
   ]
 }
