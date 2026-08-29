@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-29T00:20:02.567124",
-  "count": 3,
+  "updated": "2026-08-29T13:32:41.828825",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "31.76.62.223",
+      "address": "185.145.245.144",
       "port": "443",
-      "id": "dabb9a19-03ab-4cdf-8963-d3c45eb0f80d",
+      "id": "618acefa-2ff1-41b0-a295-f8a08858a897",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "lat2.freeinternat.com",
+      "sni": "d.tranzit-net.ru",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@31.76.62.223:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lat2.freeinternat.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-1",
-      "ip": "31.76.62.223",
+      "fingerprint": "",
+      "original": "vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.144:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1",
+      "ip": "185.145.245.144",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@31.76.62.223:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lat2.freeinternat.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.144:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "150.241.75.198",
-      "port": "443",
-      "id": "34305560-ccd1-4466-bbff-09e606f4bc90",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "lv1.hat.onl",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://34305560-ccd1-4466-bbff-09e606f4bc90@150.241.75.198:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-3",
-      "ip": "150.241.75.198",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://34305560-ccd1-4466-bbff-09e606f4bc90@150.241.75.198:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-3"
     }
   ]
 }
