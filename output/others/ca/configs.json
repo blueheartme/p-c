@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T13:32:41.826233",
-  "count": 5,
+  "updated": "2026-08-29T19:04:49.187091",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -37,19 +37,6 @@
     },
     {
       "type": "ss",
-      "address": "vip-ca-1.hkd4fwmg.xyz",
-      "port": "10586",
-      "method": "chacha20-ietf-poly1305",
-      "password": "b1fNrhxfvAkUOEq7LyCrqK3Dg1R/SBeL",
-      "name": "Free x13 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn",
-      "ip": "184.107.141.34",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
       "address": "51.79.49.116",
       "port": "8882",
       "method": "aes-256-gcm",
@@ -63,16 +50,16 @@
     },
     {
       "type": "ss",
-      "address": "ca4.levikogjgfdd.ir",
-      "port": "8388",
+      "address": "vip-ca-1.hkd4fwmg.xyz",
+      "port": "10586",
       "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "Free x80 %",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#Free%20x80%20%",
-      "ip": "15.235.75.71",
+      "password": "b1fNrhxfvAkUOEq7LyCrqK3Dg1R/SBeL",
+      "name": "Free x13 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn",
+      "ip": "184.107.141.34",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#Free%20x80%20%"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWZOcmh4ZnZBa1VPRXE3THlDcnFLM0RnMVIvU0JlTA@vip-ca-1.hkd4fwmg.xyz:10586#Free%20x13%20%40Outline_Vpn"
     }
   ]
 }

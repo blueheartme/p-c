@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T13:32:41.825113",
+  "updated": "2026-08-29T19:04:49.216331",
   "count": 3,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "spt2.milkabebar.ir",
-      "port": "10694",
-      "id": "0ee1200e-049d-4eb4-9356-3bc3530f58ef",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
+      "address": "5.180.173.248",
+      "port": "25198",
+      "id": "deb9c015-1ffe-4e41-9d21-310eb0422a4c",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "network": "ws",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://0ee1200e-049d-4eb4-9356-3bc3530f58ef@spt2.milkabebar.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#vless-tcp-reality-firefox-ES%F0%9F%8C%90-2",
-      "ip": "208.85.22.100",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%8C%90-2",
+      "ip": "5.180.173.248",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://0ee1200e-049d-4eb4-9356-3bc3530f58ef@spt2.milkabebar.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#vless-tcp-reality-firefox-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&encryption=none&type=ws#vless-ws-ES%F0%9F%8C%90-2"
     },
     {
       "type": "vless",

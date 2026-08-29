@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-29T13:32:41.820167",
-  "count": 1,
+  "updated": "2026-08-29T19:04:49.191391",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "146.70.222.126",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "XF0klw7870vXn3uQIxe19Q",
+      "name": "𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9",
+      "ip": "146.70.222.126",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%A9"
+    },
     {
       "type": "vless",
       "address": "141.133.172.211",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1",
+      "original": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-2",
       "ip": "141.133.172.211",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-2"
     }
   ]
 }
