@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-29T19:04:49.218745",
+  "updated": "2026-08-30T18:59:46.089712",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "84.32.106.178",
-      "port": "443",
-      "id": "4928c901-be72-4f81-8d59-091ce9e01692",
-      "name": "Channel : @proxy_kafee",
+      "address": "swqaa.plasdomain.ir",
+      "port": "32855",
+      "id": "ed6efa6e-4159-485f-b465-de2d7c9d2e84",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "sw.api-yandex.net",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://4928c901-be72-4f81-8d59-091ce9e01692@84.32.106.178:443?security=reality&encryption=none&pbk=pU7ElcbPMVObHoWqGThioVD4i5ux_phWFwElN97aDSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw.api-yandex.net&sid=0f4dacf89993e21f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "84.32.106.178",
+      "original": "vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@swqaa.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "70.34.203.254",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://4928c901-be72-4f81-8d59-091ce9e01692@84.32.106.178:443?security=reality&encryption=none&pbk=pU7ElcbPMVObHoWqGThioVD4i5ux_phWFwElN97aDSQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw.api-yandex.net&sid=0f4dacf89993e21f#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@swqaa.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
