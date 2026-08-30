@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-29T19:04:49.217184",
-  "count": 4,
+  "updated": "2026-08-30T03:05:21.184644",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "it2ws.wba-pn.ru",
+      "port": "443",
+      "id": "2b622609-bb92-49e8-9631-4ada00324f47",
+      "name": "Free x39 @Outline_Vpn",
+      "network": "ws",
+      "sni": "it2ws.wba-pn.ru",
+      "host": "",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-1",
+      "ip": "45.155.68.9",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "ita.mobileemdad.top",
@@ -16,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-1",
+      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-2",
       "ip": "57.131.22.97",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -36,44 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-2",
+      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-3",
       "ip": "195.231.60.104",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "194.87.47.204",
-      "port": "10901",
-      "method": "aes-256-gcm",
-      "password": "d1fa2f4b98a38bc8",
-      "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%40filembad",
-      "ip": "194.87.47.204",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%40filembad"
-    },
-    {
-      "type": "vless",
-      "address": "it2ws.wba-pn.ru",
-      "port": "443",
-      "id": "2b622609-bb92-49e8-9631-4ada00324f47",
-      "name": "Free x39 @Outline_Vpn",
-      "network": "ws",
-      "sni": "it2ws.wba-pn.ru",
-      "host": "",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-4",
-      "ip": "45.155.68.9",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-4"
+      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-3"
     }
   ]
 }
