@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-31T15:45:35.127637",
-  "count": 6,
+  "updated": "2026-08-31T21:15:59.908512",
+  "count": 5,
   "configs": [
     {
       "type": "vless",
-      "address": "dl1.musicworldtg.com",
-      "port": "2018",
-      "id": "834e5553-d80e-4078-8d7e-482fafe9bbaf",
-      "name": "@proxy_kafee",
+      "address": "217.11.164.92",
+      "port": "37430",
+      "id": "6ccb83ae-b765-4c43-9c48-fd4886056a69",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "play.google.com",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@dl1.musicworldtg.com:2018?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=WVMnbAqUyFuFcCViAkF77B845SamrstLOBlQVkXVTCk&sid=2f509d5d2fb55b37&type=tcp&headerType=none#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "212.87.198.16",
+      "fingerprint": "ios",
+      "original": "vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "217.11.164.92",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@dl1.musicworldtg.com:2018?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=WVMnbAqUyFuFcCViAkF77B845SamrstLOBlQVkXVTCk&sid=2f509d5d2fb55b37&type=tcp&headerType=none#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -43,19 +43,24 @@
       "rebuilt": "vless://d20be48f-6317-4350-858b-d00929bdefc1@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
-      "type": "vmess",
-      "address": "103.83.87.229",
-      "port": "31973",
-      "id": "c0d6667a-d257-4724-bca0-18c33fdd6b4a",
+      "type": "vless",
+      "address": "amator.mrgang.shop",
+      "port": "8082",
+      "id": "bfb3f06c-e33f-41ac-b101-012c8325a689",
       "name": "@filembad",
       "network": "tcp",
-      "host": "",
       "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0zIiwiYWRkIjoiMTAzLjgzLjg3LjIyOSIsInBvcnQiOiIzMTk3MyIsImlkIjoiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9",
-      "ip": "103.83.87.229",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://bfb3f06c-e33f-41ac-b101-012c8325a689@amator.mrgang.shop:8082?encryption=none&security=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "37.221.79.31",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0zIiwiYWRkIjoiMTAzLjgzLjg3LjIyOSIsInBvcnQiOiIzMTk3MyIsImlkIjoiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9"
+      "rebuilt": "vless://bfb3f06c-e33f-41ac-b101-012c8325a689@amator.mrgang.shop:8082?encryption=none&security=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -79,26 +84,6 @@
     },
     {
       "type": "vless",
-      "address": "istannnl.banibus.ir",
-      "port": "8118",
-      "id": "2138c923-5992-49e1-8800-af7f9ad389c1",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "ios",
-      "original": "vless://2138c923-5992-49e1-8800-af7f9ad389c1@istannnl.banibus.ir:8118?security=reality&type=tcp&headerType=&path=&host=&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&sid=#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-5",
-      "ip": "188.132.174.109",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://2138c923-5992-49e1-8800-af7f9ad389c1@istannnl.banibus.ir:8118?security=reality&type=tcp&headerType=&path=&host=&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&sid=#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-5"
-    },
-    {
-      "type": "vless",
       "address": "tr1p.soundfiy.ir",
       "port": "61169",
       "id": "0c0ec86e-e118-4879-a988-60440253e223",
@@ -111,11 +96,11 @@
       "encryption": "none",
       "headerType": "http",
       "fingerprint": "",
-      "original": "vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-6",
+      "original": "vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-5",
       "ip": "45.74.178.12",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-6"
+      "rebuilt": "vless://0c0ec86e-e118-4879-a988-60440253e223@tr1p.soundfiy.ir:61169?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-25T16:29:33.675618",
+  "updated": "2026-08-31T21:15:59.909845",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "kz.alertyagency.com",
+      "address": "87.199.130.184",
       "port": "443",
-      "id": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "api-maps.yandex.ru",
+      "sni": "kz6.helper-internet.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1",
-      "ip": "5.180.42.103",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@87.199.130.184:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz6.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1",
+      "ip": "87.199.130.184",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@87.199.130.184:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz6.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1"
     }
   ]
 }
