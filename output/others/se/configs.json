@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-30T18:59:46.089712",
+  "updated": "2026-08-31T02:59:11.419039",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "swqaa.plasdomain.ir",
-      "port": "32855",
-      "id": "ed6efa6e-4159-485f-b465-de2d7c9d2e84",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
+      "address": "199.232.173.242",
+      "port": "443",
+      "id": "b0cf4078-96b8-4e11-80a8-0f9352565a16",
+      "name": "Channel: @0proxy_kafee",
+      "network": "ws",
+      "sni": "piracy-android.video-streams.org",
+      "host": "piracy-android.video-streams.org",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@swqaa.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1",
-      "ip": "70.34.203.254",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?encryption=none&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=piracy-android.video-streams.org&path=%2Fws#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "199.232.173.242",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@swqaa.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+      "rebuilt": "vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?encryption=none&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=piracy-android.video-streams.org&path=%2Fws#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     }
   ]
 }
