@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T03:06:35.376700",
+  "updated": "2026-09-01T12:58:21.375325",
   "count": 2,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "199.232.173.242",
-      "port": "443",
-      "id": "b0cf4078-96b8-4e11-80a8-0f9352565a16",
-      "name": "Channel: @0proxy_kafee",
-      "network": "ws",
-      "sni": "piracy-android.video-streams.org",
-      "host": "piracy-android.video-streams.org",
-      "security": "tls",
+      "address": "swedl1.mechanicir.ir",
+      "port": "10694",
+      "id": "f75f6bfb-8354-4c60-a787-ea207be9ccfa",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?encryption=none&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=piracy-android.video-streams.org&path=%2Fws#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "199.232.173.242",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://f75f6bfb-8354-4c60-a787-ea207be9ccfa@swedl1.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "70.34.212.50",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?encryption=none&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=piracy-android.video-streams.org&path=%2Fws#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://f75f6bfb-8354-4c60-a787-ea207be9ccfa@swedl1.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#vless-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

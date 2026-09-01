@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-01T03:06:35.367966",
+  "updated": "2026-09-01T12:58:21.369917",
   "count": 5,
   "configs": [
     {
       "type": "vless",
-      "address": "66.245.207.124",
-      "port": "32855",
-      "id": "8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "address": "ita.mobileemdad.top",
+      "port": "443",
+      "id": "61d291c2-4149-4d9b-8540-a83bf1dcf9f2",
+      "name": "@i10VPN🎏",
       "network": "tcp",
       "sni": "amp-api-edge.apps.apple.com",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%8C%90-1",
-      "ip": "66.245.207.124",
+      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-1",
+      "ip": "57.131.22.97",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -64,26 +64,6 @@
     },
     {
       "type": "vless",
-      "address": "ita.mobileemdad.top",
-      "port": "443",
-      "id": "61d291c2-4149-4d9b-8540-a83bf1dcf9f2",
-      "name": "@i10VPN🎏",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-4",
-      "ip": "57.131.22.97",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=08#vless-tcp-reality-edge-IT%F0%9F%8C%90-4"
-    },
-    {
-      "type": "vless",
       "address": "itl.montago-shop.ir",
       "port": "443",
       "id": "61d291c2-4149-4d9b-8540-a83bf1dcf9f2",
@@ -96,11 +76,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-5",
+      "original": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-4",
       "ip": "195.231.60.104",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-5"
+      "rebuilt": "vless://61d291c2-4149-4d9b-8540-a83bf1dcf9f2@itl.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#vless-tcp-reality-edge-IT%F0%9F%8C%90-4"
+    },
+    {
+      "type": "vless",
+      "address": "66.245.207.124",
+      "port": "32855",
+      "id": "8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "edge",
+      "original": "vless://8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%8C%90-5",
+      "ip": "66.245.207.124",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://8c96a2a4-5fc0-47c9-a2ca-33b179b4acc7@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#vless-tcp-reality-edge-IT%F0%9F%8C%90-5"
     }
   ]
 }

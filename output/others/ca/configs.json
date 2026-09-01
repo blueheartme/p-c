@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T03:06:35.358962",
-  "count": 5,
+  "updated": "2026-09-01T12:58:21.360184",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -24,32 +24,6 @@
     },
     {
       "type": "ss",
-      "address": "51.79.64.198",
-      "port": "8119",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "@i10VPN⚡",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
-      "ip": "51.79.64.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
-    },
-    {
-      "type": "ss",
-      "address": "51.79.64.198",
-      "port": "8119?",
-      "method": "aes-256-gcm",
-      "password": "cdBIDV42DCwnfIN",
-      "name": "Channel: @0proxy_kafee",
-      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119?#Channel%3A%20%400proxy_kafee",
-      "ip": "51.79.64.198",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119?#Channel%3A%20%400proxy_kafee"
-    },
-    {
-      "type": "ss",
       "address": "51.79.49.116",
       "port": "8882",
       "method": "aes-256-gcm",
@@ -60,6 +34,19 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.64.198",
+      "port": "8119",
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN",
+      "name": "@i10VPN⚡",
+      "original": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1",
+      "ip": "51.79.64.198",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%40i10VPN%E2%9A%A1"
     },
     {
       "type": "ss",
