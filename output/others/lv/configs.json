@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-31T21:15:59.909320",
+  "updated": "2026-09-01T03:06:35.342674",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "vpn.architect-line.ir",
-      "port": "8080",
-      "id": "30ba1df6-4aa5-4912-9ed9-09f938f3eb18",
-      "name": "@proxy_kafee",
-      "network": "xhttp",
+      "address": "31.57.29.225",
+      "port": "8443",
+      "id": "72e46328-0b5a-4d03-a49e-0fab66d8aba0",
+      "name": "@filembad",
+      "network": "tcp",
       "sni": "",
-      "host": "vpn.architect-line.ir",
+      "host": "",
       "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://30ba1df6-4aa5-4912-9ed9-09f938f3eb18@vpn.architect-line.ir:8080?encryption=none&security=none&type=xhttp&host=vpn.architect-line.ir&path=%2Facces&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-LV%F0%9F%8C%90-1",
-      "ip": "31.57.93.140",
+      "original": "vless://72e46328-0b5a-4d03-a49e-0fab66d8aba0@31.57.29.225:8443?encryption=none&security=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1",
+      "ip": "31.57.29.225",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://30ba1df6-4aa5-4912-9ed9-09f938f3eb18@vpn.architect-line.ir:8080?encryption=none&security=none&type=xhttp&host=vpn.architect-line.ir&path=%2Facces&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#vless-xhttp-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://72e46328-0b5a-4d03-a49e-0fab66d8aba0@31.57.29.225:8443?encryption=none&security=none&type=tcp#vless-tcp-LV%F0%9F%8C%90-1"
     },
     {
       "type": "vless",

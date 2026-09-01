@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-31T21:15:59.897272",
-  "count": 2,
+  "updated": "2026-09-01T03:06:35.372863",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "54.169.168.70",
-      "port": "12346",
-      "id": "e77f740b-609e-41e0-86e7-14881c1185ea",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.intel.com",
-      "host": "/?TELEGRAM@MARAMBASHI_MARAMBASHI",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=firefox&sni=www.intel.com&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "54.169.168.70",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=firefox&sni=www.intel.com&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&sid=a739eb7afcffa605#vless-xtls-rprx-vision-tcp-reality-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "u.tlpyun.com",
@@ -36,11 +16,11 @@
       "encryption": "mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.174.246.25",
+      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-31T21:15:59.904900",
+  "updated": "2026-09-01T03:06:35.363873",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "159.195.242.180",
+      "address": "api-as.data-media-social.org",
       "port": "443",
-      "id": "d900a139-8b5f-4758-8a32-389c6f36fc86",
+      "id": "ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "at2.tsumshop.org",
+      "sni": "api-as.data-media-social.org",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://d900a139-8b5f-4758-8a32-389c6f36fc86@159.195.242.180:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at2.tsumshop.org&sid=c8c75aaf699259b4#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1",
-      "ip": "159.195.242.180",
+      "fingerprint": "chrome",
+      "original": "vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-as.data-media-social.org&fp=chrome&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&sid=f3a9d2b1c7d4f608&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "ip": "159.195.115.172",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://d900a139-8b5f-4758-8a32-389c6f36fc86@159.195.242.180:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at2.tsumshop.org&sid=c8c75aaf699259b4#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-as.data-media-social.org&fp=chrome&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&sid=f3a9d2b1c7d4f608&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-AT%F0%9F%87%A6%F0%9F%87%B9-1"
     }
   ]
 }
