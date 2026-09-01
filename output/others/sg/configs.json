@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-01T12:58:21.371876",
-  "count": 1,
+  "updated": "2026-09-01T19:09:04.091904",
+  "count": 2,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "149.88.23.207",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "@meliproxyy",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "149.88.23.207",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
     {
       "type": "vless",
       "address": "u.tlpyun.com",
@@ -16,11 +31,11 @@
       "encryption": "mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "43.174.246.25",
+      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }

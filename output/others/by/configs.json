@@ -1,26 +1,20 @@
 {
-  "updated": "2026-08-18T16:23:59.277106",
+  "updated": "2026-09-01T19:09:04.083633",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "189.74.124.42",
-      "port": "443",
-      "id": "423b1d79-08c4-403f-9d5e-c541f791b55f",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "nordic.cendora.ru",
+      "type": "trojan",
+      "address": "178.172.227.178",
+      "port": "500",
+      "password": "8qCNZU2XdtefT7uB4uPxgRR839btqMG8",
+      "name": "Free x123 @Outline_Vpn",
+      "sni": "by01.botovod.space",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%8C%90-1",
-      "ip": "189.74.124.42",
+      "original": "trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#trojan-grpc-tls-BY%F0%9F%8C%90-1",
+      "ip": "178.172.227.178",
       "country": "BY",
       "cdn": null,
-      "rebuilt": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#vless-xtls-rprx-vision-tcp-reality-firefox-BY%F0%9F%8C%90-1"
+      "rebuilt": "trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#trojan-grpc-tls-BY%F0%9F%8C%90-1"
     }
   ]
 }

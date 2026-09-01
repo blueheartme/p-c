@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T12:58:21.369917",
+  "updated": "2026-09-01T19:09:04.082702",
   "count": 5,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "57.131.32.191",
-      "port": "80",
-      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
-      "name": "🇹🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-2",
-      "ip": "57.131.32.191",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "it2ws.wba-pn.ru",
       "port": "443",
       "id": "2b622609-bb92-49e8-9631-4ada00324f47",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-3",
+      "original": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-2",
       "ip": "45.155.68.9",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#vless-ws-tls-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "57.131.32.191",
+      "port": "80",
+      "id": "049e56d8-0ba0-49e3-b764-ee04122b9f00",
+      "name": "🇨🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-3",
+      "ip": "57.131.32.191",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#vless-ws-IT%F0%9F%8C%90-3"
     },
     {
       "type": "vless",
