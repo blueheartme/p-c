@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-01T19:09:04.091904",
+  "updated": "2026-09-02T02:26:41.565534",
   "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "13.251.124.72",
+      "port": "8686",
+      "id": "1a17b19d-4896-4531-af79-6e91d8ef8228",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "safari",
+      "original": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.124.72:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=safari&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-safari-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "13.251.124.72",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.124.72:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=safari&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#vless-tcp-reality-safari-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "vmess",
       "address": "149.88.23.207",
@@ -11,31 +31,11 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "149.88.23.207",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vless",
-      "address": "u.tlpyun.com",
-      "port": "443",
-      "id": "5ba437f3-f2f4-42e6-be33-5c144eb11b83",
-      "name": "@proxy_kafee",
-      "network": "ws",
-      "sni": "lukas.irandoc.info",
-      "host": "lukashost.irandoc.info",
-      "security": "tls",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.174.247.25",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=firefox&type=ws&host=lukashost.irandoc.info&path=%2Fapi1%2Fupdate#vless-mlkem768x25519plus.native.0rtt.e5sbzhplc89cs3yxin4l85arpsbmmjbjh8nq-cookni-ws-tls-firefox-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     }
   ]
 }
