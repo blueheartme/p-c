@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:26:41.539983",
+  "updated": "2026-09-02T12:27:45.748195",
   "count": 3,
   "configs": [
     {
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "latavipro.nl.mhrzanet.ir",
-      "port": "52970",
-      "id": "f04828df-7021-44b3-8019-9db3a5a20cd6",
-      "name": "@filembad",
+      "address": "myleto.orangesms.ir",
+      "port": "61169",
+      "id": "0dc5792d-0e46-497c-8bb3-03f32da0b311",
+      "name": "@",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
+      "sni": "",
+      "host": "amp-api-edge.apps.apple.com",
+      "security": "none",
       "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.eyji5bpudltrodbffmy91aej3_trtlglnebzudgcfly",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://f04828df-7021-44b3-8019-9db3a5a20cd6@latavipro.nl.mhrzanet.ir:52970?security=reality&encryption=mlkem768x25519plus.native.0rtt.eyJI5BPudlTroDbFFmy91AEj3_TRTlGLNEbZUdgcflY&pbk=GUFegdYriD2BtuhNH9d_rVaR_bFxExagRB_rB09zMAY&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ea09ec0ab22a1d24#vless-mlkem768x25519plus.native.0rtt.eyji5bpudltrodbffmy91aej3_trtlglnebzudgcfly-tcp-reality-chrome-LV%F0%9F%8C%90-3",
-      "ip": "95.182.90.30",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://0dc5792d-0e46-497c-8bb3-03f32da0b311@myleto.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3",
+      "ip": "188.130.154.212",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://f04828df-7021-44b3-8019-9db3a5a20cd6@latavipro.nl.mhrzanet.ir:52970?security=reality&encryption=mlkem768x25519plus.native.0rtt.eyJI5BPudlTroDbFFmy91AEj3_TRTlGLNEbZUdgcflY&pbk=GUFegdYriD2BtuhNH9d_rVaR_bFxExagRB_rB09zMAY&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ea09ec0ab22a1d24#vless-mlkem768x25519plus.native.0rtt.eyji5bpudltrodbffmy91aej3_trtlglnebzudgcfly-tcp-reality-chrome-LV%F0%9F%8C%90-3"
+      "rebuilt": "vless://0dc5792d-0e46-497c-8bb3-03f32da0b311@myleto.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-3"
     }
   ]
 }
