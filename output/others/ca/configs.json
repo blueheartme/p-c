@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-04T12:26:20.531445",
-  "count": 3,
+  "updated": "2026-09-04T18:45:51.718754",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "51.79.49.116",
-      "port": "8882",
-      "method": "aes-256-gcm",
-      "password": "kDWvXYZoTBcGkC4",
-      "name": "Free x52 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn",
-      "ip": "51.79.49.116",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn"
-    },
     {
       "type": "vless",
       "address": "130.107.73.148",
@@ -29,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "130.107.73.148",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "vless",
@@ -49,11 +36,44 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "54.39.96.233",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=%2Fuploader.php#vless-ws-tls-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "vless",
+      "address": "147.182.157.72",
+      "port": "8039",
+      "id": "3ce5535d-eb33-d247-dad0-6b87dfb798cc",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://3ce5535d-eb33-d247-dad0-6b87dfb798cc@147.182.157.72:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "ip": "147.182.157.72",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://3ce5535d-eb33-d247-dad0-6b87dfb798cc@147.182.157.72:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459#vless-xtls-rprx-vision-tcp-reality-ios-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+    },
+    {
+      "type": "ss",
+      "address": "51.79.49.116",
+      "port": "8882",
+      "method": "aes-256-gcm",
+      "password": "kDWvXYZoTBcGkC4",
+      "name": "Free x52 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn",
+      "ip": "51.79.49.116",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Free%20x52%20%40Outline_Vpn"
     }
   ]
 }

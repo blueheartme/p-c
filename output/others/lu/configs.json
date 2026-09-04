@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-05T17:03:01.383231",
+  "updated": "2026-09-04T18:45:51.724790",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "luemborgclouding.iranlast.com",
-      "port": "7009",
-      "id": "3f298aca-2412-49ac-9f20-235f0e448d31",
+      "address": "193.239.179.15",
+      "port": "443",
+      "id": "1d38d2b2-342f-4a01-93df-f24fb0277c70",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
+      "sni": "worldoftanks.asia",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://3f298aca-2412-49ac-9f20-235f0e448d31@luemborgclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-LU%F0%9F%8C%90-1",
-      "ip": "141.227.168.83",
+      "fingerprint": "chrome",
+      "original": "vless://1d38d2b2-342f-4a01-93df-f24fb0277c70@193.239.179.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.asia&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LU%F0%9F%8C%90-1",
+      "ip": "193.239.179.15",
       "country": "LU",
       "cdn": null,
-      "rebuilt": "vless://3f298aca-2412-49ac-9f20-235f0e448d31@luemborgclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#vless-tcp-reality-qq-LU%F0%9F%8C%90-1"
+      "rebuilt": "vless://1d38d2b2-342f-4a01-93df-f24fb0277c70@193.239.179.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.asia&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-LU%F0%9F%8C%90-1"
     }
   ]
 }
