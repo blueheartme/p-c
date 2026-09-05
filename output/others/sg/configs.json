@@ -1,21 +1,26 @@
 {
-  "updated": "2026-09-05T11:32:49.096799",
+  "updated": "2026-09-05T17:52:15.053489",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "149.88.23.207",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJjcyI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "149.88.23.207",
+      "type": "vless",
+      "address": "img.krenholm.com",
+      "port": "443",
+      "id": "79af209c-dd50-4751-8100-9107b536a022",
+      "name": "Free x173 @Outline_Vpn",
+      "network": "httpupgrade",
+      "sni": "channel.irandoc.info",
+      "host": "sni.irandoc.info",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJjcyI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     }
   ]
 }
