@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-04T18:45:51.717002",
-  "count": 1,
+  "updated": "2026-09-05T02:30:30.536617",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "89.35.14.33",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@filembad",
+      "name": "@",
       "network": "grpc",
       "sni": "md4.univesalsrv.com",
       "host": "BIA_TELEGRAM@marambashi",
@@ -21,6 +21,26 @@
       "country": "MD",
       "cdn": null,
       "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40marambashi&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#vless-grpc-reality-firefox-MD%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "89.35.14.32",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "md3.univesalsrv.com",
+      "host": "/?TELEGRAM---TOOTFFARANGI",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%8C%90-2",
+      "ip": "89.35.14.32",
+      "country": "MD",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---TOOTFFARANGI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#vless-grpc-reality-firefox-MD%F0%9F%8C%90-2"
     }
   ]
 }
