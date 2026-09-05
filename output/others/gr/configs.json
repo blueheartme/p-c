@@ -1,20 +1,26 @@
 {
-  "updated": "2026-02-17T01:44:16.785110",
+  "updated": "2026-09-05T11:32:49.092079",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "38.54.29.57",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "cb955c8530320120",
-      "plugin": "",
-      "name": "未知 SS-10 | free-nodes",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#ss-chacha20-ietf-poly1305-GR%F0%9F%8C%90-1",
-      "ip": "38.54.29.57",
+      "type": "vless",
+      "address": "185.126.238.87",
+      "port": "2083",
+      "id": "7668f678-faee-40cc-9b56-9c39dc773388",
+      "name": "🇬🇸@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%8C%90-1",
+      "ip": "185.126.238.87",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#ss-chacha20-ietf-poly1305-GR%F0%9F%8C%90-1"
+      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%8C%90-1"
     }
   ]
 }
