@@ -1,26 +1,21 @@
 {
-  "updated": "2026-09-06T11:53:06.909243",
+  "updated": "2026-09-06T17:56:58.205506",
   "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.192.224.30",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "type": "vmess",
+      "address": "143.14.189.125",
+      "port": "21316",
+      "id": "116f6ecd-275e-4b50-921d-780e78a526cb",
       "name": "@filembad",
       "network": "ws",
+      "host": "pull.free.video.10010.com",
       "sni": "",
-      "host": "vms.lifetime17.workers.dev",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?security=none&encryption=none&host=vms.lifetime17.workers.dev&type=ws#vless-ws-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "45.192.224.30",
+      "original": "vmess://eyJhZGQiOiIxNDMuMTQuMTg5LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiMTE2ZjZlY2QtMjc1ZS00YjUwLTkyMWQtNzgwZTc4YTUyNmNiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIyMTMxNiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "143.14.189.125",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?security=none&encryption=none&host=vms.lifetime17.workers.dev&type=ws#vless-ws-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNDMuMTQuMTg5LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiMTE2ZjZlY2QtMjc1ZS00YjUwLTkyMWQtNzgwZTc4YTUyNmNiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIyMTMxNiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
       "type": "trojan",
