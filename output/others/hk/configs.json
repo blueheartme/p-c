@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T17:52:15.052706",
-  "count": 2,
+  "updated": "2026-09-06T02:27:21.803212",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,21 +15,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vmess",
-      "address": "156.226.183.181",
-      "port": "54321",
-      "id": "d3bcc1f1-6294-4f68-bcf3-c3bcb2001520",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTYuMjI2LjE4My4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDNiY2MxZjEtNjI5NC00ZjY4LWJjZjMtYzNiY2IyMDAxNTIwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTQzMjEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "156.226.183.181",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTYuMjI2LjE4My4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDNiY2MxZjEtNjI5NC00ZjY4LWJjZjMtYzNiY2IyMDAxNTIwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTQzMjEiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUhL8J+HrfCfh7AtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }
