@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-22T08:21:55.256671",
+  "updated": "2026-09-07T02:24:14.781781",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "81.27.110.79",
-      "port": "8080",
-      "id": "cde8e374-bf71-4a1f-9386-db050bc46190",
+      "address": "e-d3.rehan-boesap.ir",
+      "port": "8443",
+      "id": "4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
-      "security": "none",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?encryption=none&security=none&type=tcp#vless-tcp-DK%F0%9F%8C%90-1",
-      "ip": "81.27.110.79",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5@e-d3.rehan-boesap.ir:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM&sid=8b2caa1f&spx=%2F&type=tcp&headerType=none#vless-tcp-reality-ios-DK%F0%9F%8C%90-1",
+      "ip": "45.65.112.237",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?encryption=none&security=none&type=tcp#vless-tcp-DK%F0%9F%8C%90-1"
+      "rebuilt": "vless://4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5@e-d3.rehan-boesap.ir:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM&sid=8b2caa1f&spx=%2F&type=tcp&headerType=none#vless-tcp-reality-ios-DK%F0%9F%8C%90-1"
     }
   ]
 }

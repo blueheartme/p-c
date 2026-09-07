@@ -1,22 +1,7 @@
 {
-  "updated": "2026-09-06T17:56:58.205506",
-  "count": 2,
+  "updated": "2026-09-07T02:24:14.760337",
+  "count": 1,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "143.14.189.125",
-      "port": "21316",
-      "id": "116f6ecd-275e-4b50-921d-780e78a526cb",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "pull.free.video.10010.com",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNDMuMTQuMTg5LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiMTE2ZjZlY2QtMjc1ZS00YjUwLTkyMWQtNzgwZTc4YTUyNmNiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIyMTMxNiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "143.14.189.125",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNDMuMTQuMTg5LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiMTE2ZjZlY2QtMjc1ZS00YjUwLTkyMWQtNzgwZTc4YTUyNmNiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIyMTMxNiIsInBzIjoidm1lc3MtYXV0by13cy0tLS0tSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
     {
       "type": "trojan",
       "address": "219.79.214.159",
@@ -25,11 +10,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     }
   ]
 }

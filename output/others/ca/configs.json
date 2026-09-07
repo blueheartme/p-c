@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-06T17:56:58.206980",
+  "updated": "2026-09-07T02:24:14.775383",
   "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "51.222.200.165",
-      "port": "5000",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "Free x168 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
-      "ip": "51.222.200.165",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
-    },
     {
       "type": "ss",
       "address": "51.79.49.116",
@@ -42,11 +29,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2",
       "ip": "130.107.73.148",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.200.165",
+      "port": "5000",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "Free x168 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
+      "ip": "51.222.200.165",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
     }
   ]
 }

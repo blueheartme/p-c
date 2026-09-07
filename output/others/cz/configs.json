@@ -1,26 +1,45 @@
 {
-  "updated": "2026-09-05T17:52:15.044796",
-  "count": 1,
+  "updated": "2026-09-07T02:24:14.766651",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "45.129.142.41",
-      "port": "49325",
-      "id": "68f7465d-6edb-4317-a1a9-ffe87e3a7c38",
-      "name": "@proxy_kafee",
-      "network": "tcp",
-      "sni": "addons.mozilla.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://68f7465d-6edb-4317-a1a9-ffe87e3a7c38@45.129.142.41:49325?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=T0RmoxSgAtx71kYW_ENHcU1cMHXpz0IzFJYHOn9WZm8&sid=886921b120b2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1",
-      "ip": "45.129.142.41",
+      "type": "ss",
+      "address": "italy3.fardad1.ir",
+      "port": "52941",
+      "method": "chacha20-ietf-poly1305",
+      "password": "HXFF97gxFjavgidzcRWw9Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@italy3.fardad1.ir:52941#%40filembad",
+      "ip": "81.2.242.131",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://68f7465d-6edb-4317-a1a9-ffe87e3a7c38@45.129.142.41:49325?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=T0RmoxSgAtx71kYW_ENHcU1cMHXpz0IzFJYHOn9WZm8&sid=886921b120b2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-CZ%F0%9F%8C%90-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@italy3.fardad1.ir:52941#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "Ch2.fardad1.ir",
+      "port": "41782",
+      "method": "chacha20-ietf-poly1305",
+      "password": "HXFF97gxFjavgidzcRWw9Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@Ch2.fardad1.ir:41782#%40filembad",
+      "ip": "81.2.242.131",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@Ch2.fardad1.ir:41782#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "germany2.fardad1.ir",
+      "port": "61473",
+      "method": "chacha20-ietf-poly1305",
+      "password": "HXFF97gxFjavgidzcRWw9Q",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#%40filembad",
+      "ip": "81.2.242.131",
+      "country": "CZ",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#%40filembad"
     }
   ]
 }
