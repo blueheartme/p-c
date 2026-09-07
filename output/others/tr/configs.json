@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T13:53:17.958048",
-  "count": 2,
+  "updated": "2026-09-07T19:32:44.719687",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "158.94.216.175",
-      "port": "443",
-      "id": "a27c7e29-9120-40c1-9cd5-3e6ac4d60577",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://a27c7e29-9120-40c1-9cd5-3e6ac4d60577@158.94.216.175:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca41ef1263c02279#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "158.94.216.175",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://a27c7e29-9120-40c1-9cd5-3e6ac4d60577@158.94.216.175:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca41ef1263c02279#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }
