@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-07T02:24:14.765850",
-  "count": 3,
+  "updated": "2026-09-07T13:53:17.945024",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "149.118.55.234",
-      "port": "443",
-      "id": "58f7687b-5209-4dcd-a11e-6e4eb2191378",
-      "name": "@proxy_kafee",
-      "network": "ws",
-      "sni": "www.zoom.com",
-      "host": "edge.xlordgrim.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=%2Fxlordgrim%2Fsg#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "149.118.55.234",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=%2Fxlordgrim%2Fsg#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "img.krenholm.com",
@@ -36,31 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
-      "ip": "43.174.246.25",
+      "original": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "43.174.247.25",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://79af209c-dd50-4751-8100-9107b536a022@img.krenholm.com:443?path=%2F1002%2Fgoogle&security=tls&encryption=none&insecure=0&host=sni.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=channel.irandoc.info#vless-httpupgrade-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
     },
     {
       "type": "vless",
-      "address": "163.128.99.165",
+      "address": "149.118.55.234",
       "port": "443",
-      "id": "66d0024b-307a-4714-86f7-07d141a244bf",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
-      "host": "www.apple.com",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "id": "58f7687b-5209-4dcd-a11e-6e4eb2191378",
+      "name": "@proxy_kafee",
+      "network": "ws",
+      "sni": "www.zoom.com",
+      "host": "edge.xlordgrim.com",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "safari",
-      "original": "vless://66d0024b-307a-4714-86f7-07d141a244bf@163.128.99.165:443?security=reality&encryption=none&pbk=l_AILVmgCSrYUlKhoiFc6NYY-zjXE6FTGEDaG1MECQY&host=www.apple.com&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=635295c55ea6eda1#vless-xtls-rprx-vision-tcp-reality-safari-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "163.128.99.165",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=%2Fxlordgrim%2Fsg#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "149.118.55.234",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://66d0024b-307a-4714-86f7-07d141a244bf@163.128.99.165:443?security=reality&encryption=none&pbk=l_AILVmgCSrYUlKhoiFc6NYY-zjXE6FTGEDaG1MECQY&host=www.apple.com&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=635295c55ea6eda1#vless-xtls-rprx-vision-tcp-reality-safari-SG%F0%9F%87%B8%F0%9F%87%AC-3"
+      "rebuilt": "vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=%2Fxlordgrim%2Fsg#vless-ws-tls-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     }
   ]
 }
