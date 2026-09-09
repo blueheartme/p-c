@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:38:30.162454",
+  "updated": "2026-09-09T19:00:21.044078",
   "count": 5,
   "configs": [
     {
@@ -57,19 +57,6 @@
     },
     {
       "type": "ss",
-      "address": "51.222.12.127",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "@i10VPN⁵",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5",
-      "ip": "51.222.12.127",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5"
-    },
-    {
-      "type": "ss",
       "address": "51.222.200.165",
       "port": "5000",
       "method": "aes-256-gcm",
@@ -80,6 +67,19 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.12.127",
+      "port": "445",
+      "method": "aes-256-gcm",
+      "password": "zDNVedRFPQexG9v",
+      "name": "@i10VPN⁵",
+      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5",
+      "ip": "51.222.12.127",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5"
     }
   ]
 }
