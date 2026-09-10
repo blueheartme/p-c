@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-09T19:00:21.047515",
-  "count": 2,
+  "updated": "2026-09-10T02:39:33.272731",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "172.232.196.241",
-      "port": "32396",
-      "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
-      "name": "Free x132 @Outline_Vpn",
+      "address": "104.105.81.195",
+      "port": "51629",
+      "id": "60339d95-eacb-428d-88e4-caedaddf5159",
+      "name": "@proxy_kafee :‌ کانال تلگرام",
       "network": "tcp",
-      "sni": "www.sony.com",
+      "sni": "play-apps-features.googleusercontent.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1",
-      "ip": "172.232.196.241",
+      "fingerprint": "edge",
+      "original": "vless://60339d95-eacb-428d-88e4-caedaddf5159@104.105.81.195:51629?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=k89H-2EgOKgvOaLGXtLEbWI5YRjzoIfoDeRVXawIIBM&sid=398cd7a9beed4aa2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-IT%F0%9F%8C%90-1",
+      "ip": "104.105.81.195",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-1"
+      "rebuilt": "vless://60339d95-eacb-428d-88e4-caedaddf5159@104.105.81.195:51629?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=k89H-2EgOKgvOaLGXtLEbWI5YRjzoIfoDeRVXawIIBM&sid=398cd7a9beed4aa2&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-edge-IT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "172.232.196.241",
+      "port": "32396",
+      "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
+      "name": "Free x132 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
+      "ip": "172.232.196.241",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
     }
   ]
 }
