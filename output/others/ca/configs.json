@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-10T02:39:33.287662",
+  "updated": "2026-09-10T12:37:41.345765",
   "count": 5,
   "configs": [
-    {
-      "type": "ss",
-      "address": "51.222.200.165",
-      "port": "5000",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "Free x168 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
-      "ip": "51.222.200.165",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
-    },
     {
       "type": "vless",
       "address": "130.107.73.148",
@@ -29,24 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "130.107.73.148",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-2"
-    },
-    {
-      "type": "ss",
-      "address": "51.222.12.127",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "@i10VPN⁵",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5",
-      "ip": "51.222.12.127",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5"
+      "rebuilt": "vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",
@@ -75,11 +49,37 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.200.165",
+      "port": "5000",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "Free x168 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
+      "ip": "51.222.200.165",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.12.127",
+      "port": "445",
+      "method": "aes-256-gcm",
+      "password": "zDNVedRFPQexG9v",
+      "name": "@i10VPN⁵",
+      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5",
+      "ip": "51.222.12.127",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5"
     }
   ]
 }
