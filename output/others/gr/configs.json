@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T12:37:41.327199",
+  "updated": "2026-09-11T12:30:51.038107",
   "count": 1,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "185.126.238.87",
       "port": "2083",
       "id": "7668f678-faee-40cc-9b56-9c39dc773388",
-      "name": "🇳🇱@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "@",
       "network": "grpc",
       "sni": "",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%8C%90-1",
+      "original": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&serviceName=security.debian.org&mode=gun#vless-grpc-GR%F0%9F%8C%90-1",
       "ip": "185.126.238.87",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#vless-grpc-GR%F0%9F%8C%90-1"
+      "rebuilt": "vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&serviceName=security.debian.org&mode=gun#vless-grpc-GR%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-11T02:33:18.537555",
-  "count": 5,
+  "updated": "2026-09-11T12:30:51.031699",
+  "count": 4,
   "configs": [
-    {
-      "type": "ss",
-      "address": "20.107.193.38",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "imq0vLikbOx4THZP",
-      "name": "Free x156 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Free%20x156%20%40Outline_Vpn",
-      "ip": "20.107.193.38",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Free%20x156%20%40Outline_Vpn"
-    },
     {
       "type": "ss",
       "address": "20.234.82.250",
@@ -27,19 +14,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "20.223.129.129",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "tDa0Zpm4cAYkoc9r",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "ip": "20.223.129.129",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     },
     {
       "type": "ss",
@@ -56,16 +30,29 @@
     },
     {
       "type": "ss",
-      "address": "20.123.9.48",
+      "address": "20.107.193.38",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "bX297As31bQMRsLP",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "ip": "20.123.9.48",
+      "password": "imq0vLikbOx4THZP",
+      "name": "Free x156 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Free%20x156%20%40Outline_Vpn",
+      "ip": "20.107.193.38",
       "country": "IE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Free%20x156%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "20.223.129.129",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "tDa0Zpm4cAYkoc9r",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
+      "ip": "20.223.129.129",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T02:33:18.552540",
-  "count": 3,
+  "updated": "2026-09-11T12:30:51.026018",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "31.76.83.49",
-      "port": "443",
-      "id": "7aeb58b8-7817-45af-ba26-e27583bc9a8e",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.sciencedirect.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@31.76.83.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%8C%90-2",
-      "ip": "31.76.83.49",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@31.76.83.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "89.116.250.135",
       "port": "8880",
       "id": "7247b284-c40d-47c7-af4e-c4738f827a3d",
@@ -56,11 +36,11 @@
       "encryption": "mlkem768x25519plus.random.0rtt.izjwxeno31gj30xjyjendz_qxa-iudzbt1zdrr8mbmo",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7247b284-c40d-47c7-af4e-c4738f827a3d@89.116.250.135:8880?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=Petcup.cdn.caroptionzz.ir.cdn.tr1.k8k8110.com&type=httpupgrade#vless-mlkem768x25519plus.random.0rtt.izjwxeno31gj30xjyjendz_qxa-iudzbt1zdrr8mbmo-httpupgrade-LT%F0%9F%8C%90-3",
+      "original": "vless://7247b284-c40d-47c7-af4e-c4738f827a3d@89.116.250.135:8880?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=Petcup.cdn.caroptionzz.ir.cdn.tr1.k8k8110.com&type=httpupgrade#vless-mlkem768x25519plus.random.0rtt.izjwxeno31gj30xjyjendz_qxa-iudzbt1zdrr8mbmo-httpupgrade-LT%F0%9F%8C%90-2",
       "ip": "89.116.250.135",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://7247b284-c40d-47c7-af4e-c4738f827a3d@89.116.250.135:8880?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=Petcup.cdn.caroptionzz.ir.cdn.tr1.k8k8110.com&type=httpupgrade#vless-mlkem768x25519plus.random.0rtt.izjwxeno31gj30xjyjendz_qxa-iudzbt1zdrr8mbmo-httpupgrade-LT%F0%9F%8C%90-3"
+      "rebuilt": "vless://7247b284-c40d-47c7-af4e-c4738f827a3d@89.116.250.135:8880?path=%2F%3Fed%3D2082&security=none&encryption=mlkem768x25519plus.random.0rtt.iZJwXenO31gj30xJyjEnDZ_qxA-iUdzbT1zdrr8Mbmo&host=Petcup.cdn.caroptionzz.ir.cdn.tr1.k8k8110.com&type=httpupgrade#vless-mlkem768x25519plus.random.0rtt.izjwxeno31gj30xjyjendz_qxa-iudzbt1zdrr8mbmo-httpupgrade-LT%F0%9F%8C%90-2"
     }
   ]
 }
