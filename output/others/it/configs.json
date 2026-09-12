@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T11:54:38.530798",
-  "count": 3,
+  "updated": "2026-09-12T18:01:52.964269",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -44,6 +44,26 @@
     },
     {
       "type": "vless",
+      "address": "milan.adaspoloandco.com",
+      "port": "8443",
+      "id": "db3f09ae-23f2-42b8-abee-7b89fb392c5e",
+      "name": "@",
+      "network": "ws",
+      "sni": "maple.adaspoloandco.com",
+      "host": "maple.adaspoloandco.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@milan.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%8C%90-3",
+      "ip": "57.131.21.102",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@milan.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#vless-ws-tls-chrome-IT%F0%9F%8C%90-3"
+    },
+    {
+      "type": "vless",
       "address": "ww4.levikogjgfdd.ir",
       "port": "32396",
       "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
@@ -56,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-4",
       "ip": "172.232.196.241",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-4"
     }
   ]
 }
