@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T18:55:55.099566",
-  "count": 4,
+  "updated": "2026-09-12T02:42:06.119639",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "lv-irancell.xelfona.ir",
-      "port": "20018",
-      "id": "028f3908-8885-4f06-ba95-777a435074bd",
-      "name": "Free x256 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "play-apps-features.googleusercontent.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://028f3908-8885-4f06-ba95-777a435074bd@lv-irancell.xelfona.ir:20018?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-4",
-      "ip": "104.252.53.184",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://028f3908-8885-4f06-ba95-777a435074bd@lv-irancell.xelfona.ir:20018?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-LV%F0%9F%8C%90-4"
     }
   ]
 }

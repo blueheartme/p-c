@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T18:55:55.104846",
+  "updated": "2026-09-12T02:42:06.132877",
   "count": 3,
   "configs": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "ww4.levikogjgfdd.ir",
-      "port": "32396",
-      "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
-      "name": "Free x130 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "www.sony.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
-      "ip": "172.232.196.241",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "172.232.196.241",
       "port": "32396",
       "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
@@ -56,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2",
       "ip": "172.232.196.241",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "ww4.levikogjgfdd.ir",
+      "port": "32396",
+      "id": "bd6ebd72-25cd-4209-a418-a8c72946da90",
+      "name": "Free x130 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "www.sony.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3",
+      "ip": "172.232.196.241",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vless-xtls-rprx-vision-tcp-reality-IT%F0%9F%8C%90-3"
     }
   ]
 }
