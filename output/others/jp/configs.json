@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-13T02:40:17.728539",
+  "updated": "2026-09-13T13:03:37.885969",
   "count": 4,
   "configs": [
     {
       "type": "vless",
-      "address": "47.79.32.249",
-      "port": "443",
-      "id": "6030877e-32a0-4f16-b65e-92e076f9e3f9",
+      "address": "102.165.41.98",
+      "port": "46199",
+      "id": "BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.apple.com",
+      "sni": "is4-ssl.mzstatic.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "47.79.32.249",
+      "fingerprint": "chrome",
+      "original": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "102.165.41.98",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#vless-xtls-rprx-vision-tcp-reality-firefox-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "trojan",
