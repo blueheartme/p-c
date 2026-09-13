@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T13:03:37.866463",
-  "count": 4,
+  "updated": "2026-09-13T18:28:54.251782",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -24,46 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "45.81.254.142",
-      "port": "443",
-      "id": "d6351bc8-0d51-48c4-9cb0-2ffd217f4797",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.sciencedirect.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://d6351bc8-0d51-48c4-9cb0-2ffd217f4797@45.81.254.142:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%8C%90-2",
-      "ip": "45.81.254.142",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://d6351bc8-0d51-48c4-9cb0-2ffd217f4797@45.81.254.142:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#vless-xtls-rprx-vision-tcp-reality-qq-LT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "77.90.185.105",
-      "port": "443",
-      "id": "6205b7a3-a4b4-425f-bd45-f10c2efb35e6",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "playgroundlol.cc",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://6205b7a3-a4b4-425f-bd45-f10c2efb35e6@77.90.185.105:443?security=reality&encryption=none&pbk=e4bIuCaIoXwrEekxRqmcxLQ6MdS08KZL8-jvWFDbPgo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=playgroundlol.cc&sid=1c#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-3",
-      "ip": "77.90.185.105",
-      "country": "LT",
-      "cdn": null,
-      "rebuilt": "vless://6205b7a3-a4b4-425f-bd45-f10c2efb35e6@77.90.185.105:443?security=reality&encryption=none&pbk=e4bIuCaIoXwrEekxRqmcxLQ6MdS08KZL8-jvWFDbPgo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=playgroundlol.cc&sid=1c#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "88.119.176.24",
       "port": "443",
       "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
@@ -76,11 +36,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-4",
+      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2",
       "ip": "88.119.176.24",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-4"
+      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-chrome-LT%F0%9F%8C%90-2"
     }
   ]
 }

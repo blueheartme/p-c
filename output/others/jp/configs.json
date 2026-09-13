@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-13T13:03:37.885969",
+  "updated": "2026-09-13T18:28:54.241938",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "102.165.41.98",
-      "port": "46199",
-      "id": "BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "is4-ssl.mzstatic.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "102.165.41.98",
-      "country": "JP",
-      "cdn": null,
-      "rebuilt": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1"
-    },
     {
       "type": "trojan",
       "address": "kuame.missionsec.us",
@@ -30,11 +10,11 @@
       "name": "Japan Klayer LLC",
       "sni": "kuame.missionsec.us",
       "host": "",
-      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2",
+      "original": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
       "ip": "93.93.246.88",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+      "rebuilt": "trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "vless",
@@ -50,11 +30,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "original": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2",
       "ip": "15.168.173.144",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+      "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-2"
+    },
+    {
+      "type": "vless",
+      "address": "102.165.41.98",
+      "port": "46199",
+      "id": "BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "is4-ssl.mzstatic.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3",
+      "ip": "102.165.41.98",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@102.165.41.98:46199?encryption=none&flow=xtls-rprx-vision&security=reality&sni=is4-ssl.mzstatic.com&fp=chrome&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&sid=1359c9bf9f7442e5&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
       "type": "trojan",
