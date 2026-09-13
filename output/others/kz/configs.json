@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-31T21:15:59.909845",
+  "updated": "2026-09-13T02:40:17.733001",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "87.199.130.184",
-      "port": "443",
-      "id": "ae8e0f7d-b661-41ca-b55d-d8c383adb2f8",
+      "address": "5.35.81.60",
+      "port": "4443",
+      "id": "cabd9303-ae32-4d25-86b9-26b312d0f044",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "kz6.helper-internet.com",
+      "network": "grpc",
+      "sni": "maps.apple.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@87.199.130.184:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz6.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1",
-      "ip": "87.199.130.184",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?mode=gun&security=reality&encryption=none&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&fp=chrome&type=grpc&serviceName=snob-grpc-de&sni=maps.apple.com&sid=e5f6a1b2#vless-grpc-reality-chrome-KZ%F0%9F%8C%90-1",
+      "ip": "5.35.81.60",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@87.199.130.184:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz6.helper-internet.com&sid=ff776ff77be48b88#vless-xtls-rprx-vision-tcp-reality-firefox-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?mode=gun&security=reality&encryption=none&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&fp=chrome&type=grpc&serviceName=snob-grpc-de&sni=maps.apple.com&sid=e5f6a1b2#vless-grpc-reality-chrome-KZ%F0%9F%8C%90-1"
     }
   ]
 }
