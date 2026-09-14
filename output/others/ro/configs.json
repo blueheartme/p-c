@@ -1,17 +1,37 @@
 {
-  "updated": "2026-09-14T02:56:01.993121",
-  "count": 1,
+  "updated": "2026-09-14T14:39:16.301852",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "85.90.196.203",
+      "port": "443",
+      "id": "d6b59299-2f48-4e9b-9130-b9e9cb5d0a51",
+      "name": "@",
+      "network": "tcp",
+      "sni": "ro1.hat.onl",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%8C%90-1",
+      "ip": "85.90.196.203",
+      "country": "RO",
+      "cdn": null,
+      "rebuilt": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%8C%90-1"
+    },
     {
       "type": "hysteria2",
       "address": "162.249.125.133",
       "port": "443",
-      "name": "@proxy_kafee",
-      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%8C%90-1",
+      "name": "@filembad",
+      "original": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%8C%90-2",
       "ip": "162.249.125.133",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%8C%90-1"
+      "rebuilt": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hysteria2-udp-RO%F0%9F%8C%90-2"
     }
   ]
 }

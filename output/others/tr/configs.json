@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-14T02:56:01.987628",
-  "count": 4,
+  "updated": "2026-09-14T14:39:16.300954",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "188.132.237.20",
-      "port": "2095",
-      "id": "3b9e513e-30d9-4ca8-8340-8f33fc6710de",
-      "name": "@proxy_kafee",
+      "address": "87.76.154.21",
+      "port": "17262",
+      "id": "8d1bef3f-e128-428f-b6a1-d11b2010eed4",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "network": "tcp",
       "sni": "",
       "host": "",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "188.132.237.20",
+      "original": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "87.76.154.21",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "87.76.154.21",
-      "port": "17262",
-      "id": "8d1bef3f-e128-428f-b6a1-d11b2010eed4",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "87.76.154.21",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
       "address": "185.71.219.188",
       "port": "443",
       "id": "2107ea1e-26fb-4831-8c3f-fb190bea79f7",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
