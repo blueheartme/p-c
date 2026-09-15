@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-14T20:07:13.409071",
-  "count": 5,
+  "updated": "2026-09-15T02:58:08.969503",
+  "count": 6,
   "configs": [
     {
-      "type": "ss",
-      "address": "51.222.12.127",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "@i10VPN🏍️",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F",
-      "ip": "51.222.12.127",
+      "type": "vless",
+      "address": "38.128.251.24",
+      "port": "56539",
+      "id": "444b9ef0-b421-42d9-97de-437b133f9d29",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "",
+      "host": "mangaarabics.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://444b9ef0-b421-42d9-97de-437b133f9d29@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "ip": "38.128.251.24",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F"
+      "rebuilt": "vless://444b9ef0-b421-42d9-97de-437b133f9d29@38.128.251.24:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=mangaarabics.com&headerType=http&type=tcp#vless-mlkem768x25519plus.random.0rtt.swy_akeuuhuhko0bhvv2uot-ufbtrxplwr7g8uzk0xk-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",
@@ -21,25 +28,12 @@
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "FD3rCuOsxOay",
-      "name": "@i10VPN🧅",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85",
+      "name": "@i10VPN🍈",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8D%88",
       "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85"
-    },
-    {
-      "type": "ss",
-      "address": "51.222.200.165",
-      "port": "5000",
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "name": "Free x168 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
-      "ip": "51.222.200.165",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8D%88"
     },
     {
       "type": "vless",
@@ -55,11 +49,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.12.127",
+      "port": "445",
+      "method": "aes-256-gcm",
+      "password": "zDNVedRFPQexG9v",
+      "name": "@i10VPN⁵",
+      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5",
+      "ip": "51.222.12.127",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%E2%81%B5"
     },
     {
       "type": "vless",
@@ -80,6 +87,19 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+    },
+    {
+      "type": "ss",
+      "address": "51.222.200.165",
+      "port": "5000",
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC",
+      "name": "Free x168 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn",
+      "ip": "51.222.200.165",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#Free%20x168%20%40Outline_Vpn"
     }
   ]
 }
