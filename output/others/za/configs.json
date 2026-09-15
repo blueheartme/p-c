@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-15T13:04:00.998353",
-  "count": 1,
+  "updated": "2026-09-15T19:26:54.508051",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "20.87.3.84",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "w0Yff67jxd3zXY9g",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#%40filembad",
+      "ip": "20.87.3.84",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#%40filembad"
+    },
     {
       "type": "ss",
       "address": "20.164.211.25",
