@@ -1,22 +1,7 @@
 {
-  "updated": "2026-09-16T19:18:35.195585",
-  "count": 4,
+  "updated": "2026-09-17T02:58:17.141747",
+  "count": 5,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "153.52.92.81",
-      "port": "2086",
-      "id": "f6361af8-bb8f-4609-bf5d-3fc0f688f47b",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDg2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UUvCfh7nwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "153.52.92.81",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDg2IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UUvCfh7nwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
     {
       "type": "vless",
       "address": "trkqountl.ramcalshoping.ir",
@@ -31,11 +16,51 @@
       "encryption": "mlkem768x25519plus.native.0rtt.ax1_iy42s3tdy5byp6lqba6nub3epntlrdsyxc7mvvq",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@trkqountl.ramcalshoping.ir:8088?path=%2Fbmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#vless-mlkem768x25519plus.native.0rtt.ax1_iy42s3tdy5byp6lqba6nub3epntlrdsyxc7mvvq-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@trkqountl.ramcalshoping.ir:8088?path=%2Fbmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#vless-mlkem768x25519plus.native.0rtt.ax1_iy42s3tdy5byp6lqba6nub3epntlrdsyxc7mvvq-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "206.1.96.196",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@trkqountl.ramcalshoping.ir:8088?path=%2Fbmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#vless-mlkem768x25519plus.native.0rtt.ax1_iy42s3tdy5byp6lqba6nub3epntlrdsyxc7mvvq-ws-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://ff1dcb64-f13d-4ccd-a3c6-055218f7490b@trkqountl.ramcalshoping.ir:8088?path=%2Fbmi.ir&security=none&encryption=mlkem768x25519plus.native.0rtt.AX1_Iy42S3tDy5Byp6LQba6NUB3ePNTLrdSyxC7MvVQ&host=play-apps-features.googleusercontent.com&type=ws#vless-mlkem768x25519plus.native.0rtt.ax1_iy42s3tdy5byp6lqba6nub3epntlrdsyxc7mvvq-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+    },
+    {
+      "type": "vless",
+      "address": "hosseinali.gameshooping.ir",
+      "port": "2087",
+      "id": "7f8c67e3-0779-4d4c-8cb2-21285f46fc74",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "benlysta.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://7f8c67e3-0779-4d4c-8cb2-21285f46fc74@hosseinali.gameshooping.ir:2087?security=reality&encryption=none&pbk=KBwfKtRre-2XJUKDnUYbdEfuNA2mrM0w0A2HcGVaZlQ&headerType=none&fp=ios&spx=%2Fexample&type=tcp&sni=benlysta.com&sid=83753acc49aa695c#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "45.74.178.132",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://7f8c67e3-0779-4d4c-8cb2-21285f46fc74@hosseinali.gameshooping.ir:2087?security=reality&encryption=none&pbk=KBwfKtRre-2XJUKDnUYbdEfuNA2mrM0w0A2HcGVaZlQ&headerType=none&fp=ios&spx=%2Fexample&type=tcp&sni=benlysta.com&sid=83753acc49aa695c#vless-tcp-reality-ios-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "vless",
+      "address": "153.52.92.160",
+      "port": "2082",
+      "id": "bcc661cc-4604-4610-95ee-60a469ca66f2",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.tesla.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.u2lugmvi-slmwbgybyhnegll2s-5vfczu8jhzlw86y4",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://bcc661cc-4604-4610-95ee-60a469ca66f2@153.52.92.160:2082?security=reality&encryption=mlkem768x25519plus.native.0rtt.U2luGMVi-SlMWbGYbyHnEgll2s-5Vfczu8JhZlW86y4&pbk=MO-DFQjm8FXa2RSMhnqhSDnyfkSFZLTqiMHrqEU_UAQ&headerType=none&fp=chrome&type=tcp&sni=www.tesla.com&sid=0e617b3c2c307e4f#vless-mlkem768x25519plus.native.0rtt.u2lugmvi-slmwbgybyhnegll2s-5vfczu8jhzlw86y4-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "153.52.92.160",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://bcc661cc-4604-4610-95ee-60a469ca66f2@153.52.92.160:2082?security=reality&encryption=mlkem768x25519plus.native.0rtt.U2luGMVi-SlMWbGYbyHnEgll2s-5Vfczu8JhZlW86y4&pbk=MO-DFQjm8FXa2RSMhnqhSDnyfkSFZLTqiMHrqEU_UAQ&headerType=none&fp=chrome&type=tcp&sni=www.tesla.com&sid=0e617b3c2c307e4f#vless-mlkem768x25519plus.native.0rtt.u2lugmvi-slmwbgybyhnegll2s-5vfczu8jhzlw86y4-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     },
     {
       "type": "vless",
@@ -51,11 +76,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?security=reality&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=books.blackbigdog.com#vless-xtls-rprx-vision-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "original": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?security=reality&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=books.blackbigdog.com#vless-xtls-rprx-vision-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "107.161.174.26",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?security=reality&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=books.blackbigdog.com#vless-xtls-rprx-vision-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?security=reality&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=books.blackbigdog.com#vless-xtls-rprx-vision-tcp-reality-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     },
     {
       "type": "vless",
@@ -71,11 +96,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5",
       "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-5"
     }
   ]
 }
