@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T12:36:25.622563",
-  "count": 2,
+  "updated": "2026-09-18T18:48:39.861571",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+    },
+    {
+      "type": "vless",
+      "address": "202.181.177.8",
+      "port": "8443",
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "name": "Free x352 @Outline_Vpn",
+      "network": "ws",
+      "sni": "cdn8848.776676.xyz",
+      "host": "cdn8848.776676.xyz",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3",
+      "ip": "202.181.177.8",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?path=%2Fchannels%2Fact&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-3"
     }
   ]
 }
