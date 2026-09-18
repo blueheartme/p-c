@@ -1,26 +1,13 @@
 {
-  "updated": "2026-09-17T19:29:21.366178",
+  "updated": "2026-09-18T02:44:42.005318",
   "count": 7,
   "configs": [
     {
-      "type": "ss",
-      "address": "15.235.75.71",
-      "port": "8388",
-      "method": "chacha20-ietf-poly1305",
-      "password": "FD3rCuOsxOay",
-      "name": "@i10VPN🌒",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92",
-      "ip": "15.235.75.71",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92"
-    },
-    {
       "type": "vless",
       "address": "51.79.29.205",
-      "port": "443",
-      "id": "2cb2774b-475b-4759-f6f2-18b70e8501f8",
-      "name": "@i10VPN⁷",
+      "port": "10103",
+      "id": "f6c29358-4b06-445a-bf01-360a418aca1e",
+      "name": "@i10VPN⁸",
       "network": "tcp",
       "sni": "play-apps-features.googleusercontent.com",
       "host": "",
@@ -29,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "vless://f6c29358-4b06-445a-bf01-360a418aca1e@51.79.29.205:10103?security=reality&encryption=none&pbk=BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "51.79.29.205",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "vless://f6c29358-4b06-445a-bf01-360a418aca1e@51.79.29.205:10103?security=reality&encryption=none&pbk=BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-1"
     },
     {
       "type": "ss",
@@ -49,11 +36,24 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%40i10VPN%F0%9F%8F%8D%EF%B8%8F"
     },
     {
+      "type": "ss",
+      "address": "15.235.75.71",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "FD3rCuOsxOay",
+      "name": "@i10VPN🧅",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85",
+      "ip": "15.235.75.71",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%A7%85"
+    },
+    {
       "type": "vless",
-      "address": "184.107.106.68",
+      "address": "lizca2.footballfantasyforum.com",
       "port": "443",
       "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "Free x218 @Outline_Vpn",
+      "name": "Free x309 @Outline_Vpn",
       "network": "tcp",
       "sni": "lizca2.footballfantasyforum.com",
       "host": "",
@@ -62,11 +62,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
       "type": "vless",
@@ -90,10 +90,10 @@
     },
     {
       "type": "vless",
-      "address": "lizca2.footballfantasyforum.com",
+      "address": "184.107.106.68",
       "port": "443",
       "id": "716426fa-bcb7-4eb9-b460-36399ebf740d",
-      "name": "Free x309 @Outline_Vpn",
+      "name": "Free x218 @Outline_Vpn",
       "network": "tcp",
       "sni": "lizca2.footballfantasyforum.com",
       "host": "",
@@ -102,18 +102,18 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "original": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6",
       "ip": "184.107.106.68",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6"
+      "rebuilt": "vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#vless-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-6"
     },
     {
       "type": "vless",
       "address": "51.79.29.205",
-      "port": "10103",
-      "id": "f6c29358-4b06-445a-bf01-360a418aca1e",
-      "name": "@i10VPN⁸",
+      "port": "443",
+      "id": "2cb2774b-475b-4759-f6f2-18b70e8501f8",
+      "name": "@i10VPN⁷",
       "network": "tcp",
       "sni": "play-apps-features.googleusercontent.com",
       "host": "",
@@ -122,11 +122,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://f6c29358-4b06-445a-bf01-360a418aca1e@51.79.29.205:10103?security=reality&encryption=none&pbk=BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-7",
+      "original": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-7",
       "ip": "51.79.29.205",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://f6c29358-4b06-445a-bf01-360a418aca1e@51.79.29.205:10103?security=reality&encryption=none&pbk=BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-7"
+      "rebuilt": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }
