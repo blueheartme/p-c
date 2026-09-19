@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-07T02:24:14.781781",
+  "updated": "2026-09-19T18:21:15.871148",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "e-d3.rehan-boesap.ir",
-      "port": "8443",
-      "id": "4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5",
+      "address": "109.176.202.125",
+      "port": "4325",
+      "id": "109e5b8d-5bdb-45e5-92e9-881ce0127ae2",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
+      "sni": "",
+      "host": "play.google.com",
+      "security": "none",
       "flow": "",
-      "encryption": "none",
+      "encryption": "mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy",
       "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5@e-d3.rehan-boesap.ir:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM&sid=8b2caa1f&spx=%2F&type=tcp&headerType=none#vless-tcp-reality-ios-DK%F0%9F%8C%90-1",
-      "ip": "45.65.112.237",
+      "fingerprint": "",
+      "original": "vless://109e5b8d-5bdb-45e5-92e9-881ce0127ae2@109.176.202.125:4325?encryption=mlkem768x25519plus.native.0rtt.wZEJaAdEMVKwYuSEwEkQAD2Qz0dXaUK9x4i_x_5eaCY&security=none&type=tcp&headerType=none&host=play.google.com#vless-mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy-tcp-DK%F0%9F%8C%90-1",
+      "ip": "109.176.202.125",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5@e-d3.rehan-boesap.ir:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM&sid=8b2caa1f&spx=%2F&type=tcp&headerType=none#vless-tcp-reality-ios-DK%F0%9F%8C%90-1"
+      "rebuilt": "vless://109e5b8d-5bdb-45e5-92e9-881ce0127ae2@109.176.202.125:4325?encryption=mlkem768x25519plus.native.0rtt.wZEJaAdEMVKwYuSEwEkQAD2Qz0dXaUK9x4i_x_5eaCY&security=none&type=tcp&headerType=none&host=play.google.com#vless-mlkem768x25519plus.native.0rtt.wzejaademvkwyusewekqad2qz0dxauk9x4i_x_5eacy-tcp-DK%F0%9F%8C%90-1"
     }
   ]
 }
