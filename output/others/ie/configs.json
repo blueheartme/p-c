@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-21T02:52:51.733789",
+  "updated": "2026-09-21T14:46:33.554630",
   "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "20.234.82.250",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "kYhF4RWqohTpbVau",
+      "name": "Free x241 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn",
+      "ip": "20.234.82.250",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "68.219.211.88",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Ps4MSc9PUejUkW3E",
+      "name": "Free x358 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#Free%20x358%20%40Outline_Vpn",
+      "ip": "68.219.211.88",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#Free%20x358%20%40Outline_Vpn"
+    },
     {
       "type": "ss",
       "address": "20.107.184.151",
@@ -30,19 +56,6 @@
     },
     {
       "type": "ss",
-      "address": "68.219.211.88",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Ps4MSc9PUejUkW3E",
-      "name": "Free x358 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#Free%20x358%20%40Outline_Vpn",
-      "ip": "68.219.211.88",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#Free%20x358%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
       "address": "20.238.35.153",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
@@ -53,19 +66,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#Free%20x356%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "20.234.82.250",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "kYhF4RWqohTpbVau",
-      "name": "Free x241 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn",
-      "ip": "20.234.82.250",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#Free%20x241%20%40Outline_Vpn"
     }
   ]
 }
