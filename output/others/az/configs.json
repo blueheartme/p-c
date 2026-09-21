@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-10T16:47:56.706608",
+  "updated": "2026-09-21T02:52:51.740147",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "180.149.45.30",
-      "port": "2026",
-      "id": "b543c35e-ec44-4979-849b-84099ca8a3d8",
+      "address": "180.149.44.182",
+      "port": "443",
+      "id": "yakVV3oUoduFpO",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "play.google.com",
+      "sni": "www.icloud.com",
+      "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://b543c35e-ec44-4979-849b-84099ca8a3d8@180.149.45.30:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#vless-tcp-reality-chrome-AZ%F0%9F%8C%90-1",
-      "ip": "180.149.45.30",
+      "original": "vless://yakVV3oUoduFpO@180.149.44.182:443?security=reality&encryption=none&pbk=1hpQddP3pM6e50Y6vCPe2t3mjDExFeiWxMGWyeiIq28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=948c2371#vless-xtls-rprx-vision-tcp-reality-chrome-AZ%F0%9F%8C%90-1",
+      "ip": "180.149.44.182",
       "country": "AZ",
       "cdn": null,
-      "rebuilt": "vless://b543c35e-ec44-4979-849b-84099ca8a3d8@180.149.45.30:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&host=play.google.com&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#vless-tcp-reality-chrome-AZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://yakVV3oUoduFpO@180.149.44.182:443?security=reality&encryption=none&pbk=1hpQddP3pM6e50Y6vCPe2t3mjDExFeiWxMGWyeiIq28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=948c2371#vless-xtls-rprx-vision-tcp-reality-chrome-AZ%F0%9F%8C%90-1"
     }
   ]
 }
