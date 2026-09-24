@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T13:06:07.807844",
-  "count": 2,
+  "updated": "2026-09-24T19:43:43.414728",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "KZ",
       "cdn": null,
       "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "31.43.179.8",
-      "port": "443",
-      "id": "b2593749-691c-428c-9481-14979cba3446",
-      "name": "@",
-      "network": "ws",
-      "sni": "xi.tbv.ccwu.cc",
-      "host": "xi.tbv.ccwu.cc",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.8:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%8C%90-2",
-      "ip": "31.43.179.8",
-      "country": "KZ",
-      "cdn": null,
-      "rebuilt": "vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.8:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#vless-ws-tls-KZ%F0%9F%8C%90-2"
     }
   ]
 }
