@@ -1,19 +1,26 @@
 {
-  "updated": "2026-02-25T08:41:32.216910",
+  "updated": "2026-09-25T13:10:27.432439",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "89.223.88.33",
-      "port": "11201",
-      "method": "chacha20-ietf-poly1305",
-      "password": "7c31a67b41b18c26",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
-      "ip": "89.223.88.33",
+      "type": "vless",
+      "address": "whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir",
+      "port": "443",
+      "id": "371fa59f-e622-4776-af66-7f72c84f2dce",
+      "name": "",
+      "network": "tcp",
+      "sni": "amp-api-edge.apps.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#vless-xtls-rprx-vision-tcp-reality-firefox-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "64.177.93.40",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1"
+      "rebuilt": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#vless-xtls-rprx-vision-tcp-reality-firefox-MX%F0%9F%87%B2%F0%9F%87%BD-1"
     }
   ]
 }
