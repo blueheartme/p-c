@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-16T13:01:26.133315",
+  "updated": "2026-09-25T03:00:22.411638",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.209.157.184",
-      "port": "443",
-      "id": "21710d7d-5e87-4655-bac2-36e9b655e3ee",
-      "name": "@",
-      "network": "tcp",
-      "sni": "www.microsoft.com",
+      "address": "51.4.98.141",
+      "port": "441",
+      "id": "2591ac73-44f7-4a7c-a2b9-730fa1217fcf",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "security": "",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1",
-      "ip": "85.209.157.184",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://2591ac73-44f7-4a7c-a2b9-730fa1217fcf@51.4.98.141:441?path=%2F&security=&encryption=none&type=ws#vless-ws-IL%F0%9F%8C%90-1",
+      "ip": "51.4.98.141",
       "country": "IL",
       "cdn": null,
-      "rebuilt": "vless://21710d7d-5e87-4655-bac2-36e9b655e3ee@85.209.157.184:443?security=reality&encryption=none&pbk=YDYWOKQpoOkOPQ64PosSfJHAaLPuAZJ_jiB6Qj_iYnQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#vless-xtls-rprx-vision-tcp-reality-chrome-IL%F0%9F%8C%90-1"
+      "rebuilt": "vless://2591ac73-44f7-4a7c-a2b9-730fa1217fcf@51.4.98.141:441?path=%2F&security=&encryption=none&type=ws#vless-ws-IL%F0%9F%8C%90-1"
     }
   ]
 }
