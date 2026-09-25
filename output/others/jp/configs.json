@@ -1,20 +1,26 @@
 {
-  "updated": "2026-09-25T13:10:27.425765",
+  "updated": "2026-09-25T19:46:30.327074",
   "count": 4,
   "configs": [
     {
-      "type": "trojan",
-      "address": "160.16.107.37",
-      "port": "3169",
-      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
-      "name": "Japan NTT Pc",
-      "sni": "www.nintendogames.net",
-      "host": "",
-      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1",
-      "ip": "160.16.107.37",
+      "type": "vless",
+      "address": "124.156.230.31",
+      "port": "48795",
+      "id": "44557727-e197-45c5-9637-d8455491fa9a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "aws.amazon.com",
+      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality&encryption=none&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "ip": "124.156.230.31",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality&encryption=none&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "trojan",
@@ -51,24 +57,18 @@
       "rebuilt": "vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#vless-tcp-reality-ios-JP%F0%9F%87%AF%F0%9F%87%B5-3"
     },
     {
-      "type": "vless",
-      "address": "20.78.4.41",
-      "port": "443",
-      "id": "8dc3a9ee-51a6-4737-c40a-472246303713",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
+      "type": "trojan",
+      "address": "160.16.107.37",
+      "port": "3169",
+      "password": "44e660b0ee21cf3ac66aee2c08af85d2",
+      "name": "Japan NTT Pc",
+      "sni": "www.nintendogames.net",
       "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://8dc3a9ee-51a6-4737-c40a-472246303713@20.78.4.41:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-4",
-      "ip": "20.78.4.41",
+      "original": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "160.16.107.37",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://8dc3a9ee-51a6-4737-c40a-472246303713@20.78.4.41:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-JP%F0%9F%87%AF%F0%9F%87%B5-4"
+      "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     }
   ]
 }
