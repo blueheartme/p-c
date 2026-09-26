@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T19:46:30.345599",
-  "count": 2,
+  "updated": "2026-09-26T03:04:19.281516",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
@@ -16,26 +16,6 @@
       "country": "BR",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxNzIuMjMzLjE0LjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUJS8J+Hp/Cfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
-    {
-      "type": "vless",
-      "address": "147.45.116.241",
-      "port": "8443",
-      "id": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
-      "name": "Channel : @proxy_kafee",
-      "network": "xhttp",
-      "sni": "wikihow.com",
-      "host": "wikihow.com",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.241:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=firefox&type=xhttp&sni=wikihow.com#vless-xhttp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-2",
-      "ip": "147.45.116.241",
-      "country": "BR",
-      "cdn": null,
-      "rebuilt": "vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.241:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=firefox&type=xhttp&sni=wikihow.com#vless-xhttp-reality-firefox-BR%F0%9F%87%A7%F0%9F%87%B7-2"
     }
   ]
 }

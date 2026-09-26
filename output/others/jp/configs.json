@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:46:30.327074",
+  "updated": "2026-09-26T03:04:19.273667",
   "count": 4,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "124.156.230.31",
       "port": "48795",
       "id": "44557727-e197-45c5-9637-d8455491fa9a",
-      "name": "@filembad",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
       "sni": "aws.amazon.com",
       "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality&encryption=none&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1",
+      "original": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1",
       "ip": "124.156.230.31",
       "country": "JP",
       "cdn": null,
-      "rebuilt": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality&encryption=none&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1"
+      "rebuilt": "vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-1"
     },
     {
       "type": "trojan",
