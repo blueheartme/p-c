@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T12:37:32.387575",
-  "count": 3,
+  "updated": "2026-09-26T18:55:38.585153",
+  "count": 4,
   "configs": [
     {
       "type": "trojan",
@@ -49,6 +49,26 @@
       "country": "JP",
       "cdn": null,
       "rebuilt": "trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#trojan-tcp-tls-JP%F0%9F%87%AF%F0%9F%87%B5-3"
+    },
+    {
+      "type": "vless",
+      "address": "108.160.128.46",
+      "port": "443",
+      "id": "de241e4e-226e-46d5-aa79-602e11ef94d8",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.bing.com",
+      "host": "www.bing.com/?TELEGRAM--MARAMBASHI--MARAMBASHI",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://de241e4e-226e-46d5-aa79-602e11ef94d8@108.160.128.46:443?security=reality&encryption=none&pbk=cZ9MxrT-CYtdhBdbGeqzcQEvWvAuKw7fEfRbR8QrOlM&host=www.bing.com%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=37bb73b5#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-4",
+      "ip": "108.160.128.46",
+      "country": "JP",
+      "cdn": null,
+      "rebuilt": "vless://de241e4e-226e-46d5-aa79-602e11ef94d8@108.160.128.46:443?security=reality&encryption=none&pbk=cZ9MxrT-CYtdhBdbGeqzcQEvWvAuKw7fEfRbR8QrOlM&host=www.bing.com%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=37bb73b5#vless-xtls-rprx-vision-tcp-reality-chrome-JP%F0%9F%87%AF%F0%9F%87%B5-4"
     }
   ]
 }
