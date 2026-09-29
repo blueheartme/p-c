@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-28T16:22:14.850667",
+  "updated": "2026-09-29T03:45:49.222121",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.143.179.179",
-      "port": "25026",
-      "id": "441a29b2-d9aa-47d5-9209-0a9191479f9f",
+      "address": "93.190.9.60",
+      "port": "3090",
+      "id": "cbbc93ef-6d35-463a-a856-64265c42e66d",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.google.com",
+      "network": "grpc",
+      "sni": "",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
+      "security": "",
+      "flow": "",
+      "encryption": "",
       "headerType": "",
-      "fingerprint": "safari",
-      "original": "vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@185.143.179.179:25026?security=reality&encryption=none&pbk=RVh0D446O5pKnOqlNkJNxSGGbmzl8swn4YBXYce1HSw&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=34c465417d7ebca0#vless-xtls-rprx-vision-tcp-reality-safari-GE%F0%9F%8C%90-1",
-      "ip": "185.143.179.179",
+      "fingerprint": "",
+      "original": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#vless-grpc-GE%F0%9F%8C%90-1",
+      "ip": "93.190.9.60",
       "country": "GE",
       "cdn": null,
-      "rebuilt": "vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@185.143.179.179:25026?security=reality&encryption=none&pbk=RVh0D446O5pKnOqlNkJNxSGGbmzl8swn4YBXYce1HSw&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=34c465417d7ebca0#vless-xtls-rprx-vision-tcp-reality-safari-GE%F0%9F%8C%90-1"
+      "rebuilt": "vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#vless-grpc-GE%F0%9F%8C%90-1"
     }
   ]
 }

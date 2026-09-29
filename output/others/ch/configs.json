@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T16:22:14.838888",
-  "count": 2,
+  "updated": "2026-09-29T03:45:49.211298",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "vless",
-      "address": "37.143.131.147",
-      "port": "58449",
-      "id": "1dd99ec7-298b-4113-be64-2bab44f672cb",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://1dd99ec7-298b-4113-be64-2bab44f672cb@37.143.131.147:58449?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "37.143.131.147",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://1dd99ec7-298b-4113-be64-2bab44f672cb@37.143.131.147:58449?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
