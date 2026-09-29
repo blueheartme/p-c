@@ -1,41 +1,21 @@
 {
-  "updated": "2026-09-29T03:45:49.228616",
-  "count": 2,
+  "updated": "2026-09-29T14:32:27.455957",
+  "count": 1,
   "configs": [
     {
       "type": "vmess",
       "address": "66.163.118.73",
       "port": "22324",
       "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁵",
+      "name": "@i10VPN²",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "66.163.118.73",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
-    },
-    {
-      "type": "vless",
-      "address": "185.232.205.66",
-      "port": "443",
-      "id": "5dff1842-c02f-4dd4-b1ad-2e597b99dc31",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "sp66.mech-pro.online",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@185.232.205.66:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-2",
-      "ip": "185.232.205.66",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@185.232.205.66:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-2"
+      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     }
   ]
 }
