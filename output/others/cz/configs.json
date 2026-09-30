@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T14:30:56.219718",
-  "count": 2,
+  "updated": "2026-09-30T20:28:08.624989",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "CZ",
       "cdn": null,
       "rebuilt": "vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#vless-ws-tls-CZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "153.76.185.160",
-      "port": "3090",
-      "id": "b24348cd-38f3-483c-aff4-f5355f254f0a",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%8C%90-2",
-      "ip": "153.76.185.160",
-      "country": "CZ",
-      "cdn": null,
-      "rebuilt": "vless://b24348cd-38f3-483c-aff4-f5355f254f0a@153.76.185.160:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-CZ%F0%9F%8C%90-2"
     }
   ]
 }

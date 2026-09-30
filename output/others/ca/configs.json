@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T14:30:56.206863",
-  "count": 7,
+  "updated": "2026-09-30T20:28:08.618612",
+  "count": 8,
   "configs": [
     {
       "type": "ss",
@@ -8,27 +8,27 @@
       "port": "8388",
       "method": "chacha20-ietf-poly1305",
       "password": "FD3rCuOsxOay",
-      "name": "@i10VPN🌒",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92",
+      "name": "@i10VPN³",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3",
       "ip": "15.235.75.71",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%F0%9F%8C%92"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40i10VPN%C2%B3"
     },
     {
       "type": "vmess",
-      "address": "66.163.113.176",
-      "port": "22324",
-      "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁸",
+      "address": "134.195.196.211",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "Free x366 @Outline_Vpn",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "66.163.113.176",
+      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "134.195.196.211",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },
     {
       "type": "vless",
@@ -52,38 +52,23 @@
     },
     {
       "type": "vless",
-      "address": "51.79.29.205",
-      "port": "443",
-      "id": "2cb2774b-475b-4759-f6f2-18b70e8501f8",
-      "name": "@i10VPN⁷",
+      "address": "us-vpnstore.rovilo.ir",
+      "port": "20018",
+      "id": "452f869f-7720-47c3-a175-b6673e31d3e8",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "51.79.29.205",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "vmess",
-      "address": "134.195.196.211",
-      "port": "18000",
-      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "name": "Free x366 @Outline_Vpn",
-      "network": "tcp",
-      "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "ip": "134.195.196.211",
+      "host": "connectivitycheck.android.com",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "http",
+      "fingerprint": "",
+      "original": "vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "ip": "51.79.89.218",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi01Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+      "rebuilt": "vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#vless-tcp-http-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
       "type": "vless",
@@ -99,11 +84,26 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://dcf8e133-09a2-4884-abf9-80356bb334ac@23.132.28.51:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=candy.atlasparser.site&sid=a7c31f92#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6",
+      "original": "vless://dcf8e133-09a2-4884-abf9-80356bb334ac@23.132.28.51:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=candy.atlasparser.site&sid=a7c31f92#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
       "ip": "23.132.28.51",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://dcf8e133-09a2-4884-abf9-80356bb334ac@23.132.28.51:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=candy.atlasparser.site&sid=a7c31f92#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-6"
+      "rebuilt": "vless://dcf8e133-09a2-4884-abf9-80356bb334ac@23.132.28.51:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=candy.atlasparser.site&sid=a7c31f92#vless-xtls-rprx-vision-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+    },
+    {
+      "type": "vmess",
+      "address": "66.163.113.176",
+      "port": "22324",
+      "id": "04621bae-ab36-11ec-b909-0242ac120002",
+      "name": "@i10VPN⁸",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "66.163.113.176",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
       "type": "vmess",
@@ -119,6 +119,26 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxNTguNTEuMTIzLjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUNB8J+HqPCfh6YtNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+    },
+    {
+      "type": "vless",
+      "address": "51.79.29.205",
+      "port": "443",
+      "id": "2cb2774b-475b-4759-f6f2-18b70e8501f8",
+      "name": "@i10VPN⁷",
+      "network": "tcp",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-8",
+      "ip": "51.79.29.205",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#vless-xtls-rprx-vision-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-8"
     }
   ]
 }
