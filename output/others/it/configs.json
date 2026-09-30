@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-29T20:24:14.471764",
+  "updated": "2026-09-30T03:33:51.679047",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "milan.adaspoloandco.com",
-      "port": "8443",
-      "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
-      "name": "Free x420 @Outline_Vpn",
-      "network": "ws",
-      "sni": "milan.adaspoloandco.com",
-      "host": "milan.adaspoloandco.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-1",
-      "ip": "57.131.21.102",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "151.101.240.148",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-2",
+      "original": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1",
       "ip": "151.101.240.148",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-2"
+      "rebuilt": "vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#vless-ws-IT%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "milan.adaspoloandco.com",
+      "port": "8443",
+      "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
+      "name": "Free x420 @Outline_Vpn",
+      "network": "ws",
+      "sni": "milan.adaspoloandco.com",
+      "host": "milan.adaspoloandco.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-2",
+      "ip": "57.131.21.102",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-2"
     },
     {
       "type": "vmess",
