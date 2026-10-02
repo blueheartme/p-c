@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T20:44:45.832961",
-  "count": 4,
+  "updated": "2026-10-02T03:38:34.992137",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,26 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "150.241.101.80",
-      "port": "8443",
-      "id": "47d9b534-8a0a-4bd2-90f1-1d6ade14427e",
-      "name": "Free x600 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "yandex.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-2",
-      "ip": "150.241.101.80",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "201.7.25.208",
       "port": "443",
       "id": "7b571245-ec1e-44b1-bb5a-f7c61157d2c4",
@@ -56,31 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "qq",
-      "original": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-3",
+      "original": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-2",
       "ip": "201.7.25.208",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-3"
+      "rebuilt": "vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#vless-xtls-rprx-vision-tcp-reality-qq-EE%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
-      "address": "150.241.101.41",
-      "port": "8448",
-      "id": "e147ea33-7a27-4073-b33c-dfb91c5c7063",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "network": "xhttp",
-      "sni": "api-maps.yandex.ru",
-      "host": "150.241.101.41",
+      "address": "150.241.101.80",
+      "port": "8443",
+      "id": "47d9b534-8a0a-4bd2-90f1-1d6ade14427e",
+      "name": "Free x600 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "yandex.net",
+      "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://e147ea33-7a27-4073-b33c-dfb91c5c7063@150.241.101.41:8448?mode=auto&path=%2Fassets%2Fv2&security=reality&encryption=none&pbk=5a7gJ2ukZ5NPECAks1GHvsg-lVDXVp0W6mCHQ00_cVw&host=150.241.101.41&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=e02b44b0419d931c#vless-xhttp-reality-firefox-EE%F0%9F%8C%90-4",
-      "ip": "150.241.101.41",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-3",
+      "ip": "150.241.101.80",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://e147ea33-7a27-4073-b33c-dfb91c5c7063@150.241.101.41:8448?mode=auto&path=%2Fassets%2Fv2&security=reality&encryption=none&pbk=5a7gJ2ukZ5NPECAks1GHvsg-lVDXVp0W6mCHQ00_cVw&host=150.241.101.41&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=e02b44b0419d931c#vless-xhttp-reality-firefox-EE%F0%9F%8C%90-4"
+      "rebuilt": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#vless-xtls-rprx-vision-tcp-reality-EE%F0%9F%8C%90-3"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:44:45.838893",
+  "updated": "2026-10-02T03:38:35.021897",
   "count": 3,
   "configs": [
     {
@@ -53,14 +53,14 @@
       "host": "",
       "security": "reality",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3",
       "ip": "131.123.34.193",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?type=tcp&headerType=none&security=reality&fp=edge&sni=amp-api-edge.apps.apple.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://1c2e9b1f-ab95-4c2b-a8eb-188c83d7efa2@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
