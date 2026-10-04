@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-28T02:54:00.787752",
+  "updated": "2026-10-04T03:50:43.439368",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "61.171.92.202",
-      "port": "1001",
-      "method": "aes-256-gcm",
-      "password": "123",
-      "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%40filembad",
-      "ip": "61.171.92.202",
+      "type": "vless",
+      "address": "27.44.143.169",
+      "port": "14343",
+      "id": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
+      "name": "@proxy_kafee",
+      "network": "tcp",
+      "sni": "thuk.huaweiyouxuan.com",
+      "host": "",
+      "security": "tls",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@27.44.143.169:14343?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=thuk.huaweiyouxuan.com#vless-xtls-rprx-vision-tcp-tls-chrome-CN%F0%9F%8C%90-1",
+      "ip": "27.44.143.169",
       "country": "CN",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%40filembad"
+      "rebuilt": "vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@27.44.143.169:14343?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=thuk.huaweiyouxuan.com#vless-xtls-rprx-vision-tcp-tls-chrome-CN%F0%9F%8C%90-1"
     }
   ]
 }
