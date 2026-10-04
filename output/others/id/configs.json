@@ -1,21 +1,26 @@
 {
-  "updated": "2026-08-31T15:45:35.129333",
+  "updated": "2026-10-04T13:37:28.495810",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "130.94.93.63",
-      "port": "14812",
-      "id": "777d0ead-970a-4144-b8aa-e3aaf3a621f6",
+      "type": "vless",
+      "address": "103.172.197.3",
+      "port": "16006",
+      "id": "f8c9d2a1-da40-4f90-b671-11772a0b13d6",
       "name": "@filembad",
-      "network": "ws",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc3ZDBlYWQtOTcwYS00MTQ0LWI4YWEtZTNhYWYzYTYyMWY2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzc3N2QwZWFkIiwicG9ydCI6IjE0ODEyIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JRPCfjJAtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
-      "ip": "130.94.93.63",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "/",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=%2F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%8C%90-1",
+      "ip": "103.172.197.3",
       "country": "ID",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc3ZDBlYWQtOTcwYS00MTQ0LWI4YWEtZTNhYWYzYTYyMWY2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzc3N2QwZWFkIiwicG9ydCI6IjE0ODEyIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS1JRPCfjJAtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "rebuilt": "vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=%2F&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#vless-xtls-rprx-vision-tcp-reality-chrome-ID%F0%9F%8C%90-1"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T03:50:43.439368",
-  "count": 1,
+  "updated": "2026-10-04T13:37:28.477844",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,21 @@
       "country": "CN",
       "cdn": null,
       "rebuilt": "vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@27.44.143.169:14343?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=thuk.huaweiyouxuan.com#vless-xtls-rprx-vision-tcp-tls-chrome-CN%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vmess",
+      "address": "39.108.113.127",
+      "port": "10086",
+      "id": "fde10e39-48bb-4dcf-b3ba-71d711323a54",
+      "name": "@filembad",
+      "network": "ws",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUNO8J+MkC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "ip": "39.108.113.127",
+      "country": "CN",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6InZtZXNzLWF1dG8td3MtLS0tLUNO8J+MkC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
     }
   ]
 }
