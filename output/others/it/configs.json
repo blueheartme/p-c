@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T18:57:25.481630",
+  "updated": "2026-10-05T03:35:14.244176",
   "count": 3,
   "configs": [
     {
@@ -19,26 +19,6 @@
     },
     {
       "type": "vless",
-      "address": "204.216.216.23",
-      "port": "10086",
-      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "Free x637 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-2",
-      "ip": "204.216.216.23",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
       "address": "milan.adaspoloandco.com",
       "port": "8443",
       "id": "69ac162b-1643-4acb-9f49-09d8b0fad609",
@@ -51,11 +31,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-3",
+      "original": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-2",
       "ip": "57.131.21.102",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-3"
+      "rebuilt": "vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vless-ws-tls-IT%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "204.216.216.23",
+      "port": "10086",
+      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
+      "name": "Free x637 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-3",
+      "ip": "204.216.216.23",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-3"
     }
   ]
 }

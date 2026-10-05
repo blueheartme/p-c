@@ -1,19 +1,45 @@
 {
-  "updated": "2026-10-04T13:37:28.487729",
-  "count": 1,
+  "updated": "2026-10-05T03:35:14.245180",
+  "count": 3,
   "configs": [
+    {
+      "type": "ss",
+      "address": "20.164.42.112",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "1RraE1yLC8LRqmeb",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#%40filembad",
+      "ip": "20.164.42.112",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#%40filembad"
+    },
     {
       "type": "ss",
       "address": "20.87.209.138",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "D3QZyKA9jtLektTN",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#%40filembad",
+      "name": "@proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#@proxy_kafee",
       "ip": "20.87.209.138",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#@proxy_kafee"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.42.112",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "TbHBHzOwUCHadLwt",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#%40filembad",
+      "ip": "20.164.42.112",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#%40filembad"
     }
   ]
 }
