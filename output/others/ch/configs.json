@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T03:35:14.225250",
-  "count": 3,
+  "updated": "2026-10-05T16:42:36.781256",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,20 +41,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.154.29.139:8443?path=%252Fretrieve%252Ftxt%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#vless-ws-tls-chrome-CH%F0%9F%87%A8%F0%9F%87%AD-2"
-    },
-    {
-      "type": "trojan",
-      "address": "195.15.202.111",
-      "port": "4455",
-      "password": "g44i2hzwivmm7r29",
-      "name": "@filembad",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=%2F824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
-      "ip": "195.15.202.111",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=%2F824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
