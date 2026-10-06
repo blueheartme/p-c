@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-06T14:40:07.977804",
+  "updated": "2026-10-06T20:44:32.294350",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "185.155.55.3",
-      "port": "8443",
-      "id": "919a2568-3add-44ec-a769-915adad37bd2",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "ee-nf.reddotcorp.org",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-edge-EE%F0%9F%8C%90-1",
-      "ip": "185.155.55.3",
-      "country": "EE",
-      "cdn": null,
-      "rebuilt": "vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#vless-xtls-rprx-vision-tcp-reality-edge-EE%F0%9F%8C%90-1"
-    },
     {
       "type": "vless",
       "address": "201.7.25.126",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "random",
-      "original": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%8C%90-2",
+      "original": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%8C%90-1",
       "ip": "201.7.25.126",
       "country": "EE",
       "cdn": null,
-      "rebuilt": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%8C%90-2"
+      "rebuilt": "vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&fp=random&type=grpc&serviceName=telegram-bridge&sni=spry-jolt.cdn.cachefleet.com&sid=defeaa98406c7bdf#vless-grpc-reality-random-EE%F0%9F%8C%90-1"
+    },
+    {
+      "type": "vless",
+      "address": "13.143.239.67",
+      "port": "443",
+      "id": "f622c73a-1532-4832-8e15-754191752209",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "eeconverter.teddylink.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://f622c73a-1532-4832-8e15-754191752209@13.143.239.67:443?security=reality&encryption=none&pbk=fQvafZ0GP7J-BM4z0Y3zcnu9iNTdbC-eto3XccpK_Ec&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eeconverter.teddylink.com&sid=1ca2119aa517c7#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2",
+      "ip": "13.143.239.67",
+      "country": "EE",
+      "cdn": null,
+      "rebuilt": "vless://f622c73a-1532-4832-8e15-754191752209@13.143.239.67:443?security=reality&encryption=none&pbk=fQvafZ0GP7J-BM4z0Y3zcnu9iNTdbC-eto3XccpK_Ec&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eeconverter.teddylink.com&sid=1ca2119aa517c7#vless-xtls-rprx-vision-tcp-reality-chrome-EE%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
