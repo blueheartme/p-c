@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T04:23:18.594525",
-  "count": 4,
+  "updated": "2026-10-06T14:40:07.972537",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "p2real5.greewebservices.ir",
-      "port": "1350",
+      "address": "areal5.greewebservices.ir",
+      "port": "5455",
       "id": "97b236b9-47ba-4c9a-ae0d-3ddfff5acadf",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "play.googleapis.com",
+      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "fingerprint": "edge",
+      "original": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "131.123.34.193",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "CH",
       "cdn": null,
       "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
-    },
-    {
-      "type": "vless",
-      "address": "areal5.greewebservices.ir",
-      "port": "5455",
-      "id": "97b236b9-47ba-4c9a-ae0d-3ddfff5acadf",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-4",
-      "ip": "131.123.34.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-4"
     }
   ]
 }
