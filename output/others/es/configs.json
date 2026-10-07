@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T14:59:55.253632",
-  "count": 2,
+  "updated": "2026-10-07T20:57:16.983346",
+  "count": 3,
   "configs": [
     {
       "type": "vmess",
@@ -31,6 +31,26 @@
       "country": "ES",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJteWdwdGFnZW50Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLS0tLS10bHMtRVPwn4yQLTIiLCJzY3kiOiJhdXRvIiwic25pIjoibXlncHRhZ2VudC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+    },
+    {
+      "type": "vless",
+      "address": "es.srv.dvzh.net",
+      "port": "443",
+      "id": "91344c03-b37f-42c5-90f1-cbb95c5cf256",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "es.srv.dvzh.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e4e77e76e6e49da7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-3",
+      "ip": "103.240.146.87",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e4e77e76e6e49da7#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-3"
     }
   ]
 }
