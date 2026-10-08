@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-08T15:08:16.897949",
-  "count": 2,
+  "updated": "2026-10-08T20:58:45.319342",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "204.216.216.23",
-      "port": "10086",
-      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
-      "name": "Free x637 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-1",
-      "ip": "204.216.216.23",
+      "type": "ss",
+      "address": "45.144.172.123",
+      "port": "50660",
+      "method": "aes-256-gcm",
+      "password": "78235e7dc55e9ad1",
+      "name": "@filembad",
+      "original": "ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ@45.144.172.123:50660#%40filembad",
+      "ip": "45.144.172.123",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-1"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ@45.144.172.123:50660#%40filembad"
     },
     {
       "type": "vmess",
@@ -36,6 +29,26 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSVTwn4yQLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
+    {
+      "type": "vless",
+      "address": "204.216.216.23",
+      "port": "10086",
+      "id": "9f0285ee-20ca-4953-bcdb-86a920652923",
+      "name": "Free x637 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-3",
+      "ip": "204.216.216.23",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-IT%F0%9F%8C%90-3"
     }
   ]
 }
