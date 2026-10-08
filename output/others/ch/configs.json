@@ -1,40 +1,7 @@
 {
-  "updated": "2026-10-07T20:57:17.015085",
-  "count": 3,
+  "updated": "2026-10-08T04:03:11.619352",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "p2real5.greewebservices.ir",
-      "port": "1350",
-      "id": "6b4a0e0d-35b1-4934-8376-a19cb81fca31",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "play.googleapis.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "ios",
-      "original": "vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "131.123.34.193",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "ss",
-      "address": "185.167.234.118",
-      "port": "1080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "Wg_ISA3v29Gbagtoi_E_Bg",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ19JU0EzdjI5R2JhZ3RvaV9FX0Jn@185.167.234.118:1080#%40filembad",
-      "ip": "185.167.234.118",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ19JU0EzdjI5R2JhZ3RvaV9FX0Jn@185.167.234.118:1080#%40filembad"
-    },
     {
       "type": "vless",
       "address": "ch.zango.tech",
@@ -49,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-3"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "p2real5.greewebservices.ir",
+      "port": "1350",
+      "id": "6b4a0e0d-35b1-4934-8376-a19cb81fca31",
+      "name": "Channel : @proxy_kafee",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     }
   ]
 }
