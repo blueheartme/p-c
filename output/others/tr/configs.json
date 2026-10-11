@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:34:02.204457",
+  "updated": "2026-10-11T19:51:57.956108",
   "count": 4,
   "configs": [
     {
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "198.105.123.153",
-      "port": "2044",
-      "id": "64d64c94-79bb-4404-8195-63e2bc4622fb",
-      "name": "Free x550 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://64d64c94-79bb-4404-8195-63e2bc4622fb@198.105.123.153:2044?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "198.105.123.153",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://64d64c94-79bb-4404-8195-63e2bc4622fb@198.105.123.153:2044?security=none&encryption=none&headerType=http&type=tcp#vless-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
       "address": "206.1.99.14",
       "port": "39907",
       "id": "5d4557de-2778-4002-b12f-0211251e7595",
@@ -76,11 +56,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
       "ip": "206.1.99.14",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+    },
+    {
+      "type": "vless",
+      "address": "185.157.217.4",
+      "port": "8443",
+      "id": "e1f786c1-bd8d-4568-88e8-f2ff537da0f6",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://e1f786c1-bd8d-4568-88e8-f2ff537da0f6@185.157.217.4:8443?security=reality&headerType=none&encryption=none&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&alpn=h2&fp=random&flow=xtls-rprx-vision&type=tcp&sid=d346e1a7eb724050&sni=play.google.com#vless-xtls-rprx-vision-tcp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "ip": "185.157.217.4",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vless://e1f786c1-bd8d-4568-88e8-f2ff537da0f6@185.157.217.4:8443?security=reality&headerType=none&encryption=none&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&alpn=h2&fp=random&flow=xtls-rprx-vision&type=tcp&sid=d346e1a7eb724050&sni=play.google.com#vless-xtls-rprx-vision-tcp-reality-random-TR%F0%9F%87%B9%F0%9F%87%B7-4"
     }
   ]
 }
