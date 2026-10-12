@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-11T19:51:57.991512",
+  "updated": "2026-10-12T03:51:14.405567",
   "count": 5,
   "configs": [
     {
-      "type": "ss",
-      "address": "45.138.103.4",
-      "port": "1443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "N2YzM",
-      "name": "@i10VPN¹",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#%40i10VPN%C2%B9",
-      "ip": "45.138.103.4",
+      "type": "vless",
+      "address": "179.254.109.54",
+      "port": "443",
+      "id": "d0f0a880-0df1-0005-bdf1-5669fb9483ce",
+      "name": "Free x571 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "cosw.ggisopi.su",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1",
+      "ip": "179.254.109.54",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#%40i10VPN%C2%B9"
+      "rebuilt": "vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-1"
     },
     {
       "type": "vless",
@@ -36,24 +43,17 @@
       "rebuilt": "vless://d0f0a880-0df1-0003-bdf1-5669fb9483ce@cosw.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
-      "type": "vless",
-      "address": "app16.betust.net",
-      "port": "443",
-      "id": "026f58a9-b36e-4204-8f8d-54c5374163da",
-      "name": "@i10VPN⁴",
-      "network": "tcp",
-      "sni": "app16.betust.net",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3",
-      "ip": "88.216.130.205",
+      "type": "ss",
+      "address": "45.138.103.4",
+      "port": "1443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "N2YzM",
+      "name": "@i10VPN¹",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#%40i10VPN%C2%B9",
+      "ip": "45.138.103.4",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-3"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMll6TQ@45.138.103.4:1443#%40i10VPN%C2%B9"
     },
     {
       "type": "vless",
@@ -77,23 +77,23 @@
     },
     {
       "type": "vless",
-      "address": "179.254.109.54",
+      "address": "app16.betust.net",
       "port": "443",
-      "id": "d0f0a880-0df1-0005-bdf1-5669fb9483ce",
-      "name": "Free x571 @Outline_Vpn",
+      "id": "026f58a9-b36e-4204-8f8d-54c5374163da",
+      "name": "@i10VPN⁴",
       "network": "tcp",
-      "sni": "cosw.ggisopi.su",
+      "sni": "app16.betust.net",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-5",
-      "ip": "179.254.109.54",
+      "fingerprint": "firefox",
+      "original": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-5",
+      "ip": "88.216.130.205",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#vless-xtls-rprx-vision-tcp-reality-SE%F0%9F%87%B8%F0%9F%87%AA-5"
+      "rebuilt": "vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-5"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-07T03:49:27.682623",
+  "updated": "2026-10-12T03:51:14.421569",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "85.90.196.11",
+      "address": "herbalromania.top",
       "port": "443",
-      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "name": "",
-      "network": "ws",
-      "sni": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
-      "host": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
-      "security": "tls",
-      "flow": "",
+      "id": "62610fc6-8333-41f9-9258-08915e4343ab",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "herbalromania.top",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#vless-ws-tls-RO%F0%9F%8C%90-1",
-      "ip": "85.90.196.11",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://62610fc6-8333-41f9-9258-08915e4343ab@herbalromania.top:443?security=reality&encryption=none&pbk=EMM388R9SzURuXjJiD8vzI8pzGaaTdJM5UvRUAuxEg4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=herbalromania.top&sid=e27ba09622ff673a#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%8C%90-1",
+      "ip": "194.5.248.215",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#vless-ws-tls-RO%F0%9F%8C%90-1"
+      "rebuilt": "vless://62610fc6-8333-41f9-9258-08915e4343ab@herbalromania.top:443?security=reality&encryption=none&pbk=EMM388R9SzURuXjJiD8vzI8pzGaaTdJM5UvRUAuxEg4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=herbalromania.top&sid=e27ba09622ff673a#vless-xtls-rprx-vision-tcp-reality-firefox-RO%F0%9F%8C%90-1"
     }
   ]
 }
