@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-10T03:53:37.892636",
+  "updated": "2026-10-12T17:15:02.900980",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "181.214.147.216",
+      "address": "84.32.109.20",
       "port": "443",
-      "id": "8e403675-d020-4801-9520-9cba4bbfda0e",
-      "name": "@i10VPN🎎",
+      "id": "ee18d188-14cc-417e-beb1-70e4add6d023",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "lith.2clash.ru",
+      "sni": "litv.nztvpn.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1",
-      "ip": "181.214.147.216",
+      "fingerprint": "",
+      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1",
+      "ip": "84.32.109.20",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1"
     }
   ]
 }

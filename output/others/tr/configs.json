@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-12T03:51:14.398938",
+  "updated": "2026-10-12T17:15:02.872428",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "185.71.219.188",
-      "port": "443",
-      "id": "2107ea1e-26fb-4831-8c3f-fb190bea79f7",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "address": "206.1.99.14",
+      "port": "39907",
+      "id": "5d4557de-2778-4002-b12f-0211251e7595",
+      "name": "Free x589 @Outline_Vpn",
       "network": "tcp",
-      "sni": "",
+      "sni": "rpc.anker.com",
       "host": "",
-      "security": "none",
+      "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "185.71.219.188",
+      "fingerprint": "chrome",
+      "original": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "206.1.99.14",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "206.1.99.14",
-      "port": "39907",
-      "id": "5d4557de-2778-4002-b12f-0211251e7595",
-      "name": "Free x589 @Outline_Vpn",
+      "address": "185.71.219.188",
+      "port": "443",
+      "id": "2107ea1e-26fb-4831-8c3f-fb190bea79f7",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "network": "tcp",
-      "sni": "rpc.anker.com",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "206.1.99.14",
+      "fingerprint": "",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://5d4557de-2778-4002-b12f-0211251e7595@206.1.99.14:39907?security=reality&encryption=none&pbk=WKMa8Yg-WkXAnbHV4HK9YHQOXDyQzH2xcAL9hRRJWA4&headerType=none&fp=chrome&spx=%2Fac715f56c3564de&type=tcp&sni=rpc.anker.com&sid=f7a5d3#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
