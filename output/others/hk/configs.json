@@ -1,21 +1,26 @@
 {
-  "updated": "2026-10-12T17:15:02.885753",
+  "updated": "2026-10-13T05:01:54.989824",
   "count": 4,
   "configs": [
     {
-      "type": "vmess",
-      "address": "aksai.org",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "@i10VPN⁶",
-      "network": "ws",
-      "host": "aksai.org",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "91.199.84.134",
+      "type": "vless",
+      "address": "103.193.173.51",
+      "port": "39485",
+      "id": "25b3faeb-89b0-4dff-b0a3-0e70997dc962",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "103.193.173.51",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&sid=b9#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "vmess",

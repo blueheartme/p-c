@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-10-12 17:15:02 UTC
+**Last Updated:** 2026-10-13 05:01:55 UTC
 
 ## 📊 Statistics
 
 - **Total Configs:** 505
-- **Tested & Working:** 76
-- **Countries:** 36
+- **Tested & Working:** 81
+- **Countries:** 37
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 51
-- **Tested:** 35
+- **Total:** 53
+- **Tested:** 37
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 71
-- **Tested:** 41
+- **Total:** 72
+- **Tested:** 44
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -41,12 +41,16 @@
 - [JSON](others/at/configs.json) | [TXT](others/at/configs.txt) | [Subscription](others/at/subscription.txt)
 
 ### 🌐 BG
-- **Count:** 4
+- **Count:** 3
 - [JSON](others/bg/configs.json) | [TXT](others/bg/configs.txt) | [Subscription](others/bg/subscription.txt)
 
 ### 🇧🇷 BR
 - **Count:** 1
 - [JSON](others/br/configs.json) | [TXT](others/br/configs.txt) | [Subscription](others/br/subscription.txt)
+
+### 🌐 BZ
+- **Count:** 1
+- [JSON](others/bz/configs.json) | [TXT](others/bz/configs.txt) | [Subscription](others/bz/subscription.txt)
 
 ### 🇨🇦 CA
 - **Count:** 6
@@ -69,15 +73,15 @@
 - [JSON](others/es/configs.json) | [TXT](others/es/configs.txt) | [Subscription](others/es/subscription.txt)
 
 ### 🇫🇮 FI
-- **Count:** 14
+- **Count:** 12
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
-- **Count:** 29
+- **Count:** 27
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
-- **Count:** 31
+- **Count:** 28
 - [JSON](others/gb/configs.json) | [TXT](others/gb/configs.txt) | [Subscription](others/gb/subscription.txt)
 
 ### 🇭🇰 HK
@@ -89,11 +93,11 @@
 - [JSON](others/id/configs.json) | [TXT](others/id/configs.txt) | [Subscription](others/id/subscription.txt)
 
 ### 🌐 IE
-- **Count:** 13
+- **Count:** 11
 - [JSON](others/ie/configs.json) | [TXT](others/ie/configs.txt) | [Subscription](others/ie/subscription.txt)
 
 ### 🇮🇳 IN
-- **Count:** 2
+- **Count:** 1
 - [JSON](others/in/configs.json) | [TXT](others/in/configs.txt) | [Subscription](others/in/subscription.txt)
 
 ### 🌐 IT
@@ -104,12 +108,12 @@
 - **Count:** 5
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
 
-### 🌐 LT
+### 🌐 KZ
 - **Count:** 1
-- [JSON](others/lt/configs.json) | [TXT](others/lt/configs.txt) | [Subscription](others/lt/subscription.txt)
+- [JSON](others/kz/configs.json) | [TXT](others/kz/configs.txt) | [Subscription](others/kz/subscription.txt)
 
 ### 🌐 LV
-- **Count:** 6
+- **Count:** 5
 - [JSON](others/lv/configs.json) | [TXT](others/lv/configs.txt) | [Subscription](others/lv/subscription.txt)
 
 ### 🌐 MD
@@ -117,11 +121,11 @@
 - [JSON](others/md/configs.json) | [TXT](others/md/configs.txt) | [Subscription](others/md/subscription.txt)
 
 ### 🇳🇱 NL
-- **Count:** 52
+- **Count:** 49
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
 
 ### 🇵🇱 PL
-- **Count:** 21
+- **Count:** 19
 - [JSON](others/pl/configs.json) | [TXT](others/pl/configs.txt) | [Subscription](others/pl/subscription.txt)
 
 ### 🌐 PT
@@ -129,7 +133,7 @@
 - [JSON](others/pt/configs.json) | [TXT](others/pt/configs.txt) | [Subscription](others/pt/subscription.txt)
 
 ### 🌐 RO
-- **Count:** 2
+- **Count:** 1
 - [JSON](others/ro/configs.json) | [TXT](others/ro/configs.txt) | [Subscription](others/ro/subscription.txt)
 
 ### 🌐 RS
@@ -141,7 +145,7 @@
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
 
 ### 🇸🇪 SE
-- **Count:** 5
+- **Count:** 6
 - [JSON](others/se/configs.json) | [TXT](others/se/configs.txt) | [Subscription](others/se/subscription.txt)
 
 ### 🇸🇬 SG
@@ -153,7 +157,7 @@
 - [JSON](others/sk/configs.json) | [TXT](others/sk/configs.txt) | [Subscription](others/sk/subscription.txt)
 
 ### 🇹🇷 TR
-- **Count:** 3
+- **Count:** 4
 - [JSON](others/tr/configs.json) | [TXT](others/tr/configs.txt) | [Subscription](others/tr/subscription.txt)
 
 ### 🇹🇼 TW
@@ -161,7 +165,7 @@
 - [JSON](others/tw/configs.json) | [TXT](others/tw/configs.txt) | [Subscription](others/tw/subscription.txt)
 
 ### 🇺🇸 US
-- **Count:** 120
+- **Count:** 132
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
 
 ### 🇿🇦 ZA
