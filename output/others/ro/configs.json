@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T13:14:44.425837",
-  "count": 3,
+  "updated": "2026-10-14T19:55:58.227738",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -9,47 +9,12 @@
       "password": "1e9edd93-f160-4a4a-b369-2e5194b1932a",
       "name": "@filembad",
       "sni": "",
-      "host": "78.154.103.45",
-      "original": "trojan://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?path=%2FTelegram%3D%40AmyraxVPN&security=none&host=78.154.103.45&type=ws#trojan-ws-RO%F0%9F%8C%90-1",
-      "ip": "78.154.103.45",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "trojan://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?path=%2FTelegram%3D%40AmyraxVPN&security=none&host=78.154.103.45&type=ws#trojan-ws-RO%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "78.154.103.45",
-      "port": "11901",
-      "id": "1e9edd93-f160-4a4a-b369-2e5194b1932a",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "",
       "host": "",
-      "security": "",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?mode=gun&security=&encryption=none&type=grpc&serviceName=Telegram%3D%40AmyraxVPN#vless-grpc-RO%F0%9F%8C%90-2",
+      "original": "trojan://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?mode=gun&security=none&type=grpc&serviceName=Telegram%3D%40AmyraxVPN#trojan-grpc-RO%F0%9F%8C%90-1",
       "ip": "78.154.103.45",
       "country": "RO",
       "cdn": null,
-      "rebuilt": "vless://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?mode=gun&security=&encryption=none&type=grpc&serviceName=Telegram%3D%40AmyraxVPN#vless-grpc-RO%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vmess",
-      "address": "78.154.103.45",
-      "port": "11901",
-      "id": "1e9edd93-f160-4a4a-b369-2e5194b1932a",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "78.154.103.45",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiI3OC4xNTQuMTAzLjQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI3OC4xNTQuMTAzLjQ1IiwiaWQiOiIxZTllZGQ5My1mMTYwLTRhNGEtYjM2OS0yZTUxOTRiMTkzMmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVGVsZWdyYW09QEFteXJheFZQTiIsInBjcyI6IiIsInBvcnQiOiIxMTkwMSIsInBzIjoidm1lc3MtYXV0by13cy1ST/CfjJAtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "78.154.103.45",
-      "country": "RO",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI3OC4xNTQuMTAzLjQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI3OC4xNTQuMTAzLjQ1IiwiaWQiOiIxZTllZGQ5My1mMTYwLTRhNGEtYjM2OS0yZTUxOTRiMTkzMmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVGVsZWdyYW09QEFteXJheFZQTiIsInBjcyI6IiIsInBvcnQiOiIxMTkwMSIsInBzIjoidm1lc3MtYXV0by13cy1ST/CfjJAtMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "trojan://1e9edd93-f160-4a4a-b369-2e5194b1932a@78.154.103.45:11901?mode=gun&security=none&type=grpc&serviceName=Telegram%3D%40AmyraxVPN#trojan-grpc-RO%F0%9F%8C%90-1"
     }
   ]
 }
