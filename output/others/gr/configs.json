@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-14T20:07:13.405108",
+  "updated": "2026-10-15T02:48:00.472920",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "38.54.29.113",
-      "port": "8553",
-      "id": "824faea9-cafe-5fa1-90dd-46d975d22ca8",
+      "address": "fastspeedshop.persiansubpannel.ir",
+      "port": "2053",
+      "id": "45132ecb-3864-464c-8e49-1dfe4c1b881f",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
+      "network": "grpc",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.smlhnyy_jzh-wld17dyeq0rrwycdg6kucpqhezgyqd8",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://824faea9-cafe-5fa1-90dd-46d975d22ca8@38.54.29.113:8553?security=reality&encryption=none&pbk=C41m2OJvTIXOIo9KsTstW-4BggXA0BR3p3B7Ve5jkx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a141e13cdb91e888#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%8C%90-1",
-      "ip": "38.54.29.113",
+      "original": "vless://45132ecb-3864-464c-8e49-1dfe4c1b881f@fastspeedshop.persiansubpannel.ir:2053?encryption=mlkem768x25519plus.native.0rtt.smlhNYY_JZH-wLD17DYEQ0RrWycDG6kuCpQHeZgyQD8&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=FgrUIuePnS_EVm8I8NVI0_Oa_7c08fHmCWOdX1tZhTA&sid=f0439ebdf3226d&spx=%2Fff70376688c14ef&type=grpc&authority=&serviceName=Grpc&mode=gun#vless-mlkem768x25519plus.native.0rtt.smlhnyy_jzh-wld17dyeq0rrwycdg6kucpqhezgyqd8-grpc-reality-chrome-GR%F0%9F%8C%90-1",
+      "ip": "130.94.75.248",
       "country": "GR",
       "cdn": null,
-      "rebuilt": "vless://824faea9-cafe-5fa1-90dd-46d975d22ca8@38.54.29.113:8553?security=reality&encryption=none&pbk=C41m2OJvTIXOIo9KsTstW-4BggXA0BR3p3B7Ve5jkx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a141e13cdb91e888#vless-xtls-rprx-vision-tcp-reality-chrome-GR%F0%9F%8C%90-1"
+      "rebuilt": "vless://45132ecb-3864-464c-8e49-1dfe4c1b881f@fastspeedshop.persiansubpannel.ir:2053?encryption=mlkem768x25519plus.native.0rtt.smlhNYY_JZH-wLD17DYEQ0RrWycDG6kuCpQHeZgyQD8&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=FgrUIuePnS_EVm8I8NVI0_Oa_7c08fHmCWOdX1tZhTA&sid=f0439ebdf3226d&spx=%2Fff70376688c14ef&type=grpc&authority=&serviceName=Grpc&mode=gun#vless-mlkem768x25519plus.native.0rtt.smlhnyy_jzh-wld17dyeq0rrwycdg6kucpqhezgyqd8-grpc-reality-chrome-GR%F0%9F%8C%90-1"
     }
   ]
 }
