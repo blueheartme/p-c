@@ -1,19 +1,45 @@
 {
-  "updated": "2026-10-15T02:48:00.457209",
-  "count": 3,
+  "updated": "2026-10-15T13:00:57.098435",
+  "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "20.164.212.146",
-      "port": "443",
+      "address": "20.164.209.198",
+      "port": "443?type=tcp",
       "method": "chacha20-ietf-poly1305",
-      "password": "e6UqAb4130ycM7qM",
-      "name": "@ir_IRANy 📞",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#%40ir_IRANy%20%F0%9F%93%9E",
-      "ip": "20.164.212.146",
+      "password": "IdBspBchqpInOZFK",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443?type=tcp#%40filembad",
+      "ip": "20.164.209.198",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#%40ir_IRANy%20%F0%9F%93%9E"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443?type=tcp#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.201.229",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "f0wxc3RUYwxIzKSf",
+      "name": "@GoldVpnHub",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#%40GoldVpnHub%20",
+      "ip": "20.164.201.229",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#%40GoldVpnHub%20"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.209.198",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "IdBspBchqpInOZFK",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#%40filembad",
+      "ip": "20.164.209.198",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#%40filembad"
     },
     {
       "type": "ss",
@@ -30,16 +56,16 @@
     },
     {
       "type": "ss",
-      "address": "20.164.201.229",
+      "address": "20.164.212.146",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
-      "password": "f0wxc3RUYwxIzKSf",
-      "name": "@GoldVpnHub",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#%40GoldVpnHub%20",
-      "ip": "20.164.201.229",
+      "password": "e6UqAb4130ycM7qM",
+      "name": "@ir_IRANy 📞",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#%40ir_IRANy%20%F0%9F%93%9E",
+      "ip": "20.164.212.146",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#%40GoldVpnHub%20"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#%40ir_IRANy%20%F0%9F%93%9E"
     }
   ]
 }
