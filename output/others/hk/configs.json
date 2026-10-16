@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-15T19:38:28.006403",
-  "count": 5,
+  "updated": "2026-10-16T02:44:51.558874",
+  "count": 4,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "194.99.79.26",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "@i10VPN⁹",
-      "network": "ws",
-      "host": "aksai.org",
-      "sni": "aksai.org",
-      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "194.99.79.26",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vmess",
-      "address": "aksai.org",
-      "port": "443",
-      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "name": "@i10VPN⁶",
-      "network": "ws",
-      "host": "aksai.org",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "91.199.84.134",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJha3NhaS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
     {
       "type": "vmess",
       "address": "89.223.95.77",
@@ -41,11 +11,11 @@
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "original": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "89.223.95.77",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+      "rebuilt": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
       "type": "trojan",
@@ -55,11 +25,26 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+    },
+    {
+      "type": "vmess",
+      "address": "194.99.79.26",
+      "port": "443",
+      "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "name": "@i10VPN⁹",
+      "network": "ws",
+      "host": "aksai.org",
+      "sni": "aksai.org",
+      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "ip": "194.99.79.26",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
       "type": "vless",
@@ -75,11 +60,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5",
+      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4",
       "ip": "18.163.208.57",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-5"
+      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }
