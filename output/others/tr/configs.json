@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-17T02:36:30.400105",
+  "updated": "2026-10-17T11:55:34.127877",
   "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "87.120.106.133",
-      "port": "8443",
-      "id": "d9fbf9a7-1f88-428b-bb3e-3074681e44c9",
-      "name": "@ir_IRANy 📞",
+      "address": "185.71.219.188",
+      "port": "443",
+      "id": "2107ea1e-26fb-4831-8c3f-fb190bea79f7",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "network": "tcp",
       "sni": "",
-      "host": "play.google.com",
+      "host": "",
       "security": "none",
       "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4",
-      "headerType": "http",
+      "encryption": "none",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "87.120.106.133",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -44,23 +44,23 @@
     },
     {
       "type": "vless",
-      "address": "185.71.219.188",
-      "port": "443",
-      "id": "2107ea1e-26fb-4831-8c3f-fb190bea79f7",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "address": "87.120.106.133",
+      "port": "8443",
+      "id": "d9fbf9a7-1f88-428b-bb3e-3074681e44c9",
+      "name": "@ir_IRANy 📞",
       "network": "tcp",
       "sni": "",
-      "host": "",
+      "host": "play.google.com",
       "security": "none",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4",
+      "headerType": "http",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "185.71.219.188",
+      "original": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "87.120.106.133",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
