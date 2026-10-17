@@ -1,26 +1,19 @@
 {
-  "updated": "2026-10-15T13:00:57.110029",
+  "updated": "2026-10-17T18:05:58.781875",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "kr2.oh-node.com",
-      "port": "443",
-      "id": "7cfd34ae-edad-4cc5-9d6f-066f7add7829",
+      "type": "ss",
+      "address": "13.125.94.114",
+      "port": "8443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e68e32f-8015-4f37-9082-70e8b0b58043",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.coway.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@kr2.oh-node.com:443?security=reality&encryption=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.coway.com&sid=c8af1462debbc1#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1",
-      "ip": "43.201.70.165",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.125.94.114:8443#%40filembad",
+      "ip": "13.125.94.114",
       "country": "KR",
       "cdn": null,
-      "rebuilt": "vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@kr2.oh-node.com:443?security=reality&encryption=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.coway.com&sid=c8af1462debbc1#vless-xtls-rprx-vision-tcp-reality-KR%F0%9F%87%B0%F0%9F%87%B7-1"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.125.94.114:8443#%40filembad"
     }
   ]
 }
