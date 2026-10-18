@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:05:58.772821",
+  "updated": "2026-10-18T02:37:54.985042",
   "count": 3,
   "configs": [
     {
@@ -23,24 +23,19 @@
       "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "vless",
-      "address": "87.120.106.133",
-      "port": "8443",
-      "id": "d9fbf9a7-1f88-428b-bb3e-3074681e44c9",
-      "name": "@ir_IRANy 📞",
+      "type": "vmess",
+      "address": "tot-1.povrak.ir",
+      "port": "56268",
+      "id": "6df4f26a-258a-4a58-bf45-cb6091277e36",
+      "name": "@filembad",
       "network": "tcp",
+      "host": "",
       "sni": "",
-      "host": "play.google.com",
-      "security": "none",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4",
-      "headerType": "http",
-      "fingerprint": "",
-      "original": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "87.120.106.133",
+      "original": "vmess://eyJhZGQiOiJ0b3QtMS5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmRmNGYyNmEtMjU4YS00YTU4LWJmNDUtY2I2MDkxMjc3ZTM2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjI2OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "136.148.64.155",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://d9fbf9a7-1f88-428b-bb3e-3074681e44c9@87.120.106.133:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.7WEbPW2MNQVPFes_RG-_xJeZj1a8ziFy7hccWQ65iT4&host=play.google.com&headerType=http&type=tcp#vless-mlkem768x25519plus.native.0rtt.7webpw2mnqvpfes_rg-_xjezj1a8zify7hccwq65it4-tcp-http-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vmess://eyJhZGQiOiJ0b3QtMS5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmRmNGYyNmEtMjU4YS00YTU4LWJmNDUtY2I2MDkxMjc3ZTM2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjI2OCIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },
     {
       "type": "vless",
