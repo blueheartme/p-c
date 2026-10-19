@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T18:24:57.547216",
-  "count": 3,
+  "updated": "2026-10-19T02:51:00.760330",
+  "count": 4,
   "configs": [
     {
       "type": "vmess",
@@ -45,6 +45,26 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiI4OS4yMjMuOTUuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoidm1lc3MtYXV0by10Y3AtSEvwn4et8J+HsC0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
+    },
+    {
+      "type": "vless",
+      "address": "fi.api.nurcloud.org",
+      "port": "443",
+      "id": "29d5b0b0-0417-46cc-948f-8f3077ded709",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "fi.api.nurcloud.org",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://29d5b0b0-0417-46cc-948f-8f3077ded709@fi.api.nurcloud.org:443?security=reality&encryption=none&pbk=DYai8uLOumyG7Gh3H8ADSmRMZpfw-t98uU4D6ean_Gw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.api.nurcloud.org&sid=b289dd8ac05d4594#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "96.62.103.176",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://29d5b0b0-0417-46cc-948f-8f3077ded709@fi.api.nurcloud.org:443?security=reality&encryption=none&pbk=DYai8uLOumyG7Gh3H8ADSmRMZpfw-t98uU4D6ean_Gw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.api.nurcloud.org&sid=b289dd8ac05d4594#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }

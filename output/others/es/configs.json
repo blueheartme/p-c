@@ -1,27 +1,47 @@
 {
-  "updated": "2026-10-18T18:24:57.544994",
-  "count": 2,
+  "updated": "2026-10-19T02:51:00.737017",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "213.182.201.134",
+      "port": "3090",
+      "id": "b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "",
+      "host": "",
+      "security": "",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f@213.182.201.134:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-1",
+      "ip": "213.182.201.134",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "vless://b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f@213.182.201.134:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-1"
+    },
     {
       "type": "vmess",
       "address": "66.163.118.73",
       "port": "22324",
       "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁵",
+      "name": "@i10VPN⁶",
       "network": "tcp",
       "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "ip": "66.163.118.73",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InZtZXNzLWF1dG8tdGNwLUVT8J+MkC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
       "type": "vless",
-      "address": "213.182.201.133",
+      "address": "213.182.201.137",
       "port": "3090",
-      "id": "0d4c981f-687e-4e33-b934-4cbe64e896ed",
+      "id": "b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f",
       "name": "@filembad",
       "network": "grpc",
       "sni": "",
@@ -31,11 +51,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://0d4c981f-687e-4e33-b934-4cbe64e896ed@213.182.201.133:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-2",
-      "ip": "213.182.201.133",
+      "original": "vless://b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f@213.182.201.137:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-3",
+      "ip": "213.182.201.137",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://0d4c981f-687e-4e33-b934-4cbe64e896ed@213.182.201.133:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://b89c2d37-1c91-4ef1-a89d-b5dc48f3cc5f@213.182.201.137:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-3"
     }
   ]
 }
