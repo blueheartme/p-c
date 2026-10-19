@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:12:19.429594",
+  "updated": "2026-10-19T20:50:16.363510",
   "count": 2,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "66.163.118.73",
       "port": "22324",
       "id": "04621bae-ab36-11ec-b909-0242ac120002",
-      "name": "@i10VPN⁶",
+      "name": "@i10VPN²",
       "network": "tcp",
       "host": "",
       "sni": "",
@@ -19,23 +19,23 @@
     },
     {
       "type": "vless",
-      "address": "213.182.201.17",
-      "port": "3090",
-      "id": "01dc8f3c-2ebc-4908-aa10-d912519a5395",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "none",
+      "address": "31.57.190.50",
+      "port": "443",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "YFZ 90 @Outline_Vpn",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://01dc8f3c-2ebc-4908-aa10-d912519a5395@213.182.201.17:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-2",
-      "ip": "213.182.201.17",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%8C%90-2",
+      "ip": "31.57.190.50",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://01dc8f3c-2ebc-4908-aa10-d912519a5395@213.182.201.17:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#vless-grpc-ES%F0%9F%8C%90-2"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%8C%90-2"
     }
   ]
 }

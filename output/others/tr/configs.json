@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-19T15:12:19.424748",
-  "count": 5,
+  "updated": "2026-10-19T20:50:16.367301",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
-      "address": "206.1.103.26",
-      "port": "443",
-      "id": "0ad58d97-922c-4e85-b820-9d04dab5b8ec",
+      "address": "206.1.98.150",
+      "port": "8080",
+      "id": "89b25f4e-8f3e-4566-b88e-005f163eeb04",
       "name": "@filembad",
-      "network": "tcp",
+      "network": "ws",
       "sni": "",
-      "host": "",
-      "security": "",
+      "host": "206.1.98.150",
+      "security": "none",
       "flow": "",
-      "encryption": "none",
-      "headerType": "none",
+      "encryption": "mlkem768x25519plus.native.0rtt.cxfwzuhkhtuvdkhtq1qqbz7qxm30oe9xs180u9gveye",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "206.1.103.26",
+      "original": "vless://89b25f4e-8f3e-4566-b88e-005f163eeb04@206.1.98.150:8080?encryption=mlkem768x25519plus.native.0rtt.CxFwZUhKHTuVdkHTQ1QqBZ7qxM30oe9Xs180U9gvEyE&security=none&type=ws&host=206.1.98.150&path=%2Fal&headers=%7B%0A%20%20%22Host%22%3A%20%22206.1.98.150%22%0A%7D#vless-mlkem768x25519plus.native.0rtt.cxfwzuhkhtuvdkhtq1qqbz7qxm30oe9xs180u9gveye-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "ip": "206.1.98.150",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?security=&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://89b25f4e-8f3e-4566-b88e-005f163eeb04@206.1.98.150:8080?encryption=mlkem768x25519plus.native.0rtt.CxFwZUhKHTuVdkHTQ1QqBZ7qxM30oe9Xs180U9gvEyE&security=none&type=ws&host=206.1.98.150&path=%2Fal&headers=%7B%0A%20%20%22Host%22%3A%20%22206.1.98.150%22%0A%7D#vless-mlkem768x25519plus.native.0rtt.cxfwzuhkhtuvdkhtq1qqbz7qxm30oe9xs180u9gveye-ws-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
       "type": "vless",
@@ -61,41 +61,6 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
-    {
-      "type": "vless",
-      "address": "tutua.azad0namah.ir",
-      "port": "8080",
-      "id": "f079a440-e5f6-46cc-bcaf-273c8cf4417d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@tutua.azad0namah.ir:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4",
-      "ip": "185.223.77.118",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@tutua.azad0namah.ir:8080?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-4"
-    },
-    {
-      "type": "vmess",
-      "address": "tot-1.berzulo.ir",
-      "port": "56268",
-      "id": "29c6f854-2068-4899-8d68-7a5f0ffb92d1",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiJ0b3QtMS5iZXJ6dWxvLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "136.148.64.252",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiJ0b3QtMS5iZXJ6dWxvLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5YzZmODU0LTIwNjgtNDg5OS04ZDY4LTdhNWYwZmZiOTJkMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }
