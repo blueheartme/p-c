@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T03:01:19.873663",
-  "count": 2,
+  "updated": "2026-10-20T13:12:40.081774",
+  "count": 3,
   "configs": [
     {
       "type": "vmess",
@@ -31,6 +31,26 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxNzIuMjM3LjcwLjIyNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1TR/Cfh7jwn4esLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
+    {
+      "type": "vless",
+      "address": "510.150333.xyz",
+      "port": "21004",
+      "id": "67952583-8572-42e1-943d-0602794f885b",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3",
+      "ip": "103.106.229.177",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#vless-tcp-reality-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
