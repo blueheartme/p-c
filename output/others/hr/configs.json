@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T19:55:58.226867",
+  "updated": "2026-10-21T19:52:59.631690",
   "count": 1,
   "configs": [
     {
       "type": "vless",
       "address": "5.181.2.168",
       "port": "443",
-      "id": "9d981e91-ed04-41f9-b8f1-b993c1585d4d",
+      "id": "5c8950a3-2142-42c9-b414-fa34526ff25f",
       "name": "@filembad",
       "network": "tcp",
       "sni": "hr1-4v.zvcorp24.com",
@@ -16,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://9d981e91-ed04-41f9-b8f1-b993c1585d4d@5.181.2.168:443?security=reality&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6#vless-xtls-rprx-vision-tcp-reality-firefox-HR%F0%9F%8C%90-1",
+      "original": "vless://5c8950a3-2142-42c9-b414-fa34526ff25f@5.181.2.168:443?headerType=none&flow=xtls-rprx-vision&security=reality&fp=firefox&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6&type=tcp&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg#vless-xtls-rprx-vision-tcp-reality-firefox-HR%F0%9F%8C%90-1",
       "ip": "5.181.2.168",
       "country": "HR",
       "cdn": null,
-      "rebuilt": "vless://9d981e91-ed04-41f9-b8f1-b993c1585d4d@5.181.2.168:443?security=reality&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6#vless-xtls-rprx-vision-tcp-reality-firefox-HR%F0%9F%8C%90-1"
+      "rebuilt": "vless://5c8950a3-2142-42c9-b414-fa34526ff25f@5.181.2.168:443?headerType=none&flow=xtls-rprx-vision&security=reality&fp=firefox&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6&type=tcp&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg#vless-xtls-rprx-vision-tcp-reality-firefox-HR%F0%9F%8C%90-1"
     }
   ]
 }
