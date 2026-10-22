@@ -1,21 +1,7 @@
 {
-  "updated": "2026-10-21T19:52:59.624307",
-  "count": 2,
+  "updated": "2026-10-22T02:54:52.240843",
+  "count": 3,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "195.15.202.111",
-      "port": "4455",
-      "password": "g44i2hzwivmm7r29",
-      "name": "Free x727 @Outline_Vpn",
-      "sni": "play-apps-features.googleusercontent.com",
-      "host": "",
-      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "195.15.202.111",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
     {
       "type": "vless",
       "address": "ch.zango.tech",
@@ -30,11 +16,45 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "qq",
-      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "original": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1",
       "ip": "83.228.246.83",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#vless-grpc-reality-qq-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
+    {
+      "type": "vless",
+      "address": "p2real5.greewebservices.ir",
+      "port": "1350",
+      "id": "2582857a-632b-4c4e-9b67-96213cbaf58c",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "play.googleapis.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "ios",
+      "original": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2",
+      "ip": "131.123.34.193",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+    },
+    {
+      "type": "trojan",
+      "address": "195.15.202.111",
+      "port": "4455",
+      "password": "g44i2hzwivmm7r29",
+      "name": "Free x727 @Outline_Vpn",
+      "sni": "play-apps-features.googleusercontent.com",
+      "host": "",
+      "original": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3",
+      "ip": "195.15.202.111",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#trojan-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-3"
     }
   ]
 }
