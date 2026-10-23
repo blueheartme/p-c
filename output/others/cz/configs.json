@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-17T11:55:34.131717",
+  "updated": "2026-10-23T13:01:01.773989",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "67.159.18.34",
-      "port": "17001",
-      "method": "aes-256-gcm",
-      "password": "I6o9NnialYLMEjVt28RF4dpjmr9wMvNL",
+      "type": "vless",
+      "address": "46.36.44.220",
+      "port": "443",
+      "id": "bfd81b63-a43d-4c27-b71d-2c948cfc4ab2",
       "name": "@filembad",
-      "original": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%40filembad",
-      "ip": "67.159.18.34",
+      "network": "tcp",
+      "sni": "seznam.cz",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1",
+      "ip": "46.36.44.220",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%40filembad"
+      "rebuilt": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1"
     }
   ]
 }

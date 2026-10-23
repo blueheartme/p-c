@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-23T02:58:24.293714",
+  "updated": "2026-10-23T13:01:01.775150",
   "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "areal5.greewebservices.ir",
-      "port": "5455",
-      "id": "2582857a-632b-4c4e-9b67-96213cbaf58c",
+      "address": "179.237.109.135",
+      "port": "443",
+      "id": "bfd81b63-a43d-4c27-b71d-2c948cfc4ab2",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
+      "sni": "seznam.cz",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "edge",
-      "original": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-1",
-      "ip": "131.123.34.193",
+      "fingerprint": "firefox",
+      "original": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@179.237.109.135:443?security=reality&encryption=none&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=seznam.cz&sid=7791e189a518d69e#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "179.237.109.135",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal5.greewebservices.ir:5455?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none#vless-tcp-reality-edge-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+      "rebuilt": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@179.237.109.135:443?security=reality&encryption=none&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=seznam.cz&sid=7791e189a518d69e#vless-xtls-rprx-vision-tcp-reality-firefox-CH%F0%9F%87%A8%F0%9F%87%AD-1"
     },
     {
       "type": "vless",
