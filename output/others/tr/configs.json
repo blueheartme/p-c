@@ -1,22 +1,7 @@
 {
-  "updated": "2026-10-23T19:43:44.471822",
-  "count": 2,
+  "updated": "2026-10-24T02:55:06.134207",
+  "count": 1,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "206.1.99.36",
-      "port": "58202",
-      "id": "482e7f58-e8e8-418d-accd-0a94bdf090ae",
-      "name": "@filembad",
-      "network": "tcp",
-      "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIyMDYuMS45OS4zNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ODJlN2Y1OC1lOGU4LTQxOGQtYWNjZC0wYTk0YmRmMDkwYWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU4MjAyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UUvCfh7nwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "ip": "206.1.99.36",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIyMDYuMS45OS4zNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ODJlN2Y1OC1lOGU4LTQxOGQtYWNjZC0wYTk0YmRmMDkwYWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU4MjAyIiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1UUvCfh7nwn4e3LTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
     {
       "type": "vless",
       "address": "185.71.219.188",
@@ -31,11 +16,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

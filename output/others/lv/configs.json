@@ -1,26 +1,21 @@
 {
-  "updated": "2026-10-23T19:43:44.475667",
-  "count": 2,
+  "updated": "2026-10-24T02:55:06.124386",
+  "count": 3,
   "configs": [
     {
-      "type": "vless",
-      "address": "195.135.252.28",
-      "port": "443",
-      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
-      "name": "Latvia Sia Veesp",
+      "type": "vmess",
+      "address": "45.38.198.25",
+      "port": "23198",
+      "id": "2fe24d2f-5319-4276-bf92-b00122a7c1de",
+      "name": "50 گیگ 49 ت! تست رایگان🤩TICKV2BOT@",
       "network": "tcp",
-      "sni": "yahoo.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
-      "ip": "195.135.252.28",
+      "sni": "45.38.198.25",
+      "original": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiNDUuMzguMTk4LjI1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "ip": "45.38.198.25",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJhZGQiOiI0NS4zOC4xOTguMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZmUyNGQyZi01MzE5LTQyNzYtYmY5Mi1iMDAxMjJhN2MxZGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMTk4IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC10bHMtTFbwn4yQLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiNDUuMzguMTk4LjI1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     },
     {
       "type": "vless",
@@ -41,6 +36,26 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "195.135.252.28",
+      "port": "443",
+      "id": "099dbf2d-a8e0-406e-a85f-eba0ac9a68aa",
+      "name": "Latvia Sia Veesp",
+      "network": "tcp",
+      "sni": "yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3",
+      "ip": "195.135.252.28",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-3"
     }
   ]
 }

@@ -1,19 +1,26 @@
 {
-  "updated": "2026-10-22T19:41:12.103200",
+  "updated": "2026-10-24T02:55:06.138767",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "130.49.189.158",
-      "port": "43558",
-      "method": "chacha20-ietf-poly1305",
-      "password": "nQeEoXC5Yl5PZnPLvKUpFTU9cyQcNG902zpibWkwGbo=",
+      "type": "vless",
+      "address": "157.22.240.50",
+      "port": "443",
+      "id": "iCaYLyqSFgn5Nt",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%40filembad",
-      "ip": "130.49.189.158",
+      "network": "tcp",
+      "sni": "www.ovhcloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1",
+      "ip": "157.22.240.50",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%40filembad"
+      "rebuilt": "vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1"
     }
   ]
 }
