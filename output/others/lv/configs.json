@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T18:32:24.086611",
+  "updated": "2026-10-25T02:47:56.604002",
   "count": 4,
   "configs": [
     {
@@ -24,23 +24,23 @@
     },
     {
       "type": "vless",
-      "address": "lv5.himoy.space",
+      "address": "46.28.64.242",
       "port": "443",
-      "id": "5131b5e9-2c3c-44a0-8f18-0641f3f21cac",
-      "name": "@filembad",
+      "id": "1e560bb6-4d52-4625-a629-54b1282f1b93",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
       "network": "tcp",
-      "sni": "lv5.himoy.space",
+      "sni": "www.cloudflare.com",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv5.himoy.space:443?security=reality&encryption=none&pbk=S8fcWoOddbw_d-s7yrgi6Udb69A2XnW2xfJ-Xk6ubko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv5.himoy.space&sid=5ff4fb909a3dfebf#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-2",
-      "ip": "138.124.63.22",
+      "fingerprint": "",
+      "original": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2",
+      "ip": "46.28.64.242",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv5.himoy.space:443?security=reality&encryption=none&pbk=S8fcWoOddbw_d-s7yrgi6Udb69A2XnW2xfJ-Xk6ubko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv5.himoy.space&sid=5ff4fb909a3dfebf#vless-xtls-rprx-vision-tcp-reality-firefox-LV%F0%9F%8C%90-2"
+      "rebuilt": "vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?security=reality&encryption=none&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=64c147592a2f84d9#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2"
     },
     {
       "type": "vless",

@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-24T18:32:24.085064",
-  "count": 2,
+  "updated": "2026-10-25T02:47:56.619075",
+  "count": 3,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "free.ertebatgoostar.ir",
+      "port": "443",
+      "id": "c9eab439-53bf-46e4-ba58-fc368ae1ee8c",
+      "name": "@TheClonazepam",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwiYWRkIjoiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsInBvcnQiOiI0NDMiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9",
+      "ip": "176.53.17.12",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0xIiwiYWRkIjoiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsInBvcnQiOiI0NDMiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9"
+    },
     {
       "type": "vless",
       "address": "185.71.219.188",
@@ -16,26 +31,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "185.71.219.188",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-1"
+      "rebuilt": "vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
-      "type": "vmess",
-      "address": "free.ertebatgoostar.ir",
-      "port": "443",
-      "id": "c9eab439-53bf-46e4-ba58-fc368ae1ee8c",
-      "name": "@TheClonazepam",
+      "type": "vless",
+      "address": "185.98.63.6",
+      "port": "8443",
+      "id": "6845a59f-970b-4e1e-8e26-06a34ee663d6",
+      "name": "@i10VPN²",
       "network": "tcp",
+      "sni": "apple.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwiYWRkIjoiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsInBvcnQiOiI0NDMiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9",
-      "ip": "176.53.17.12",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3",
+      "ip": "185.98.63.6",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by10Y3AtVFLwn4e58J+Hty0yIiwiYWRkIjoiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsInBvcnQiOiI0NDMiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9"
+      "rebuilt": "vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#vless-xtls-rprx-vision-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3"
     }
   ]
 }
