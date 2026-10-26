@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T18:40:52.891854",
-  "count": 1,
+  "updated": "2026-10-26T02:45:59.408716",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -17,10 +17,30 @@
       "headerType": "none",
       "fingerprint": "chrome",
       "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.29",
+      "ip": "38.180.26.28",
       "country": "AE",
       "cdn": null,
       "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "185.225.195.30",
+      "port": "8880",
+      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "name": "@filembad",
+      "network": "ws",
+      "sni": "",
+      "host": "vms.lifetime18.workers.dev",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2",
+      "ip": "185.225.195.30",
+      "country": "AE",
+      "cdn": null,
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-AE%F0%9F%87%A6%F0%9F%87%AA-2"
     }
   ]
 }
