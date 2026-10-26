@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-10T14:09:20.783241",
+  "updated": "2026-10-26T20:50:24.600657",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "87.58.158.82",
+      "address": "friren.iki-servers.com",
       "port": "443",
-      "id": "267b3a79-81f2-42ac-a409-c23b05b6329d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "dk7.bbobr.win",
+      "id": "345e0ef7-6861-4722-ab44-799c37507b24",
+      "name": "Channel : @proxy_kafee",
+      "network": "xhttp",
+      "sni": "friren.iki-servers.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "random",
-      "original": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%8C%90-1",
-      "ip": "87.58.158.82",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://345e0ef7-6861-4722-ab44-799c37507b24@friren.iki-servers.com:443?mode=packet-up&path=%2Fshield&security=reality&encryption=none&pbk=iD0nfLVyK9EbtFtKZgj_UcuGINq6yTqQM4jFfuTMFSY&fp=firefox&type=xhttp&sni=friren.iki-servers.com&sid=5f5962cc9ec6b180#vless-xhttp-reality-firefox-DK%F0%9F%8C%90-1",
+      "ip": "193.233.253.138",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#vless-xtls-rprx-vision-tcp-reality-random-DK%F0%9F%8C%90-1"
+      "rebuilt": "vless://345e0ef7-6861-4722-ab44-799c37507b24@friren.iki-servers.com:443?mode=packet-up&path=%2Fshield&security=reality&encryption=none&pbk=iD0nfLVyK9EbtFtKZgj_UcuGINq6yTqQM4jFfuTMFSY&fp=firefox&type=xhttp&sni=friren.iki-servers.com&sid=5f5962cc9ec6b180#vless-xhttp-reality-firefox-DK%F0%9F%8C%90-1"
     }
   ]
 }

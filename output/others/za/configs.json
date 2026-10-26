@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T14:46:43.929654",
-  "count": 1,
+  "updated": "2026-10-26T20:50:24.585642",
+  "count": 2,
   "configs": [
     {
       "type": "ss",
@@ -8,12 +8,25 @@
       "port": "443",
       "method": "chacha20-ietf-poly1305",
       "password": "UQFMIrjfuCgElfpl",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#%40filembad",
+      "name": "@ProxyMTProtoIR",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#@ProxyMTProtoIR",
       "ip": "20.164.41.194",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#@ProxyMTProtoIR"
+    },
+    {
+      "type": "ss",
+      "address": "20.164.212.103",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "b39m1ZYI0Hkk8ieb",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzltMVpZSTBIa2s4aWVi@20.164.212.103:443#%40filembad",
+      "ip": "20.164.212.103",
+      "country": "ZA",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzltMVpZSTBIa2s4aWVi@20.164.212.103:443#%40filembad"
     }
   ]
 }
