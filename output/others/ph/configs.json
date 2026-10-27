@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-27T19:27:43.171680",
+  "updated": "2026-10-27T13:52:15.046804",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "61.245.11.28",
-      "port": "9090",
-      "id": "Channel%3Atelegram%3ATurboConfigs",
-      "name": "Free x288 @Outline_Vpnx269",
+      "address": "130.94.53.51",
+      "port": "15656",
+      "id": "e9a8144e-5237-488a-afb1-9ca3d8d54c80",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
-      "sni": "",
-      "host": "play-apps-features.googleusercontent.com",
-      "security": "none",
+      "sni": "ph001.zestapp778.com",
+      "host": "",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
-      "headerType": "http",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-PH%F0%9F%8C%90-1",
-      "ip": "61.245.11.28",
+      "original": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#vless-tcp-tls-PH%F0%9F%8C%90-1",
+      "ip": "130.94.53.51",
       "country": "PH",
       "cdn": null,
-      "rebuilt": "vless://Channel%3Atelegram%3ATurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#vless-tcp-http-PH%F0%9F%8C%90-1"
+      "rebuilt": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#vless-tcp-tls-PH%F0%9F%8C%90-1"
     }
   ]
 }
