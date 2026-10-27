@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T13:52:15.045337",
-  "count": 2,
+  "updated": "2026-10-27T20:22:23.707305",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=%2FAU7W&security=tls&alpn=http%2F1.1&encryption=none&host=au7.pad-sservice.lat&fp=firefox&type=ws&sni=au7.pad-sservice.lat#vless-ws-tls-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
-    },
-    {
-      "type": "vless",
-      "address": "au6.pad-sservice.lat",
-      "port": "8443",
-      "id": "2b0e5676-fb62-4bf0-9607-6e7818421e8e",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "ws",
-      "sni": "au6.pad-sservice.lat",
-      "host": "au6.pad-sservice.lat",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?path=%2FAU6W&security=tls&encryption=none&host=au6.pad-sservice.lat&type=ws&sni=au6.pad-sservice.lat#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
-      "ip": "62.83.41.69",
-      "country": "AT",
-      "cdn": null,
-      "rebuilt": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?path=%2FAU6W&security=tls&encryption=none&host=au6.pad-sservice.lat&type=ws&sni=au6.pad-sservice.lat#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
