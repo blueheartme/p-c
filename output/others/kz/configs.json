@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-14T03:08:54.489461",
+  "updated": "2026-10-28T14:46:34.714113",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "199.189.254.242",
-      "port": "443",
-      "id": "f804a3c6-1776-4d81-8563-3a5e78e9f074",
-      "name": "Channel : @proxy_kafee",
+      "address": "45.136.59.28",
+      "port": "43000",
+      "id": "a8b8b21e-1f31-4e4d-a639-efb2de0d577e",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "www.kz.forge-relay.com",
+      "sni": "",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%8C%90-1",
-      "ip": "199.189.254.242",
+      "original": "vless://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%8C%90-1",
+      "ip": "45.136.59.28",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://f804a3c6-1776-4d81-8563-3a5e78e9f074@199.189.254.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kz.forge-relay.com&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#vless-xtls-rprx-vision-tcp-reality-KZ%F0%9F%8C%90-1"
     }
   ]
 }

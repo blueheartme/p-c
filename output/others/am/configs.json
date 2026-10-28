@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-21T02:52:51.748813",
+  "updated": "2026-10-28T14:46:34.710519",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "88.218.92.201",
-      "port": "443",
-      "id": "M75iXJmnlyAiXS",
+      "address": "77.91.68.70",
+      "port": "55983",
+      "id": "f667a096-5231-4cfb-8759-92bb32473139",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "www.heise.de",
+      "sni": "yahoo.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://M75iXJmnlyAiXS@88.218.92.201:443?security=reality&encryption=none&pbk=HUVDj9wYqh-S8KLlrcfwk_NQLqWCmNgHGjPjaOadG2g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=4fff3fcd#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1",
-      "ip": "88.218.92.201",
+      "fingerprint": "",
+      "original": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&type=tcp&sni=yahoo.com&sid=0e#vless-tcp-reality-AM%F0%9F%8C%90-1",
+      "ip": "77.91.68.70",
       "country": "AM",
       "cdn": null,
-      "rebuilt": "vless://M75iXJmnlyAiXS@88.218.92.201:443?security=reality&encryption=none&pbk=HUVDj9wYqh-S8KLlrcfwk_NQLqWCmNgHGjPjaOadG2g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=4fff3fcd#vless-xtls-rprx-vision-tcp-reality-chrome-AM%F0%9F%8C%90-1"
+      "rebuilt": "vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&type=tcp&sni=yahoo.com&sid=0e#vless-tcp-reality-AM%F0%9F%8C%90-1"
     }
   ]
 }
