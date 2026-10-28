@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T14:46:34.705803",
-  "count": 4,
+  "updated": "2026-10-28T20:43:49.091235",
+  "count": 3,
   "configs": [
     {
       "type": "vmess",
@@ -18,26 +18,6 @@
       "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
     },
     {
-      "type": "vless",
-      "address": "526.150333.xyz",
-      "port": "21004",
-      "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2f34703f16523c80#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "103.238.227.211",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2f34703f16523c80#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
       "type": "trojan",
       "address": "219.79.214.159",
       "port": "443",
@@ -45,16 +25,16 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "vless",
-      "address": "103.238.227.211",
-      "port": "21003",
+      "address": "526.150333.xyz",
+      "port": "21002",
       "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
       "name": "@filembad",
       "network": "tcp",
@@ -64,12 +44,12 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@103.238.227.211:21003?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&type=tcp&sni=www.cloudflare.com&sid=eb9539689690d35c#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "fingerprint": "chrome",
+      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
       "ip": "103.238.227.211",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@103.238.227.211:21003?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&type=tcp&sni=www.cloudflare.com&sid=eb9539689690d35c#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-4"
+      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
