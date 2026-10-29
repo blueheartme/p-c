@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:53:15.579429",
+  "updated": "2026-10-29T20:47:43.435378",
   "count": 6,
   "configs": [
     {
@@ -7,7 +7,7 @@
       "address": "103.238.227.211",
       "port": "21003",
       "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -23,46 +23,6 @@
       "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@103.238.227.211:21003?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&type=tcp&sni=www.cloudflare.com&sid=eb9539689690d35c#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "vless",
-      "address": "526.150333.xyz",
-      "port": "21003",
-      "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "103.238.227.211",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vless",
-      "address": "526.150333.xyz",
-      "port": "21004",
-      "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
-      "name": "Channel : @proxy_kafee",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?encryption=none&security=reality&sni=www.cloudflare.com&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=2f34703f16523c80&type=tcp&headerType=none#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "103.238.227.211",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?encryption=none&security=reality&sni=www.cloudflare.com&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=2f34703f16523c80&type=tcp&headerType=none#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
       "type": "vmess",
       "address": "194.99.79.26",
       "port": "443",
@@ -71,11 +31,51 @@
       "network": "ws",
       "host": "aksai.org",
       "sni": "aksai.org",
-      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "original": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "ip": "194.99.79.26",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTQiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+      "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    },
+    {
+      "type": "vless",
+      "address": "526.150333.xyz",
+      "port": "21004",
+      "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2f34703f16523c80#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "ip": "103.238.227.211",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21004?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2f34703f16523c80#vless-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+    },
+    {
+      "type": "vless",
+      "address": "526.150333.xyz",
+      "port": "21002",
+      "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.cloudflare.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4",
+      "ip": "103.238.227.211",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     },
     {
       "type": "trojan",
@@ -94,9 +94,9 @@
     {
       "type": "vless",
       "address": "526.150333.xyz",
-      "port": "21002",
+      "port": "21003",
       "id": "52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
       "sni": "www.cloudflare.com",
       "host": "",
@@ -105,11 +105,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
+      "original": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6",
       "ip": "103.238.227.211",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21002?security=reality&encryption=none&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f0e6a8bb98db3efd#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
+      "rebuilt": "vless://52d2187c-34e1-40fd-a6f5-0a74ff7d3e9a@526.150333.xyz:21003?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EXU8eOS1kf_ROqC68NO-zbzRFGx7U5zE6WvjxRzYeTo&sid=eb9539689690d35c&type=tcp&headerType=none#vless-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-6"
     }
   ]
 }
