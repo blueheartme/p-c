@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-29T03:56:36.866143",
+  "updated": "2026-10-29T14:53:15.572117",
   "count": 5,
   "configs": [
     {
       "type": "ss",
-      "address": "51.222.141.125",
-      "port": "445",
-      "method": "aes-256-gcm",
-      "password": "zDNVedRFPQexG9v",
-      "name": "YFZ 147 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#YFZ%20147%20%40Outline_Vpn",
-      "ip": "51.222.141.125",
+      "address": "51.222.107.43",
+      "port": "2083",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:HWFFJN19JkvbTKo/79AfnbRBK9uHUUaFNZJyLjEoJGs=",
+      "name": "@i10VPN¹⁰",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%40i10VPN%C2%B9%E2%81%B0",
+      "ip": "51.222.107.43",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#YFZ%20147%20%40Outline_Vpn"
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%40i10VPN%C2%B9%E2%81%B0"
     },
     {
       "type": "ss",
@@ -21,12 +21,12 @@
       "port": "9443",
       "method": "aes-256-gcm",
       "password": "eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH",
-      "name": "@i10VPN⁵",
-      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B5",
+      "name": "@i10VPN¹⁰",
+      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%C2%B9%E2%81%B0",
       "ip": "185.156.47.97",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B5"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%C2%B9%E2%81%B0"
     },
     {
       "type": "vmess",
@@ -44,6 +44,19 @@
       "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
+      "type": "ss",
+      "address": "51.222.141.125",
+      "port": "445",
+      "method": "aes-256-gcm",
+      "password": "zDNVedRFPQexG9v",
+      "name": "YFZ 147 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#YFZ%20147%20%40Outline_Vpn",
+      "ip": "51.222.141.125",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#YFZ%20147%20%40Outline_Vpn"
+    },
+    {
       "type": "vless",
       "address": "198.100.154.175",
       "port": "8080",
@@ -57,24 +70,11 @@
       "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5",
       "ip": "198.100.154.175",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-4"
-    },
-    {
-      "type": "ss",
-      "address": "51.222.107.43",
-      "port": "2083",
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:HWFFJN19JkvbTKo/79AfnbRBK9uHUUaFNZJyLjEoJGs=",
-      "name": "@i10VPN¹⁰",
-      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%40i10VPN%C2%B9%E2%81%B0",
-      "ip": "51.222.107.43",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%40i10VPN%C2%B9%E2%81%B0"
+      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     }
   ]
 }

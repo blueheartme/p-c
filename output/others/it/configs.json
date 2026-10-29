@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-29T03:56:36.865332",
-  "count": 7,
+  "updated": "2026-10-29T14:53:15.566618",
+  "count": 8,
   "configs": [
-    {
-      "type": "ss",
-      "address": "202.50.253.27",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@i10VPN⁶",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40i10VPN%E2%81%B6",
-      "ip": "202.50.253.27",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40i10VPN%E2%81%B6"
-    },
     {
       "type": "ss",
       "address": "202.50.253.45",
@@ -29,17 +16,24 @@
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40i10VPN%E2%81%B5"
     },
     {
-      "type": "ss",
-      "address": "202.50.253.81",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@i10VPN⁴",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%E2%81%B4",
-      "ip": "202.50.253.81",
+      "type": "vless",
+      "address": "57.131.38.163",
+      "port": "2053",
+      "id": "d4b08cd6-0903-411a-9dac-45dbdf5c9712",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.apple.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%8C%90-2",
+      "ip": "57.131.38.163",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%E2%81%B4"
+      "rebuilt": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vless-tcp-reality-chrome-IT%F0%9F%8C%90-2"
     },
     {
       "type": "ss",
@@ -56,6 +50,32 @@
     },
     {
       "type": "ss",
+      "address": "202.50.253.36",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "YFZ 201 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#YFZ%20201%20%40Outline_Vpn",
+      "ip": "202.50.253.36",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#YFZ%20201%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "202.50.253.27",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@i10VPN⁶",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40i10VPN%E2%81%B6",
+      "ip": "202.50.253.27",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40i10VPN%E2%81%B6"
+    },
+    {
+      "type": "ss",
       "address": "202.50.253.72",
       "port": "19999",
       "method": "aes-256-gcm",
@@ -69,6 +89,19 @@
     },
     {
       "type": "ss",
+      "address": "202.50.253.81",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@i10VPN⁴",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%E2%81%B4",
+      "ip": "202.50.253.81",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%E2%81%B4"
+    },
+    {
+      "type": "ss",
       "address": "202.50.253.63",
       "port": "19999",
       "method": "aes-256-gcm",
@@ -79,19 +112,6 @@
       "country": "IT",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%40i10VPN%E2%81%B4"
-    },
-    {
-      "type": "ss",
-      "address": "202.50.253.36",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@i10VPN³",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%40i10VPN%C2%B3",
-      "ip": "202.50.253.36",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%40i10VPN%C2%B3"
     }
   ]
 }

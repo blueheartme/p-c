@@ -1,17 +1,17 @@
 # 🌐 Free Proxy Configs
 
-**Last Updated:** 2026-10-29 03:56:36 UTC
+**Last Updated:** 2026-10-29 14:53:15 UTC
 
 ## 📊 Statistics
 
-- **Total Configs:** 433
-- **Tested & Working:** 50
-- **Countries:** 27
+- **Total Configs:** 424
+- **Tested & Working:** 57
+- **Countries:** 26
 
 ## 🇮🇷 Iran Configs (Priority)
 
-- **Total:** 35
-- **Tested:** 30
+- **Total:** 39
+- **Tested:** 34
 
 ### 📥 Download Links:
 - [JSON](iran/ir/configs.json)
@@ -21,8 +21,8 @@
 
 ## 🇩🇪 Germany Configs
 
-- **Total:** 49
-- **Tested:** 20
+- **Total:** 50
+- **Tested:** 23
 
 ### 📥 Download Links:
 - [JSON](germany/de/configs.json)
@@ -32,12 +32,8 @@
 
 ## 🌍 Other Countries
 
-### 🇦🇹 AT
-- **Count:** 1
-- [JSON](others/at/configs.json) | [TXT](others/at/configs.txt) | [Subscription](others/at/subscription.txt)
-
 ### 🌐 BG
-- **Count:** 3
+- **Count:** 5
 - [JSON](others/bg/configs.json) | [TXT](others/bg/configs.txt) | [Subscription](others/bg/subscription.txt)
 
 ### 🇨🇦 CA
@@ -53,11 +49,11 @@
 - [JSON](others/ee/configs.json) | [TXT](others/ee/configs.txt) | [Subscription](others/ee/subscription.txt)
 
 ### 🌐 ES
-- **Count:** 4
+- **Count:** 3
 - [JSON](others/es/configs.json) | [TXT](others/es/configs.txt) | [Subscription](others/es/subscription.txt)
 
 ### 🇫🇮 FI
-- **Count:** 11
+- **Count:** 10
 - [JSON](others/fi/configs.json) | [TXT](others/fi/configs.txt) | [Subscription](others/fi/subscription.txt)
 
 ### 🇫🇷 FR
@@ -65,11 +61,11 @@
 - [JSON](others/fr/configs.json) | [TXT](others/fr/configs.txt) | [Subscription](others/fr/subscription.txt)
 
 ### 🇬🇧 GB
-- **Count:** 32
+- **Count:** 28
 - [JSON](others/gb/configs.json) | [TXT](others/gb/configs.txt) | [Subscription](others/gb/subscription.txt)
 
 ### 🇭🇰 HK
-- **Count:** 2
+- **Count:** 6
 - [JSON](others/hk/configs.json) | [TXT](others/hk/configs.txt) | [Subscription](others/hk/subscription.txt)
 
 ### 🌐 IE
@@ -81,16 +77,16 @@
 - [JSON](others/il/configs.json) | [TXT](others/il/configs.txt) | [Subscription](others/il/subscription.txt)
 
 ### 🌐 IT
-- **Count:** 7
+- **Count:** 8
 - [JSON](others/it/configs.json) | [TXT](others/it/configs.txt) | [Subscription](others/it/subscription.txt)
 
 ### 🇯🇵 JP
 - **Count:** 5
 - [JSON](others/jp/configs.json) | [TXT](others/jp/configs.txt) | [Subscription](others/jp/subscription.txt)
 
-### 🌐 LT
+### 🌐 KZ
 - **Count:** 1
-- [JSON](others/lt/configs.json) | [TXT](others/lt/configs.txt) | [Subscription](others/lt/subscription.txt)
+- [JSON](others/kz/configs.json) | [TXT](others/kz/configs.txt) | [Subscription](others/kz/subscription.txt)
 
 ### 🌐 LV
 - **Count:** 1
@@ -100,20 +96,24 @@
 - **Count:** 1
 - [JSON](others/md/configs.json) | [TXT](others/md/configs.txt) | [Subscription](others/md/subscription.txt)
 
+### 🇲🇽 MX
+- **Count:** 1
+- [JSON](others/mx/configs.json) | [TXT](others/mx/configs.txt) | [Subscription](others/mx/subscription.txt)
+
 ### 🇳🇱 NL
-- **Count:** 58
+- **Count:** 55
 - [JSON](others/nl/configs.json) | [TXT](others/nl/configs.txt) | [Subscription](others/nl/subscription.txt)
 
 ### 🇵🇱 PL
-- **Count:** 10
+- **Count:** 8
 - [JSON](others/pl/configs.json) | [TXT](others/pl/configs.txt) | [Subscription](others/pl/subscription.txt)
 
 ### 🇷🇺 RU
-- **Count:** 25
+- **Count:** 23
 - [JSON](others/ru/configs.json) | [TXT](others/ru/configs.txt) | [Subscription](others/ru/subscription.txt)
 
 ### 🇸🇪 SE
-- **Count:** 5
+- **Count:** 3
 - [JSON](others/se/configs.json) | [TXT](others/se/configs.txt) | [Subscription](others/se/subscription.txt)
 
 ### 🇸🇬 SG
@@ -121,16 +121,12 @@
 - [JSON](others/sg/configs.json) | [TXT](others/sg/configs.txt) | [Subscription](others/sg/subscription.txt)
 
 ### 🇹🇷 TR
-- **Count:** 3
+- **Count:** 4
 - [JSON](others/tr/configs.json) | [TXT](others/tr/configs.txt) | [Subscription](others/tr/subscription.txt)
 
 ### 🇺🇸 US
-- **Count:** 128
+- **Count:** 122
 - [JSON](others/us/configs.json) | [TXT](others/us/configs.txt) | [Subscription](others/us/subscription.txt)
-
-### 🇿🇦 ZA
-- **Count:** 1
-- [JSON](others/za/configs.json) | [TXT](others/za/configs.txt) | [Subscription](others/za/subscription.txt)
 
 
 ---

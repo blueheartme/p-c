@@ -1,26 +1,21 @@
 {
-  "updated": "2026-09-26T03:04:19.265736",
+  "updated": "2026-10-29T14:53:15.584911",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir",
-      "port": "443",
-      "id": "371fa59f-e622-4776-af66-7f72c84f2dce",
-      "name": "",
+      "type": "vmess",
+      "address": "38.60.224.173",
+      "port": "32153",
+      "id": "5cf1f470-3f70-4589-a2a4-4657ea3a1edf",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "amp-api-edge.apps.apple.com",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#vless-xtls-rprx-vision-tcp-reality-firefox-MX%F0%9F%87%B2%F0%9F%87%BD-1",
-      "ip": "64.177.93.40",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Y8J+HsvCfh70tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "ip": "38.60.224.173",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#vless-xtls-rprx-vision-tcp-reality-firefox-MX%F0%9F%87%B2%F0%9F%87%BD-1"
+      "rebuilt": "vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Y8J+HsvCfh70tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
     }
   ]
 }
