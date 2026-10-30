@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T14:45:23.313762",
-  "count": 2,
+  "updated": "2026-10-30T20:18:38.133954",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.43.79.92",
-      "port": "443",
-      "id": "042b12d8-bac4-4b3a-b661-79e333f08e4e",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "vikt659.isgood.host",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?security=reality&encryption=none&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vikt659.isgood.host&sid=af4ca5d16438c938#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2",
-      "ip": "45.43.79.92",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?security=reality&encryption=none&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vikt659.isgood.host&sid=af4ca5d16438c938#vless-xtls-rprx-vision-tcp-reality-LV%F0%9F%8C%90-2"
     }
   ]
 }

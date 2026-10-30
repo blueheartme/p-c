@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-27T20:22:23.685387",
-  "count": 1,
+  "updated": "2026-10-30T20:18:38.130766",
+  "count": 2,
   "configs": [
+    {
+      "type": "vless",
+      "address": "150.40.126.24",
+      "port": "443",
+      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "name": "🇷🇸Serbia+->+🇷🇸Serbia+⚡@DeamNet_Proxy",
+      "network": "grpc",
+      "sni": "rs5.univesalsrv.com",
+      "host": "/t.me/V2rayBaaz",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?encryption=none&type=grpc&security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&authority=%2Ft.me%2FV2rayBaaz&serviceName=gw.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1",
+      "ip": "150.40.126.24",
+      "country": "RS",
+      "cdn": null,
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?encryption=none&type=grpc&security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&authority=%2Ft.me%2FV2rayBaaz&serviceName=gw.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "150.40.126.19",
@@ -10,17 +30,17 @@
       "name": "@filembad",
       "network": "grpc",
       "sni": "rs2.univesalsrv.com",
-      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#vless-grpc-reality-firefox-RS%F0%9F%8C%90-2",
       "ip": "150.40.126.19",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#vless-grpc-reality-firefox-RS%F0%9F%8C%90-2"
     }
   ]
 }
