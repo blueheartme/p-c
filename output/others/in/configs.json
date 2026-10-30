@@ -1,26 +1,21 @@
 {
-  "updated": "2026-10-28T03:35:42.198650",
+  "updated": "2026-10-30T03:58:30.135215",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "hydra.yokkastars.com",
-      "port": "40443",
-      "id": "405b964e-a2d2-454f-aaaa-711cc218897c",
-      "name": "@ProxyMTProtoIR 🍋‍🟩",
-      "network": "tcp",
-      "sni": "deepl.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1",
-      "ip": "5.253.28.240",
+      "type": "vmess",
+      "address": "152.67.8.205",
+      "port": "80",
+      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+      "name": "@filembad",
+      "network": "ws",
+      "host": "in-152.67.8.205-0204",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjA0IiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "ip": "152.67.8.205",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#vless-xtls-rprx-vision-tcp-reality-qq-IN%F0%9F%87%AE%F0%9F%87%B3-1"
+      "rebuilt": "vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjA0IiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzLWF1dG8td3MtSU7wn4eu8J+Hsy0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     }
   ]
 }
