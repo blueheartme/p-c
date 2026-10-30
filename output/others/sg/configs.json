@@ -1,26 +1,41 @@
 {
-  "updated": "2026-10-29T14:53:15.582909",
-  "count": 1,
+  "updated": "2026-10-30T14:45:23.319160",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
-      "address": "5.223.74.174",
-      "port": "2053",
-      "id": "29b81e1a-1989-4778-b0cb-a7223730f59d",
-      "name": "@NETMelliAnti",
+      "address": "172.237.88.103",
+      "port": "443",
+      "id": "efd11a89-7506-44ce-95b6-6654859f155b",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "5.223.74.174",
-      "host": "",
+      "sni": "zoom.us",
+      "host": "zoom.us",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "5.223.74.174",
+      "fingerprint": "random",
+      "original": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&host=zoom.us&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-random-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "172.237.88.103",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#vless-xtls-rprx-vision-tcp-reality-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&host=zoom.us&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#vless-xtls-rprx-vision-tcp-reality-random-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vmess",
+      "address": "149.88.23.202",
+      "port": "18000",
+      "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "name": "@filembad",
+      "network": "tcp",
+      "host": "",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "149.88.23.202",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVNH8J+HuPCfh6wtMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     }
   ]
 }
