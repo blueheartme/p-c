@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:18:38.127273",
+  "updated": "2026-10-31T03:42:42.403231",
   "count": 7,
   "configs": [
     {
@@ -15,12 +15,25 @@
       "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1",
+      "fingerprint": "firefox",
+      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "66.70.179.198",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "ss",
+      "address": "185.156.47.97",
+      "port": "9443",
+      "method": "aes-256-gcm",
+      "password": "eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH",
+      "name": "@i10VPN⁹",
+      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B9",
+      "ip": "185.156.47.97",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B9"
     },
     {
       "type": "trojan",
@@ -30,11 +43,11 @@
       "name": "@i10VPN⁴",
       "sni": "blog.connectingpeoplewithgreatjobs.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3",
       "ip": "216.152.147.79",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-3"
     },
     {
       "type": "ss",
@@ -48,26 +61,6 @@
       "country": "CA",
       "cdn": null,
       "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%40i10VPN%C2%B9%E2%81%B0"
-    },
-    {
-      "type": "vless",
-      "address": "198.100.154.175",
-      "port": "8080",
-      "id": "e17150a9-f949-467b-94ea-4d50e4c84186",
-      "name": "YFZ 144 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "icloud.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-4",
-      "ip": "198.100.154.175",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
       "type": "ss",
@@ -98,17 +91,24 @@
       "rebuilt": "vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJ2bWVzcy1hdXRvLXRjcC1DQfCfh6jwn4emLTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
-      "type": "ss",
-      "address": "185.156.47.97",
-      "port": "9443",
-      "method": "aes-256-gcm",
-      "password": "eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH",
-      "name": "@i10VPN⁵",
-      "original": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B5",
-      "ip": "185.156.47.97",
+      "type": "vless",
+      "address": "198.100.154.175",
+      "port": "8080",
+      "id": "e17150a9-f949-467b-94ea-4d50e4c84186",
+      "name": "YFZ 144 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "icloud.com",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-7",
+      "ip": "198.100.154.175",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40i10VPN%E2%81%B5"
+      "rebuilt": "vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#vless-xtls-rprx-vision-mlkem768x25519plus.native.0rtt.q1afgciyit70m9jemh3sgn5pyvmlyolk0-pq_gqpa3q-tcp-reality-CA%F0%9F%87%A8%F0%9F%87%A6-7"
     }
   ]
 }
