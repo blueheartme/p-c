@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-29T03:56:36.877150",
+  "updated": "2026-10-31T14:11:49.669393",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "84.32.109.20",
+      "address": "88.216.69.253",
       "port": "443",
-      "id": "ee18d188-14cc-417e-beb1-70e4add6d023",
-      "name": "YFZ 25 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "litv.nztvpn.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "id": "d342d11e-d224-4463-b982-532309285094",
+      "name": "Channel : @proxy_kafee",
+      "network": "ws",
+      "sni": "ccc.010304.xyz",
+      "host": "ccc.010304.xyz",
+      "security": "tls",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1",
-      "ip": "84.32.109.20",
+      "original": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%8C%90-1",
+      "ip": "88.216.69.253",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#vless-xtls-rprx-vision-tcp-reality-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#vless-ws-tls-LT%F0%9F%8C%90-1"
     }
   ]
 }
