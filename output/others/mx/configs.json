@@ -1,21 +1,26 @@
 {
-  "updated": "2026-10-29T14:53:15.584911",
+  "updated": "2026-11-01T14:40:25.218929",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "38.60.224.173",
-      "port": "32153",
-      "id": "5cf1f470-3f70-4589-a2a4-4657ea3a1edf",
+      "type": "vless",
+      "address": "147.78.1.253",
+      "port": "443",
+      "id": "39a390af-1f90-4c0e-89e4-4e2023732e4b",
       "name": "@filembad",
       "network": "tcp",
+      "sni": "www.apple.com",
       "host": "",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Y8J+HsvCfh70tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "ip": "38.60.224.173",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&encryption=none&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#vless-xtls-rprx-vision-tcp-reality-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-1",
+      "ip": "147.78.1.253",
       "country": "MX",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6InZtZXNzLWF1dG8tdGNwLU1Y8J+HsvCfh70tMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
+      "rebuilt": "vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&encryption=none&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#vless-xtls-rprx-vision-tcp-reality-chrome-MX%F0%9F%87%B2%F0%9F%87%BD-1"
     }
   ]
 }

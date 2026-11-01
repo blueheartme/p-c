@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-28T14:46:34.715212",
+  "updated": "2026-11-01T14:40:25.222056",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "ae.cdn.stun.su",
+      "address": "dubai-cdn-keno.keno.su",
       "port": "443",
-      "id": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-      "name": "🆔 @mtproxy_lists <<< کانفیگ های بیشتر",
+      "id": "dc413f44-7dce-4cc4-b2c7-878ef70ce464",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "ae.cdn.stun.su",
+      "sni": "dubai-cdn-keno.keno.su",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1",
-      "ip": "176.97.78.29",
+      "fingerprint": "firefox",
+      "original": "vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1",
+      "ip": "46.8.125.64",
       "country": "AE",
       "cdn": null,
-      "rebuilt": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#vless-xtls-rprx-vision-tcp-reality-chrome-AE%F0%9F%87%A6%F0%9F%87%AA-1"
+      "rebuilt": "vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#vless-xtls-rprx-vision-tcp-reality-firefox-AE%F0%9F%87%A6%F0%9F%87%AA-1"
     }
   ]
 }

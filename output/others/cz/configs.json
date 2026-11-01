@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-23T13:01:01.773989",
+  "updated": "2026-11-01T14:40:25.216929",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "46.36.44.220",
+      "address": "195.123.245.231",
       "port": "443",
-      "id": "bfd81b63-a43d-4c27-b71d-2c948cfc4ab2",
-      "name": "@filembad",
+      "id": "902e7be9-d0a8-42a6-994f-8320916a9d9e",
+      "name": "Channel : @proxy_kafee",
       "network": "tcp",
-      "sni": "seznam.cz",
+      "sni": "cheh.mtmajestic.space",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "firefox",
-      "original": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1",
-      "ip": "46.36.44.220",
+      "original": "vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@195.123.245.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cheh.mtmajestic.space&fp=firefox&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1",
+      "ip": "195.123.245.231",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@195.123.245.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cheh.mtmajestic.space&fp=firefox&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1"
     }
   ]
 }

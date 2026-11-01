@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-31T19:40:13.836304",
+  "updated": "2026-11-01T14:40:25.223096",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "md2.univesalsrv.com",
+      "address": "89.35.14.30",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@filembad",
+      "name": "🇲🇩Moldova+->+🇲🇩Moldova+⚡@DeamNet_Proxy",
       "network": "grpc",
-      "sni": "md2.univesalsrv.com",
-      "host": "",
+      "sni": "md1.univesalsrv.com",
+      "host": "/?TELEGRAM--NexVexo--NexVexo",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%8C%90-1",
-      "ip": "89.35.14.31",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&type=grpc&security=reality&sni=md1.univesalsrv.com&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&authority=%2F%3FTELEGRAM--NexVexo--NexVexo&serviceName=hub.v1.RelayService&mode=gun#vless-grpc-reality-firefox-MD%F0%9F%8C%90-1",
+      "ip": "89.35.14.30",
       "country": "MD",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vless-grpc-reality-firefox-MD%F0%9F%8C%90-1"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&type=grpc&security=reality&sni=md1.univesalsrv.com&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&authority=%2F%3FTELEGRAM--NexVexo--NexVexo&serviceName=hub.v1.RelayService&mode=gun#vless-grpc-reality-firefox-MD%F0%9F%8C%90-1"
     }
   ]
 }
