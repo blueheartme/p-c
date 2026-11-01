@@ -1,7 +1,22 @@
 {
-  "updated": "2026-11-01T14:40:25.211948",
+  "updated": "2026-11-01T20:03:49.882328",
   "count": 5,
   "configs": [
+    {
+      "type": "vmess",
+      "address": "153.52.92.43",
+      "port": "46466",
+      "id": "@Nitro_Skybot",
+      "name": "YFZ 210 @Outline_Vpn",
+      "network": "tcp",
+      "host": "bazine.pi10.ir",
+      "sni": "",
+      "original": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhemluZS5waTEwLmlyIiwiaWQiOiJATml0cm9fU2t5Ym90IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNDY0NjYiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=",
+      "ip": "153.52.92.43",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhemluZS5waTEwLmlyIiwiaWQiOiJATml0cm9fU2t5Ym90IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNDY0NjYiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0="
+    },
     {
       "type": "vless",
       "address": "206.1.101.85",
@@ -16,46 +31,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://5a82be1c-ed6a-4f98-a767-05df0f7be3e7@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
+      "original": "vless://5a82be1c-ed6a-4f98-a767-05df0f7be3e7@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
       "ip": "206.1.101.85",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://5a82be1c-ed6a-4f98-a767-05df0f7be3e7@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vmess",
-      "address": "153.52.92.43",
-      "port": "46466",
-      "id": "@Nitro_Skybot",
-      "name": "YFZ 210 @Outline_Vpn",
-      "network": "tcp",
-      "host": "bazine.pi10.ir",
-      "sni": "",
-      "original": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhemluZS5waTEwLmlyIiwiaWQiOiJATml0cm9fU2t5Ym90IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNDY0NjYiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=",
-      "ip": "153.52.92.43",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxNTMuNTIuOTIuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhemluZS5waTEwLmlyIiwiaWQiOiJATml0cm9fU2t5Ym90IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNDY0NjYiLCJwcyI6InZtZXNzLWF1dG8tdGNwLVRS8J+HufCfh7ctMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0="
-    },
-    {
-      "type": "vless",
-      "address": "melomusic.plavex.ir",
-      "port": "2196",
-      "id": "37e0baee-d29a-b7d2-b9d1-2b39d481c6de",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.telewebion.ir",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://37e0baee-d29a-b7d2-b9d1-2b39d481c6de@melomusic.plavex.ir:2196?security=reality&encryption=none&pbk=_smP2DagpmFYrm52Q2YekfWUQ9yjKO6peKWCb9d1jWo&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.telewebion.ir&sid=8dcc0808#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "206.1.98.105",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://37e0baee-d29a-b7d2-b9d1-2b39d481c6de@melomusic.plavex.ir:2196?security=reality&encryption=none&pbk=_smP2DagpmFYrm52Q2YekfWUQ9yjKO6peKWCb9d1jWo&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.telewebion.ir&sid=8dcc0808#vless-tcp-reality-firefox-TR%F0%9F%87%B9%F0%9F%87%B7-3"
+      "rebuilt": "vless://5a82be1c-ed6a-4f98-a767-05df0f7be3e7@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     },
     {
       "type": "ss",
@@ -84,11 +64,24 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-5",
+      "original": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
       "ip": "206.1.101.85",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-5"
+      "rebuilt": "vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#vless-ws-tls-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+    },
+    {
+      "type": "ss",
+      "address": "h.novexora.ir",
+      "port": "1080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "Ymyji11eZzSzl5AYw9HyjAQd7djfKppb",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbXlqaTExZVp6U3psNUFZdzlIeWpBUWQ3ZGpmS3BwYg@h.novexora.ir:1080#%40filembad",
+      "ip": "204.10.192.249",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbXlqaTExZVp6U3psNUFZdzlIeWpBUWQ3ZGpmS3BwYg@h.novexora.ir:1080#%40filembad"
     }
   ]
 }

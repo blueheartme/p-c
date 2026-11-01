@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T14:40:25.215878",
-  "count": 2,
+  "updated": "2026-11-01T20:03:49.897432",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "RS",
       "cdn": null,
       "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "150.40.126.22",
-      "port": "443",
-      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "@filembad",
-      "network": "grpc",
-      "sni": "rs4.univesalsrv.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%8C%90-2",
-      "ip": "150.40.126.22",
-      "country": "RS",
-      "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#vless-grpc-reality-firefox-RS%F0%9F%8C%90-2"
     }
   ]
 }
