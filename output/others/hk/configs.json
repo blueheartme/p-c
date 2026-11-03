@@ -1,26 +1,20 @@
 {
-  "updated": "2026-11-02T17:41:28.185656",
-  "count": 4,
+  "updated": "2026-11-03T04:57:10.058605",
+  "count": 2,
   "configs": [
     {
-      "type": "vless",
-      "address": "hk.huahua.wiki",
+      "type": "trojan",
+      "address": "219.79.214.159",
       "port": "443",
-      "id": "2b7e9abc-97bf-4c23-912d-9e28165dd37d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.apple.com",
+      "password": "BxceQaOe",
+      "name": "Hong Kong Netvigator",
+      "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "qq",
-      "original": "vless://2b7e9abc-97bf-4c23-912d-9e28165dd37d@hk.huahua.wiki:443?security=reality&encryption=none&pbk=NuKkYBdvf60o5sll4IvvT-uXjjXrhugUMYvOfAh3gyc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=aa7563369cab9613#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-1",
-      "ip": "43.161.197.242",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1",
+      "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://2b7e9abc-97bf-4c23-912d-9e28165dd37d@hk.huahua.wiki:443?security=reality&encryption=none&pbk=NuKkYBdvf60o5sll4IvvT-uXjjXrhugUMYvOfAh3gyc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=aa7563369cab9613#vless-xtls-rprx-vision-tcp-reality-qq-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
       "type": "vmess",
@@ -36,40 +30,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "vmess://eyJhZGQiOiIxOTQuOTkuNzkuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy1hdXRvLXdzLXRscy1IS/Cfh63wn4ewLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiYWtzYWkub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
-    },
-    {
-      "type": "vless",
-      "address": "165.154.63.139",
-      "port": "443",
-      "id": "91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a",
-      "name": "🇯🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "network": "tcp",
-      "sni": "www.amazon.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "165.154.63.139",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?security=reality&encryption=none&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=ca4aedd4#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "trojan",
-      "address": "219.79.214.159",
-      "port": "443",
-      "password": "BxceQaOe",
-      "name": "Hong Kong Netvigator",
-      "sni": "t.me%2Fripaojiedian",
-      "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4",
-      "ip": "219.79.214.159",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-4"
     }
   ]
 }
