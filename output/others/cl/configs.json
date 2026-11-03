@@ -1,19 +1,20 @@
 {
-  "updated": "2026-02-15T01:49:29.256425",
+  "updated": "2026-11-03T15:43:23.366223",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "38.54.20.59",
-      "port": "8881",
-      "method": "aes-256-gcm",
-      "password": "kDWvXYZoTBcGkC4",
-      "name": "🇨🇱CL-38.54.20.59-0249",
-      "original": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#ss-aes-256-gcm-CL%F0%9F%8C%90-1",
-      "ip": "38.54.20.59",
+      "type": "trojan",
+      "address": "64.176.7.205",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇺🇾@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&headerType=none&fp=chrome&type=tcp#trojan-tcp-tls-CL%F0%9F%8C%90-1",
+      "ip": "64.176.7.205",
       "country": "CL",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#ss-aes-256-gcm-CL%F0%9F%8C%90-1"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&headerType=none&fp=chrome&type=tcp#trojan-tcp-tls-CL%F0%9F%8C%90-1"
     }
   ]
 }
