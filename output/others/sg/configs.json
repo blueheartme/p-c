@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-03T21:26:07.277707",
+  "updated": "2026-11-04T04:28:10.694030",
   "count": 3,
   "configs": [
-    {
-      "type": "vless",
-      "address": "hw3.divarkhaghazi.com",
-      "port": "465",
-      "id": "924e20da-fcad-4e7e-8113-c62d27a0d01e",
-      "name": "YFZ 190 @Outline_Vpn",
-      "network": "ws",
-      "sni": "hw3.divarkhaghazi.com.",
-      "host": "hw3.divarkhaghazi.com.",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
-      "ip": "5.223.59.38",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
-    },
     {
       "type": "vless",
       "address": "hw6.divarkhaghazi.com",
@@ -36,11 +16,31 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "original": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1",
       "ip": "5.223.59.190",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+      "rebuilt": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
+    {
+      "type": "vless",
+      "address": "hw3.divarkhaghazi.com",
+      "port": "465",
+      "id": "924e20da-fcad-4e7e-8113-c62d27a0d01e",
+      "name": "🔰 @prrofile_purple (تلگرام)",
+      "network": "ws",
+      "sni": "hw3.divarkhaghazi.com.",
+      "host": "hw3.divarkhaghazi.com.",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2",
+      "ip": "5.223.59.38",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#vless-ws-tls-chrome-SG%F0%9F%87%B8%F0%9F%87%AC-2"
     },
     {
       "type": "vless",
