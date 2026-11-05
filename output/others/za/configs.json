@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-04T21:40:38.831068",
+  "updated": "2026-11-05T16:00:08.251200",
   "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "38.54.64.62",
-      "port": "17161",
-      "method": "aes-128-gcm",
-      "password": "949b2348758e3fd1ec4a4f05882762b0",
+      "address": "20.87.210.166",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "3XgtkbRog1MRN7H1",
       "name": "@filembad",
-      "original": "ss://YWVzLTEyOC1nY206OTQ5YjIzNDg3NThlM2ZkMWVjNGE0ZjA1ODgyNzYyYjA@38.54.64.62:17161#%40filembad",
-      "ip": "38.54.64.62",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#%40filembad",
+      "ip": "20.87.210.166",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTEyOC1nY206OTQ5YjIzNDg3NThlM2ZkMWVjNGE0ZjA1ODgyNzYyYjA@38.54.64.62:17161#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#%40filembad"
     }
   ]
 }

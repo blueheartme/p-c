@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T04:43:49.082001",
-  "count": 4,
+  "updated": "2026-11-05T16:00:08.242242",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -15,12 +15,12 @@
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1",
+      "fingerprint": "firefox",
+      "original": "vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-1",
       "ip": "152.114.194.147",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1"
+      "rebuilt": "vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#vless-xtls-rprx-vision-tcp-reality-firefox-ES%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
@@ -44,26 +44,6 @@
     },
     {
       "type": "vless",
-      "address": "31.57.190.50",
-      "port": "443",
-      "id": "d342d11e-d224-4463-b982-532309285094",
-      "name": "YFZ 90 @Outline_Vpn",
-      "network": "ws",
-      "sni": "ccc.010304.xyz",
-      "host": "ccc.010304.xyz",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%8C%90-3",
-      "ip": "31.57.190.50",
-      "country": "ES",
-      "cdn": null,
-      "rebuilt": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#vless-ws-tls-ES%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "46.28.71.135",
       "port": "443",
       "id": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
@@ -76,11 +56,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%8C%90-4",
+      "original": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%8C%90-3",
       "ip": "46.28.71.135",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%8C%90-4"
+      "rebuilt": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@46.28.71.135:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v1.segment.UWfv4bkH4bz1Hs3u.ts&allowInsecure=0&sni=l97bke0sf1.hat.onl#vless-grpc-tls-ES%F0%9F%8C%90-3"
     }
   ]
 }

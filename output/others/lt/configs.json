@@ -1,20 +1,26 @@
 {
-  "updated": "2026-11-02T03:55:12.692215",
+  "updated": "2026-11-05T16:00:08.253317",
   "count": 1,
   "configs": [
     {
-      "type": "trojan",
-      "address": "88.216.69.253",
+      "type": "vless",
+      "address": "app26.betust.net",
       "port": "443",
-      "password": "humanity",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "sni": "www.pleadcourt.org",
-      "host": "www.pleadcourt.org",
-      "original": "trojan://humanity@88.216.69.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#trojan-ws-tls-LT%F0%9F%8C%90-1",
-      "ip": "88.216.69.253",
+      "id": "2232d904-8e6a-4202-8240-6efd8aec02e9",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "app26.betust.net",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1",
+      "ip": "88.216.127.42",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "trojan://humanity@88.216.69.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#trojan-ws-tls-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#vless-xtls-rprx-vision-tcp-reality-firefox-LT%F0%9F%8C%90-1"
     }
   ]
 }
