@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T16:00:08.239959",
-  "count": 1,
+  "updated": "2026-11-05T21:51:51.347474",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,26 @@
       "country": "SE",
       "cdn": null,
       "rebuilt": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@196.247.163.10:443?security=reality&encryption=none&pbk=5984Ah0pkfSVekU5xafQ1trZZN7MyNCJ-3KfCo-O6A4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=britainmh.eosvpn.com#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-1"
+    },
+    {
+      "type": "vless",
+      "address": "mein-1.octavia.dpdns.org",
+      "port": "6600",
+      "id": "e1acad9b-e14e-4995-b2d6-5721823cb0a7",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "www.semiconductor.samsung.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.random.0rtt.xeb-laivvhb_xcypr8dzpf2kugyafnaqzmd5rnwbsky",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?security=reality&encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&headerType=none&fp=chrome&spx=%2F914f5d7e3339bb7&type=tcp&sni=www.semiconductor.samsung.com&sid=cb#vless-mlkem768x25519plus.random.0rtt.xeb-laivvhb_xcypr8dzpf2kugyafnaqzmd5rnwbsky-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "13.50.5.211",
+      "country": "SE",
+      "cdn": null,
+      "rebuilt": "vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?security=reality&encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&headerType=none&fp=chrome&spx=%2F914f5d7e3339bb7&type=tcp&sni=www.semiconductor.samsung.com&sid=cb#vless-mlkem768x25519plus.random.0rtt.xeb-laivvhb_xcypr8dzpf2kugyafnaqzmd5rnwbsky-tcp-reality-chrome-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-05T16:00:08.249083",
+  "updated": "2026-11-05T21:51:51.346358",
   "count": 3,
   "configs": [
+    {
+      "type": "trojan",
+      "address": "208.69.78.19",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "sni": "www.yourultimateprofessionalcareerhub.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "ip": "208.69.78.19",
+      "country": "CH",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-1"
+    },
     {
       "type": "vless",
       "address": "45.90.57.119",
@@ -16,25 +30,11 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1",
+      "original": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2",
       "ip": "45.90.57.119",
       "country": "CH",
       "cdn": null,
-      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-1"
-    },
-    {
-      "type": "trojan",
-      "address": "208.69.78.19",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "sni": "www.yourultimateprofessionalcareerhub.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2",
-      "ip": "208.69.78.19",
-      "country": "CH",
-      "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#trojan-tcp-tls-CH%F0%9F%87%A8%F0%9F%87%AD-2"
+      "rebuilt": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#vless-xtls-rprx-vision-tcp-reality-CH%F0%9F%87%A8%F0%9F%87%AD-2"
     },
     {
       "type": "vless",
