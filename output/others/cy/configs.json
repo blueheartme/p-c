@@ -1,26 +1,26 @@
 {
-  "updated": "2026-09-20T02:55:51.664813",
+  "updated": "2026-11-06T04:43:25.136044",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "195.85.59.30",
+      "address": "185.148.106.50",
       "port": "8880",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "@filembad",
       "network": "ws",
       "sni": "",
-      "host": "vms.lifetime58.workers.dev",
-      "security": "",
+      "host": "vms.lifetime54.workers.dev",
+      "security": "none",
       "flow": "",
-      "encryption": "",
-      "headerType": "none",
+      "encryption": "none",
+      "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?&type=ws&headerType=none&host=vms.lifetime58.workers.dev&path=%2F#vless-ws-CY%F0%9F%8C%90-1",
-      "ip": "195.85.59.30",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#vless-ws-CY%F0%9F%8C%90-1",
+      "ip": "185.148.106.50",
       "country": "CY",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?&type=ws&headerType=none&host=vms.lifetime58.workers.dev&path=%2F#vless-ws-CY%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?security=none&type=ws&path=%2F&host=vms.lifetime54.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#vless-ws-CY%F0%9F%8C%90-1"
     }
   ]
 }

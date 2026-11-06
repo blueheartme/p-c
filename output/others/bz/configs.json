@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T03:35:42.210250",
-  "count": 2,
+  "updated": "2026-11-06T04:43:25.119774",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -9,38 +9,18 @@
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "@filembad",
       "network": "ws",
-      "sni": "vms.lifetime05.workers.dev",
+      "sni": "",
       "host": "vms.lifetime05.workers.dev",
       "security": "none",
       "flow": "",
       "encryption": "",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&packetEncoding=xudp&sni=vms.lifetime05.workers.dev#vless-ws-BZ%F0%9F%8C%90-1",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&packetEncoding=xudp#vless-ws-BZ%F0%9F%8C%90-1",
       "ip": "45.131.210.30",
       "country": "BZ",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&packetEncoding=xudp&sni=vms.lifetime05.workers.dev#vless-ws-BZ%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "45.131.209.30",
-      "port": "8880",
-      "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "name": "@filembad",
-      "network": "ws",
-      "sni": "",
-      "host": "vms.lifetime04.workers.dev",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime04.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-BZ%F0%9F%8C%90-2",
-      "ip": "45.131.209.30",
-      "country": "BZ",
-      "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime04.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-BZ%F0%9F%8C%90-2"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&packetEncoding=xudp#vless-ws-BZ%F0%9F%8C%90-1"
     }
   ]
 }

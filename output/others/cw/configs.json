@@ -1,26 +1,26 @@
 {
-  "updated": "2026-08-17T08:36:10.021434",
+  "updated": "2026-11-06T04:43:25.132171",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "88.216.66.30",
+      "address": "62.72.166.30",
       "port": "8880",
       "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "name": "@filembad",
       "network": "ws",
       "sni": "",
-      "host": "vms.lifetime04.workers.dev",
-      "security": "",
+      "host": "vms.lifetime40.workers.dev",
+      "security": "none",
       "flow": "",
-      "encryption": "",
+      "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#vless-ws-CW%F0%9F%8C%90-1",
-      "ip": "88.216.66.30",
+      "original": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-CW%F0%9F%8C%90-1",
+      "ip": "62.72.166.30",
       "country": "CW",
       "cdn": null,
-      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#vless-ws-CW%F0%9F%8C%90-1"
+      "rebuilt": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#vless-ws-CW%F0%9F%8C%90-1"
     }
   ]
 }
