@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-07T14:36:36.002434",
+  "updated": "2026-11-07T19:47:57.872630",
   "count": 3,
   "configs": [
     {
-      "type": "ss",
-      "address": "167.17.71.167",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@ProxyMTProtoIR",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999#@ProxyMTProtoIR",
-      "ip": "167.17.71.167",
+      "type": "vless",
+      "address": "76574ct.nl7.h1clayd.click",
+      "port": "443",
+      "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
+      "name": "YFZ 286 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "76574ct.nl7.h1clayd.click",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%8C%90-1",
+      "ip": "196.245.52.186",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999#@ProxyMTProtoIR"
+      "rebuilt": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@76574ct.nl7.h1clayd.click:443?security=reality&encryption=none&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&headerType=none&type=tcp&sni=76574ct.nl7.h1clayd.click&sid=2ca59bdc5121f921#vless-tcp-reality-ES%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
