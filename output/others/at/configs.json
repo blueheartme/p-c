@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:42:25.092554",
-  "count": 1,
+  "updated": "2026-11-08T20:05:24.454214",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -21,6 +21,19 @@
       "country": "AT",
       "cdn": null,
       "rebuilt": "vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#vless-xtls-rprx-vision-tcp-reality-firefox-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+    },
+    {
+      "type": "ss",
+      "address": "152.53.1.57",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "AdawffFMHymlasRb0VOP3HFf7sTG5sJx",
+      "name": "@",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#@",
+      "ip": "152.53.1.57",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#@"
     }
   ]
 }
