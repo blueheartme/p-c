@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-09T04:08:24.401451",
-  "count": 1,
+  "updated": "2026-11-09T18:08:58.871239",
+  "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "188.130.154.204",
+      "port": "443",
+      "id": "ed2e4dd1-d19f-48dd-b613-3f855b1d0765",
+      "name": "🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "network": "ws",
+      "sni": "cdn2.zovip2.ir",
+      "host": "cdn2.zovip2.ir",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://ed2e4dd1-d19f-48dd-b613-3f855b1d0765@188.130.154.204:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&host=cdn2.zovip2.ir&fp=chrome&type=ws&sni=cdn2.zovip2.ir#vless-ws-tls-chrome-LV%F0%9F%8C%90-1",
+      "ip": "188.130.154.204",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://ed2e4dd1-d19f-48dd-b613-3f855b1d0765@188.130.154.204:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&host=cdn2.zovip2.ir&fp=chrome&type=ws&sni=cdn2.zovip2.ir#vless-ws-tls-chrome-LV%F0%9F%8C%90-1"
+    },
     {
       "type": "vless",
       "address": "195.135.252.28",
@@ -16,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "chrome",
-      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1",
+      "original": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2",
       "ip": "195.135.252.28",
       "country": "LV",
       "cdn": null,
-      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-1"
+      "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "31.57.157.155",
+      "port": "443",
+      "id": "ir_iPing",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "video-api.sapi.yahoo.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://ir_iPing@31.57.157.155:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RNtJimTsqPkzLddpOXm-b2DmKc5Wnkc0GsnKB3pQxD8&pbk=vWFWTOtjC3LvzN_icxK2V9PrJdM25altKsi--qdU-h4&headerType=none&fp=chrome&spx=%2F5a5c31d86bfcffb&type=tcp&sni=video-api.sapi.yahoo.com&sid=695d7ee489dadb#vless-mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8-tcp-reality-chrome-LV%F0%9F%8C%90-3",
+      "ip": "31.57.157.155",
+      "country": "LV",
+      "cdn": null,
+      "rebuilt": "vless://ir_iPing@31.57.157.155:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RNtJimTsqPkzLddpOXm-b2DmKc5Wnkc0GsnKB3pQxD8&pbk=vWFWTOtjC3LvzN_icxK2V9PrJdM25altKsi--qdU-h4&headerType=none&fp=chrome&spx=%2F5a5c31d86bfcffb&type=tcp&sni=video-api.sapi.yahoo.com&sid=695d7ee489dadb#vless-mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8-tcp-reality-chrome-LV%F0%9F%8C%90-3"
     }
   ]
 }
