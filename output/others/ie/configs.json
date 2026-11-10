@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-09T18:08:58.862708",
-  "count": 4,
+  "updated": "2026-11-10T05:39:15.009363",
+  "count": 5,
   "configs": [
+    {
+      "type": "ss",
+      "address": "20.123.12.228",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "lmG45rfbkt8DAPfP",
+      "name": "YFZ 175 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443#YFZ%20175%20%40Outline_Vpn",
+      "ip": "20.123.12.228",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443#YFZ%20175%20%40Outline_Vpn"
+    },
     {
       "type": "ss",
       "address": "52.138.233.48",
@@ -14,6 +27,19 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aXZoNkY2WEZCRDEyZ0Vn@52.138.233.48:443#YFZ%20243%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "20.166.20.135",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "G2shlbeRXdE45aVA",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%40filembad",
+      "ip": "20.166.20.135",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%40filembad"
     },
     {
       "type": "ss",
@@ -40,19 +66,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A"
-    },
-    {
-      "type": "ss",
-      "address": "20.123.12.228",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "lmG45rfbkt8DAPfP",
-      "name": "YFZ 175 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443#YFZ%20175%20%40Outline_Vpn",
-      "ip": "20.123.12.228",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443#YFZ%20175%20%40Outline_Vpn"
     }
   ]
 }

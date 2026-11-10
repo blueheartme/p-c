@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T18:08:58.871239",
-  "count": 3,
+  "updated": "2026-11-10T05:39:15.001243",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -41,26 +41,6 @@
       "country": "LV",
       "cdn": null,
       "rebuilt": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#vless-xtls-rprx-vision-tcp-reality-chrome-LV%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "31.57.157.155",
-      "port": "443",
-      "id": "ir_iPing",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "video-api.sapi.yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://ir_iPing@31.57.157.155:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RNtJimTsqPkzLddpOXm-b2DmKc5Wnkc0GsnKB3pQxD8&pbk=vWFWTOtjC3LvzN_icxK2V9PrJdM25altKsi--qdU-h4&headerType=none&fp=chrome&spx=%2F5a5c31d86bfcffb&type=tcp&sni=video-api.sapi.yahoo.com&sid=695d7ee489dadb#vless-mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8-tcp-reality-chrome-LV%F0%9F%8C%90-3",
-      "ip": "31.57.157.155",
-      "country": "LV",
-      "cdn": null,
-      "rebuilt": "vless://ir_iPing@31.57.157.155:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.RNtJimTsqPkzLddpOXm-b2DmKc5Wnkc0GsnKB3pQxD8&pbk=vWFWTOtjC3LvzN_icxK2V9PrJdM25altKsi--qdU-h4&headerType=none&fp=chrome&spx=%2F5a5c31d86bfcffb&type=tcp&sni=video-api.sapi.yahoo.com&sid=695d7ee489dadb#vless-mlkem768x25519plus.native.0rtt.rntjimtsqpkzlddpoxm-b2dmkc5wnkc0gsnkb3pqxd8-tcp-reality-chrome-LV%F0%9F%8C%90-3"
     }
   ]
 }
