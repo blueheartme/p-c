@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T04:12:19.952882",
-  "count": 2,
+  "updated": "2026-11-11T15:46:44.323850",
+  "count": 1,
   "configs": [
     {
       "type": "trojan",
@@ -15,26 +15,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-1"
-    },
-    {
-      "type": "vless",
-      "address": "154.44.24.25",
-      "port": "51279",
-      "id": "57beeeb0-03fc-4fc9-94da-7604488a7134",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.tesla.com",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "154.44.24.25",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
