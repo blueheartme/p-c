@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-11T15:46:44.331609",
+  "updated": "2026-11-11T22:25:31.468466",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "109.248.170.119",
-      "port": "13447",
-      "id": "b573cefb-7bc7-4a42-b407-b8b534e66773",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
-      "ip": "109.248.170.119",
+      "type": "vmess",
+      "address": "38.107.234.57",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+      "name": "🇰🇿Kazakhstan ⚡@DeamNet_Proxy",
+      "network": "ws",
+      "host": "viber.com",
+      "sni": "",
+      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfjJAtMSIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2aWJlci5jb20iLCJwYXRoIjoiL3ZtZXNzLyJ9",
+      "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1LWvCfjJAtMSIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2aWJlci5jb20iLCJwYXRoIjoiL3ZtZXNzLyJ9"
     }
   ]
 }
