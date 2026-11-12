@@ -1,21 +1,26 @@
 {
-  "updated": "2026-11-11T15:46:44.322911",
+  "updated": "2026-11-12T16:29:59.153671",
   "count": 1,
   "configs": [
     {
-      "type": "vmess",
-      "address": "152.67.8.205",
-      "port": "80",
-      "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+      "type": "vless",
+      "address": "india.letsconnectpoint.com",
+      "port": "443",
+      "id": "a368752a-32fc-42f3-980a-6b049218b23f",
       "name": "@filembad",
-      "network": "ws",
+      "network": "tcp",
+      "sni": "india.letsconnectpoint.com",
       "host": "",
-      "sni": "🇮🇳in-152.67.8.205-0198 | 2.71mb",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JTvCfh67wn4ezLTEiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoi8J+HrvCfh7Npbi0xNTIuNjcuOC4yMDUtMDE5OCB8IDIuNzFtYiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9",
-      "ip": "152.67.8.205",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "random",
+      "original": "vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?security=reality&encryption=none&pbk=erUEmyU1QK8y2corQh9bOjk0oHl2Mo6Z9WgoyKg_rC0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=india.letsconnectpoint.com&sid=c1e3d5d4#vless-xtls-rprx-vision-tcp-reality-random-IN%F0%9F%87%AE%F0%9F%87%B3-1",
+      "ip": "5.253.30.46",
       "country": "IN",
       "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtYXV0by13cy1JTvCfh67wn4ezLTEiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoi8J+HrvCfh7Npbi0xNTIuNjcuOC4yMDUtMDE5OCB8IDIuNzFtYiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9"
+      "rebuilt": "vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?security=reality&encryption=none&pbk=erUEmyU1QK8y2corQh9bOjk0oHl2Mo6Z9WgoyKg_rC0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=india.letsconnectpoint.com&sid=c1e3d5d4#vless-xtls-rprx-vision-tcp-reality-random-IN%F0%9F%87%AE%F0%9F%87%B3-1"
     }
   ]
 }
