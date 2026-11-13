@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T04:39:10.859125",
-  "count": 4,
+  "updated": "2026-11-13T15:51:37.158318",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -15,32 +15,32 @@
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%8C%90-1",
+      "fingerprint": "firefox",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&spx=%2FHesarWeb&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1",
       "ip": "150.40.126.19",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%8C%90-1"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?encryption=none&type=grpc&security=reality&sni=rs2.univesalsrv.com&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&spx=%2FHesarWeb&serviceName=media.v1.ObjectService&mode=gun#vless-grpc-reality-firefox-RS%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
-      "address": "rs5.univesalsrv.com",
+      "address": "rs2.univesalsrv.com",
       "port": "443",
       "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "Channel : @proxy_kafee",
+      "name": "YFZ 336 @Outline_Vpn",
       "network": "grpc",
-      "sni": "rs5.univesalsrv.com",
+      "sni": "",
       "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?encryption=none&security=reality&sni=rs5.univesalsrv.com&fp=chrome&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&type=grpc&authority=&serviceName=gw.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%8C%90-2",
-      "ip": "150.40.126.24",
+      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sid=1469af2040b7c323#vless-grpc-reality-chrome-RS%F0%9F%8C%90-2",
+      "ip": "150.40.126.19",
       "country": "RS",
       "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?encryption=none&security=reality&sni=rs5.univesalsrv.com&fp=chrome&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&type=grpc&authority=&serviceName=gw.v1.ObjectService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%8C%90-2"
+      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sid=1469af2040b7c323#vless-grpc-reality-chrome-RS%F0%9F%8C%90-2"
     },
     {
       "type": "vless",
@@ -61,26 +61,6 @@
       "country": "RS",
       "cdn": null,
       "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&authority=%2F%3FBIA_TELEGRAMI@VPNine1&serviceName=media.v1.StreamService&mode=gun#vless-grpc-reality-chrome-RS%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
-      "address": "rs2.univesalsrv.com",
-      "port": "443",
-      "id": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "name": "YFZ 336 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sid=1469af2040b7c323#vless-grpc-reality-chrome-RS%F0%9F%8C%90-4",
-      "ip": "150.40.126.19",
-      "country": "RS",
-      "cdn": null,
-      "rebuilt": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sid=1469af2040b7c323#vless-grpc-reality-chrome-RS%F0%9F%8C%90-4"
     }
   ]
 }
