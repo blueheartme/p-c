@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:51:37.155981",
+  "updated": "2026-11-13T21:46:03.970838",
   "count": 4,
   "configs": [
     {
@@ -18,25 +18,31 @@
       "rebuilt": "vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoidm1lc3MtYXV0by10Y3AtdGxzLVNF8J+HuPCfh6otMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ=="
     },
     {
-      "type": "trojan",
-      "address": "95.143.196.97",
+      "type": "vless",
+      "address": "185.189.45.195",
       "port": "443",
-      "password": "FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF",
-      "name": "🇨🇵@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
-      "sni": "connect-se.mimowhat.online",
-      "host": "",
-      "original": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2",
-      "ip": "95.143.196.97",
+      "id": "dd5bed0b-ee77-481b-9f2c-250a632ddd9f",
+      "name": "YFZ 355 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "get.jarbook.net",
+      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "firefox",
+      "original": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2",
+      "ip": "185.189.45.195",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#trojan-tcp-tls-SE%F0%9F%87%B8%F0%9F%87%AA-2"
+      "rebuilt": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-2"
     },
     {
       "type": "vless",
       "address": "get.jarbook.net",
       "port": "443",
       "id": "dd5bed0b-ee77-481b-9f2c-250a632ddd9f",
-      "name": "@filembad",
+      "name": "YFZ 373 @Outline_Vpn",
       "network": "tcp",
       "sni": "get.jarbook.net",
       "host": "",
@@ -53,23 +59,23 @@
     },
     {
       "type": "vless",
-      "address": "185.189.45.195",
+      "address": "185.117.89.74",
       "port": "443",
-      "id": "dd5bed0b-ee77-481b-9f2c-250a632ddd9f",
-      "name": "YFZ 355 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "get.jarbook.net",
-      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+      "name": "@filembad",
+      "network": "grpc",
+      "sni": "seb.kosmosapp.net",
+      "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
-      "ip": "185.189.45.195",
+      "original": "vless://f8cb3c89-32af-4255-bebc-d90aad175069@185.117.89.74:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=seb.kosmosapp.net&mode=gun&serviceName=neurex&encryption=none#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4",
+      "ip": "185.117.89.74",
       "country": "SE",
       "cdn": null,
-      "rebuilt": "vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#vless-xtls-rprx-vision-tcp-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
+      "rebuilt": "vless://f8cb3c89-32af-4255-bebc-d90aad175069@185.117.89.74:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=seb.kosmosapp.net&mode=gun&serviceName=neurex&encryption=none#vless-grpc-reality-firefox-SE%F0%9F%87%B8%F0%9F%87%AA-4"
     }
   ]
 }
