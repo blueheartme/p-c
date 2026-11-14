@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T14:42:30.701036",
-  "count": 2,
+  "updated": "2026-11-14T20:17:50.768715",
+  "count": 1,
   "configs": [
     {
       "type": "vless",
@@ -21,26 +21,6 @@
       "country": "BE",
       "cdn": null,
       "rebuilt": "vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?encryption=none&sni=zealous-vortex.cdn.cachefleet.com&headerType=none&fp=firefox&type=tcp&security=reality&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#vless-xtls-rprx-vision-tcp-reality-firefox-BE%F0%9F%8C%90-1"
-    },
-    {
-      "type": "vless",
-      "address": "109.69.218.163",
-      "port": "443",
-      "id": "664f65f4-33b3-43a3-b9e5-68192d1d428e",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "zealous-vortex.cdn.cachefleet.com",
-      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.163:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-firefox-BE%F0%9F%8C%90-2",
-      "ip": "109.69.218.163",
-      "country": "BE",
-      "cdn": null,
-      "rebuilt": "vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.163:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#vless-xtls-rprx-vision-tcp-reality-firefox-BE%F0%9F%8C%90-2"
     }
   ]
 }
