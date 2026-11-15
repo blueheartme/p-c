@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-27T03:20:26.954648",
+  "updated": "2026-11-15T04:22:40.498722",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "friren.iki-servers.com",
-      "port": "443",
-      "id": "345e0ef7-6861-4722-ab44-799c37507b24",
-      "name": "Channel : @proxy_kafee",
-      "network": "xhttp",
-      "sni": "friren.iki-servers.com",
+      "address": "fast.jexmuk.ir",
+      "port": "44989",
+      "id": "05981755-8790-41f1-8aa0-f59c094f8bf4",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "none",
       "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://345e0ef7-6861-4722-ab44-799c37507b24@friren.iki-servers.com:443?mode=packet-up&path=%2Fshield&security=reality&encryption=none&pbk=iD0nfLVyK9EbtFtKZgj_UcuGINq6yTqQM4jFfuTMFSY&fp=firefox&type=xhttp&sni=friren.iki-servers.com&sid=5f5962cc9ec6b180#vless-xhttp-reality-firefox-DK%F0%9F%8C%90-1",
-      "ip": "193.233.253.138",
+      "encryption": "mlkem768x25519plus.native.0rtt.i1bl1-wozfewuojlb2base5pyncut5tv1xedxxnzwxs",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://05981755-8790-41f1-8aa0-f59c094f8bf4@fast.jexmuk.ir:44989?security=none&encryption=mlkem768x25519plus.native.0rtt.I1bL1-wOzFEWuOjlb2baSe5PyncUT5Tv1xEdxxNzwxs&headerType=none&type=tcp#vless-mlkem768x25519plus.native.0rtt.i1bl1-wozfewuojlb2base5pyncut5tv1xedxxnzwxs-tcp-DK%F0%9F%8C%90-1",
+      "ip": "81.27.110.68",
       "country": "DK",
       "cdn": null,
-      "rebuilt": "vless://345e0ef7-6861-4722-ab44-799c37507b24@friren.iki-servers.com:443?mode=packet-up&path=%2Fshield&security=reality&encryption=none&pbk=iD0nfLVyK9EbtFtKZgj_UcuGINq6yTqQM4jFfuTMFSY&fp=firefox&type=xhttp&sni=friren.iki-servers.com&sid=5f5962cc9ec6b180#vless-xhttp-reality-firefox-DK%F0%9F%8C%90-1"
+      "rebuilt": "vless://05981755-8790-41f1-8aa0-f59c094f8bf4@fast.jexmuk.ir:44989?security=none&encryption=mlkem768x25519plus.native.0rtt.I1bL1-wOzFEWuOjlb2baSe5PyncUT5Tv1xEdxxNzwxs&headerType=none&type=tcp#vless-mlkem768x25519plus.native.0rtt.i1bl1-wozfewuojlb2base5pyncut5tv1xedxxnzwxs-tcp-DK%F0%9F%8C%90-1"
     }
   ]
 }
