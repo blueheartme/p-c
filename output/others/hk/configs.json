@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-15T04:22:40.478184",
-  "count": 3,
+  "updated": "2026-11-15T15:12:34.555024",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
       "address": "156.226.168.221",
       "port": "35193",
       "id": "35cbae61-ee10-4cb9-abb8-4950b35e9851",
-      "name": "🇺🇾@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "name": "🇬🇧@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
       "sni": "www.apple.com",
       "host": "",
@@ -35,26 +35,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
-      "type": "vless",
-      "address": "45.192.193.54",
-      "port": "35600",
-      "id": "8614bde7-34cf-4413-8360-e96f1b960528",
-      "name": "@filembad",
-      "network": "",
-      "sni": "www.iij.ad.jp",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "",
-      "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3",
-      "ip": "45.192.193.54",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#vless-xtls-rprx-vision-tcp-reality-firefox-HK%F0%9F%87%AD%F0%9F%87%B0-3"
     }
   ]
 }
