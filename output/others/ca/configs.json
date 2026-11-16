@@ -1,21 +1,7 @@
 {
-  "updated": "2026-11-15T20:43:16.566108",
+  "updated": "2026-11-16T04:21:26.543667",
   "count": 7,
   "configs": [
-    {
-      "type": "trojan",
-      "address": "216.152.147.89",
-      "port": "443",
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@i10VPN⁴",
-      "sni": "www.connectingpeoplewithgreatjobs.com",
-      "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
-      "ip": "216.152.147.89",
-      "country": "CA",
-      "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
-    },
     {
       "type": "trojan",
       "address": "216.152.147.48",
@@ -24,11 +10,25 @@
       "name": "@i10VPN⁸",
       "sni": "courses.connectingpeoplewithgreatjobs.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1",
       "ip": "216.152.147.48",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-1"
+    },
+    {
+      "type": "trojan",
+      "address": "216.152.147.85",
+      "port": "443",
+      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
+      "name": "@i10VPN¹",
+      "sni": "cdn.connectingpeoplewithgreatjobs.com",
+      "host": "",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2",
+      "ip": "216.152.147.85",
+      "country": "CA",
+      "cdn": null,
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-2"
     },
     {
       "type": "trojan",
@@ -49,34 +49,34 @@
       "address": "66.70.179.198",
       "port": "2053",
       "id": "dc620cd6-a9d8-4a0f-8f18-006b895db77e",
-      "name": "@filembad",
-      "network": "tcp",
+      "name": "🇨🇦Canada+->+🇨🇦Canada+⚡@DeamNet_Proxy",
+      "network": "raw",
       "sni": "www.cloudflare.com",
-      "host": "/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI",
+      "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#vless-raw-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-4",
       "ip": "66.70.179.198",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#vless-tcp-reality-chrome-CA%F0%9F%87%A8%F0%9F%87%A6-4"
+      "rebuilt": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#vless-raw-reality-firefox-CA%F0%9F%87%A8%F0%9F%87%A6-4"
     },
     {
       "type": "trojan",
-      "address": "216.152.147.85",
+      "address": "216.152.147.89",
       "port": "443",
       "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "name": "@i10VPN²",
-      "sni": "cdn.connectingpeoplewithgreatjobs.com",
+      "name": "@i10VPN⁷",
+      "sni": "www.connectingpeoplewithgreatjobs.com",
       "host": "",
-      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
-      "ip": "216.152.147.85",
+      "original": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5",
+      "ip": "216.152.147.89",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
+      "rebuilt": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#trojan-tcp-tls-CA%F0%9F%87%A8%F0%9F%87%A6-5"
     },
     {
       "type": "vmess",
@@ -84,14 +84,14 @@
       "port": "18000",
       "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
       "name": "@filembad",
-      "network": "raw",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "network": "tcp",
+      "host": "",
       "sni": "",
-      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InJhdyIsInBhdGgiOiIvZXlKcWRXNXJJam9pTlVaVldtZFBOV05wVFc1TE9DSXNJbkJ5YjNSdlkyOXNJam9pZG13aUxDSnRiMlJsSWpvaWNISmxabWw0SWl3aWNHRnVaV3hKVUhNaU9sc2lXekkyTURJNlptTTFPVHBpTURvMk5EbzZYU0pkZlEiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tcmF3LUNB8J+HqPCfh6YtNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "original": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
       "ip": "134.195.196.211",
       "country": "CA",
       "cdn": null,
-      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InJhdyIsInBhdGgiOiIvZXlKcWRXNXJJam9pTlVaVldtZFBOV05wVFc1TE9DSXNJbkJ5YjNSdlkyOXNJam9pZG13aUxDSnRiMlJsSWpvaWNISmxabWw0SWl3aWNHRnVaV3hKVUhNaU9sc2lXekkyTURJNlptTTFPVHBpTURvMk5EbzZYU0pkZlEiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InZtZXNzLWF1dG8tcmF3LUNB8J+HqPCfh6YtNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
+      "rebuilt": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoidm1lc3MtYXV0by10Y3AtQ0Hwn4eo8J+Hpi02Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     },
     {
       "type": "trojan",
