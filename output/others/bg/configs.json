@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T17:47:18.421393",
-  "count": 4,
+  "updated": "2026-11-17T06:05:28.457877",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
@@ -24,46 +24,6 @@
     },
     {
       "type": "vless",
-      "address": "88.80.150.15",
-      "port": "443",
-      "id": "1d46250c-f015-439d-a7fd-c4d9e2a4c63d",
-      "name": "",
-      "network": "grpc",
-      "sni": "bg2.oncloudvpn.com",
-      "host": "bg2.oncloudvpn.com",
-      "security": "tls",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "edge",
-      "original": "vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#vless-grpc-tls-edge-BG%F0%9F%8C%90-2",
-      "ip": "88.80.150.15",
-      "country": "BG",
-      "cdn": null,
-      "rebuilt": "vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#vless-grpc-tls-edge-BG%F0%9F%8C%90-2"
-    },
-    {
-      "type": "vless",
-      "address": "131.123.41.146",
-      "port": "443",
-      "id": "3422d3c1-dec4-4387-96da-d1b56c5f2318",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "yabs.yandex.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://3422d3c1-dec4-4387-96da-d1b56c5f2318@131.123.41.146:443?security=reality&encryption=none&pbk=QBdNaEKW772qSR7mxLOS0d7HUOWPV2Ek3Ku8ju53vWw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yabs.yandex.ru&sid=70e44abe428e676c#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%8C%90-3",
-      "ip": "131.123.41.146",
-      "country": "BG",
-      "cdn": null,
-      "rebuilt": "vless://3422d3c1-dec4-4387-96da-d1b56c5f2318@131.123.41.146:443?security=reality&encryption=none&pbk=QBdNaEKW772qSR7mxLOS0d7HUOWPV2Ek3Ku8ju53vWw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yabs.yandex.ru&sid=70e44abe428e676c#vless-xtls-rprx-vision-tcp-reality-firefox-BG%F0%9F%8C%90-3"
-    },
-    {
-      "type": "vless",
       "address": "p11real1.greewebservices.ir",
       "port": "1020",
       "id": "56795a1d-0ffd-464f-86fb-c5eddd3ecce0",
@@ -76,11 +36,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "ios",
-      "original": "vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%8C%90-4",
+      "original": "vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%8C%90-2",
       "ip": "131.123.43.87",
       "country": "BG",
       "cdn": null,
-      "rebuilt": "vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%8C%90-4"
+      "rebuilt": "vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#vless-tcp-reality-ios-BG%F0%9F%8C%90-2"
+    },
+    {
+      "type": "vless",
+      "address": "88.80.150.15",
+      "port": "443",
+      "id": "1d46250c-f015-439d-a7fd-c4d9e2a4c63d",
+      "name": "🏴‍☠️",
+      "network": "grpc",
+      "sni": "bg2.oncloudvpn.com",
+      "host": "bg2.oncloudvpn.com",
+      "security": "tls",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "edge",
+      "original": "vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#vless-grpc-tls-edge-BG%F0%9F%8C%90-3",
+      "ip": "88.80.150.15",
+      "country": "BG",
+      "cdn": null,
+      "rebuilt": "vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#vless-grpc-tls-edge-BG%F0%9F%8C%90-3"
     }
   ]
 }
