@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-17T17:17:45.846945",
+  "updated": "2026-11-18T05:33:43.502380",
   "count": 4,
   "configs": [
-    {
-      "type": "vless",
-      "address": "72.35.246.39",
-      "port": "2053",
-      "id": "b6c29ae7-4748-4049-b642-b695c0d2c776",
-      "name": "YFZ 368 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "vk.ru",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1",
-      "ip": "72.35.246.39",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-1"
-    },
     {
       "type": "vless",
       "address": "13.143.166.245",
@@ -36,11 +16,45 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "safari",
-      "original": "vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#vless-xtls-rprx-vision-tcp-reality-safari-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "original": "vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#vless-xtls-rprx-vision-tcp-reality-safari-FI%F0%9F%87%AB%F0%9F%87%AE-1",
       "ip": "13.143.166.245",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#vless-xtls-rprx-vision-tcp-reality-safari-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+      "rebuilt": "vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#vless-xtls-rprx-vision-tcp-reality-safari-FI%F0%9F%87%AB%F0%9F%87%AE-1"
+    },
+    {
+      "type": "vless",
+      "address": "72.35.246.39",
+      "port": "2053",
+      "id": "b6c29ae7-4748-4049-b642-b695c0d2c776",
+      "name": "YFZ 368 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "vk.ru",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2",
+      "ip": "72.35.246.39",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#vless-xtls-rprx-vision-tcp-reality-FI%F0%9F%87%AB%F0%9F%87%AE-2"
+    },
+    {
+      "type": "trojan",
+      "address": "fi.zhabulik.ru",
+      "port": "443",
+      "password": "WFer-5gN21nfHbVB2N8s71Z74EPUfzVj",
+      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
+      "sni": "fi.zhabulik.ru",
+      "host": "",
+      "original": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "ip": "13.140.198.181",
+      "country": "FI",
+      "cdn": null,
+      "rebuilt": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-3"
     },
     {
       "type": "vless",
@@ -56,25 +70,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "firefox",
-      "original": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#vless-xhttp-tls-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3",
+      "original": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#vless-xhttp-tls-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-4",
       "ip": "2.26.93.109",
       "country": "FI",
       "cdn": null,
-      "rebuilt": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#vless-xhttp-tls-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-3"
-    },
-    {
-      "type": "trojan",
-      "address": "fi.zhabulik.ru",
-      "port": "443",
-      "password": "WFer-5gN21nfHbVB2N8s71Z74EPUfzVj",
-      "name": "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚",
-      "sni": "fi.zhabulik.ru",
-      "host": "",
-      "original": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-4",
-      "ip": "13.140.198.181",
-      "country": "FI",
-      "cdn": null,
-      "rebuilt": "trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#trojan-tcp-tls-FI%F0%9F%87%AB%F0%9F%87%AE-4"
+      "rebuilt": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=swo2.nexfile.net#vless-xhttp-tls-firefox-FI%F0%9F%87%AB%F0%9F%87%AE-4"
     }
   ]
 }
