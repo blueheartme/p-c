@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-13T04:39:10.874463",
+  "updated": "2026-11-18T16:52:50.132969",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "83.147.13.74",
-      "port": "8443",
-      "id": "eb8c97f7-a154-4442-91b0-54c0d055ad0b",
-      "name": "🇨🇦@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
+      "address": "85.237.207.221",
+      "port": "443",
+      "id": "b59bcb5b-5150-4c6b-9227-681886197014",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "github.githubassets.com",
+      "sni": "dl.google.com",
       "host": "",
       "security": "reality",
-      "flow": "",
+      "flow": "xtls-rprx-vision",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&encryption=none&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&headerType=none&fp=chrome&type=tcp&sni=github.githubassets.com&sid=4ad2e4e660550e43#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
-      "ip": "83.147.13.74",
+      "original": "vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&sid=fd2fa5e06670120b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1",
+      "ip": "85.237.207.221",
       "country": "TW",
       "cdn": null,
-      "rebuilt": "vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@83.147.13.74:8443?security=reality&encryption=none&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&headerType=none&fp=chrome&type=tcp&sni=github.githubassets.com&sid=4ad2e4e660550e43#vless-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
+      "rebuilt": "vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&sid=fd2fa5e06670120b#vless-xtls-rprx-vision-tcp-reality-chrome-TW%F0%9F%87%B9%F0%9F%87%BC-1"
     }
   ]
 }
