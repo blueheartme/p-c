@@ -1,67 +1,7 @@
 {
-  "updated": "2026-11-18T16:52:50.123014",
-  "count": 4,
+  "updated": "2026-11-19T05:31:55.366586",
+  "count": 1,
   "configs": [
-    {
-      "type": "vless",
-      "address": "77.92.151.69",
-      "port": "24872",
-      "id": "6189e901-5f8f-472f-8350-ca19e911ea2d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:24872?security=reality&encryption=none&pbk=C0V-jNMYWeV8p9lr43LH70q9_siZ4ptfnreG3Lmo6U0&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2F997906f28fadec1&type=tcp&sni=www.cloudflare.com&sid=4d082741#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "77.92.151.69",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:24872?security=reality&encryption=none&pbk=C0V-jNMYWeV8p9lr43LH70q9_siZ4ptfnreG3Lmo6U0&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2F997906f28fadec1&type=tcp&sni=www.cloudflare.com&sid=4d082741#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
-    {
-      "type": "vless",
-      "address": "77.92.151.69",
-      "port": "443",
-      "id": "6189e901-5f8f-472f-8350-ca19e911ea2d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "www.cloudflare.com",
-      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:443?security=reality&encryption=none&pbk=7M8x46mbkMYaiBBdaEd95eMQ7-Gp6P_tKZdZQVHMQSg&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2F1a61de343c6662b&type=tcp&sni=www.cloudflare.com&sid=642f45a2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
-      "ip": "77.92.151.69",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:443?security=reality&encryption=none&pbk=7M8x46mbkMYaiBBdaEd95eMQ7-Gp6P_tKZdZQVHMQSg&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2F1a61de343c6662b&type=tcp&sni=www.cloudflare.com&sid=642f45a2#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
-    },
-    {
-      "type": "vless",
-      "address": "77.92.151.69",
-      "port": "8080",
-      "id": "6189e901-5f8f-472f-8350-ca19e911ea2d",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "blog.api.www.cloudflare.com",
-      "host": "/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:8080?security=reality&encryption=none&pbk=5iz8TJbxugi8Su3Ov4yT7OCUicu-CLl1QjhQ0lBGJ00&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2Fc1d2f6cd157ca22&type=tcp&sni=blog.api.www.cloudflare.com&sid=e300fd1b#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3",
-      "ip": "77.92.151.69",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://6189e901-5f8f-472f-8350-ca19e911ea2d@77.92.151.69:8080?security=reality&encryption=none&pbk=5iz8TJbxugi8Su3Ov4yT7OCUicu-CLl1QjhQ0lBGJ00&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&spx=%2Fc1d2f6cd157ca22&type=tcp&sni=blog.api.www.cloudflare.com&sid=e300fd1b#vless-tcp-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-3"
-    },
     {
       "type": "vless",
       "address": "77.92.151.84",
@@ -76,11 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "chrome",
-      "original": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4",
+      "original": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "77.92.151.84",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-4"
+      "rebuilt": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     }
   ]
 }

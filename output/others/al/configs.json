@@ -1,19 +1,26 @@
 {
-  "updated": "2026-11-18T16:52:50.137355",
+  "updated": "2026-11-19T05:31:55.369461",
   "count": 1,
   "configs": [
     {
-      "type": "ss",
-      "address": "130.49.189.158",
-      "port": "43558",
-      "method": "chacha20-ietf-poly1305",
-      "password": "yZiPrr484OdSYcivDUv+UIygwvyW+HQYytKsIgTw9tU=",
+      "type": "vless",
+      "address": "alb.rvpn.online",
+      "port": "443",
+      "id": "89JvSXAa4rpktO",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%40filembad",
-      "ip": "130.49.189.158",
+      "network": "tcp",
+      "sni": "www.heise.de",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "chrome",
+      "original": "vless://89JvSXAa4rpktO@alb.rvpn.online:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=f5bce2ac#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1",
+      "ip": "157.22.240.50",
       "country": "AL",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%40filembad"
+      "rebuilt": "vless://89JvSXAa4rpktO@alb.rvpn.online:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=f5bce2ac#vless-xtls-rprx-vision-tcp-reality-chrome-AL%F0%9F%8C%90-1"
     }
   ]
 }
