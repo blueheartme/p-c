@@ -1,20 +1,7 @@
 {
-  "updated": "2026-11-19T05:31:55.347604",
+  "updated": "2026-11-19T16:59:37.874589",
   "count": 9,
   "configs": [
-    {
-      "type": "ss",
-      "address": "185.164.175.81",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "YFZ 421 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#YFZ%20421%20%40Outline_Vpn",
-      "ip": "185.164.175.81",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#YFZ%20421%20%40Outline_Vpn"
-    },
     {
       "type": "vless",
       "address": "179.255.190.21",
@@ -29,24 +16,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-IT%F0%9F%8C%90-2",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-IT%F0%9F%8C%90-1",
       "ip": "179.255.190.21",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-IT%F0%9F%8C%90-2"
-    },
-    {
-      "type": "ss",
-      "address": "202.50.253.45",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@i10VPN⁵",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40i10VPN%E2%81%B5",
-      "ip": "202.50.253.45",
-      "country": "IT",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40i10VPN%E2%81%B5"
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-IT%F0%9F%8C%90-1"
     },
     {
       "type": "ss",
@@ -76,6 +50,19 @@
     },
     {
       "type": "ss",
+      "address": "185.164.175.81",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "YFZ 421 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#YFZ%20421%20%40Outline_Vpn",
+      "ip": "185.164.175.81",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#YFZ%20421%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
       "address": "57.131.21.102",
       "port": "8080",
       "method": "chacha20-ietf-poly1305",
@@ -89,16 +76,29 @@
     },
     {
       "type": "ss",
-      "address": "57.131.4.13",
-      "port": "8080",
-      "method": "chacha20-ietf-poly1305",
-      "password": "mx81glqbtlwuhcjo",
-      "name": "YFZ 398 @Outline_Vpn",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#YFZ%20398%20%40Outline_Vpn",
-      "ip": "57.131.4.13",
+      "address": "202.50.253.81",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@i10VPN¹",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%C2%B9",
+      "ip": "202.50.253.81",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#YFZ%20398%20%40Outline_Vpn"
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%C2%B9"
+    },
+    {
+      "type": "ss",
+      "address": "202.50.253.45",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "@i10VPN⁵",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40i10VPN%E2%81%B5",
+      "ip": "202.50.253.45",
+      "country": "IT",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40i10VPN%E2%81%B5"
     },
     {
       "type": "ss",
@@ -115,16 +115,16 @@
     },
     {
       "type": "ss",
-      "address": "202.50.253.81",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "@i10VPN¹",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%C2%B9",
-      "ip": "202.50.253.81",
+      "address": "57.131.4.13",
+      "port": "8080",
+      "method": "chacha20-ietf-poly1305",
+      "password": "mx81glqbtlwuhcjo",
+      "name": "YFZ 398 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#YFZ%20398%20%40Outline_Vpn",
+      "ip": "57.131.4.13",
       "country": "IT",
       "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40i10VPN%C2%B9"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#YFZ%20398%20%40Outline_Vpn"
     }
   ]
 }
