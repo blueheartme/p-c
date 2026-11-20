@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-20T05:20:14.742206",
-  "count": 1,
+  "updated": "2026-11-20T16:35:59.726350",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "152.53.1.57",
+      "port": "8388",
+      "method": "chacha20-ietf-poly1305",
+      "password": "AdawffFMHymlasRb0VOP3HFf7sTG5sJx",
+      "name": "YFZ 459 @Outline_Vpn",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#YFZ%20459%20%40Outline_Vpn",
+      "ip": "152.53.1.57",
+      "country": "AT",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#YFZ%20459%20%40Outline_Vpn"
+    },
     {
       "type": "vless",
       "address": "193.219.97.198",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1",
+      "original": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2",
       "ip": "193.219.97.198",
       "country": "AT",
       "cdn": null,
-      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-1"
+      "rebuilt": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#vless-ws-tls-AT%F0%9F%87%A6%F0%9F%87%B9-2"
     }
   ]
 }
