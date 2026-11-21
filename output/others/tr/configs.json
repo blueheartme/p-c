@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T15:51:33.606416",
-  "count": 2,
+  "updated": "2026-11-21T21:24:34.436513",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -41,6 +41,32 @@
       "country": "TR",
       "cdn": null,
       "rebuilt": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+    },
+    {
+      "type": "ss",
+      "address": "136.148.64.74",
+      "port": "45061",
+      "method": "chacha20-ietf-poly1305",
+      "password": "9zXo2bPItCfjfpY3Uf6F0kq-QTwrV0zn",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:45061#%40filembad",
+      "ip": "136.148.64.74",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:45061#%40filembad"
+    },
+    {
+      "type": "ss",
+      "address": "136.148.64.74",
+      "port": "80",
+      "method": "chacha20-ietf-poly1305",
+      "password": "9zXo2bPItCfjfpY3Uf6F0kq-QTwrV0zn",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:80#%40filembad",
+      "ip": "136.148.64.74",
+      "country": "TR",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:80#%40filembad"
     }
   ]
 }
