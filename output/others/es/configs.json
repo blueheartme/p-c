@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-19T05:31:55.378792",
+  "updated": "2026-11-21T15:51:33.581865",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "185.176.9.26",
-      "port": "443",
-      "id": "8197b9b9-8945-460f-99c9-325ef8a8a7c3",
+      "address": "208.76.223.30",
+      "port": "40118",
+      "id": "29872718-970b-493e-abc9-524fa266d16b",
       "name": "@filembad",
       "network": "tcp",
-      "sni": "es1.gofizz.in",
+      "sni": "delivery.mp.microsoft.com",
       "host": "",
       "security": "reality",
-      "flow": "xtls-rprx-vision",
+      "flow": "",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1",
-      "ip": "185.176.9.26",
+      "fingerprint": "firefox",
+      "original": "vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=6115f6a9eb8467c6#vless-tcp-reality-firefox-ES%F0%9F%8C%90-1",
+      "ip": "208.76.223.30",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&encryption=none&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=es1.gofizz.in&sid=85750bd7#vless-xtls-rprx-vision-tcp-reality-chrome-ES%F0%9F%8C%90-1"
+      "rebuilt": "vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=6115f6a9eb8467c6#vless-tcp-reality-firefox-ES%F0%9F%8C%90-1"
     }
   ]
 }

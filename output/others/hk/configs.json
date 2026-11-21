@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-21T05:13:05.776439",
-  "count": 4,
+  "updated": "2026-11-21T15:51:33.611720",
+  "count": 3,
   "configs": [
     {
       "type": "vless",
       "address": "189.30.65.203",
       "port": "2083",
       "id": "490dc3b4-8d1d-49fd-840e-bd5277b41557",
-      "name": "YFZ 440 @Outline_Vpn",
+      "name": "YFZ 467 @Outline_Vpn",
       "network": "grpc",
       "sni": "",
       "host": "",
@@ -55,21 +55,6 @@
       "country": "HK",
       "cdn": null,
       "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
-    },
-    {
-      "type": "vmess",
-      "address": "47.244.120.197",
-      "port": "36703",
-      "id": "45b83519-9c4f-4052-a11b-02e017b636d4",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "",
-      "sni": null,
-      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjozNjcwMywiaWQiOiI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvYXJraSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgQUNDMkMzIn0=",
-      "ip": "47.244.120.197",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtSEvwn4et8J+HsC00IiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjozNjcwMywiaWQiOiI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvYXJraSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgQUNDMkMzIn0="
     }
   ]
 }
