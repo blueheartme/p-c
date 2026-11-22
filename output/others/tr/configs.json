@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-21T21:24:34.436513",
-  "count": 4,
+  "updated": "2026-11-22T04:39:10.275005",
+  "count": 2,
   "configs": [
-    {
-      "type": "vless",
-      "address": "77.92.151.84",
-      "port": "8080",
-      "id": "10664038-6dcf-44ee-af41-af68c8977aa7",
-      "name": "YFZ 390 @Outline_Vpn",
-      "network": "grpc",
-      "sni": "sheet.google.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1",
-      "ip": "77.92.151.84",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-1"
-    },
     {
       "type": "vless",
       "address": "areal5.greewebservices.ir",
@@ -36,37 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "edge",
-      "original": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "original": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-1",
       "ip": "217.11.164.169",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-2"
+      "rebuilt": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#vless-tcp-reality-edge-TR%F0%9F%87%B9%F0%9F%87%B7-1"
     },
     {
-      "type": "ss",
-      "address": "136.148.64.74",
-      "port": "45061",
-      "method": "chacha20-ietf-poly1305",
-      "password": "9zXo2bPItCfjfpY3Uf6F0kq-QTwrV0zn",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:45061#%40filembad",
-      "ip": "136.148.64.74",
+      "type": "vless",
+      "address": "77.92.151.84",
+      "port": "8080",
+      "id": "10664038-6dcf-44ee-af41-af68c8977aa7",
+      "name": "YFZ 390 @Outline_Vpn",
+      "network": "grpc",
+      "sni": "sheet.google.com",
+      "host": "",
+      "security": "reality",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2",
+      "ip": "77.92.151.84",
       "country": "TR",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:45061#%40filembad"
-    },
-    {
-      "type": "ss",
-      "address": "136.148.64.74",
-      "port": "80",
-      "method": "chacha20-ietf-poly1305",
-      "password": "9zXo2bPItCfjfpY3Uf6F0kq-QTwrV0zn",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:80#%40filembad",
-      "ip": "136.148.64.74",
-      "country": "TR",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5elhvMmJQSXRDZmpmcFkzVWY2RjBrcS1RVHdyVjB6bg@136.148.64.74:80#%40filembad"
+      "rebuilt": "vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#vless-grpc-reality-chrome-TR%F0%9F%87%B9%F0%9F%87%B7-2"
     }
   ]
 }

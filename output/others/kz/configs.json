@@ -1,26 +1,21 @@
 {
-  "updated": "2026-11-21T15:51:33.625734",
+  "updated": "2026-11-22T04:39:10.270142",
   "count": 1,
   "configs": [
     {
-      "type": "vless",
-      "address": "109.248.170.119",
-      "port": "13447",
-      "id": "b573cefb-7bc7-4a42-b407-b8b534e66773",
+      "type": "vmess",
+      "address": "38.107.234.57",
+      "port": "80",
+      "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "yahoo.com",
-      "host": "",
-      "security": "reality",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "chrome",
-      "original": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-1",
-      "ip": "109.248.170.119",
+      "network": "ws",
+      "host": "viber.com",
+      "sni": null,
+      "original": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4yQLTEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2aWJlci5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiS1og8J+HsPCfh78gfCBAUmF5ZGlrYWx4IHwgRDBCREM5Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "ip": "38.107.234.57",
       "country": "KZ",
       "cdn": null,
-      "rebuilt": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#vless-tcp-reality-chrome-KZ%F0%9F%8C%90-1"
+      "rebuilt": "vmess://eyJ2IjpudWxsLCJwcyI6InZtZXNzLWF1dG8td3MtS1rwn4yQLTEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2aWJlci5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiS1og8J+HsPCfh78gfCBAUmF5ZGlrYWx4IHwgRDBCREM5Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
     }
   ]
 }
