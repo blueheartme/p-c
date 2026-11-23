@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-22T21:27:15.000791",
+  "updated": "2026-11-23T05:15:51.680442",
   "count": 3,
   "configs": [
+    {
+      "type": "vless",
+      "address": "178.94.25.73",
+      "port": "10443",
+      "id": "2dacc738-5720-4824-b8bc-e3db57596ba7",
+      "name": "YFZ 508 @Outline_Vpn",
+      "network": "tcp",
+      "sni": "",
+      "host": "",
+      "security": "none",
+      "flow": "",
+      "encryption": "none",
+      "headerType": "none",
+      "fingerprint": "",
+      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "ip": "178.94.25.73",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+    },
     {
       "type": "ss",
       "address": "149.88.107.74",
@@ -27,26 +47,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn"
-    },
-    {
-      "type": "vless",
-      "address": "178.94.25.73",
-      "port": "10443",
-      "id": "2dacc738-5720-4824-b8bc-e3db57596ba7",
-      "name": "YFZ 508 @Outline_Vpn",
-      "network": "tcp",
-      "sni": "",
-      "host": "",
-      "security": "none",
-      "flow": "",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3",
-      "ip": "178.94.25.73",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-3"
     }
   ]
 }
