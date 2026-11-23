@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-01T20:03:49.900466",
+  "updated": "2026-11-23T19:44:18.099668",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "195.123.245.231",
+      "address": "37.46.210.249",
       "port": "443",
-      "id": "902e7be9-d0a8-42a6-994f-8320916a9d9e",
-      "name": "Channel : @proxy_kafee",
+      "id": "da7d700d-5ee8-4c6b-8c65-f047efc50a5d",
+      "name": "@filembad",
       "network": "tcp",
-      "sni": "cheh.mtmajestic.space",
+      "sni": "cz249.lelushlamperush.men",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
       "encryption": "none",
       "headerType": "none",
-      "fingerprint": "firefox",
-      "original": "vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@195.123.245.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cheh.mtmajestic.space&fp=firefox&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1",
-      "ip": "195.123.245.231",
+      "fingerprint": "",
+      "original": "vless://da7d700d-5ee8-4c6b-8c65-f047efc50a5d@37.46.210.249:443?security=reality&encryption=none&pbk=M8VTYdxxug-_1YgSdQFEiXMShqtHkO804rfdOHeGrCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz249.lelushlamperush.men&sid=aa543b3e78169051#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1",
+      "ip": "37.46.210.249",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@195.123.245.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cheh.mtmajestic.space&fp=firefox&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&type=tcp&headerType=none#vless-xtls-rprx-vision-tcp-reality-firefox-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://da7d700d-5ee8-4c6b-8c65-f047efc50a5d@37.46.210.249:443?security=reality&encryption=none&pbk=M8VTYdxxug-_1YgSdQFEiXMShqtHkO804rfdOHeGrCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz249.lelushlamperush.men&sid=aa543b3e78169051#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1"
     }
   ]
 }

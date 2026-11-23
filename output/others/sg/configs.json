@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-23T05:15:51.680442",
-  "count": 3,
+  "updated": "2026-11-23T19:44:18.110868",
+  "count": 4,
   "configs": [
+    {
+      "type": "ss",
+      "address": "149.88.106.73",
+      "port": "19999",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "name": "YFZ 449 @Outline_Vpn",
+      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn",
+      "ip": "149.88.106.73",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn"
+    },
     {
       "type": "vless",
       "address": "178.94.25.73",
@@ -16,11 +29,24 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1",
+      "original": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2",
       "ip": "178.94.25.73",
       "country": "SG",
       "cdn": null,
-      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-1"
+      "rebuilt": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#vless-tcp-SG%F0%9F%87%B8%F0%9F%87%AC-2"
+    },
+    {
+      "type": "ss",
+      "address": "43.160.213.146",
+      "port": "8388",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "ClzJLvRzIxivCXbf5X5jnSU0pLg5ffCEUL2AZoeLg94=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad",
+      "ip": "43.160.213.146",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad"
     },
     {
       "type": "ss",
@@ -34,19 +60,6 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#YFZ%20507%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "149.88.106.73",
-      "port": "19999",
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "name": "YFZ 449 @Outline_Vpn",
-      "original": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn",
-      "ip": "149.88.106.73",
-      "country": "SG",
-      "cdn": null,
-      "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn"
     }
   ]
 }
