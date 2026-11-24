@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T07:57:47.065131",
-  "count": 3,
+  "updated": "2026-11-24T19:22:03.614559",
+  "count": 4,
   "configs": [
     {
       "type": "vless",
@@ -34,6 +34,19 @@
       "country": "SG",
       "cdn": null,
       "rebuilt": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#YFZ%20449%20%40Outline_Vpn"
+    },
+    {
+      "type": "ss",
+      "address": "43.160.213.146",
+      "port": "8388",
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "ClzJLvRzIxivCXbf5X5jnSU0pLg5ffCEUL2AZoeLg94=",
+      "name": "@filembad",
+      "original": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad",
+      "ip": "43.160.213.146",
+      "country": "SG",
+      "cdn": null,
+      "rebuilt": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#%40filembad"
     },
     {
       "type": "ss",
