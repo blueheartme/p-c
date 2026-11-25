@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:22:03.603469",
+  "updated": "2026-11-25T06:34:27.780361",
   "count": 2,
   "configs": [
     {
@@ -14,13 +14,13 @@
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "",
+      "headerType": "none",
       "fingerprint": "",
-      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%8C%90-1",
+      "original": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-LT%F0%9F%8C%90-1",
       "ip": "84.32.209.118",
       "country": "LT",
       "cdn": null,
-      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#vless-tcp-reality-LT%F0%9F%8C%90-1"
+      "rebuilt": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#vless-tcp-reality-LT%F0%9F%8C%90-1"
     },
     {
       "type": "vless",
