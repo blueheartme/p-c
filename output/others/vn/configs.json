@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-18T05:33:43.517721",
+  "updated": "2026-11-25T18:21:14.313845",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "kir3.crackerbinam.org",
-      "port": "56026",
-      "id": "a1f0cbb8-c74a-4c27-b881-7b14d96aece1",
-      "name": "@filembad",
+      "address": "103.162.14.250",
+      "port": "25272",
+      "id": "f592a058-bfb6-447e-b849-fd169b65b301",
+      "name": "🇫🇮@vpn_ioss ♻️ سرورهای بیشتر عضو شو",
       "network": "tcp",
       "sni": "www.cloudflare.com",
-      "host": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+      "host": "",
       "security": "reality",
       "flow": "",
       "encryption": "none",
-      "headerType": "none",
+      "headerType": "http",
       "fingerprint": "chrome",
-      "original": "vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-tcp-reality-chrome-VN%F0%9F%8C%90-1",
-      "ip": "103.163.24.22",
+      "original": "vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#vless-tcp-http-reality-chrome-VN%F0%9F%8C%90-1",
+      "ip": "103.162.14.250",
       "country": "VN",
       "cdn": null,
-      "rebuilt": "vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#vless-tcp-reality-chrome-VN%F0%9F%8C%90-1"
+      "rebuilt": "vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#vless-tcp-http-reality-chrome-VN%F0%9F%8C%90-1"
     }
   ]
 }
