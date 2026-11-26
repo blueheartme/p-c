@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-23T19:44:18.100403",
+  "updated": "2026-11-26T18:01:51.820257",
   "count": 1,
   "configs": [
     {
       "type": "ss",
-      "address": "20.87.216.236",
-      "port": "443",
+      "address": "102.37.97.69",
+      "port": "443?type=tcp",
       "method": "chacha20-ietf-poly1305",
-      "password": "2wzvVEJDjpMopRAk",
+      "password": "dx5z2bzpn0tTpYzv",
       "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyd3p2VkVKRGpwTW9wUkFr@20.87.216.236:443#%40filembad",
-      "ip": "20.87.216.236",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeDV6MmJ6cG4wdFRwWXp2@102.37.97.69:443?type=tcp#%40filembad",
+      "ip": "102.37.97.69",
       "country": "ZA",
       "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyd3p2VkVKRGpwTW9wUkFr@20.87.216.236:443#%40filembad"
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeDV6MmJ6cG4wdFRwWXp2@102.37.97.69:443?type=tcp#%40filembad"
     }
   ]
 }

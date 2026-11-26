@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-23T19:44:18.099668",
+  "updated": "2026-11-26T18:01:51.816105",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "37.46.210.249",
+      "address": "5.39.202.153",
       "port": "443",
-      "id": "da7d700d-5ee8-4c6b-8c65-f047efc50a5d",
+      "id": "c0742f77-5495-43bf-b007-88d368774d7c",
       "name": "@filembad",
-      "network": "tcp",
-      "sni": "cz249.lelushlamperush.men",
+      "network": "raw",
+      "sni": "czek.oblachniy.ink",
       "host": "",
       "security": "reality",
       "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "none",
-      "fingerprint": "",
-      "original": "vless://da7d700d-5ee8-4c6b-8c65-f047efc50a5d@37.46.210.249:443?security=reality&encryption=none&pbk=M8VTYdxxug-_1YgSdQFEiXMShqtHkO804rfdOHeGrCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz249.lelushlamperush.men&sid=aa543b3e78169051#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1",
-      "ip": "37.46.210.249",
+      "encryption": "",
+      "headerType": "",
+      "fingerprint": "firefox",
+      "original": "vless://c0742f77-5495-43bf-b007-88d368774d7c@5.39.202.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=czek.oblachniy.ink&type=raw#vless-xtls-rprx-vision-raw-reality-firefox-CZ%F0%9F%8C%90-1",
+      "ip": "5.39.202.153",
       "country": "CZ",
       "cdn": null,
-      "rebuilt": "vless://da7d700d-5ee8-4c6b-8c65-f047efc50a5d@37.46.210.249:443?security=reality&encryption=none&pbk=M8VTYdxxug-_1YgSdQFEiXMShqtHkO804rfdOHeGrCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz249.lelushlamperush.men&sid=aa543b3e78169051#vless-xtls-rprx-vision-tcp-reality-CZ%F0%9F%8C%90-1"
+      "rebuilt": "vless://c0742f77-5495-43bf-b007-88d368774d7c@5.39.202.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=czek.oblachniy.ink&type=raw#vless-xtls-rprx-vision-raw-reality-firefox-CZ%F0%9F%8C%90-1"
     }
   ]
 }
