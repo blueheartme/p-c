@@ -1,20 +1,7 @@
 {
-  "updated": "2026-11-26T18:01:51.813401",
-  "count": 4,
+  "updated": "2026-11-27T06:15:01.701704",
+  "count": 3,
   "configs": [
-    {
-      "type": "ss",
-      "address": "20.166.121.63",
-      "port": "443",
-      "method": "chacha20-ietf-poly1305",
-      "password": "RoARJLTlMJOFVIuQ",
-      "name": "Channel : @proxy_kafee",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#Channel%20%3A%20%40proxy_kafee%20",
-      "ip": "20.166.121.63",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#Channel%20%3A%20%40proxy_kafee%20"
-    },
     {
       "type": "ss",
       "address": "20.238.125.195",
@@ -30,6 +17,19 @@
     },
     {
       "type": "ss",
+      "address": "20.166.121.63",
+      "port": "443",
+      "method": "chacha20-ietf-poly1305",
+      "password": "RoARJLTlMJOFVIuQ",
+      "name": "Channel : @proxy_kafee",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#Channel%20%3A%20%40proxy_kafee%20",
+      "ip": "20.166.121.63",
+      "country": "IE",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#Channel%20%3A%20%40proxy_kafee%20"
+    },
+    {
+      "type": "ss",
       "address": "20.238.32.201",
       "port": "443",
       "method": "chacha20-ietf-poly1305",
@@ -40,19 +40,6 @@
       "country": "IE",
       "cdn": null,
       "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGSlJBcG1mdUMzRjE0Y0ZG@20.238.32.201:443#YFZ%20453%20%40Outline_Vpn"
-    },
-    {
-      "type": "ss",
-      "address": "20.166.121.63",
-      "port": "443?type=tcp",
-      "method": "chacha20-ietf-poly1305",
-      "password": "RoARJLTlMJOFVIuQ",
-      "name": "@filembad",
-      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443?type=tcp#%40filembad",
-      "ip": "20.166.121.63",
-      "country": "IE",
-      "cdn": null,
-      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443?type=tcp#%40filembad"
     }
   ]
 }
