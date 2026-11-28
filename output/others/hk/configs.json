@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T05:54:35.887930",
-  "count": 3,
+  "updated": "2026-11-28T16:33:21.813655",
+  "count": 2,
   "configs": [
     {
       "type": "vless",
@@ -23,26 +23,6 @@
       "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-1"
     },
     {
-      "type": "vless",
-      "address": "38.207.172.59",
-      "port": "28418",
-      "id": "e6552569-97ce-430c-a324-53ad1c546e05",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "op.gg",
-      "host": "",
-      "security": "reality",
-      "flow": "xtls-rprx-vision",
-      "encryption": "none",
-      "headerType": "",
-      "fingerprint": "chrome",
-      "original": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?encryption=none&flow=xtls-rprx-vision&security=reality&sni=op.gg&fp=chrome&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
-      "ip": "38.207.172.59",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?encryption=none&flow=xtls-rprx-vision&security=reality&sni=op.gg&fp=chrome&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
-    },
-    {
       "type": "trojan",
       "address": "219.79.214.159",
       "port": "443",
@@ -50,11 +30,11 @@
       "name": "Hong Kong Netvigator",
       "sni": "t.me%2Fripaojiedian",
       "host": "",
-      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3",
+      "original": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2",
       "ip": "219.79.214.159",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-3"
+      "rebuilt": "trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#trojan-tcp-tls-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     }
   ]
 }
