@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-15T20:43:16.585971",
+  "updated": "2026-11-28T05:54:35.921361",
   "count": 1,
   "configs": [
     {
       "type": "vless",
-      "address": "f3b21at.de18.h1clayd.click",
+      "address": "api.ferrin.uk",
       "port": "443",
-      "id": "4618cebd-e1e9-45c3-be98-d9d6e3ee8bef",
-      "name": "@filembad",
-      "network": "tcp",
-      "sni": "f3b21at.de18.h1clayd.click",
+      "id": "7d1a74fd-8a38-4a29-863f-5da53a9e557e",
+      "name": "YFZ 587 @Outline_Vpn",
+      "network": "xhttp",
+      "sni": "",
       "host": "",
-      "security": "reality",
+      "security": "tls",
       "flow": "",
       "encryption": "none",
       "headerType": "",
-      "fingerprint": "firefox",
-      "original": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@f3b21at.de18.h1clayd.click:443?security=reality&encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&fp=firefox&spx=%2F&type=tcp&sni=f3b21at.de18.h1clayd.click&sid=08485ad122fafbd5#vless-tcp-reality-firefox-SC%F0%9F%8C%90-1",
-      "ip": "196.196.149.20",
+      "fingerprint": "",
+      "original": "vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?mode=auto&path=%2Fes%2F%3F%40MARAMBASHI&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0#vless-xhttp-tls-SC%F0%9F%8C%90-1",
+      "ip": "196.240.4.16",
       "country": "SC",
       "cdn": null,
-      "rebuilt": "vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@f3b21at.de18.h1clayd.click:443?security=reality&encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&fp=firefox&spx=%2F&type=tcp&sni=f3b21at.de18.h1clayd.click&sid=08485ad122fafbd5#vless-tcp-reality-firefox-SC%F0%9F%8C%90-1"
+      "rebuilt": "vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?mode=auto&path=%2Fes%2F%3F%40MARAMBASHI&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0#vless-xhttp-tls-SC%F0%9F%8C%90-1"
     }
   ]
 }

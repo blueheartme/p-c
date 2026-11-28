@@ -1,13 +1,26 @@
 {
-  "updated": "2026-11-27T06:15:01.753514",
-  "count": 1,
+  "updated": "2026-11-28T05:54:35.918365",
+  "count": 2,
   "configs": [
+    {
+      "type": "ss",
+      "address": "S23.fusetea.ir",
+      "port": "2089",
+      "method": "chacha20-ietf-poly1305",
+      "password": "DVlt-OeAV4RiLMwT9e0T72nnFtMG2W3o",
+      "name": "@filembad",
+      "original": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw@S23.fusetea.ir:2089#%40filembad",
+      "ip": "85.155.226.213",
+      "country": "ES",
+      "cdn": null,
+      "rebuilt": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw@S23.fusetea.ir:2089#%40filembad"
+    },
     {
       "type": "vless",
       "address": "185.200.244.37",
       "port": "443",
       "id": "7ce93cef-119d-4cba-9d9d-da0056ba979c",
-      "name": "Channel : @proxy_kafee",
+      "name": "YFZ 589 @Outline_Vpn",
       "network": "xhttp",
       "sni": "es1.green-tg.com",
       "host": "185.200.244.37",
@@ -16,11 +29,11 @@
       "encryption": "none",
       "headerType": "",
       "fingerprint": "",
-      "original": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?mode=auto&path=%2Fapi%2Fv2%2F7d94497a&security=reality&encryption=none&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&host=185.200.244.37&type=xhttp&sni=es1.green-tg.com&sid=0bf13fb706784403#vless-xhttp-reality-ES%F0%9F%8C%90-1",
+      "original": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?mode=auto&path=%2Fapi%2Fv2%2F7d94497a&security=reality&encryption=none&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&host=185.200.244.37&type=xhttp&sni=es1.green-tg.com&sid=0bf13fb706784403#vless-xhttp-reality-ES%F0%9F%8C%90-2",
       "ip": "185.200.244.37",
       "country": "ES",
       "cdn": null,
-      "rebuilt": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?mode=auto&path=%2Fapi%2Fv2%2F7d94497a&security=reality&encryption=none&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&host=185.200.244.37&type=xhttp&sni=es1.green-tg.com&sid=0bf13fb706784403#vless-xhttp-reality-ES%F0%9F%8C%90-1"
+      "rebuilt": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?mode=auto&path=%2Fapi%2Fv2%2F7d94497a&security=reality&encryption=none&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&host=185.200.244.37&type=xhttp&sni=es1.green-tg.com&sid=0bf13fb706784403#vless-xhttp-reality-ES%F0%9F%8C%90-2"
     }
   ]
 }

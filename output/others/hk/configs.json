@@ -1,22 +1,7 @@
 {
-  "updated": "2026-11-27T17:46:35.856016",
+  "updated": "2026-11-28T05:54:35.887930",
   "count": 3,
   "configs": [
-    {
-      "type": "vmess",
-      "address": "47.244.120.197",
-      "port": "44867",
-      "id": "845e6b08-2919-4290-ade0-5dc7dcea59ca",
-      "name": "@filembad",
-      "network": "ws",
-      "host": "47.244.120.197",
-      "sni": "",
-      "original": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoiNDQ4NjciLCJ0eXBlIjoibm9uZSIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "ip": "47.244.120.197",
-      "country": "HK",
-      "cdn": null,
-      "rebuilt": "vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtSEvwn4et8J+HsC0xIiwiYWRkIjoiNDcuMjQ0LjEyMC4xOTciLCJwb3J0IjoiNDQ4NjciLCJ0eXBlIjoibm9uZSIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwiaG9zdCI6IjQ3LjI0NC4xMjAuMTk3IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0="
-    },
     {
       "type": "vless",
       "address": "2.26.204.46",
@@ -31,11 +16,31 @@
       "encryption": "none",
       "headerType": "none",
       "fingerprint": "",
-      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "original": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-1",
       "ip": "2.26.204.46",
       "country": "HK",
       "cdn": null,
-      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-2"
+      "rebuilt": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&encryption=none&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=39793bc4708abbbb#vless-xtls-rprx-vision-tcp-reality-HK%F0%9F%87%AD%F0%9F%87%B0-1"
+    },
+    {
+      "type": "vless",
+      "address": "38.207.172.59",
+      "port": "28418",
+      "id": "e6552569-97ce-430c-a324-53ad1c546e05",
+      "name": "@filembad",
+      "network": "tcp",
+      "sni": "op.gg",
+      "host": "",
+      "security": "reality",
+      "flow": "xtls-rprx-vision",
+      "encryption": "none",
+      "headerType": "",
+      "fingerprint": "chrome",
+      "original": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?encryption=none&flow=xtls-rprx-vision&security=reality&sni=op.gg&fp=chrome&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2",
+      "ip": "38.207.172.59",
+      "country": "HK",
+      "cdn": null,
+      "rebuilt": "vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?encryption=none&flow=xtls-rprx-vision&security=reality&sni=op.gg&fp=chrome&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20&type=tcp#vless-xtls-rprx-vision-tcp-reality-chrome-HK%F0%9F%87%AD%F0%9F%87%B0-2"
     },
     {
       "type": "trojan",
